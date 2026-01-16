@@ -14,29 +14,35 @@ RSS_SOURCES = [
 ]
 
 def get_ai_summary(text):
-    api_key = os.getenv("KUAI_API_KEY")
-    if not api_key: return "（未配置 API Key）"
+    # 读取智谱专用 API KEY
+    api_key = os.getenv("ZHIPU_API_KEY") 
+    if not api_key: 
+        print("错误：未检测到 ZHIPU_API_KEY")
+        return "（API未配置）"
     
-    # 升级为最新的 1.5-flash 模型，解决 404 问题
-    model = "gemini-1.5-flash" 
-    url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent?key={api_key}"
+    url = "https://open.bigmodel.cn/api/paas/v4/chat/completions"
+    headers = {
+        "Content-Type": "application/json",
+        "Authorization": f"Bearer {api_key}"
+    }
     
-    prompt = f"请将以下AI动态翻译并总结为一句话中文干货，30字以内：\n{text}"
+    prompt = f"请将以下AI动态总结为一句话中文干货，要求30字以内，语气专业：\n{text}"
     
     payload = {
-        "contents": [{"parts": [{"text": prompt}]}]
+        "model": "glm-4-flash",
+        "messages": [{"role": "user", "content": prompt}],
+        "top_p": 0.7,
+        "temperature": 0.8
     }
     
     try:
-        response = requests.post(url, json=payload, timeout=15)
-        # 增加状态码检查
+        response = requests.post(url, headers=headers, json=payload, timeout=20)
         if response.status_code == 200:
-            return response.json()['candidates'][0]['content']['parts'][0]['text']
+            return response.json()['choices'][0]['message']['content'].strip()
         else:
-            print(f"API 报错: {response.status_code} - {response.text}")
+            print(f"智谱接口报错: {response.status_code}")
             return "动态总结生成中..."
-    except Exception as e:
-        print(f"请求异常: {e}")
+    except:
         return "动态总结生成中..."
 
 def classify_news(title):
@@ -58,7 +64,7 @@ def run():
     new_found = 0
     ten_days_ago = datetime.now() - timedelta(days=10)
 
-    print("开始抓取最新动态...")
+    print("智谱 AI 正在为您脱水情报...")
     for url in RSS_SOURCES:
         try:
             feed = feedparser.parse(url)
@@ -79,8 +85,7 @@ def run():
 
     if new_found > 0:
         db_data.sort(key=lambda x: x['timestamp'], reverse=True)
-        # 限制数据库大小，防止文件过大导致读取慢
-        db_data = db_data[:100] 
+        db_data = db_data[:100] # 保留最近100条
         with open(db_file, 'w', encoding='utf-8') as f:
             json.dump(db_data, f, ensure_ascii=False, indent=2)
     
@@ -94,9 +99,7 @@ def render_html(data):
         if cat in html_chunks:
             html_chunks[cat] += card
 
-    if not os.path.exists("index.html"):
-        print("错误：index.html 文件不存在")
-        return
+    if not os.path.exists("index.html"): return
 
     with open("index.html", "r", encoding="utf-8") as f:
         content = f.read()
@@ -104,18 +107,16 @@ def render_html(data):
     for c_id, c_html in html_chunks.items():
         start_tag = f""
         end_tag = f""
-        
         start_pos = content.find(start_tag)
         end_pos = content.find(end_tag)
-        
         if start_pos != -1 and end_pos != -1:
             before = content[:start_pos + len(start_tag)]
             after = content[end_pos:]
-            content = before + "\n" + (c_html if c_html else '<p style="color:#ccc;font-size:12px;">暂无近期动态</p>') + after
+            content = before + "\n" + (c_html if c_html else '<p style="color:#ccc;font-size:12px;padding:10px;">暂无近期动态</p>') + after
 
     with open("index.html", "w", encoding="utf-8") as f:
         f.write(content)
-    print("网页渲染成功")
+    print("白色版网页刷新完成")
 
 def commit_changes():
     os.system('git config --global user.name "github-actions[bot]"')
@@ -123,10 +124,8 @@ def commit_changes():
     os.system('git add index.html data.json')
     status = os.popen('git status --porcelain').read()
     if status:
-        os.system('git commit -m "Update News [skip ci]"')
+        os.system('git commit -m "Update via ZhipuAI [skip ci]"')
         os.system('git push')
-    else:
-        print("无数据变化")
 
 if __name__ == "__main__":
     run()
