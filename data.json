@@ -1,10 +1,143 @@
 [
   {
-    "title": "Zhipu AI Test News",
+    "title": "AI journalism startup Symbolic.ai signs deal with Rupert Murdoch’s News Corp",
     "date": "2026-01-16",
-    "summary": "智谱 AI 接口测试成功，系统已就绪。",
+    "summary": "“AI新闻初创公司Symbolic.ai与默多克新闻集团达成合作。”",
     "category": "llm",
-    "timestamp": 1737000000
+    "timestamp": 1768524594.0
+  },
+  {
+    "title": "The AI lab revolving door spins ever faster",
+    "date": "2026-01-15",
+    "summary": "AI实验室人才流动加速，技术迭代加速。",
+    "category": "llm",
+    "timestamp": 1768514642.0
+  },
+  {
+    "title": "Taiwan to invest $250B in US semiconductor manufacturing",
+    "date": "2026-01-15",
+    "summary": "台湾将投入2500亿投资美半导体制造。",
+    "category": "llm",
+    "timestamp": 1768510364.0
+  },
+  {
+    "title": "AI video startup, Higgsfield, founded by ex-Snap exec, lands $1.3B valuation",
+    "date": "2026-01-15",
+    "summary": "前Snap高管创立AI视频公司Higgsfield，估值达13亿美元。",
+    "category": "video",
+    "timestamp": 1768505325.0
+  },
+  {
+    "title": "Iran’s internet shutdown is now one of its longest ever, as protests continue",
+    "date": "2026-01-15",
+    "summary": "伊朗互联网封锁持续，创最长纪录，抗议不断。",
+    "category": "llm",
+    "timestamp": 1768502872.0
+  },
+  {
+    "title": "The US imposes 25% tariff on Nvidia’s H200 AI chips headed to China",
+    "date": "2026-01-15",
+    "summary": "美国对中国出口的Nvidia H200 AI芯片加征25%关税。",
+    "category": "llm",
+    "timestamp": 1768496180.0
+  },
+  {
+    "title": "OpenAI invests in Sam Altman’s brain computer interface startup Merge Labs",
+    "date": "2026-01-15",
+    "summary": "OpenAI投资Altman脑机接口公司Merge Labs，技术突破在即。",
+    "category": "llm",
+    "timestamp": 1768494660.0
+  },
+  {
+    "title": "Wikimedia Foundation announces new AI partnerships with Amazon, Meta, Microsoft, Perplexity, and others",
+    "date": "2026-01-15",
+    "summary": "“维基媒体基金会宣布与亚马逊、Meta、微软等AI巨头建立新合作关系。”",
+    "category": "llm",
+    "timestamp": 1768490345.0
+  },
+  {
+    "title": "How one startup is using prebiotics to try and ease the copper shortage",
+    "date": "2026-01-15",
+    "summary": "初创企业利用益生元缓解铜短缺问题。",
+    "category": "llm",
+    "timestamp": 1768489200.0
+  },
+  {
+    "title": "US senators demand answers from X, Meta, Alphabet, and others on sexualized deepfakes",
+    "date": "2026-01-15",
+    "summary": "美议员追问X、Meta、Alphabet等巨头性化深度伪造问题。",
+    "category": "llm",
+    "timestamp": 1768489200.0
+  },
+  {
+    "title": "Spotify raises its subscription prices in the US again",
+    "date": "2026-01-15",
+    "summary": "Spotify美国再次调高订阅费，专业应对策略需跟进。",
+    "category": "llm",
+    "timestamp": 1768487532.0
+  },
+  {
+    "title": "Parloa triples its valuation in 8 months to $3B with $350M raise",
+    "date": "2026-01-15",
+    "summary": "Parloa八个月估值翻三倍至30亿，融资3.5亿。",
+    "category": "llm",
+    "timestamp": 1768487086.0
+  },
+  {
+    "title": "Tiger Global loses India tax case tied to Walmart-Flipkart deal in blow to offshore playbook",
+    "date": "2026-01-15",
+    "summary": "老虎环球印度税务败诉，海外投资策略受挫。",
+    "category": "llm",
+    "timestamp": 1768486784.0
+  },
+  {
+    "title": "After Italy, WhatsApp excludes Brazil from rival chatbot ban",
+    "date": "2026-01-15",
+    "summary": "WhatsApp排除巴西，暂停竞品聊天机器人禁令。",
+    "category": "tools",
+    "timestamp": 1768479787.0
+  },
+  {
+    "title": "Indian SpaceX rival EtherealX hits 5x valuation as it readies engine tests",
+    "date": "2026-01-15",
+    "summary": "印度SpaceX竞争对手EtherealX估值涨5倍，引擎测试蓄势待发。",
+    "category": "llm",
+    "timestamp": 1768478400.0
+  },
+  {
+    "title": "Microsoft taps India’s Varaha for durable carbon removal offtake",
+    "date": "2026-01-15",
+    "summary": "微软与印度Varaha合作，推进碳捕集与封存技术。",
+    "category": "llm",
+    "timestamp": 1768469400.0
+  },
+  {
+    "title": "Mira Murati’s startup, Thinking Machines Lab, is losing two of its co-founders to OpenAI",
+    "date": "2026-01-15",
+    "summary": "AI公司Thinking Machines Lab两位联合创始人加盟OpenAI。",
+    "category": "llm",
+    "timestamp": 1768443397.0
+  },
+  {
+    "title": "The FTC’s data-sharing order against GM is finally settled",
+    "date": "2026-01-15",
+    "summary": "美FTC对通用数据共享令终达成和解。",
+    "category": "llm",
+    "timestamp": 1768436874.0
+  },
+  {
+    "title": "India’s Emversity doubles valuation as it scales workers AI can’t replace",
+    "date": "2026-01-15",
+    "summary": "印度Emversity估值翻倍，拓展AI无法替代人工岗位。",
+    "category": "llm",
+    "timestamp": 1768435486.0
+  },
+  {
+    "title": "Musk denies awareness of Grok sexual underage images as California AG launches probe",
+    "date": "2026-01-14",
+    "summary": "马斯克否认知悉Grok未成年人色情图，加州总检察长展开调查。",
+    "category": "llm",
+    "timestamp": 1768430571.0
   },
   {
     "title": "FlowINGAi System Check",
@@ -12,5 +145,12 @@
     "summary": "白色极简版前端渲染逻辑正常。",
     "category": "tools",
     "timestamp": 1737000001
+  },
+  {
+    "title": "Zhipu AI Test News",
+    "date": "2026-01-16",
+    "summary": "智谱 AI 接口测试成功，系统已就绪。",
+    "category": "llm",
+    "timestamp": 1737000000
   }
 ]
