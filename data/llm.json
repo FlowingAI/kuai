@@ -1,10 +1,10 @@
 {
   "category": "大模型动态",
-  "last_update": "2026/1/17 00:09:46",
+  "last_update": "2026/1/17 00:51:11",
   "news": [
     {
-      "title": "中国团队Deep Principle领衔发布LLMs for Science评测，引爆外网",
-      "summary": "中国团队Deep Principle近期发布了LLMs for Science评测，这一举措与OpenAI的动作相呼应，引起了外网的广泛关注。LLMs for Science评测旨在评估科学领域的大型语言模型，Deep Principle团队通过这一评测展示了他们在人工智能领域的实力。该评测涵盖了多个指标，包括模型的准确性、可解释性和效率等，为科学研究和人工智能应用提供了重要的参考。",
+      "title": "神同步OpenAI！中国团队Deep Principle领衔发布LLMs for Science评测，引爆外网",
+      "summary": "中国团队Deep Principle在OpenAI发布GPT-4后，迅速跟进发布了LLMs for Science评测，这一举措在外国网络引起了广泛关注。LLMs for Science评测旨在评估大型语言模型在科学领域的应用能力，Deep Principle团队通过这一评测展示了其在人工智能领域的实力。",
       "is_legal": true,
       "is_ai_related": true,
       "publish_time": "2026-01-16",
@@ -15,7 +15,7 @@
     },
     {
       "title": "腾讯AngelSlim升级，首个集LLM、VLM及语音多模态为一体的投机采样训练框架，推理速度飙升1.8倍",
-      "summary": "腾讯AngelSlim最新版本升级，推出首个集成了大型语言模型（LLM）、视觉语言模型（VLM）及语音多模态的投机采样训练框架。该框架在推理速度上实现了1.8倍的提升，标志着腾讯在多模态人工智能领域的又一重要进展。",
+      "summary": "腾讯AngelSlim最新版本升级，推出首个集成了大型语言模型（LLM）、视频语言模型（VLM）及语音多模态的投机采样训练框架。该框架在推理速度上实现了1.8倍的提升，标志着腾讯在多模态AI领域的又一重要进展。",
       "is_legal": true,
       "is_ai_related": true,
       "publish_time": "2026-01-16",
@@ -26,7 +26,7 @@
     },
     {
       "title": "DeepSeek连发两篇论文背后，原来藏着一场学术接力",
-      "summary": "DeepSeek近期连续发布了两篇论文，引起了业界的广泛关注。这两篇论文分别探讨了深度学习在图像识别和自然语言处理领域的应用。据悉，这两篇论文的背后，是一场由DeepSeek团队发起的学术接力。团队成员们通过不断的实验和讨论，最终完成了这两篇高质量的论文。这一事件再次证明了深度学习在推动学术研究方面的巨大潜力。",
+      "summary": "DeepSeek近期连续发表了兩篇论文，引起了业界的广泛关注。这两篇论文分别探讨了深度学习在图像识别和自然语言处理领域的应用。据悉，这两篇论文的背后，是一场由DeepSeek团队发起的学术接力。DeepSeek团队表示，他们希望通过这种方式，推动深度学习技术的进一步发展，并促进学术界与工业界的交流合作。",
       "is_legal": true,
       "is_ai_related": true,
       "publish_time": "2026-01-16",
@@ -36,8 +36,8 @@
       "id": 3
     },
     {
-      "title": "Anthropic 招募前微软印度区总经理领导班加罗尔扩张",
-      "summary": "Irina Ghose 加入 Anthropic 担任印度区总经理，此前她在微软工作了 24 年。",
+      "title": "Anthropic 招募前微软印度总经理领导班加罗尔扩张",
+      "summary": "Irina Ghose 加入 Anthropic 担任印度总经理，此前她在微软工作了 24 年。Anthropic 是一家总部位于美国的人工智能公司，专注于开发能够理解和生成自然语言的人工智能系统。Ghose 在微软期间负责领导印度的销售和营销团队，并在该地区建立了强大的业务基础。她的加入标志着 Anthropic 在印度的扩张计划，旨在扩大其在印度的研发和业务影响力。",
       "is_legal": true,
       "is_ai_related": true,
       "publish_time": "2026-01-15",
@@ -48,7 +48,7 @@
     },
     {
       "title": "硅谷最混乱的分手案肯定将走向法庭",
-      "summary": "OpenAI和微软试图避开与埃隆·马斯克的法庭对决，但一位联邦法官周四驳回了他们驳回案件的请求。",
+      "summary": "OpenAI和微软试图避开与埃隆·马斯克的法庭对决，但一位联邦法官于周四驳回了他们驳回该案件的要求。",
       "is_legal": true,
       "is_ai_related": true,
       "publish_time": "2026-01-15",
@@ -59,7 +59,7 @@
     },
     {
       "title": "OpenAI投资Sam Altman的脑机接口初创公司Merge Labs",
-      "summary": "Merge Labs是一家致力于“将生物与人工智能结合以最大化人类能力”的研究实验室。OpenAI在Merge Labs的2.5亿美元种子轮融资中投入了最大的一笔资金，估值达到8.5亿美元。",
+      "summary": "Merge Labs是一家致力于“将生物和人工智能结合以最大化人类能力”的研究实验室。OpenAI在Merge Labs的2.5亿美元种子轮融资中投入了最大的一笔资金，估值达到8.5亿美元。",
       "is_legal": true,
       "is_ai_related": true,
       "publish_time": "2026-01-15",
@@ -70,7 +70,7 @@
     },
     {
       "title": "Mira Murati的初创公司Thinking Machines Lab正在失去两位联合创始人加入OpenAI",
-      "summary": "据OpenAI的一位高管表示，这次人事变动已经筹备了几周。",
+      "summary": "据OpenAI的一位高管透露，这次人事变动已经筹备了几周。Mira Murati的初创公司Thinking Machines Lab正在失去两位联合创始人加入OpenAI。",
       "is_legal": true,
       "is_ai_related": true,
       "publish_time": "2026-01-14",
@@ -80,8 +80,8 @@
       "id": 7
     },
     {
-      "title": "OpenAI签署价值100亿美元的协议，从Cerebras获取计算能力",
-      "summary": "OpenAI与Cerebras的合作将有助于其模型在处理更困难或耗时更长的任务时提供更快的响应时间，两家公司表示。",
+      "title": "OpenAI 与 Cerebras 签署价值 100 亿美元的计算服务协议",
+      "summary": "OpenAI 与 Cerebras 宣布达成一项合作，该合作将有助于 OpenAI 的模型在处理更困难或耗时更长的任务时提供更快的响应时间。双方表示，这项合作将支持 OpenAI 模型的计算需求。",
       "is_legal": true,
       "is_ai_related": true,
       "publish_time": "2026-01-14",
@@ -92,7 +92,7 @@
     },
     {
       "title": "AI模型开始破解高级数学问题",
-      "summary": "自GPT 5.2发布以来，AI工具在高级数学领域变得无处不在。",
+      "summary": "自从GPT 5.2发布以来，AI工具在高级数学领域变得无处不在。",
       "is_legal": true,
       "is_ai_related": true,
       "publish_time": "2026-01-14",
@@ -113,609 +113,81 @@
       "id": 10
     },
     {
+      "title": "我看到了零售的未来，它全部是人工智能",
+      "summary": "几人围绕着一位金发碧眼的男子，他身穿明亮的粉色西装，悬浮在透明的塑料管中。他面前有一只麦克风，上方有一个巨大的标语写着“和我说话”，“Mike”正耐心地等待着，双手交叉放在身体前，准备回答公众的问题。“Mike”是一个全息投影，由ChatGPT驱动，由一家名为Hypervsn的公司创建。他对观众评论和问题的回应有大约三秒的延迟，但对话的缓慢可能并不重要——Hypervsn展台的接待员告诉我，当“Mike”和他的同类被部署到商店时，他们的目的是……阅读完整的文章请访问The Verge。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": null,
+      "original_language": "en",
+      "original_title": "I saw the future of retail, and it’s all AI",
+      "source_url": "https://www.theverge.com/tech/863365/national-retail-federation-show-shopping-commerce-ai",
+      "id": 11
+    },
+    {
       "title": "Siri is a Gemini",
-      "summary": "我们知道下一代Siri应该如何工作。苹果在2024年展示了它，为此制作了广告，并普遍承诺人工智能将永远改变我们使用小工具的方式。然后，好吧，这一切都没有发生。因此，苹果达成了一项协议：它利用谷歌的Gemini技术来帮助它将Siri变成我们承诺的助手。这笔交易很大，并且可能会改变未来人工智能竞赛的格局。在本期The Vergecast中，David和Nilay讨论了新闻，出版商在广告技术反垄断审判之后集体起诉谷歌，包括The Verge的母公司Vox Media。阅读完整故事请访问The Verge。",
+      "summary": "我们知道下一代Siri应该如何工作。苹果在2024年展示了它，为此制作了广告，并普遍承诺人工智能将永远改变我们使用设备的方式。然后，好吧，这一切都没有发生。所以苹果达成了一项协议：它利用谷歌的Gemini技术来帮助它将Siri变成我们承诺的助手。这笔交易很大，并且可能会改变未来的人工智能竞赛格局。在本期The Vergecast中，David和Nilay讨论了出版商因广告技术反垄断审判而集体起诉谷歌的新闻，包括The Verge的母公司Vox Media。阅读完整故事请访问The Verge。",
       "is_legal": true,
       "is_ai_related": true,
       "publish_time": null,
       "original_language": "en",
       "original_title": "Siri is a Gemini",
       "source_url": "https://www.theverge.com/podcast/863340/siri-is-a-gemini",
-      "id": 11
+      "id": 12
     },
     {
-      "title": "埃隆·马斯克对OpenAI的诉讼：我从这场诉讼中学到了什么",
-      "summary": "这是Alex Heath的《来源》通讯摘录，关于人工智能和科技行业，每周只为The Verge的订阅者提供一次。埃隆·马斯克首次起诉OpenAI是在2024年2月。尽管OpenAI多次试图将其驳回，但此案现在将于4月27日在加利福尼亚北部联邦法院进行陪审团审判。马斯克的主要指控是，OpenAI及其领导人放弃了公司最初的非营利使命，这是他资助的。作为回应，OpenAI将马斯克的指控视为酸葡萄心理。美国地区法官伊冯娜·冈萨雷斯·罗杰斯最近决定此案有资格进行审判，她在法庭上表示，“这部分……\n阅读完整故事请访问The Verge。",
+      "title": "埃隆·马斯克对OpenAI提起诉讼：我从这场诉讼中学到了什么",
+      "summary": "这是Alex Heath的《来源》通讯摘录，该通讯专注于人工智能和科技行业，每周为The Verge的订阅者独家提供一次。埃隆·马斯克首次于2024年2月对OpenAI提起诉讼。尽管OpenAI多次试图将其驳回，但该案件现在将于4月27日在加利福尼亚州北部联邦法院进行陪审团审判。马斯克的主要指控是，OpenAI及其领导层放弃了公司最初的由他资助的非营利使命。作为回应，OpenAI将马斯克的指控视为酸葡萄心理。美国地区法官伊冯娜·冈萨雷斯·罗杰斯最近决定此案有资格进行审判，她在法庭上表示，“这部分……\n阅读完整故事请访问The Verge。",
       "is_legal": true,
       "is_ai_related": true,
       "publish_time": null,
       "original_language": "en",
       "original_title": "‘Sideshow’ concerns and billionaire dreams: What I learned from Elon Musk’s lawsuit against OpenAI",
       "source_url": "https://www.theverge.com/column/863319/highlights-musk-v-altman-openai",
-      "id": 12
+      "id": 13
     },
     {
       "title": "苹果在人工智能竞赛中失利——真正的挑战才刚刚开始",
-      "summary": "Siri，你在吗？是我，Gemini。对于一个在人工智能竞赛中失利的公司来说，苹果去年确实取得了许多胜利。苹果智能的推出确实是一团糟，但在此期间，公司一直做着它最擅长的事情：销售iPhone。本周，苹果公司宣布将使用Gemini模型来推动备受期待的更智能的Siri，这看起来苹果在整个人工智能竞赛中已经大败而归。但前方仍有一个重大的挑战——苹果还没有出局。苹果智能在2024年起步时就遇到了很多问题。iPhone 16被宣传为“为苹果智能而打造”，但发布时却没有搭载。接下来的几个月里，功能陆续到来……阅读完整故事请访问The Verge。",
+      "summary": "Siri，你在吗？是我，Gemini。对于一个在人工智能竞赛中失利的公司来说，苹果去年做了很多它擅长的事情：卖iPhone。本周，苹果公司宣布将使用Gemini模型来推动备受期待的更智能的Siri，这看起来苹果在人工智能竞赛中已经大败而归。但前方仍有一个重大的挑战——苹果还没有出局。苹果在2024年对苹果智能的推出开始得很糟糕，iPhone 16被宣传为“为苹果智能而打造”，但发布时却没有配备。接下来的几个月里，功能陆续到来……阅读完整故事请访问The Verge。",
       "is_legal": true,
       "is_ai_related": true,
       "publish_time": null,
       "original_language": "en",
       "original_title": "Apple lost the AI race — now the real challenge starts",
       "source_url": "https://www.theverge.com/tech/861957/google-apple-ai-deal-iphone-gemini",
-      "id": 13
+      "id": 14
     },
     {
-      "title": "OpenAI安全研究负责人离职加入Anthropic",
-      "summary": "过去一年AI行业中最具争议的问题之一是当用户在聊天机器人对话中表现出心理健康问题迹象时，应该怎么做。OpenAI负责这种类型安全研究的负责人Andrea Vallone现在已加入Anthropic。Vallone在几个月前的LinkedIn帖子中写道：“在过去的一年里，我领导了OpenAI的研究，这个问题几乎没有先例：当模型面临情绪过度依赖或心理健康问题的早期迹象时，应该如何应对？”Vallone在OpenAI工作了三年，并在那里建立了“模型政策”研究团队……阅读完整故事请访问The Verge。",
+      "title": "OpenAI安全研究负责人安德烈亚·瓦隆离职加入Anthropic",
+      "summary": "过去一年中，AI行业最引人争议的问题之一是当用户在聊天机器人对话中表现出心理健康问题的迹象时，应该怎么办。OpenAI负责这类安全研究的负责人安德烈亚·瓦隆现在已加入Anthropic。瓦隆在LinkedIn上几个月前写道：“过去一年，我领导了OpenAI关于一个几乎没有任何先例的问题的研究：当模型面临情绪过度依赖或心理健康困扰的早期迹象时，应该如何应对？”瓦隆在OpenAI工作了三年，并在那里建立了“模型政策”研究团队。...\n阅读完整故事请访问The Verge。",
       "is_legal": true,
       "is_ai_related": true,
       "publish_time": null,
       "original_language": "en",
       "original_title": "An OpenAI safety research lead departed for Anthropic",
       "source_url": "https://www.theverge.com/ai-artificial-intelligence/862402/openai-safety-lead-model-policy-departs-for-anthropic-alignment-andrea-vallone",
-      "id": 14
+      "id": 15
     },
     {
       "title": "全球内存短缺：RAM价格上涨的最新消息",
-      "summary": "随机存取存储器（RAM）几乎存在于我们使用的每一项技术中。但这也是像OpenAI、Anthropic、Google和Meta这样的AI公司用来为他们的数据中心服务器提供动力的技术。现在，全球最大的内存制造商——三星、SK海力士和美光——正在利用需求的激增，将资源从面向消费产品的产品转向与AI公司更有利可图的交易。结果是消费者产品中RAM严重短缺，这不仅导致PC制造商使用的RAM套件价格上涨，还导致包括笔记本电脑、智能手机、游戏机等众多设备的制造商价格上涨。一些公司，如树莓派和框架，已经因为价格上涨而提高了其产品的价格，而其他公司，如戴尔、华硕、宏碁、小米和Nothing，则警告称价格即将上涨。国际数据公司（IDC）的分析师预测，RAM短缺可能“持续到2027年”，以下是关于RAM价格上涨的最新消息。华硕现在声称，在内存短缺的情况下，它不会放弃RTX 5070 Ti。Nothing表示，由于内存成本上升，“不可避免”地将提高智能手机价格。美光表示，其决定关闭Crucial是为了“帮助”消费者。框架在RAM短缺持续的情况下提高了台式电脑的价格。苹果是第一个这样做的人。框架宣布再次提高内存价格——这很可能不是最后一次。RAM价格如此之高，以至于他们正在像卖龙虾一样卖“预装”电脑。RAM短缺将持续存在，推高PC和手机的价格。美光表示，内存短缺将“持续”到2026年。仅三个月内，RAM套件定价就翻了一番。三星的内存几乎与三星Galaxy一样大。Crucial将关闭——因为美光希望将其RAM和SSD卖给AI公司。DRAM它！树莓派提高价格。这些预装电脑的成本将因RAM价格上涨而更高。RAM价格失控，商店正在像卖龙虾一样卖它。",
+      "summary": "随机存取存储器（RAM）几乎存在于我们使用的每一件技术产品中。但这也是像OpenAI、Anthropic、Google和Meta这样的AI公司用来为他们的数据中心服务器提供动力的技术。现在，全球最大的内存制造商——三星、SK海力士和美光——正在利用需求的激增，将资源从面向消费产品的产品转向与AI公司更有利可图的交易。结果是消费产品RAM严重短缺，这不仅导致PC制造商使用的RAM套件价格上涨，还导致包括笔记本电脑、智能手机、游戏机在内的各种设备制造商价格上涨。一些公司，如树莓派和框架，已经因为价格上涨而提高了其产品的价格，而其他公司，如戴尔、华硕、宏碁、小米和Nothing，则警告称价格即将上涨。国际数据公司（International Data Corporation）的分析师预测，这种RAM短缺可能“持续到2027年”，以下是关于RAM价格上涨的最新消息。华硕现在声称，它不会因为内存短缺而放弃RTX 5070 Ti。Nothing将“不可避免地”提高智能手机价格，因为内存成本上升。美光表示，其决定关闭Crucial是为了“帮助”消费者。框架因为RAM短缺而提高台式电脑价格。苹果是第一个这么做的人。框架宣布再次提高内存价格——这很可能不是最后一次。RAM价格如此之高，以至于它们正在像龙虾一样出售“预装”电脑。RAM短缺将持续存在，推高PC和手机的价格。美光表示，内存短缺将持续到2026年。仅三个月内，RAM套件定价就翻了两番。三星的内存几乎和三星Galaxy一样大。Crucial即将关闭——因为美光想将其RAM和SSD卖给AI公司。DRAM它！树莓派提高价格。这些预装电脑将因RAM价格上涨而变得更贵。RAM价格失控，商店正在将其像龙虾一样出售。",
       "is_legal": true,
       "is_ai_related": true,
       "publish_time": null,
       "original_language": "en",
       "original_title": "RAM price hikes: the latest on the global memory shortage",
       "source_url": "https://www.theverge.com/news/839353/pc-ram-shortage-pricing-spike-news",
-      "id": 15
+      "id": 16
     },
     {
       "title": "OpenAI的ChatGPT翻译器挑战谷歌翻译",
-      "summary": "OpenAI推出了ChatGPT Translate，这是一个独立的网页翻译工具，支持超过50种语言，被视为谷歌翻译的直接竞争对手。这两个服务在视觉上相似：都包含两个文本框——一个用于输入或粘贴源文本，另一个显示翻译结果——以及下拉菜单来管理您要翻译到的或从的语言。然而，也有一些显著的不同。谷歌翻译允许用户上传图片、文档，甚至网站进行翻译，而ChatGPT Translate的主页注明它可以翻译从文本到文本、从图片到文本等多种形式。阅读完整故事请访问The Verge。",
+      "summary": "OpenAI推出了ChatGPT Translate，这是一个独立的网页翻译工具，支持超过50种语言，被视为谷歌翻译的直接竞争对手。这两个服务在视觉上相似：都包含两个文本框——一个用于输入或粘贴源文本，另一个显示翻译结果——以及下拉菜单来管理您要翻译到的或从的语言。然而，也有一些显著的不同。谷歌翻译允许用户上传图片、文档，甚至网站进行翻译，而ChatGPT Translate主页上注明它可以翻译从文本到文本、文本到图片、图片到文本等多种形式。| 图片：OpenAI / The Verge\n\nOpenAI已经推出了ChatGPT Translate，这是一个支持超过50种语言的独立网页翻译工具，被视为谷歌翻译的直接竞争对手。这两个服务在视觉上相似：都包含两个文本框——一个用于输入或粘贴源文本，另一个显示翻译结果——以及下拉菜单来管理您要翻译到的或从的语言。然而，也有一些显著的不同。谷歌翻译允许用户上传图片、文档，甚至网站进行翻译，而ChatGPT Translate主页上注明它可以翻译从文本到文本、文本到图片、图片到文本等多种形式。\n\n阅读完整故事请访问The Verge。",
       "is_legal": true,
       "is_ai_related": true,
       "publish_time": null,
       "original_language": "en",
       "original_title": "OpenAI’s ChatGPT translator challenges Google Translate",
       "source_url": "https://www.theverge.com/news/862448/openai-chatgpt-translate-tool-launch-website",
-      "id": 16
-    },
-    {
-      "title": "OpenAI投资Merge Labs以支持新型脑机接口",
-      "summary": "OpenAI正在投资Merge Labs，以支持新型脑机接口的开发。这些接口旨在连接生物和人工智能，以最大化人类的能力、自主性和体验。",
-      "is_legal": true,
-      "is_ai_related": true,
-      "publish_time": null,
-      "original_language": "en",
-      "original_title": "Investing in Merge Labs",
-      "source_url": "https://openai.com/index/investing-in-merge-labs",
       "id": 17
-    },
-    {
-      "title": "通过国内制造加强美国人工智能供应链",
-      "summary": "OpenAI 发布了一项新的 RFP（请求提案），旨在通过加快国内制造、创造就业机会和扩展人工智能基础设施来加强美国的人工智能供应链。",
-      "is_legal": true,
-      "is_ai_related": true,
-      "publish_time": null,
-      "original_language": "en",
-      "original_title": "Strengthening the U.S. AI supply chain through domestic manufacturing",
-      "source_url": "https://openai.com/index/strengthening-the-us-ai-supply-chain",
-      "id": 18
-    },
-    {
-      "title": "OpenAI 与 Cerebras 合作，增加 750MW 的高速 AI 计算能力，降低推理延迟并使 ChatGPT 在实时 AI 工作负载中运行更快",
-      "summary": "OpenAI 与 Cerebras 合作，旨在增加 750MW 的高速 AI 计算能力。这一合作将有助于降低推理延迟，并使 ChatGPT 在处理实时 AI 工作负载时运行得更快。具体来说，这项合作将提升 AI 计算的效率，为 OpenAI 的产品和服务带来显著的性能提升。新闻链接：[OpenAI](https://openai.com/index/cerebras-partnership)",
-      "is_legal": true,
-      "is_ai_related": true,
-      "publish_time": null,
-      "original_language": "en",
-      "original_title": "OpenAI partners with Cerebras  ",
-      "source_url": "https://openai.com/index/cerebras-partnership",
-      "id": 19
-    },
-    {
-      "title": "Zenken通过ChatGPT Enterprise加强精简的销售团队",
-      "summary": "通过全面推广ChatGPT Enterprise，Zenken提升了销售业绩，减少了准备时间，并提高了提案成功率。AI支持的流程帮助精简团队提供更个性化和有效的客户互动。",
-      "is_legal": true,
-      "is_ai_related": true,
-      "publish_time": null,
-      "original_language": "en",
-      "original_title": "Zenken boosts a lean sales team with ChatGPT Enterprise",
-      "source_url": "https://openai.com/index/zenken",
-      "id": 20
-    },
-    {
-      "title": "OpenAI和软银集团与SB Energy合作",
-      "summary": "OpenAI和软银集团与SB Energy合作，共同开发多吉瓦特的人工智能数据中心园区，包括一个1.2吉瓦的德克萨斯州设施，该设施支持Stargate项目。",
-      "is_legal": true,
-      "is_ai_related": true,
-      "publish_time": null,
-      "original_language": "en",
-      "original_title": "OpenAI and SoftBank Group partner with SB Energy",
-      "source_url": "https://openai.com/index/stargate-sb-energy-partnership",
-      "id": 21
-    },
-    {
-      "title": "Datadog使用Codex进行系统级代码审查",
-      "summary": "OpenAI和Datadog品牌图形，左侧带有OpenAI标志，右侧带有Datadog标志，中央是一个白色背景上的棕色毛皮纹理面板。",
-      "is_legal": true,
-      "is_ai_related": true,
-      "publish_time": null,
-      "original_language": "en",
-      "original_title": "Datadog uses Codex for system-level code review",
-      "source_url": "https://openai.com/index/datadog",
-      "id": 22
-    },
-    {
-      "title": "Netomi的企业级AI代理扩展经验教训",
-      "summary": "Netomi如何使用GPT-4.1和GPT-5.2扩展企业级AI代理——结合并发、治理和多步推理以实现可靠的流程。",
-      "is_legal": true,
-      "is_ai_related": true,
-      "publish_time": null,
-      "original_language": "en",
-      "original_title": "Netomi’s lessons for scaling agentic systems into the enterprise",
-      "source_url": "https://openai.com/index/netomi",
-      "id": 23
-    },
-    {
-      "title": "OpenAI for Healthcare",
-      "summary": "OpenAI for Healthcare使企业级AI安全可靠，支持HIPAA合规性，减少行政负担并支持临床工作流程。",
-      "is_legal": true,
-      "is_ai_related": true,
-      "publish_time": null,
-      "original_language": "en",
-      "original_title": "OpenAI for Healthcare",
-      "source_url": "https://openai.com/index/openai-for-healthcare",
-      "id": 24
-    },
-    {
-      "title": "如何利用GPT-5.1构建语音优先AI",
-      "summary": "Tolan构建了一个基于语音的AI伴侣，结合了低延迟响应、实时上下文重建和记忆驱动个性，以实现自然对话。",
-      "is_legal": true,
-      "is_ai_related": true,
-      "publish_time": null,
-      "original_language": "en",
-      "original_title": "How Tolan builds voice-first AI with GPT-5.1",
-      "source_url": "https://openai.com/index/tolan",
-      "id": 25
-    },
-    {
-      "title": "介绍ChatGPT Health",
-      "summary": "ChatGPT Health是一个专门的服务体验，它安全地连接您的健康数据和应用程序，具有隐私保护和医生指导的设计。",
-      "is_legal": true,
-      "is_ai_related": true,
-      "publish_time": null,
-      "original_language": "en",
-      "original_title": "Introducing ChatGPT Health ",
-      "source_url": "https://openai.com/index/introducing-chatgpt-health",
-      "id": 26
-    },
-    {
-      "title": "宣布OpenAI Grove Cohort 2开放申请",
-      "summary": "现在开放申请OpenAI Grove Cohort 2，这是一个为期5周的创始人项目，面向任何阶段的个人，从想法阶段到产品阶段。参与者将获得5万美元的API信用额度，早期访问AI工具，以及来自OpenAI团队的实战指导。",
-      "is_legal": true,
-      "is_ai_related": true,
-      "publish_time": null,
-      "original_language": "en",
-      "original_title": "Announcing OpenAI Grove Cohort 2",
-      "source_url": "https://openai.com/index/openai-grove",
-      "id": 27
-    },
-    {
-      "title": "持续强化ChatGPT Atlas抵御提示注入攻击",
-      "summary": "OpenAI正在使用经过强化学习训练的自动化红队技术来加强ChatGPT Atlas对提示注入攻击的防御。这种主动的发现和修补循环有助于早期识别新的漏洞，并随着AI变得更加主动，加强浏览器代理的防御。",
-      "is_legal": true,
-      "is_ai_related": true,
-      "publish_time": null,
-      "original_language": "en",
-      "original_title": "Continuously hardening ChatGPT Atlas against prompt injection",
-      "source_url": "https://openai.com/index/hardening-atlas-against-prompt-injection",
-      "id": 28
-    },
-    {
-      "title": "庆祝塑造AI未来的百万客户",
-      "summary": "全球超过一百万的客户现在使用OpenAI来赋能他们的团队并解锁新的机会。本文突出了像PayPal、维珍大西洋航空、BBVA、思科、Moderna和Canva这样的公司如何通过AI改变工作的方式。",
-      "is_legal": true,
-      "is_ai_related": true,
-      "publish_time": null,
-      "original_language": "en",
-      "original_title": "One in a million: celebrating the customers shaping AI’s future",
-      "source_url": "https://openai.com/index/one-in-a-million-customers",
-      "id": 29
-    },
-    {
-      "title": "评估思维链的可监控性",
-      "summary": "OpenAI推出了一种新的框架和评估套件，用于评估思维链的可监控性，涵盖了24个环境中的13项评估。我们的发现表明，监控模型的内部推理比仅监控输出更为有效，为随着AI系统能力的增强而实现可扩展的控制提供了一条有希望的途径。",
-      "is_legal": true,
-      "is_ai_related": true,
-      "publish_time": null,
-      "original_language": "en",
-      "original_title": "Evaluating chain-of-thought monitorability",
-      "source_url": "https://openai.com/index/evaluating-chain-of-thought-monitorability",
-      "id": 30
-    },
-    {
-      "title": "深化与美国能源部的合作",
-      "summary": "OpenAI与美国能源部签署了一份谅解备忘录，旨在深化在人工智能和先进计算方面的合作，以支持科学发现。该协议建立在与国家实验室的现有工作之上，并有助于建立一个框架，将人工智能应用于美国能源部生态系统中的高影响力研究。",
-      "is_legal": true,
-      "is_ai_related": true,
-      "publish_time": null,
-      "original_language": "en",
-      "original_title": "Deepening our collaboration with the U.S. Department of Energy",
-      "source_url": "https://openai.com/index/us-department-of-energy-collaboration",
-      "id": 31
-    },
-    {
-      "title": "更新我们的模型规范以增加青少年保护措施",
-      "summary": "OpenAI 正在更新其模型规范，引入新的18岁以下原则，这些原则定义了ChatGPT应该如何通过基于发展科学的、安全且适合年龄的指导来支持青少年。这次更新加强了安全措施，明确了在更高风险情况下模型应表现出的预期行为，并基于我们改善ChatGPT中青少年安全性的更广泛工作。",
-      "is_legal": true,
-      "is_ai_related": true,
-      "publish_time": null,
-      "original_language": "en",
-      "original_title": "Updating our Model Spec with teen protections",
-      "source_url": "https://openai.com/index/updating-model-spec-with-teen-protections",
-      "id": 32
-    },
-    {
-      "title": "青少年和家长的人工智能素养资源",
-      "summary": "OpenAI分享新的AI素养资源，帮助青少年和家长审慎、安全、自信地使用ChatGPT。这些指南包括专家审核的负责任使用、批判性思维、健康界限和支持青少年处理情绪或敏感话题的建议。",
-      "is_legal": true,
-      "is_ai_related": true,
-      "publish_time": null,
-      "original_language": "en",
-      "original_title": "AI literacy resources for teens and parents",
-      "source_url": "https://openai.com/index/ai-literacy-resources-for-teens-and-parents",
-      "id": 33
-    },
-    {
-      "title": "GPT-5.2-Codex系统卡片的补充：GPT-5.2-Codex",
-      "summary": "本系统卡片概述了为GPT-5.2-Codex实施的全面安全措施。它详细说明了模型级别的缓解措施，例如针对有害任务的专用安全培训和提示注入，以及产品级别的缓解措施，如代理沙盒和可配置的网络访问。",
-      "is_legal": true,
-      "is_ai_related": true,
-      "publish_time": null,
-      "original_language": "en",
-      "original_title": "Addendum to GPT-5.2 System Card: GPT-5.2-Codex",
-      "source_url": "https://openai.com/index/gpt-5-2-codex-system-card",
-      "id": 34
-    },
-    {
-      "title": "介绍 GPT-5.2-Codex",
-      "summary": "GPT-5.2-Codex 是 OpenAI 最先进的编码模型，提供长距离推理、大规模代码转换和增强的网络安全功能。",
-      "is_legal": true,
-      "is_ai_related": true,
-      "publish_time": null,
-      "original_language": "en",
-      "original_title": "Introducing GPT-5.2-Codex",
-      "source_url": "https://openai.com/index/introducing-gpt-5-2-codex",
-      "id": 35
-    },
-    {
-      "title": "谷歌假日助手指南",
-      "summary": "在假日期间，了解更多关于使用谷歌产品，如Gemini、搜索、购物、Pixel等的信息。",
-      "is_legal": true,
-      "is_ai_related": true,
-      "publish_time": null,
-      "original_language": "en",
-      "original_title": "The Google guide for holiday help",
-      "source_url": "https://blog.google/innovation-and-ai/technology/ai/holiday-planning-ai-gemini-tips/",
-      "id": 36
-    },
-    {
-      "title": "了解Gemini，我们最强大的AI模型",
-      "summary": "探索我们的收藏，了解更多关于Gemini的信息，这是我们构建的最强大和通用的模型。",
-      "is_legal": true,
-      "is_ai_related": true,
-      "publish_time": null,
-      "original_language": "en",
-      "original_title": "Learn more about Gemini, our most capable AI model",
-      "source_url": "https://blog.google/innovation-and-ai/technology/ai/gemini-collection/",
-      "id": 37
-    },
-    {
-      "title": "ChatGPT Health允许您将医疗记录连接到编造事物的AI",
-      "summary": "新功能将允许用户将医疗和健康记录链接到AI聊天机器人。",
-      "is_legal": true,
-      "is_ai_related": true,
-      "publish_time": "2026-01-16",
-      "original_language": "en",
-      "original_title": "ChatGPT Health lets you connect medical records to an AI that makes things up",
-      "source_url": "https://arstechnica.com/ai/2026/01/chatgpt-health-lets-you-connect-medical-records-to-an-ai-that-makes-things-up/",
-      "id": 38
-    },
-    {
-      "title": "ChatGPT再次遭受新的数据窃取攻击，AI领域的恶性循环持续",
-      "summary": "ChatGPT再次遭受新的数据窃取攻击。在人工智能领域，这种恶性循环似乎难以根除。LLMs（大型语言模型）是否能够彻底消除这些攻击的根本原因？可能不会。",
-      "is_legal": true,
-      "is_ai_related": true,
-      "publish_time": "2026-01-16",
-      "original_language": "en",
-      "original_title": "ChatGPT falls to new data-pilfering attack as a vicious cycle in AI continues",
-      "source_url": "https://arstechnica.com/security/2026/01/chatgpt-falls-to-new-data-pilfering-attack-as-a-vicious-cycle-in-ai-continues/",
-      "id": 39
-    },
-    {
-      "title": "OpenAI的新ChatGPT图像生成器使伪造照片变得容易",
-      "summary": "新的GPT Image 1.5允许更详细的对话式图像编辑，好坏参半。",
-      "is_legal": true,
-      "is_ai_related": true,
-      "publish_time": "2025-12-16",
-      "original_language": "en",
-      "original_title": "OpenAI’s new ChatGPT image generator makes faking photos easy",
-      "source_url": "https://arstechnica.com/ai/2025/12/openais-new-chatgpt-image-generator-makes-faking-photos-easy/",
-      "id": 40
-    },
-    {
-      "title": "OpenAI与Cerebras签订价值100亿美元的计算服务协议",
-      "summary": "OpenAI与Cerebras达成合作，该合作将有助于OpenAI的模型在处理更困难或耗时更长的任务时提供更快的响应时间，两家公司表示。",
-      "is_legal": true,
-      "is_ai_related": true,
-      "publish_time": "2026-01-14",
-      "original_language": "en",
-      "original_title": "OpenAI signs deal, worth $10B, for compute from Cerebras",
-      "source_url": "https://techcrunch.com/2026/01/14/openai-signs-deal-reportedly-worth-10-billion-for-compute-from-cerebras/",
-      "id": 41
-    },
-    {
-      "title": "埃隆·马斯克对OpenAI提起诉讼：我从这场诉讼中学到了什么",
-      "summary": "这是Alex Heath的《来源》通讯摘录，该通讯专注于AI和科技行业，每周为The Verge的订阅者独家提供一次。埃隆·马斯克首次于2024年2月对OpenAI提起诉讼。尽管OpenAI多次试图将其驳回，但此案现在将于4月27日在加利福尼亚州北部联邦法院进行陪审团审判。马斯克的主要指控是，OpenAI及其领导层放弃了公司最初的由他资助的非营利使命。作为回应，OpenAI将马斯克的指控视为酸葡萄心理。美国地区法官伊冯娜·冈萨雷斯·罗杰斯最近决定此案应进行审判，她在法庭上表示，“这部分……\n阅读完整故事请访问The Verge。",
-      "is_legal": true,
-      "is_ai_related": true,
-      "publish_time": null,
-      "original_language": "en",
-      "original_title": "‘Sideshow’ concerns and billionaire dreams: What I learned from Elon Musk’s lawsuit against OpenAI",
-      "source_url": "https://www.theverge.com/column/863319/highlights-musk-v-altman-openai",
-      "id": 42
-    },
-    {
-      "title": "OpenAI安全研究负责人安德烈亚·瓦隆离职加入Anthropic",
-      "summary": "过去一年中，AI行业最引人争议的问题之一是当用户在聊天机器人对话中表现出心理健康问题的迹象时，应该怎么做。OpenAI负责这种类型安全研究的负责人安德烈亚·瓦隆现在已加入Anthropic。瓦隆在LinkedIn上几个月前写道：“过去一年，我领导了OpenAI关于一个几乎没有任何先例的问题的研究：当模型面临情绪过度依赖或心理健康困扰的早期迹象时，应该如何应对？”瓦隆在OpenAI工作了三年，并在那里建立了“模型政策”研究团队。...\n\n阅读完整故事请访问The Verge。",
-      "is_legal": true,
-      "is_ai_related": true,
-      "publish_time": null,
-      "original_language": "en",
-      "original_title": "An OpenAI safety research lead departed for Anthropic",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/862402/openai-safety-lead-model-policy-departs-for-anthropic-alignment-andrea-vallone",
-      "id": 43
-    },
-    {
-      "title": "OpenAI投资Merge Labs以支持新型人脑接口，连接生物与人工智能",
-      "summary": "OpenAI正在投资Merge Labs，以支持开发新型人脑接口。这些接口旨在连接生物和人工智能，以最大化人类的能力、自主性和体验。",
-      "is_legal": true,
-      "is_ai_related": true,
-      "publish_time": null,
-      "original_language": "en",
-      "original_title": "Investing in Merge Labs",
-      "source_url": "https://openai.com/index/investing-in-merge-labs",
-      "id": 44
-    },
-    {
-      "title": "OpenAI与Cerebras合作，增加750MW的高速AI计算能力，降低推理延迟，使ChatGPT在实时AI工作负载中运行更快",
-      "summary": "OpenAI与Cerebras合作，旨在增加750MW的高速AI计算能力。这一合作将有助于降低推理延迟，使得ChatGPT在处理实时AI工作负载时更加高效。具体来说，通过引入更多的计算资源，ChatGPT能够更快地处理和响应各种AI任务，从而提升用户体验。",
-      "is_legal": true,
-      "is_ai_related": true,
-      "publish_time": null,
-      "original_language": "en",
-      "original_title": "OpenAI partners with Cerebras  ",
-      "source_url": "https://openai.com/index/cerebras-partnership",
-      "id": 45
-    },
-    {
-      "title": "Zenken通过ChatGPT Enterprise提升精简销售团队",
-      "summary": "通过在全局范围内推广ChatGPT Enterprise，Zenken提升了销售业绩，减少了准备时间，并提高了提案成功率。AI支持的流程帮助精简团队提供更个性化和有效的客户互动。",
-      "is_legal": true,
-      "is_ai_related": true,
-      "publish_time": null,
-      "original_language": "en",
-      "original_title": "Zenken boosts a lean sales team with ChatGPT Enterprise",
-      "source_url": "https://openai.com/index/zenken",
-      "id": 46
-    },
-    {
-      "title": "如何使用GPT-5.1构建语音优先AI",
-      "summary": "Tolan构建了一个语音优先AI伴侣，结合了低延迟响应、实时上下文重建和记忆驱动个性，以实现自然对话。",
-      "is_legal": true,
-      "is_ai_related": true,
-      "publish_time": null,
-      "original_language": "en",
-      "original_title": "How Tolan builds voice-first AI with GPT-5.1",
-      "source_url": "https://openai.com/index/tolan",
-      "id": 47
-    },
-    {
-      "title": "持续强化ChatGPT Atlas对提示注入攻击的防御",
-      "summary": "OpenAI正在使用经过强化学习训练的自动化红队技术来加强ChatGPT Atlas对提示注入攻击的防御。这种主动的发现和修复循环有助于早期识别新型漏洞，并随着AI的自主性增强而加固浏览器代理的防御。",
-      "is_legal": true,
-      "is_ai_related": true,
-      "publish_time": null,
-      "original_language": "en",
-      "original_title": "Continuously hardening ChatGPT Atlas against prompt injection",
-      "source_url": "https://openai.com/index/hardening-atlas-against-prompt-injection",
-      "id": 48
-    },
-    {
-      "title": "庆祝塑造人工智能未来的百万客户",
-      "summary": "全球超过一百万的客户现在使用OpenAI来赋能他们的团队并解锁新的机会。本文突出了像PayPal、维珍大西洋航空、BBVA、思科、Moderna和Canva这样的公司如何通过人工智能改变工作方式。",
-      "is_legal": true,
-      "is_ai_related": true,
-      "publish_time": null,
-      "original_language": "en",
-      "original_title": "One in a million: celebrating the customers shaping AI’s future",
-      "source_url": "https://openai.com/index/one-in-a-million-customers",
-      "id": 49
-    },
-    {
-      "title": "更新我们的模型规范以包含青少年保护措施",
-      "summary": "OpenAI 正在更新其模型规范，引入新的18岁以下原则，这些原则定义了ChatGPT应该如何通过基于发展科学的、安全且适合年龄的指导来支持青少年。这次更新加强了安全措施，明确了在更高风险情况下模型的预期行为，并建立在我们在ChatGPT中改善青少年安全性的更广泛工作之上。",
-      "is_legal": true,
-      "is_ai_related": true,
-      "publish_time": null,
-      "original_language": "en",
-      "original_title": "Updating our Model Spec with teen protections",
-      "source_url": "https://openai.com/index/updating-model-spec-with-teen-protections",
-      "id": 50
-    },
-    {
-      "title": "AI素养资源为青少年和家长",
-      "summary": "OpenAI分享新的AI素养资源，以帮助青少年和家长审慎、安全、自信地使用ChatGPT。指南包括专家审核的负责任使用、批判性思维、健康界限以及支持青少年通过情绪或敏感话题。",
-      "is_legal": true,
-      "is_ai_related": true,
-      "publish_time": null,
-      "original_language": "en",
-      "original_title": "AI literacy resources for teens and parents",
-      "source_url": "https://openai.com/index/ai-literacy-resources-for-teens-and-parents",
-      "id": 51
-    },
-    {
-      "title": "ChatGPT Health允许您将医疗记录连接到虚构事实的AI聊天机器人",
-      "summary": "新功能将允许用户将医疗和健康记录链接到AI聊天机器人。",
-      "is_legal": true,
-      "is_ai_related": true,
-      "publish_time": "2026-01-16",
-      "original_language": "en",
-      "original_title": "ChatGPT Health lets you connect medical records to an AI that makes things up",
-      "source_url": "https://arstechnica.com/ai/2026/01/chatgpt-health-lets-you-connect-medical-records-to-an-ai-that-makes-things-up/",
-      "id": 52
-    },
-    {
-      "title": "ChatGPT遭受新的数据窃取攻击，AI恶性循环持续",
-      "summary": "LLMs是否能够根除这些攻击的根本原因？可能不行。\n\nChatGPT作为人工智能领域的重要工具，近期遭受了新的数据窃取攻击。这一事件再次引发了人们对人工智能安全性的担忧。在人工智能领域，数据窃取攻击已经成为一个恶性循环，攻击者不断寻找新的漏洞，而防御者则努力修复这些漏洞。这种循环似乎难以打破。\n\n目前，尚不清楚这次攻击的具体细节，但可以预见的是，这将进一步加剧人们对人工智能安全的担忧。在人工智能技术不断发展的同时，如何确保其安全性成为一个亟待解决的问题。",
-      "is_legal": true,
-      "is_ai_related": true,
-      "publish_time": "2026-01-16",
-      "original_language": "en",
-      "original_title": "ChatGPT falls to new data-pilfering attack as a vicious cycle in AI continues",
-      "source_url": "https://arstechnica.com/security/2026/01/chatgpt-falls-to-new-data-pilfering-attack-as-a-vicious-cycle-in-ai-continues/",
-      "id": 53
-    },
-    {
-      "title": "OpenAI 与 Cerebras 签署价值 100 亿美元的计算服务协议",
-      "summary": "OpenAI 与 Cerebras 签署了一项价值 100 亿美元的协议，该合作将有助于 OpenAI 的模型在处理更困难或耗时更长的任务时提供更快的响应时间，两家公司表示。",
-      "is_legal": true,
-      "is_ai_related": true,
-      "publish_time": "2026-01-14",
-      "original_language": "en",
-      "original_title": "OpenAI signs deal, worth $10B, for compute from Cerebras",
-      "source_url": "https://techcrunch.com/2026/01/14/openai-signs-deal-reportedly-worth-10-billion-for-compute-from-cerebras/",
-      "id": 54
-    },
-    {
-      "title": "OpenAI投资Merge Labs以支持新的脑机接口",
-      "summary": "OpenAI正在投资Merge Labs，以支持新的脑机接口，这些接口将生物和人工智能连接起来，以最大限度地提高人类的能力、自主性和体验。",
-      "is_legal": true,
-      "is_ai_related": true,
-      "publish_time": null,
-      "original_language": "en",
-      "original_title": "Investing in Merge Labs",
-      "source_url": "https://openai.com/index/investing-in-merge-labs",
-      "id": 55
-    },
-    {
-      "title": "OpenAI更新其模型规范，增加青少年保护原则",
-      "summary": "OpenAI正在更新其模型规范，引入新的18岁以下原则，这些原则定义了ChatGPT应该如何支持青少年，通过基于发展科学的、安全且适合年龄的指导来帮助他们。这次更新加强了保护措施，明确了在更高风险情况下模型应表现出的预期行为，并建立在我们在ChatGPT上改善青少年安全性的更广泛工作之上。",
-      "is_legal": true,
-      "is_ai_related": true,
-      "publish_time": null,
-      "original_language": "en",
-      "original_title": "Updating our Model Spec with teen protections",
-      "source_url": "https://openai.com/index/updating-model-spec-with-teen-protections",
-      "id": 56
-    },
-    {
-      "title": "AI素养资源面向青少年和家长",
-      "summary": "OpenAI分享了新的AI素养资源，旨在帮助青少年和家长深思熟虑、安全自信地使用ChatGPT。这些指南包括专家审核的负责任使用、批判性思维、健康界限以及支持青少年处理情绪或敏感话题的建议。",
-      "is_legal": true,
-      "is_ai_related": true,
-      "publish_time": null,
-      "original_language": "en",
-      "original_title": "AI literacy resources for teens and parents",
-      "source_url": "https://openai.com/index/ai-literacy-resources-for-teens-and-parents",
-      "id": 57
-    },
-    {
-      "title": "ChatGPT Health允许您将医疗记录连接到虚构事实的AI",
-      "summary": "新功能将允许用户将医疗和健康记录链接到AI聊天机器人。",
-      "is_legal": true,
-      "is_ai_related": true,
-      "publish_time": "2026-01-16",
-      "original_language": "en",
-      "original_title": "ChatGPT Health lets you connect medical records to an AI that makes things up",
-      "source_url": "https://arstechnica.com/ai/2026/01/chatgpt-health-lets-you-connect-medical-records-to-an-ai-that-makes-things-up/",
-      "id": 58
-    },
-    {
-      "title": "Anthropic聘请前微软印度总经理领导班加罗尔扩张",
-      "summary": "Irina Ghose加入Anthropic，担任印度区总经理，此前她在微软工作了24年。",
-      "is_legal": true,
-      "is_ai_related": true,
-      "publish_time": "2026-01-15",
-      "original_language": "en",
-      "original_title": "Anthropic taps former Microsoft India MD to lead Bengaluru expansion",
-      "source_url": "https://techcrunch.com/2026/01/15/anthropic-taps-former-microsoft-india-md-to-lead-bengaluru-expansion/",
-      "id": 59
-    },
-    {
-      "title": "埃隆·马斯克与OpenAI诉讼案：我从这场诉讼中学到了什么",
-      "summary": "这是Alex Heath的《来源》通讯摘录，该通讯专注于人工智能和科技行业，每周只为The Verge的订阅者提供一次。埃隆·马斯克首次起诉OpenAI是在2024年2月。尽管OpenAI多次试图将其驳回，但此案现在将于4月27日在加利福尼亚北部联邦法院进行陪审团审判。马斯克的主要指控是，OpenAI及其领导层放弃了公司最初的非营利使命，这是他资助的。作为回应，OpenAI将马斯克的指控视为酸葡萄心理。美国地区法官伊冯娜·冈萨雷斯·罗杰斯最近决定此案有资格进行审判，她在法庭上表示，“这部分……\n阅读完整故事请访问The Verge。",
-      "is_legal": true,
-      "is_ai_related": true,
-      "publish_time": null,
-      "original_language": "en",
-      "original_title": "‘Sideshow’ concerns and billionaire dreams: What I learned from Elon Musk’s lawsuit against OpenAI",
-      "source_url": "https://www.theverge.com/column/863319/highlights-musk-v-altman-openai",
-      "id": 60
-    },
-    {
-      "title": "苹果在人工智能竞赛中败北——真正的挑战才刚刚开始",
-      "summary": "Siri，你在吗？是我，Gemini。对于一个AI的失败者来说，苹果去年做了很多它擅长的事情：卖iPhone。本周，苹果公司宣布将使用Gemini模型来驱动备受期待的更智能的Siri，这看起来苹果在整个人工智能竞赛中已经大败而归。但前方还有一项重大挑战——苹果还没有出局。苹果智能在2024年起步时就遇到了很多问题。iPhone 16被宣传为“为苹果智能而打造”，但上市时却没有搭载它。接下来的几个月里，功能陆续到来……阅读完整故事请访问The Verge。",
-      "is_legal": true,
-      "is_ai_related": true,
-      "publish_time": null,
-      "original_language": "en",
-      "original_title": "Apple lost the AI race — now the real challenge starts",
-      "source_url": "https://www.theverge.com/tech/861957/google-apple-ai-deal-iphone-gemini",
-      "id": 61
-    },
-    {
-      "title": "谷歌假日帮助指南",
-      "summary": "在假日期间，了解更多关于使用谷歌产品如Gemini、搜索、购物、Pixel等的信息。",
-      "is_legal": true,
-      "is_ai_related": true,
-      "publish_time": null,
-      "original_language": "en",
-      "original_title": "The Google guide for holiday help",
-      "source_url": "https://blog.google/innovation-and-ai/technology/ai/holiday-planning-ai-gemini-tips/",
-      "id": 62
-    },
-    {
-      "title": "姚班传奇陈立杰入职OpenAI！16岁保送清华，30岁拿下UC伯克利助理教授",
-      "summary": "姚班传奇陈立杰已加入OpenAI。他16岁时被保送进入清华大学，并在30岁时成为加州大学伯克利分校的助理教授。陈立杰在人工智能领域有着深厚的学术背景和研究经验，此次加入OpenAI，标志着他在人工智能领域的进一步发展。",
-      "is_legal": true,
-      "is_ai_related": true,
-      "publish_time": null,
-      "original_language": "zh",
-      "original_title": "姚班传奇陈立杰入职OpenAI！16岁保送清华，30岁拿下UC伯克利助理教授",
-      "source_url": "https://www.qbitai.com/2026/01/369684.html",
-      "id": 63
-    },
-    {
-      "title": "Anthropic 招募前微软印度总经理领导班加罗尔扩张",
-      "summary": "Irina Ghose 加入 Anthropic 担任印度区总经理，此前她在微软工作了 24 年。Anthropic 是一家总部位于美国的人工智能公司，专注于开发能够理解和生成自然语言的人工智能系统。Ghose 在微软期间负责领导印度市场的业务发展，并在该地区建立了强大的业务网络。她的加入标志着 Anthropic 在印度的进一步扩张，旨在扩大其在全球市场的影响力。",
-      "is_legal": true,
-      "is_ai_related": true,
-      "publish_time": "2026-01-15",
-      "original_language": "en",
-      "original_title": "Anthropic taps former Microsoft India MD to lead Bengaluru expansion",
-      "source_url": "https://techcrunch.com/2026/01/15/anthropic-taps-former-microsoft-india-md-to-lead-bengaluru-expansion/",
-      "id": 64
-    },
-    {
-      "title": "Gemini胜出",
-      "summary": "如果你想赢得人工智能竞赛——我指的是赢得最大、最有利可图、最能按照你的意愿塑造世界的那种——你必须同时做很多事情。你需要一个无疑是市场上最好的模型。你需要几乎无限的资源来继续改进这个模型并在大规模上部署它。你需要至少一个很多人使用的基于AI的产品，理想情况下还有更多。你还需要尽可能多地获取你用户的其他数据——他们的个人信息、他们的在线活动，甚至是他们电脑上的文件。每一个……\n阅读完整故事请访问The Verge。",
-      "is_legal": true,
-      "is_ai_related": true,
-      "publish_time": null,
-      "original_language": "en",
-      "original_title": "Gemini is winning",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/861863/google-gemini-ai-race-winner",
-      "id": 65
     },
     {
       "title": "OpenAI投资Merge Labs以支持新型人脑接口",
@@ -726,10 +198,351 @@
       "original_language": "en",
       "original_title": "Investing in Merge Labs",
       "source_url": "https://openai.com/index/investing-in-merge-labs",
-      "id": 66
+      "id": 18
+    },
+    {
+      "title": "通过国内制造加强美国人工智能供应链",
+      "summary": "OpenAI发布了一项新的RFP（请求提案），旨在通过加快国内制造、创造就业机会和扩大人工智能基础设施规模来加强美国的人工智能供应链。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": null,
+      "original_language": "en",
+      "original_title": "Strengthening the U.S. AI supply chain through domestic manufacturing",
+      "source_url": "https://openai.com/index/strengthening-the-us-ai-supply-chain",
+      "id": 19
+    },
+    {
+      "title": "OpenAI与Cerebras合作，增加750MW的高速AI计算能力，降低推理延迟，使ChatGPT在实时AI工作负载中运行更快",
+      "summary": "OpenAI与Cerebras合作，旨在增加750MW的高速AI计算能力。这一合作将有助于降低推理延迟，并使ChatGPT在处理实时AI工作负载时运行更快。具体来说，通过引入Cerebras的高性能计算解决方案，OpenAI能够提供更高效的AI计算服务。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": null,
+      "original_language": "en",
+      "original_title": "OpenAI partners with Cerebras  ",
+      "source_url": "https://openai.com/index/cerebras-partnership",
+      "id": 20
+    },
+    {
+      "title": "Zenken通过ChatGPT Enterprise提升精简销售团队",
+      "summary": "通过全面推广ChatGPT Enterprise，Zenken提升了销售业绩，减少了准备时间，并提高了提案成功率。AI支持的流程帮助精简团队提供更个性化、更有效的客户互动。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": null,
+      "original_language": "en",
+      "original_title": "Zenken boosts a lean sales team with ChatGPT Enterprise",
+      "source_url": "https://openai.com/index/zenken",
+      "id": 21
     },
     {
       "title": "OpenAI与软银集团与SB Energy合作",
+      "summary": "OpenAI与软银集团宣布与SB Energy合作，共同开发多吉瓦特的人工智能数据中心园区，包括一个1.2吉瓦的德克萨斯州设施，该设施支持Stargate项目。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": null,
+      "original_language": "en",
+      "original_title": "OpenAI and SoftBank Group partner with SB Energy",
+      "source_url": "https://openai.com/index/stargate-sb-energy-partnership",
+      "id": 22
+    },
+    {
+      "title": "Datadog使用Codex进行系统级代码审查",
+      "summary": "OpenAI和Datadog品牌图形，左侧带有OpenAI文字标志，右侧带有Datadog标志，中央是一个白色背景上的棕色毛皮纹理面板。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": null,
+      "original_language": "en",
+      "original_title": "Datadog uses Codex for system-level code review",
+      "source_url": "https://openai.com/index/datadog",
+      "id": 23
+    },
+    {
+      "title": "Netomi的企业级AI代理扩展经验教训",
+      "summary": "Netomi如何使用GPT-4.1和GPT-5.2扩展企业级AI代理——结合并发性、治理和多步骤推理以实现可靠的生成工作流程。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": null,
+      "original_language": "en",
+      "original_title": "Netomi’s lessons for scaling agentic systems into the enterprise",
+      "source_url": "https://openai.com/index/netomi",
+      "id": 24
+    },
+    {
+      "title": "OpenAI for Healthcare",
+      "summary": "OpenAI for Healthcare使企业级AI安全、符合HIPAA标准，从而减轻行政负担并支持临床工作流程。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": null,
+      "original_language": "en",
+      "original_title": "OpenAI for Healthcare",
+      "source_url": "https://openai.com/index/openai-for-healthcare",
+      "id": 25
+    },
+    {
+      "title": "如何使用GPT-5.1构建语音优先AI",
+      "summary": "Tolan构建了一个语音优先AI伴侣，结合了低延迟响应、实时上下文重建和记忆驱动个性，以实现自然对话。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": null,
+      "original_language": "en",
+      "original_title": "How Tolan builds voice-first AI with GPT-5.1",
+      "source_url": "https://openai.com/index/tolan",
+      "id": 26
+    },
+    {
+      "title": "介绍ChatGPT Health",
+      "summary": "ChatGPT Health是一种专门体验，它安全地连接您的健康数据和应用程序，具有隐私保护和医生指导的设计。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": null,
+      "original_language": "en",
+      "original_title": "Introducing ChatGPT Health ",
+      "source_url": "https://openai.com/index/introducing-chatgpt-health",
+      "id": 27
+    },
+    {
+      "title": "宣布OpenAI Grove Cohort 2开放申请",
+      "summary": "现在开放申请OpenAI Grove Cohort 2，这是一个为期5周的创始人项目，面向任何阶段的个人，从想法阶段到产品阶段。参与者将获得50,000美元的API信用额度，早期访问AI工具，以及来自OpenAI团队的实操指导。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": null,
+      "original_language": "en",
+      "original_title": "Announcing OpenAI Grove Cohort 2",
+      "source_url": "https://openai.com/index/openai-grove",
+      "id": 28
+    },
+    {
+      "title": "持续强化ChatGPT Atlas对提示注入攻击的防御",
+      "summary": "OpenAI正在通过使用强化学习训练的自动化红队技术来加强ChatGPT Atlas对提示注入攻击的防御。这种主动的发现和修补循环有助于早期识别新的漏洞，并随着AI变得更加主动，加强浏览器代理的防御。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": null,
+      "original_language": "en",
+      "original_title": "Continuously hardening ChatGPT Atlas against prompt injection",
+      "source_url": "https://openai.com/index/hardening-atlas-against-prompt-injection",
+      "id": 29
+    },
+    {
+      "title": "庆祝塑造人工智能未来的百万客户",
+      "summary": "全球超过一百万的客户现在使用OpenAI来赋能他们的团队并解锁新的机会。本文突出了像PayPal、维珍大西洋航空、BBVA、思科、Moderna和Canva这样的公司如何通过人工智能改变工作方式。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": null,
+      "original_language": "en",
+      "original_title": "One in a million: celebrating the customers shaping AI’s future",
+      "source_url": "https://openai.com/index/one-in-a-million-customers",
+      "id": 30
+    },
+    {
+      "title": "评估思维链的可监控性",
+      "summary": "OpenAI推出了一种新的框架和评估套件，用于评估思维链的可监控性，涵盖了24个环境中的13项评估。我们的发现表明，监控模型的内部推理比仅监控输出更为有效，为随着AI系统能力的增强而实现可扩展控制提供了一条有希望的途径。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": null,
+      "original_language": "en",
+      "original_title": "Evaluating chain-of-thought monitorability",
+      "source_url": "https://openai.com/index/evaluating-chain-of-thought-monitorability",
+      "id": 31
+    },
+    {
+      "title": "深化与美国能源部的合作",
+      "summary": "OpenAI 与美国能源部签署了一份谅解备忘录，旨在深化在人工智能和先进计算方面的合作，以支持科学发现。该协议建立在与国家实验室的现有工作之上，并有助于建立一个框架，将人工智能应用于美国能源部生态系统中的高影响研究。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": null,
+      "original_language": "en",
+      "original_title": "Deepening our collaboration with the U.S. Department of Energy",
+      "source_url": "https://openai.com/index/us-department-of-energy-collaboration",
+      "id": 32
+    },
+    {
+      "title": "更新我们的模型规范以加入青少年保护措施",
+      "summary": "OpenAI 正在更新其模型规范，引入新的18岁以下原则，这些原则定义了ChatGPT应该如何通过基于发展科学的、安全且适合年龄的指导来支持青少年。这次更新加强了安全措施，明确了在更高风险情况下模型应表现出的预期行为，并建立在我们在ChatGPT中改善青少年安全性的更广泛工作之上。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": null,
+      "original_language": "en",
+      "original_title": "Updating our Model Spec with teen protections",
+      "source_url": "https://openai.com/index/updating-model-spec-with-teen-protections",
+      "id": 33
+    },
+    {
+      "title": "AI素养资源面向青少年和家长",
+      "summary": "OpenAI分享了新的AI素养资源，旨在帮助青少年和家长审慎、安全、自信地使用ChatGPT。这些指南包括专家审核的负责任使用、批判性思维、健康界限以及支持青少年处理情感或敏感话题的建议。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": null,
+      "original_language": "en",
+      "original_title": "AI literacy resources for teens and parents",
+      "source_url": "https://openai.com/index/ai-literacy-resources-for-teens-and-parents",
+      "id": 34
+    },
+    {
+      "title": "GPT-5.2-Codex系统卡片的补充：GPT-5.2-Codex",
+      "summary": "本系统卡片概述了为GPT-5.2-Codex实施的全面安全措施。它详细说明了模型级别的缓解措施，例如针对有害任务的专用安全培训和提示注入，以及产品级别的缓解措施，如代理沙盒和可配置的网络访问。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": null,
+      "original_language": "en",
+      "original_title": "Addendum to GPT-5.2 System Card: GPT-5.2-Codex",
+      "source_url": "https://openai.com/index/gpt-5-2-codex-system-card",
+      "id": 35
+    },
+    {
+      "title": "介绍 GPT-5.2-Codex",
+      "summary": "GPT-5.2-Codex 是 OpenAI 最先进的编码模型，提供长距离推理、大规模代码转换和增强的网络安全能力。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": null,
+      "original_language": "en",
+      "original_title": "Introducing GPT-5.2-Codex",
+      "source_url": "https://openai.com/index/introducing-gpt-5-2-codex",
+      "id": 36
+    },
+    {
+      "title": "谷歌假日助手指南",
+      "summary": "在假日期间，了解更多关于使用谷歌产品，如Gemini、搜索、购物、Pixel等的信息。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": null,
+      "original_language": "en",
+      "original_title": "The Google guide for holiday help",
+      "source_url": "https://blog.google/innovation-and-ai/technology/ai/holiday-planning-ai-gemini-tips/",
+      "id": 37
+    },
+    {
+      "title": "了解Gemini，我们最强大的AI模型",
+      "summary": "探索我们的收藏，了解更多关于Gemini的信息，这是我们迄今为止构建的最强大和通用的模型。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": null,
+      "original_language": "en",
+      "original_title": "Learn more about Gemini, our most capable AI model",
+      "source_url": "https://blog.google/innovation-and-ai/technology/ai/gemini-collection/",
+      "id": 38
+    },
+    {
+      "title": "ChatGPT Health允许您将医疗记录连接到虚构事实的AI",
+      "summary": "新功能将允许用户将医疗和健康记录链接到AI聊天机器人。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-16",
+      "original_language": "en",
+      "original_title": "ChatGPT Health lets you connect medical records to an AI that makes things up",
+      "source_url": "https://arstechnica.com/ai/2026/01/chatgpt-health-lets-you-connect-medical-records-to-an-ai-that-makes-things-up/",
+      "id": 39
+    },
+    {
+      "title": "ChatGPT遭受新的数据窃取攻击，AI恶性循环持续",
+      "summary": "LLMs是否能够根除这些攻击的根本原因？可能不行。\n\nChatGPT遭受了新的数据窃取攻击，这表明在人工智能领域，恶性循环仍在继续。尽管ChatGPT在语言理解和生成方面表现出色，但它的安全性仍然是一个问题。这次攻击表明，即使是最先进的AI系统也可能受到数据窃取的威胁。这引发了一个问题：LLMs是否能够根除这些攻击的根本原因？可能不行。这表明，在AI领域，我们需要采取更加严格的安全措施来保护我们的数据。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-16",
+      "original_language": "en",
+      "original_title": "ChatGPT falls to new data-pilfering attack as a vicious cycle in AI continues",
+      "source_url": "https://arstechnica.com/security/2026/01/chatgpt-falls-to-new-data-pilfering-attack-as-a-vicious-cycle-in-ai-continues/",
+      "id": 40
+    },
+    {
+      "title": "OpenAI的新ChatGPT图像生成器让伪造照片变得容易",
+      "summary": "新GPT Image 1.5允许更详细的对话式图像编辑，好坏参半。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2025-12-16",
+      "original_language": "en",
+      "original_title": "OpenAI’s new ChatGPT image generator makes faking photos easy",
+      "source_url": "https://arstechnica.com/ai/2025/12/openais-new-chatgpt-image-generator-makes-faking-photos-easy/",
+      "id": 41
+    },
+    {
+      "title": "中国团队Deep Principle领衔发布LLMs for Science评测，引爆外网",
+      "summary": "中国团队Deep Principle近期发布了LLMs for Science评测，这一举措与OpenAI的动作相呼应，引起了外网的广泛关注。LLMs for Science评测旨在评估科学领域的大型语言模型，Deep Principle团队通过这一评测展示了他们在人工智能领域的实力。该评测涵盖了多个指标，包括模型的准确性、可解释性和效率等，为科学研究和人工智能应用提供了重要的参考。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-16",
+      "original_language": "zh",
+      "original_title": "神同步OpenAI！中国团队Deep Principle领衔发布LLMs for Science评测，引爆外网",
+      "source_url": "https://www.jiqizhixin.com/articles/2026-01-16-9",
+      "id": 42
+    },
+    {
+      "title": "Anthropic 招募前微软印度区总经理领导班加罗尔扩张",
+      "summary": "Irina Ghose 加入 Anthropic 担任印度区总经理，此前她在微软工作了 24 年。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-15",
+      "original_language": "en",
+      "original_title": "Anthropic taps former Microsoft India MD to lead Bengaluru expansion",
+      "source_url": "https://techcrunch.com/2026/01/15/anthropic-taps-former-microsoft-india-md-to-lead-bengaluru-expansion/",
+      "id": 43
+    },
+    {
+      "title": "OpenAI签署价值100亿美元的协议，从Cerebras获取计算能力",
+      "summary": "OpenAI与Cerebras的合作将有助于其模型在处理更困难或耗时更长的任务时提供更快的响应时间，两家公司表示。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-14",
+      "original_language": "en",
+      "original_title": "OpenAI signs deal, worth $10B, for compute from Cerebras",
+      "source_url": "https://techcrunch.com/2026/01/14/openai-signs-deal-reportedly-worth-10-billion-for-compute-from-cerebras/",
+      "id": 44
+    },
+    {
+      "title": "埃隆·马斯克对OpenAI的诉讼：我从这场诉讼中学到了什么",
+      "summary": "这是Alex Heath的《来源》通讯摘录，关于人工智能和科技行业，每周只为The Verge的订阅者提供一次。埃隆·马斯克首次起诉OpenAI是在2024年2月。尽管OpenAI多次试图将其驳回，但此案现在将于4月27日在加利福尼亚北部联邦法院进行陪审团审判。马斯克的主要指控是，OpenAI及其领导人放弃了公司最初的非营利使命，这是他资助的。作为回应，OpenAI将马斯克的指控视为酸葡萄心理。美国地区法官伊冯娜·冈萨雷斯·罗杰斯最近决定此案有资格进行审判，她在法庭上表示，“这部分……\n阅读完整故事请访问The Verge。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": null,
+      "original_language": "en",
+      "original_title": "‘Sideshow’ concerns and billionaire dreams: What I learned from Elon Musk’s lawsuit against OpenAI",
+      "source_url": "https://www.theverge.com/column/863319/highlights-musk-v-altman-openai",
+      "id": 45
+    },
+    {
+      "title": "OpenAI安全研究负责人离职加入Anthropic",
+      "summary": "过去一年AI行业中最具争议的问题之一是当用户在聊天机器人对话中表现出心理健康问题迹象时，应该怎么做。OpenAI负责这种类型安全研究的负责人Andrea Vallone现在已加入Anthropic。Vallone在几个月前的LinkedIn帖子中写道：“在过去的一年里，我领导了OpenAI的研究，这个问题几乎没有先例：当模型面临情绪过度依赖或心理健康问题的早期迹象时，应该如何应对？”Vallone在OpenAI工作了三年，并在那里建立了“模型政策”研究团队……阅读完整故事请访问The Verge。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": null,
+      "original_language": "en",
+      "original_title": "An OpenAI safety research lead departed for Anthropic",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/862402/openai-safety-lead-model-policy-departs-for-anthropic-alignment-andrea-vallone",
+      "id": 46
+    },
+    {
+      "title": "OpenAI投资Merge Labs以支持新型脑机接口",
+      "summary": "OpenAI正在投资Merge Labs，以支持新型脑机接口的开发。这些接口旨在连接生物和人工智能，以最大化人类的能力、自主性和体验。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": null,
+      "original_language": "en",
+      "original_title": "Investing in Merge Labs",
+      "source_url": "https://openai.com/index/investing-in-merge-labs",
+      "id": 47
+    },
+    {
+      "title": "OpenAI 与 Cerebras 合作，增加 750MW 的高速 AI 计算能力，降低推理延迟并使 ChatGPT 在实时 AI 工作负载中运行更快",
+      "summary": "OpenAI 与 Cerebras 合作，旨在增加 750MW 的高速 AI 计算能力。这一合作将有助于降低推理延迟，并使 ChatGPT 在处理实时 AI 工作负载时运行得更快。具体来说，这项合作将提升 AI 计算的效率，为 OpenAI 的产品和服务带来显著的性能提升。新闻链接：[OpenAI](https://openai.com/index/cerebras-partnership)",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": null,
+      "original_language": "en",
+      "original_title": "OpenAI partners with Cerebras  ",
+      "source_url": "https://openai.com/index/cerebras-partnership",
+      "id": 48
+    },
+    {
+      "title": "Zenken通过ChatGPT Enterprise加强精简的销售团队",
+      "summary": "通过全面推广ChatGPT Enterprise，Zenken提升了销售业绩，减少了准备时间，并提高了提案成功率。AI支持的流程帮助精简团队提供更个性化和有效的客户互动。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": null,
+      "original_language": "en",
+      "original_title": "Zenken boosts a lean sales team with ChatGPT Enterprise",
+      "source_url": "https://openai.com/index/zenken",
+      "id": 49
+    },
+    {
+      "title": "OpenAI和软银集团与SB Energy合作",
       "summary": "OpenAI和软银集团与SB Energy合作，共同开发多吉瓦特的人工智能数据中心园区，包括一个1.2吉瓦的德克萨斯州设施，该设施支持Stargate项目。",
       "is_legal": true,
       "is_ai_related": true,
@@ -737,18 +550,238 @@
       "original_language": "en",
       "original_title": "OpenAI and SoftBank Group partner with SB Energy",
       "source_url": "https://openai.com/index/stargate-sb-energy-partnership",
-      "id": 67
+      "id": 50
     },
     {
-      "title": "更新我们的模型规范以加入青少年保护措施",
-      "summary": "OpenAI 正在更新其模型规范，引入新的18岁以下原则，这些原则定义了ChatGPT应该如何通过基于发展科学的、安全且适合年龄的指导来支持青少年。这次更新加强了安全措施，明确了在更高风险情况下的预期模型行为，并建立在我们在ChatGPT中改善青少年安全性的更广泛工作之上。",
+      "title": "如何利用GPT-5.1构建语音优先AI",
+      "summary": "Tolan构建了一个基于语音的AI伴侣，结合了低延迟响应、实时上下文重建和记忆驱动个性，以实现自然对话。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": null,
+      "original_language": "en",
+      "original_title": "How Tolan builds voice-first AI with GPT-5.1",
+      "source_url": "https://openai.com/index/tolan",
+      "id": 51
+    },
+    {
+      "title": "持续强化ChatGPT Atlas抵御提示注入攻击",
+      "summary": "OpenAI正在使用经过强化学习训练的自动化红队技术来加强ChatGPT Atlas对提示注入攻击的防御。这种主动的发现和修补循环有助于早期识别新的漏洞，并随着AI变得更加主动，加强浏览器代理的防御。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": null,
+      "original_language": "en",
+      "original_title": "Continuously hardening ChatGPT Atlas against prompt injection",
+      "source_url": "https://openai.com/index/hardening-atlas-against-prompt-injection",
+      "id": 52
+    },
+    {
+      "title": "庆祝塑造AI未来的百万客户",
+      "summary": "全球超过一百万的客户现在使用OpenAI来赋能他们的团队并解锁新的机会。本文突出了像PayPal、维珍大西洋航空、BBVA、思科、Moderna和Canva这样的公司如何通过AI改变工作的方式。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": null,
+      "original_language": "en",
+      "original_title": "One in a million: celebrating the customers shaping AI’s future",
+      "source_url": "https://openai.com/index/one-in-a-million-customers",
+      "id": 53
+    },
+    {
+      "title": "更新我们的模型规范以增加青少年保护措施",
+      "summary": "OpenAI 正在更新其模型规范，引入新的18岁以下原则，这些原则定义了ChatGPT应该如何通过基于发展科学的、安全且适合年龄的指导来支持青少年。这次更新加强了安全措施，明确了在更高风险情况下模型应表现出的预期行为，并基于我们改善ChatGPT中青少年安全性的更广泛工作。",
       "is_legal": true,
       "is_ai_related": true,
       "publish_time": null,
       "original_language": "en",
       "original_title": "Updating our Model Spec with teen protections",
       "source_url": "https://openai.com/index/updating-model-spec-with-teen-protections",
+      "id": 54
+    },
+    {
+      "title": "青少年和家长的人工智能素养资源",
+      "summary": "OpenAI分享新的AI素养资源，帮助青少年和家长审慎、安全、自信地使用ChatGPT。这些指南包括专家审核的负责任使用、批判性思维、健康界限和支持青少年处理情绪或敏感话题的建议。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": null,
+      "original_language": "en",
+      "original_title": "AI literacy resources for teens and parents",
+      "source_url": "https://openai.com/index/ai-literacy-resources-for-teens-and-parents",
+      "id": 55
+    },
+    {
+      "title": "ChatGPT Health允许您将医疗记录连接到编造事物的AI",
+      "summary": "新功能将允许用户将医疗和健康记录链接到AI聊天机器人。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-16",
+      "original_language": "en",
+      "original_title": "ChatGPT Health lets you connect medical records to an AI that makes things up",
+      "source_url": "https://arstechnica.com/ai/2026/01/chatgpt-health-lets-you-connect-medical-records-to-an-ai-that-makes-things-up/",
+      "id": 56
+    },
+    {
+      "title": "ChatGPT再次遭受新的数据窃取攻击，AI领域的恶性循环持续",
+      "summary": "ChatGPT再次遭受新的数据窃取攻击。在人工智能领域，这种恶性循环似乎难以根除。LLMs（大型语言模型）是否能够彻底消除这些攻击的根本原因？可能不会。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-16",
+      "original_language": "en",
+      "original_title": "ChatGPT falls to new data-pilfering attack as a vicious cycle in AI continues",
+      "source_url": "https://arstechnica.com/security/2026/01/chatgpt-falls-to-new-data-pilfering-attack-as-a-vicious-cycle-in-ai-continues/",
+      "id": 57
+    },
+    {
+      "title": "OpenAI的新ChatGPT图像生成器使伪造照片变得容易",
+      "summary": "新的GPT Image 1.5允许更详细的对话式图像编辑，好坏参半。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2025-12-16",
+      "original_language": "en",
+      "original_title": "OpenAI’s new ChatGPT image generator makes faking photos easy",
+      "source_url": "https://arstechnica.com/ai/2025/12/openais-new-chatgpt-image-generator-makes-faking-photos-easy/",
+      "id": 58
+    },
+    {
+      "title": "OpenAI与Cerebras签订价值100亿美元的计算服务协议",
+      "summary": "OpenAI与Cerebras达成合作，该合作将有助于OpenAI的模型在处理更困难或耗时更长的任务时提供更快的响应时间，两家公司表示。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-14",
+      "original_language": "en",
+      "original_title": "OpenAI signs deal, worth $10B, for compute from Cerebras",
+      "source_url": "https://techcrunch.com/2026/01/14/openai-signs-deal-reportedly-worth-10-billion-for-compute-from-cerebras/",
+      "id": 59
+    },
+    {
+      "title": "OpenAI投资Merge Labs以支持新型人脑接口，连接生物与人工智能",
+      "summary": "OpenAI正在投资Merge Labs，以支持开发新型人脑接口。这些接口旨在连接生物和人工智能，以最大化人类的能力、自主性和体验。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": null,
+      "original_language": "en",
+      "original_title": "Investing in Merge Labs",
+      "source_url": "https://openai.com/index/investing-in-merge-labs",
+      "id": 60
+    },
+    {
+      "title": "更新我们的模型规范以包含青少年保护措施",
+      "summary": "OpenAI 正在更新其模型规范，引入新的18岁以下原则，这些原则定义了ChatGPT应该如何通过基于发展科学的、安全且适合年龄的指导来支持青少年。这次更新加强了安全措施，明确了在更高风险情况下模型的预期行为，并建立在我们在ChatGPT中改善青少年安全性的更广泛工作之上。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": null,
+      "original_language": "en",
+      "original_title": "Updating our Model Spec with teen protections",
+      "source_url": "https://openai.com/index/updating-model-spec-with-teen-protections",
+      "id": 61
+    },
+    {
+      "title": "AI素养资源为青少年和家长",
+      "summary": "OpenAI分享新的AI素养资源，以帮助青少年和家长审慎、安全、自信地使用ChatGPT。指南包括专家审核的负责任使用、批判性思维、健康界限以及支持青少年通过情绪或敏感话题。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": null,
+      "original_language": "en",
+      "original_title": "AI literacy resources for teens and parents",
+      "source_url": "https://openai.com/index/ai-literacy-resources-for-teens-and-parents",
+      "id": 62
+    },
+    {
+      "title": "ChatGPT Health允许您将医疗记录连接到虚构事实的AI聊天机器人",
+      "summary": "新功能将允许用户将医疗和健康记录链接到AI聊天机器人。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-16",
+      "original_language": "en",
+      "original_title": "ChatGPT Health lets you connect medical records to an AI that makes things up",
+      "source_url": "https://arstechnica.com/ai/2026/01/chatgpt-health-lets-you-connect-medical-records-to-an-ai-that-makes-things-up/",
+      "id": 63
+    },
+    {
+      "title": "OpenAI投资Merge Labs以支持新的脑机接口",
+      "summary": "OpenAI正在投资Merge Labs，以支持新的脑机接口，这些接口将生物和人工智能连接起来，以最大限度地提高人类的能力、自主性和体验。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": null,
+      "original_language": "en",
+      "original_title": "Investing in Merge Labs",
+      "source_url": "https://openai.com/index/investing-in-merge-labs",
+      "id": 64
+    },
+    {
+      "title": "OpenAI更新其模型规范，增加青少年保护原则",
+      "summary": "OpenAI正在更新其模型规范，引入新的18岁以下原则，这些原则定义了ChatGPT应该如何支持青少年，通过基于发展科学的、安全且适合年龄的指导来帮助他们。这次更新加强了保护措施，明确了在更高风险情况下模型应表现出的预期行为，并建立在我们在ChatGPT上改善青少年安全性的更广泛工作之上。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": null,
+      "original_language": "en",
+      "original_title": "Updating our Model Spec with teen protections",
+      "source_url": "https://openai.com/index/updating-model-spec-with-teen-protections",
+      "id": 65
+    },
+    {
+      "title": "Anthropic聘请前微软印度总经理领导班加罗尔扩张",
+      "summary": "Irina Ghose加入Anthropic，担任印度区总经理，此前她在微软工作了24年。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-15",
+      "original_language": "en",
+      "original_title": "Anthropic taps former Microsoft India MD to lead Bengaluru expansion",
+      "source_url": "https://techcrunch.com/2026/01/15/anthropic-taps-former-microsoft-india-md-to-lead-bengaluru-expansion/",
+      "id": 66
+    },
+    {
+      "title": "埃隆·马斯克与OpenAI诉讼案：我从这场诉讼中学到了什么",
+      "summary": "这是Alex Heath的《来源》通讯摘录，该通讯专注于人工智能和科技行业，每周只为The Verge的订阅者提供一次。埃隆·马斯克首次起诉OpenAI是在2024年2月。尽管OpenAI多次试图将其驳回，但此案现在将于4月27日在加利福尼亚北部联邦法院进行陪审团审判。马斯克的主要指控是，OpenAI及其领导层放弃了公司最初的非营利使命，这是他资助的。作为回应，OpenAI将马斯克的指控视为酸葡萄心理。美国地区法官伊冯娜·冈萨雷斯·罗杰斯最近决定此案有资格进行审判，她在法庭上表示，“这部分……\n阅读完整故事请访问The Verge。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": null,
+      "original_language": "en",
+      "original_title": "‘Sideshow’ concerns and billionaire dreams: What I learned from Elon Musk’s lawsuit against OpenAI",
+      "source_url": "https://www.theverge.com/column/863319/highlights-musk-v-altman-openai",
+      "id": 67
+    },
+    {
+      "title": "苹果在人工智能竞赛中败北——真正的挑战才刚刚开始",
+      "summary": "Siri，你在吗？是我，Gemini。对于一个AI的失败者来说，苹果去年做了很多它擅长的事情：卖iPhone。本周，苹果公司宣布将使用Gemini模型来驱动备受期待的更智能的Siri，这看起来苹果在整个人工智能竞赛中已经大败而归。但前方还有一项重大挑战——苹果还没有出局。苹果智能在2024年起步时就遇到了很多问题。iPhone 16被宣传为“为苹果智能而打造”，但上市时却没有搭载它。接下来的几个月里，功能陆续到来……阅读完整故事请访问The Verge。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": null,
+      "original_language": "en",
+      "original_title": "Apple lost the AI race — now the real challenge starts",
+      "source_url": "https://www.theverge.com/tech/861957/google-apple-ai-deal-iphone-gemini",
       "id": 68
+    },
+    {
+      "title": "谷歌假日帮助指南",
+      "summary": "在假日期间，了解更多关于使用谷歌产品如Gemini、搜索、购物、Pixel等的信息。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": null,
+      "original_language": "en",
+      "original_title": "The Google guide for holiday help",
+      "source_url": "https://blog.google/innovation-and-ai/technology/ai/holiday-planning-ai-gemini-tips/",
+      "id": 69
+    },
+    {
+      "title": "姚班传奇陈立杰入职OpenAI！16岁保送清华，30岁拿下UC伯克利助理教授",
+      "summary": "姚班传奇陈立杰已加入OpenAI。他16岁时被保送进入清华大学，并在30岁时成为加州大学伯克利分校的助理教授。陈立杰在人工智能领域有着深厚的学术背景和研究经验，此次加入OpenAI，标志着他在人工智能领域的进一步发展。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": null,
+      "original_language": "zh",
+      "original_title": "姚班传奇陈立杰入职OpenAI！16岁保送清华，30岁拿下UC伯克利助理教授",
+      "source_url": "https://www.qbitai.com/2026/01/369684.html",
+      "id": 70
+    },
+    {
+      "title": "Gemini胜出",
+      "summary": "如果你想赢得人工智能竞赛——我指的是赢得最大、最有利可图、最能按照你的意愿塑造世界的那种——你必须同时做很多事情。你需要一个无疑是市场上最好的模型。你需要几乎无限的资源来继续改进这个模型并在大规模上部署它。你需要至少一个很多人使用的基于AI的产品，理想情况下还有更多。你还需要尽可能多地获取你用户的其他数据——他们的个人信息、他们的在线活动，甚至是他们电脑上的文件。每一个……\n阅读完整故事请访问The Verge。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": null,
+      "original_language": "en",
+      "original_title": "Gemini is winning",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/861863/google-gemini-ai-race-winner",
+      "id": 71
     },
     {
       "title": "谷歌假期助手指南",
@@ -759,7 +792,7 @@
       "original_language": "en",
       "original_title": "The Google guide for holiday help",
       "source_url": "https://blog.google/innovation-and-ai/technology/ai/holiday-planning-ai-gemini-tips/",
-      "id": 69
+      "id": 72
     },
     {
       "title": "OpenAI 与 Cerebras 合作，增加 750MW 的高速 AI 计算，降低推理延迟，使 ChatGPT 更适合实时 AI 工作负载",
@@ -770,7 +803,7 @@
       "original_language": "en",
       "original_title": "OpenAI partners with Cerebras  ",
       "source_url": "https://openai.com/index/cerebras-partnership",
-      "id": 70
+      "id": 73
     },
     {
       "title": "为青少年和家长提供的AI素养资源",
@@ -781,7 +814,7 @@
       "original_language": "en",
       "original_title": "AI literacy resources for teens and parents",
       "source_url": "https://openai.com/index/ai-literacy-resources-for-teens-and-parents",
-      "id": 71
+      "id": 74
     },
     {
       "title": "OpenAI投资Sam Altman的大脑计算机接口初创公司Merge Labs",
@@ -792,7 +825,7 @@
       "original_language": "en",
       "original_title": "OpenAI invests in Sam Altman’s brain computer interface startup Merge Labs",
       "source_url": "https://techcrunch.com/2026/01/15/openai-invests-in-sam-altmans-brain-computer-interface-startup-merge-labs/",
-      "id": 72
+      "id": 75
     },
     {
       "title": "OpenAI的ChatGPT翻译器挑战Google Translate",
@@ -803,7 +836,7 @@
       "original_language": "en",
       "original_title": "OpenAI’s ChatGPT translator challenges Google Translate",
       "source_url": "https://www.theverge.com/news/862448/openai-chatgpt-translate-tool-launch-website",
-      "id": 73
+      "id": 76
     },
     {
       "title": "OpenAI与Cerebras合作，增加750MW的高速AI计算能力，降低推理延迟并使ChatGPT在实时AI工作负载中更快",
@@ -814,7 +847,7 @@
       "original_language": "en",
       "original_title": "OpenAI partners with Cerebras  ",
       "source_url": "https://openai.com/index/cerebras-partnership",
-      "id": 74
+      "id": 77
     },
     {
       "title": "GPT-5.2-Codex系统卡片补充：GPT-5.2-Codex",
@@ -825,7 +858,7 @@
       "original_language": "en",
       "original_title": "Addendum to GPT-5.2 System Card: GPT-5.2-Codex",
       "source_url": "https://openai.com/index/gpt-5-2-codex-system-card",
-      "id": 75
+      "id": 78
     },
     {
       "title": "ChatGPT Health允许您将医疗记录连接到编造事实的人工智能",
@@ -836,7 +869,7 @@
       "original_language": "en",
       "original_title": "ChatGPT Health lets you connect medical records to an AI that makes things up",
       "source_url": "https://arstechnica.com/ai/2026/01/chatgpt-health-lets-you-connect-medical-records-to-an-ai-that-makes-things-up/",
-      "id": 76
+      "id": 79
     },
     {
       "title": "OpenAI 与 Cerebras 合作，增加 750MW 的高速 AI 计算，降低推理延迟并使 ChatGPT 在实时 AI 工作负载中运行更快",
@@ -847,7 +880,7 @@
       "original_language": "en",
       "original_title": "OpenAI partners with Cerebras  ",
       "source_url": "https://openai.com/index/cerebras-partnership",
-      "id": 77
+      "id": 80
     },
     {
       "title": "ChatGPT再次遭遇新的数据窃取攻击，AI恶性循环持续",
@@ -858,18 +891,7 @@
       "original_language": "en",
       "original_title": "ChatGPT falls to new data-pilfering attack as a vicious cycle in AI continues",
       "source_url": "https://arstechnica.com/security/2026/01/chatgpt-falls-to-new-data-pilfering-attack-as-a-vicious-cycle-in-ai-continues/",
-      "id": 78
-    },
-    {
-      "title": "OpenAI的新ChatGPT图像生成器让伪造照片变得容易",
-      "summary": "新的GPT Image 1.5允许更详细的对话式图像编辑，好坏参半。",
-      "is_legal": true,
-      "is_ai_related": true,
-      "publish_time": "2025-12-16",
-      "original_language": "en",
-      "original_title": "OpenAI’s new ChatGPT image generator makes faking photos easy",
-      "source_url": "https://arstechnica.com/ai/2025/12/openais-new-chatgpt-image-generator-makes-faking-photos-easy/",
-      "id": 79
+      "id": 81
     },
     {
       "title": "中国团队Deep Principle发布LLMs for Science评测，引爆外网",
@@ -880,7 +902,7 @@
       "original_language": "zh",
       "original_title": "神同步OpenAI！中国团队Deep Principle领衔发布LLMs for Science评测，引爆外网",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-16-9",
-      "id": 80
+      "id": 82
     },
     {
       "title": "Mira Murati的初创公司Thinking Machines Lab失去两位联合创始人加入OpenAI",
@@ -891,7 +913,7 @@
       "original_language": "en",
       "original_title": "Mira Murati’s startup, Thinking Machines Lab, is losing two of its co-founders to OpenAI",
       "source_url": "https://techcrunch.com/2026/01/14/mira-muratis-startup-thinking-machines-lab-is-losing-two-of-its-co-founders-to-openai/",
-      "id": 81
+      "id": 83
     },
     {
       "title": "OpenAI投资Merge Labs",
@@ -902,7 +924,7 @@
       "original_language": "en",
       "original_title": "Investing in Merge Labs",
       "source_url": "https://openai.com/index/investing-in-merge-labs",
-      "id": 82
+      "id": 84
     },
     {
       "title": "OpenAI与Cerebras合作，增加750MW高速AI计算能力，降低推理延迟，使ChatGPT在实时AI工作负载中运行更快",
@@ -913,7 +935,7 @@
       "original_language": "en",
       "original_title": "OpenAI partners with Cerebras  ",
       "source_url": "https://openai.com/index/cerebras-partnership",
-      "id": 83
+      "id": 85
     },
     {
       "title": "Netomi的扩展企业代理系统的经验教训",
@@ -924,7 +946,7 @@
       "original_language": "en",
       "original_title": "Netomi’s lessons for scaling agentic systems into the enterprise",
       "source_url": "https://openai.com/index/netomi",
-      "id": 84
+      "id": 86
     },
     {
       "title": "Tolan构建基于GPT-5.1的语音AI助手",
@@ -935,7 +957,7 @@
       "original_language": "en",
       "original_title": "How Tolan builds voice-first AI with GPT-5.1",
       "source_url": "https://openai.com/index/tolan",
-      "id": 85
+      "id": 87
     },
     {
       "title": "持续强化ChatGPT Atlas对提示注入的防御",
@@ -946,7 +968,7 @@
       "original_language": "en",
       "original_title": "Continuously hardening ChatGPT Atlas against prompt injection",
       "source_url": "https://openai.com/index/hardening-atlas-against-prompt-injection",
-      "id": 86
+      "id": 88
     },
     {
       "title": "OpenAI更新模型规范以保护青少年",
@@ -957,7 +979,7 @@
       "original_language": "en",
       "original_title": "Updating our Model Spec with teen protections",
       "source_url": "https://openai.com/index/updating-model-spec-with-teen-protections",
-      "id": 87
+      "id": 89
     },
     {
       "title": "OpenAI为青少年和家长分享新的AI素养资源",
@@ -968,7 +990,7 @@
       "original_language": "en",
       "original_title": "AI literacy resources for teens and parents",
       "source_url": "https://openai.com/index/ai-literacy-resources-for-teens-and-parents",
-      "id": 88
+      "id": 90
     },
     {
       "title": "ChatGPT遭遇新的数据窃取攻击，AI恶性循环持续",
@@ -979,7 +1001,7 @@
       "original_language": "en",
       "original_title": "ChatGPT falls to new data-pilfering attack as a vicious cycle in AI continues",
       "source_url": "https://arstechnica.com/security/2026/01/chatgpt-falls-to-new-data-pilfering-attack-as-a-vicious-cycle-in-ai-continues/",
-      "id": 89
+      "id": 91
     }
   ]
 }
