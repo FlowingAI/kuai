@@ -13,7 +13,7 @@ RSS_SOURCES = [
 
 def get_ai_summary(text):
     """调用 Gemini AI 进行总结"""
-    api_key = os.getenv("GEMINI_API_KEY")
+    api_key = os.getenv("KUAI_API_KEY")
     if not api_key:
         return "（未配置 API Key）"
     
