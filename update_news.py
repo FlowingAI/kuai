@@ -4,7 +4,7 @@ import os
 import json
 from datetime import datetime, timedelta
 
-# --- 配置区 ---
+# --- 1. 配置区 ---
 RSS_SOURCES = [
     "https://rsshub.app/twitter/user/OpenAI",
     "https://rsshub.app/twitter/user/ClaudeAI",
@@ -16,12 +16,28 @@ RSS_SOURCES = [
 def get_ai_summary(text):
     api_key = os.getenv("KUAI_API_KEY")
     if not api_key: return "（未配置 API Key）"
+    
+    # 升级为最新的 1.5-flash 模型，解决 404 问题
+    model = "gemini-1.5-flash" 
+    url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent?key={api_key}"
+    
     prompt = f"请将以下AI动态翻译并总结为一句话中文干货，30字以内：\n{text}"
-    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?key={api_key}"
+    
+    payload = {
+        "contents": [{"parts": [{"text": prompt}]}]
+    }
+    
     try:
-        response = requests.post(url, headers={'Content-Type': 'application/json'}, json={"contents": [{"parts": [{"text": prompt}]}]}, timeout=15)
-        return response.json()['candidates'][0]['content']['parts'][0]['text']
-    except: return "动态总结生成中..."
+        response = requests.post(url, json=payload, timeout=15)
+        # 增加状态码检查
+        if response.status_code == 200:
+            return response.json()['candidates'][0]['content']['parts'][0]['text']
+        else:
+            print(f"API 报错: {response.status_code} - {response.text}")
+            return "动态总结生成中..."
+    except Exception as e:
+        print(f"请求异常: {e}")
+        return "动态总结生成中..."
 
 def classify_news(title):
     t = title.lower()
@@ -63,13 +79,14 @@ def run():
 
     if new_found > 0:
         db_data.sort(key=lambda x: x['timestamp'], reverse=True)
+        # 限制数据库大小，防止文件过大导致读取慢
+        db_data = db_data[:100] 
         with open(db_file, 'w', encoding='utf-8') as f:
             json.dump(db_data, f, ensure_ascii=False, indent=2)
     
     render_html(db_data)
 
 def render_html(data):
-    # 为四个分类准备内容容器
     html_chunks = {'llm': '', 'video': '', 'code': '', 'tools': ''}
     for item in data:
         card = f'<div class="news-card"><span class="date-tag">{item["date"]}</span><div class="news-title">{item["title"]}</div><p class="news-summary">{item["summary"]}</p></div>\n'
@@ -77,30 +94,28 @@ def render_html(data):
         if cat in html_chunks:
             html_chunks[cat] += card
 
+    if not os.path.exists("index.html"):
+        print("错误：index.html 文件不存在")
+        return
+
     with open("index.html", "r", encoding="utf-8") as f:
         content = f.read()
 
-    # 使用更加鲁棒的查找替换逻辑
     for c_id, c_html in html_chunks.items():
         start_tag = f""
         end_tag = f""
         
-        # 找到两个标签的位置
         start_pos = content.find(start_tag)
         end_pos = content.find(end_tag)
         
         if start_pos != -1 and end_pos != -1:
-            # 提取标签之前的内容
             before = content[:start_pos + len(start_tag)]
-            # 提取标签之后的内容
             after = content[end_pos:]
-            # 拼接
-            content = before + "\n" + c_html + after
-        else:
-            print(f"跳过分类 {c_id}: 未在 HTML 中找到标记")
+            content = before + "\n" + (c_html if c_html else '<p style="color:#ccc;font-size:12px;">暂无近期动态</p>') + after
 
     with open("index.html", "w", encoding="utf-8") as f:
         f.write(content)
+    print("网页渲染成功")
 
 def commit_changes():
     os.system('git config --global user.name "github-actions[bot]"')
@@ -108,8 +123,10 @@ def commit_changes():
     os.system('git add index.html data.json')
     status = os.popen('git status --porcelain').read()
     if status:
-        os.system('git commit -m "Update content [skip ci]"')
+        os.system('git commit -m "Update News [skip ci]"')
         os.system('git push')
+    else:
+        print("无数据变化")
 
 if __name__ == "__main__":
     run()
