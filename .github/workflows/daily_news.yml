@@ -1,0 +1,38 @@
+name: AI News Auto Update
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # 每天北京时间早上 8 点自动运行
+  workflow_dispatch: # 允许你手动点击按钮运行
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code (获取代码)
+        uses: actions/checkout@v3
+
+      - name: Set up Python (安装运行环境)
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Install dependencies (安装必要插件)
+        run: pip install feedparser requests
+
+      - name: Run AI Update Script (执行 AI 抓取与总结)
+        env:
+          GEMINI_API_KEY: ${{ secrets.KUAI_API_KEY }} # 使用你存在 Settings 里的钥匙
+        run: |
+          # 这里我会为你编写具体的 Python 抓取逻辑，目前先占位
+          echo "正在连接全球 AI 资讯源..."
+          echo "正在请求 Gemini AI 进行脱水总结..."
+          # 脚本会更新 index.html 的内容
+
+      - name: Commit and Push (把更新后的网页发回仓库)
+        run: |
+          git config --global user.name "FlowINGAi-Bot"
+          git config --global user.email "bot@flowingai.com"
+          git add index.html
+          git commit -m "Daily AI news update" || exit 0
+          git push
