@@ -1,7 +1,29 @@
 {
   "category": "全球AI动态",
-  "last_update": "2026/1/16 23:30:43",
+  "last_update": "2026/1/16 23:52:28",
   "news": [
+    {
+      "title": "人工智能实验室的员工流动速度越来越快",
+      "summary": "人工智能实验室难以留住员工。昨天的重大人工智能新闻是Mira Murati的Thinking Machines实验室的三位顶级高管突然且似乎带有敌意的离职。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-15",
+      "original_language": "en",
+      "original_title": "The AI lab revolving door spins ever faster",
+      "source_url": "https://techcrunch.com/2026/01/15/the-ai-lab-revolving-door-spins-ever-faster/",
+      "id": 1
+    },
+    {
+      "title": "谷歌健康检查2025：分享AI在健康领域的潜力以及最新的健康AI研究、合作和产品更新",
+      "summary": "在2025年的健康检查活动中，我们分享了关于AI在健康领域潜力的更多信息，以及我们最新的健康AI研究、合作和产品更新。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": null,
+      "original_language": "en",
+      "original_title": "The Check Up with Google",
+      "source_url": "https://blog.google/innovation-and-ai/technology/health/google-health-check-up-2025/",
+      "id": 2
+    },
     {
       "title": "人工智能实验室的员工流失速度越来越快",
       "summary": "人工智能实验室难以留住员工。昨天的重大人工智能新闻是Mira Murati的Thinking Machines实验室的三位顶级高管突然且似乎充满敌意的离职。",
@@ -11,7 +33,7 @@
       "original_language": "en",
       "original_title": "The AI lab revolving door spins ever faster",
       "source_url": "https://techcrunch.com/2026/01/15/the-ai-lab-revolving-door-spins-ever-faster/",
-      "id": 1
+      "id": 3
     },
     {
       "title": "谷歌健康检查2025：分享AI在健康领域的潜力及最新研究、合作伙伴关系和产品更新",
@@ -22,33 +44,11 @@
       "original_language": "en",
       "original_title": "The Check Up with Google",
       "source_url": "https://blog.google/innovation-and-ai/technology/health/google-health-check-up-2025/",
-      "id": 2
-    },
-    {
-      "title": "人工智能实验室的员工流动速度越来越快",
-      "summary": "人工智能实验室无法留住员工。昨天的重大人工智能新闻是Mira Murati的Thinking Machines实验室的三位顶级高管突然且似乎带有敌意的离职。",
-      "is_legal": true,
-      "is_ai_related": true,
-      "publish_time": "2026-01-15",
-      "original_language": "en",
-      "original_title": "The AI lab revolving door spins ever faster",
-      "source_url": "https://techcrunch.com/2026/01/15/the-ai-lab-revolving-door-spins-ever-faster/",
-      "id": 3
+      "id": 4
     },
     {
       "title": "谷歌健康检查2025：分享AI在健康领域的潜力及最新研究、合作和产品更新",
       "summary": "在2025年的健康检查活动中，我们分享了关于人工智能在健康领域的潜力以及我们最新的健康人工智能研究、合作和产品更新。",
-      "is_legal": true,
-      "is_ai_related": true,
-      "publish_time": null,
-      "original_language": "en",
-      "original_title": "The Check Up with Google",
-      "source_url": "https://blog.google/innovation-and-ai/technology/health/google-health-check-up-2025/",
-      "id": 4
-    },
-    {
-      "title": "谷歌健康检查2025：分享AI在健康领域的潜力以及最新的健康AI研究、合作和产品更新",
-      "summary": "在2025年的健康检查活动中，我们分享了关于人工智能在健康领域的潜力以及我们最新的健康AI研究、合作和产品更新。",
       "is_legal": true,
       "is_ai_related": true,
       "publish_time": null,
