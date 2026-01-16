@@ -1,0 +1,28 @@
+name: AI News Auto Update
+
+on:
+  schedule:
+    - cron: '0 */12 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Install dependencies
+        run: |
+          pip install feedparser requests
+
+      - name: Run update script
+        env:
+          # 关键修改：将 Secret 映射为 ZHIPU_API_KEY
+          ZHIPU_API_KEY: ${{ secrets.ZHIPU_API_KEY }}
+        run: python update_news.py
