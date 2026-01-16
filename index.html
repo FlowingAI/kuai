@@ -6,144 +6,59 @@
     <title>FlowINGAi | AI脱水情报站</title>
     <style>
         :root { --bg: #05070a; --card-bg: rgba(255, 255, 255, 0.03); --aurora-green: #00f5d4; --electric-purple: #9b5de5; --text-dim: #888; }
-        body { background: var(--bg); color: #fff; font-family: 'PingFang SC', sans-serif; margin: 0; padding: 20px; }
+        body { background: var(--bg); color: #fff; font-family: sans-serif; margin: 0; padding: 20px; }
         .header { text-align: center; margin: 40px 0; }
-        h1 { font-size: 2.5rem; background: linear-gradient(135deg, #fff, var(--electric-purple)); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
-        
-        .grid-container {
-            display: grid;
-            grid-template-columns: repeat(2, 1fr);
-            gap: 20px;
-            max-width: 1200px;
-            margin: 0 auto;
-        }
-
-        .category-box {
-            background: rgba(255,255,255,0.02);
-            border: 1px solid rgba(255,255,255,0.08);
-            border-radius: 20px;
-            padding: 20px;
-            display: flex;
-            flex-direction: column;
-            min-height: 500px;
-        }
-
-        .box-title { 
-            color: var(--aurora-green); 
-            border-left: 4px solid var(--aurora-green); 
-            padding-left: 10px; 
-            margin-bottom: 20px; 
-            font-size: 1.2rem;
-            font-weight: bold; 
-        }
-        
-        .news-card { 
-            background: var(--card-bg); 
-            border-radius: 12px; 
-            padding: 15px; 
-            margin-bottom: 15px; 
-            display: none; 
-            border: 1px solid transparent; 
-            transition: 0.3s;
-        }
-        .news-card:hover { border-color: var(--aurora-green); transform: translateX(5px); }
-        .date-tag { color: var(--aurora-green); font-size: 0.8rem; font-weight: 600; }
-        .news-title { font-size: 1rem; font-weight: bold; margin: 8px 0; line-height: 1.4; }
-        .news-summary { color: var(--text-dim); font-size: 0.9rem; line-height: 1.5; margin: 0; }
-
-        .pagination { display: flex; justify-content: space-between; align-items: center; margin-top: auto; padding-top: 15px; border-top: 1px solid rgba(255,255,255,0.05); }
-        .btn { background: transparent; border: 1px solid #333; color: #888; border-radius: 50px; cursor: pointer; padding: 6px 15px; font-size: 0.8rem; }
-        .btn:hover:not(:disabled) { border-color: var(--aurora-green); color: var(--aurora-green); }
-        .btn:disabled { opacity: 0.3; cursor: not-allowed; }
-        .page-info { font-size: 0.75rem; color: #444; }
-
-        @media (max-width: 850px) { .grid-container { grid-template-columns: 1fr; } }
+        h1 { background: linear-gradient(135deg, #fff, var(--electric-purple)); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+        .grid-container { display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; max-width: 1200px; margin: 0 auto; }
+        .category-box { background: rgba(255,255,255,0.02); border: 1px solid rgba(255,255,255,0.08); border-radius: 20px; padding: 20px; display: flex; flex-direction: column; min-height: 450px; }
+        .box-title { color: var(--aurora-green); border-left: 4px solid var(--aurora-green); padding-left: 10px; margin-bottom: 20px; font-weight: bold; }
+        .news-card { background: var(--card-bg); border-radius: 12px; padding: 15px; margin-bottom: 12px; display: none; border: 1px solid transparent; }
+        .news-card:hover { border-color: var(--aurora-green); }
+        .date-tag { color: var(--aurora-green); font-size: 0.8rem; }
+        .news-title { font-size: 1rem; font-weight: bold; margin: 5px 0; }
+        .news-summary { color: var(--text-dim); font-size: 0.9rem; margin: 0; }
+        .pagination { display: flex; justify-content: space-between; margin-top: auto; padding-top: 10px; }
+        .btn { background: transparent; border: 1px solid #333; color: #888; border-radius: 5px; cursor: pointer; padding: 5px 10px; }
+        @media (max-width: 800px) { .grid-container { grid-template-columns: 1fr; } }
     </style>
 </head>
 <body>
-    <div class="header">
-        <div style="letter-spacing: 4px; color:var(--aurora-green); font-weight:900; margin-bottom:10px;">FLOWINGAI</div>
-        <h1>别在 AI 的废话里浪费生命</h1>
-        <p style="color:#555; max-width:600px; margin: 0 auto;">全线监控大模型、视频生成、AI编程及生产力工具。全球情报，实时翻译，自动脱水。</p>
-    </div>
-
+    <div class="header"><h1>FlowINGAi 脱水简报</h1><p style="color:#444">既然改变不了浪潮，那就学会冲浪</p></div>
     <div class="grid-container">
         <div class="category-box" id="box-llm">
-            <div class="box-title">🤖 大模型动态</div>
+            <div class="box-title">🤖 大模型</div>
             <div class="content-area"></div>
-            <div class="pagination">
-                <button class="btn" onclick="page(this, -1)">上一页</button>
-                <span class="page-info"></span>
-                <button class="btn" onclick="page(this, 1)">下一页</button>
-            </div>
+            <div class="pagination"><button class="btn" onclick="page(this, -1)">上页</button><button class="btn" onclick="page(this, 1)">下页</button></div>
         </div>
-
         <div class="category-box" id="box-video">
             <div class="box-title">🎬 视频生成</div>
             <div class="content-area"></div>
-            <div class="pagination">
-                <button class="btn" onclick="page(this, -1)">上一页</button>
-                <span class="page-info"></span>
-                <button class="btn" onclick="page(this, 1)">下一页</button>
-            </div>
+            <div class="pagination"><button class="btn" onclick="page(this, -1)">上页</button><button class="btn" onclick="page(this, 1)">下页</button></div>
         </div>
-
         <div class="category-box" id="box-code">
             <div class="box-title">💻 AI 编程</div>
             <div class="content-area"></div>
-            <div class="pagination">
-                <button class="btn" onclick="page(this, -1)">上一页</button>
-                <span class="page-info"></span>
-                <button class="btn" onclick="page(this, 1)">下一页</button>
-            </div>
+            <div class="pagination"><button class="btn" onclick="page(this, -1)">上页</button><button class="btn" onclick="page(this, 1)">下页</button></div>
         </div>
-
         <div class="category-box" id="box-tools">
             <div class="box-title">🛠️ 生产力工具</div>
             <div class="content-area"></div>
-            <div class="pagination">
-                <button class="btn" onclick="page(this, -1)">上一页</button>
-                <span class="page-info"></span>
-                <button class="btn" onclick="page(this, 1)">下一页</button>
-            </div>
+            <div class="pagination"><button class="btn" onclick="page(this, -1)">上页</button><button class="btn" onclick="page(this, 1)">下页</button></div>
         </div>
     </div>
-
     <script>
-        const pSize = 10;
-        const states = { 'box-llm': 1, 'box-video': 1, 'box-code': 1, 'box-tools': 1 };
-
+        const pSize = 8; const states = { 'box-llm': 1, 'box-video': 1, 'box-code': 1, 'box-tools': 1 };
         function updateBox(boxId) {
-            const box = document.getElementById(boxId);
-            const cards = box.querySelectorAll('.news-card');
-            const pageNum = states[boxId];
-            const totalPages = Math.ceil(cards.length / pSize) || 1;
-
-            cards.forEach((c, i) => {
-                c.style.display = (i >= (pageNum-1)*pSize && i < pageNum*pSize) ? 'block' : 'none';
-            });
-
-            box.querySelector('.page-info').innerText = `${pageNum} / ${totalPages}`;
-            box.querySelectorAll('.btn')[0].disabled = (pageNum === 1);
-            box.querySelectorAll('.btn')[1].disabled = (pageNum === totalPages);
+            const box = document.getElementById(boxId); const cards = box.querySelectorAll('.news-card'); const page = states[boxId];
+            cards.forEach((c, i) => { c.style.display = (i >= (page-1)*pSize && i < page*pSize) ? 'block' : 'none'; });
         }
-
         function page(btn, step) {
-            const box = btn.closest('.category-box');
-            const boxId = box.id;
-            const cards = box.querySelectorAll('.news-card');
+            const boxId = btn.closest('.category-box').id; const cards = document.getElementById(boxId).querySelectorAll('.news-card');
             const maxPage = Math.ceil(cards.length / pSize) || 1;
-            
             let newPage = states[boxId] + step;
-            if (newPage >= 1 && newPage <= maxPage) {
-                states[boxId] = newPage;
-                updateBox(boxId);
-            }
+            if (newPage >= 1 && newPage <= maxPage) { states[boxId] = newPage; updateBox(boxId); }
         }
-
-        window.onload = () => {
-            Object.keys(states).forEach(updateBox);
-        };
+        window.onload = () => Object.keys(states).forEach(updateBox);
     </script>
 </body>
 </html>
