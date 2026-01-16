@@ -185,11 +185,11 @@ export const dataSources = {
  * 采集配置
  */
 export const fetchConfig = {
-  // 每次更新每个模块采集的新闻数量
-  newsCountPerCategory: 60,
+  // 每次更新每个模块采集的新闻数量（增加到100）
+  newsCountPerCategory: 100,
 
   // 搜索结果数量（需要比目标数量多，因为会有过滤）
-  searchResultsMultiplier: 3,
+  searchResultsMultiplier: 5,
 
   // API 请求间隔（毫秒）
   requestDelay: 1000,
