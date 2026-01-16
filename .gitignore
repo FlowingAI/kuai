@@ -40,7 +40,7 @@ Thumbs.db
 .claude/
 
 # 构建时生成的 public/data 目录
-public/
+# public/ 保留，因为需要 public/data 用于构建
 
 # 其他异常路径
 D_*
