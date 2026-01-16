@@ -252,7 +252,7 @@ const loadAllData = async () => {
   try {
     const promises = categories.map(async (category) => {
       try {
-        const response = await fetch(`/data/${category.file}`)
+        const response = await fetch(`./data/${category.file}`)
         if (!response.ok) {
           return { key: category.key, data: { news: [] } }
         }
