@@ -4,7 +4,7 @@ import os
 import json
 from datetime import datetime, timedelta
 
-# --- 1. 抓取源配置 ---
+# --- 配置区 ---
 RSS_SOURCES = [
     "https://rsshub.app/twitter/user/OpenAI",
     "https://rsshub.app/twitter/user/ClaudeAI",
@@ -15,18 +15,13 @@ RSS_SOURCES = [
 
 def get_ai_summary(text):
     api_key = os.getenv("KUAI_API_KEY")
-    if not api_key:
-        print("错误：未找到 KUAI_API_KEY")
-        return "（API配置错误）"
-    
+    if not api_key: return "（未配置 API Key）"
     prompt = f"请将以下AI动态翻译并总结为一句话中文干货，30字以内：\n{text}"
     url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?key={api_key}"
-    
     try:
         response = requests.post(url, headers={'Content-Type': 'application/json'}, json={"contents": [{"parts": [{"text": prompt}]}]}, timeout=15)
         return response.json()['candidates'][0]['content']['parts'][0]['text']
-    except Exception:
-        return "动态总结生成中..."
+    except: return "动态总结生成中..."
 
 def classify_news(title):
     t = title.lower()
@@ -37,17 +32,17 @@ def classify_news(title):
 
 def run():
     db_file = 'data.json'
+    db_data = []
     if os.path.exists(db_file):
         with open(db_file, 'r', encoding='utf-8') as f:
             try: db_data = json.load(f)
-            except: db_data = []
-    else: db_data = []
+            except: pass
 
     existing_titles = {item['title'] for item in db_data}
     new_found = 0
     ten_days_ago = datetime.now() - timedelta(days=10)
 
-    print("正在搜集并翻译全球 AI 动态...")
+    print("开始抓取最新动态...")
     for url in RSS_SOURCES:
         try:
             feed = feedparser.parse(url)
@@ -74,31 +69,35 @@ def run():
     render_html(db_data)
 
 def render_html(data):
-    cats = {'llm': '', 'video': '', 'code': '', 'tools': ''}
+    # 为四个分类准备内容容器
+    html_chunks = {'llm': '', 'video': '', 'code': '', 'tools': ''}
     for item in data:
-        html = f'''
-        <div class="news-card">
-            <span class="date-tag">{item["date"]}</span>
-            <div class="news-title">{item["title"]}</div>
-            <p class="news-summary">{item["summary"]}</p>
-        </div>'''
-        cats[item['category']] += html
+        card = f'<div class="news-card"><span class="date-tag">{item["date"]}</span><div class="news-title">{item["title"]}</div><p class="news-summary">{item["summary"]}</p></div>\n'
+        cat = item.get('category', 'llm')
+        if cat in html_chunks:
+            html_chunks[cat] += card
 
     with open("index.html", "r", encoding="utf-8") as f:
         content = f.read()
 
-    # 安全替换逻辑：如果标记不存在，跳过该分类，不报错
-    for c_id, c_html in cats.items():
-        start_mark = f""
-        end_mark = f""
+    # 使用更加鲁棒的查找替换逻辑
+    for c_id, c_html in html_chunks.items():
+        start_tag = f""
+        end_tag = f""
         
-        if start_mark in content and end_mark in content:
-            # 这里的切分逻辑确保不会出现 empty separator
-            parts = content.split(start_mark)
-            sub_parts = parts[1].split(end_mark)
-            content = parts[0] + start_mark + c_html + end_mark + sub_parts[1]
+        # 找到两个标签的位置
+        start_pos = content.find(start_tag)
+        end_pos = content.find(end_tag)
+        
+        if start_pos != -1 and end_pos != -1:
+            # 提取标签之前的内容
+            before = content[:start_pos + len(start_tag)]
+            # 提取标签之后的内容
+            after = content[end_pos:]
+            # 拼接
+            content = before + "\n" + c_html + after
         else:
-            print(f"警告：HTML 中未发现 {c_id} 的标记点，请检查 index.html")
+            print(f"跳过分类 {c_id}: 未在 HTML 中找到标记")
 
     with open("index.html", "w", encoding="utf-8") as f:
         f.write(content)
@@ -107,8 +106,10 @@ def commit_changes():
     os.system('git config --global user.name "github-actions[bot]"')
     os.system('git config --global user.email "github-actions[bot]@users.noreply.github.com"')
     os.system('git add index.html data.json')
-    os.system('git commit -m "Auto Update News" || echo "No changes"')
-    os.system('git push')
+    status = os.popen('git status --porcelain').read()
+    if status:
+        os.system('git commit -m "Update content [skip ci]"')
+        os.system('git push')
 
 if __name__ == "__main__":
     run()
