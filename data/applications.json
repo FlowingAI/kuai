@@ -1,10 +1,10 @@
 {
   "category": "当前主流应用",
-  "last_update": "2026/1/17 01:10:52",
+  "last_update": "2026/1/17 01:21:35",
   "news": [
     {
-      "title": "企业无法忽视的数十亿美元AI安全问题",
-      "summary": "AI代理本应使工作变得更简单。但它们也正在创造一个全新的安全噩梦类别。随着公司在其运营中部署AI驱动的聊天机器人、代理和共飞行员，他们面临着一个新的风险：如何让员工和AI代理使用强大的AI工具，而不会意外泄露敏感数据、违反合规规则或打开...",
+      "title": "企业不能忽视的数十亿美元AI安全问题",
+      "summary": "AI代理本应使工作变得更简单。但它们也在创造一个全新的安全噩梦类别。随着公司在其运营中部署AI驱动的聊天机器人、代理和共飞行员，他们面临着一个新的风险：如何让员工和AI代理使用强大的AI工具，而不会意外泄露敏感数据、违反合规规则或打开...",
       "is_legal": true,
       "is_ai_related": true,
       "publish_time": null,
@@ -25,8 +25,8 @@
       "id": 2
     },
     {
-      "title": "宣布 OpenAI Grove Cohort 2 开放申请",
-      "summary": "现在开放申请 OpenAI Grove Cohort 2，这是一个为期 5 周的创始人项目，面向任何阶段的个人，从想法阶段到产品阶段。参与者将获得 5 万美元的 API 信用额度，早期访问 AI 工具，以及来自 OpenAI 团队的实战指导。",
+      "title": "宣布OpenAI Grove Cohort 2开放申请",
+      "summary": "现在开放申请OpenAI Grove Cohort 2，这是一个为期5周的创始人项目，面向处于任何阶段的个人，从想法阶段到产品阶段。参与者将获得5万美元的API信用额度，早期访问AI工具，以及来自OpenAI团队的实战指导。",
       "is_legal": true,
       "is_ai_related": true,
       "publish_time": null,
@@ -34,6 +34,28 @@
       "original_title": "Announcing OpenAI Grove Cohort 2",
       "source_url": "https://openai.com/index/openai-grove",
       "id": 3
+    },
+    {
+      "title": "学习者和教育者是AI的新“超级用户”",
+      "summary": "谷歌2025年《我们与AI的生活》调查发现，人们正在使用AI工具学习新事物。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": null,
+      "original_language": "en",
+      "original_title": "Learners and educators are AI’s new “super users”",
+      "source_url": "https://blog.google/products-and-platforms/products/education/our-life-with-ai-2025/",
+      "id": 4
+    },
+    {
+      "title": "企业无法忽视的数十亿美元AI安全问题",
+      "summary": "AI代理本应使工作变得更简单。但它们也正在创造一个全新的安全噩梦类别。随着公司在其运营中部署AI驱动的聊天机器人、代理和共飞行员，他们面临着一个新的风险：如何让员工和AI代理使用强大的AI工具，而不会意外泄露敏感数据、违反合规规则或打开...",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": null,
+      "original_language": "en",
+      "original_title": "The multibillion-dollar AI security problem enterprises can’t ignore ",
+      "source_url": "https://techcrunch.com/podcast/the-multi-billion-ai-security-problem-enterprises-cant-ignore/",
+      "id": 5
     },
     {
       "title": "学习者和教育者是人工智能的新“超级用户”",
@@ -44,18 +66,7 @@
       "original_language": "en",
       "original_title": "Learners and educators are AI’s new “super users”",
       "source_url": "https://blog.google/products-and-platforms/products/education/our-life-with-ai-2025/",
-      "id": 4
-    },
-    {
-      "title": "学习者和教育者是AI的新“超级用户”",
-      "summary": "谷歌的2025年《我们与AI的生活》调查发现，人们正在使用AI工具来学习新事物。",
-      "is_legal": true,
-      "is_ai_related": true,
-      "publish_time": null,
-      "original_language": "en",
-      "original_title": "Learners and educators are AI’s new “super users”",
-      "source_url": "https://blog.google/products-and-platforms/products/education/our-life-with-ai-2025/",
-      "id": 5
+      "id": 6
     },
     {
       "title": "企业无法忽视的数十亿美元人工智能安全问题",
@@ -66,7 +77,7 @@
       "original_language": "en",
       "original_title": "The multibillion-dollar AI security problem enterprises can’t ignore ",
       "source_url": "https://techcrunch.com/podcast/the-multi-billion-ai-security-problem-enterprises-cant-ignore/",
-      "id": 6
+      "id": 7
     }
   ]
 }
