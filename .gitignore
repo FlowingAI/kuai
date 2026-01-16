@@ -1,0 +1,46 @@
+# 依赖
+node_modules/
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# 构建输出
+dist/
+build/
+
+# 环境变量
+.env
+.env.local
+.env.*.local
+
+# 日志
+logs/
+*.log
+npm-debug.log*
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 临时文件
+*.tmp
+.cache/
+
+# 本地数据（如果不想提交初始数据）
+# data/*.json
+
+# Claude Code 生成的文件
+.claude/
+
+# 构建时生成的 public/data 目录
+public/
+
+# 其他异常路径
+D_*

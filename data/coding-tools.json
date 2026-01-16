@@ -1,0 +1,72 @@
+{
+  "category": "AI编程工具进化",
+  "last_update": "2026/1/16 18:21:30",
+  "news": [
+    {
+      "title": "企业无法忽视的数十亿美元AI安全问题",
+      "summary": "AI代理本应使工作变得更简单。但它们也正在创造一个全新的安全噩梦类别。随着公司在其运营中部署AI驱动的聊天机器人、代理和共飞行员，他们面临着一个新的风险：如何让员工和AI代理使用强大的AI工具，而不会意外泄露敏感数据、违反合规规则或打开...",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": null,
+      "original_language": "en",
+      "original_title": "The multibillion-dollar AI security problem enterprises can’t ignore ",
+      "source_url": "https://techcrunch.com/podcast/the-multi-billion-ai-security-problem-enterprises-cant-ignore/",
+      "id": 1
+    },
+    {
+      "title": "Copilot遭受单点点击的隐蔽多阶段攻击",
+      "summary": "一项从聊天历史中窃取数据的漏洞即使在用户关闭聊天窗口后仍然有效。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-16",
+      "original_language": "en",
+      "original_title": "A single click mounted a covert, multistage attack against Copilot",
+      "source_url": "https://arstechnica.com/security/2026/01/a-single-click-mounted-a-covert-multistage-attack-against-copilot/",
+      "id": 2
+    },
+    {
+      "title": "企业不能忽视的数十亿美元AI安全问题",
+      "summary": "AI代理本应使工作变得更简单。但它们也正在创造一个全新的安全噩梦类别。随着公司在其运营中部署AI驱动的聊天机器人、代理和共飞行员，他们面临着一个新的风险：如何让员工和AI代理使用强大的AI工具，而不会意外泄露敏感数据，违反合规规则或打开...",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": null,
+      "original_language": "en",
+      "original_title": "The multibillion-dollar AI security problem enterprises can’t ignore ",
+      "source_url": "https://techcrunch.com/podcast/the-multi-billion-ai-security-problem-enterprises-cant-ignore/",
+      "id": 3
+    },
+    {
+      "title": "企业不能忽视的数十亿美元人工智能安全问题",
+      "summary": "AI代理本应使工作变得更简单。但它们也正在创造一个全新的安全噩梦类别。随着公司在其运营中部署人工智能驱动的聊天机器人、代理和共飞行员，他们面临着一个新的风险：如何让员工和AI代理使用强大的AI工具，而不会意外泄露敏感数据、违反合规规则或打开...",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": null,
+      "original_language": "en",
+      "original_title": "The multibillion-dollar AI security problem enterprises can’t ignore ",
+      "source_url": "https://techcrunch.com/podcast/the-multi-billion-ai-security-problem-enterprises-cant-ignore/",
+      "id": 4
+    },
+    {
+      "title": "企业无法忽视的数十亿美元人工智能安全问题",
+      "summary": "AI代理本应使工作变得更简单。但它们也在创造一个全新的安全噩梦类别。随着公司在其运营中部署AI驱动的聊天机器人、代理和共飞行员，他们面临着一个新的风险：如何让员工和AI代理使用强大的AI工具，而不会意外泄露敏感数据、违反合规规则或打开...",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": null,
+      "original_language": "en",
+      "original_title": "The multibillion-dollar AI security problem enterprises can’t ignore ",
+      "source_url": "https://techcrunch.com/podcast/the-multi-billion-ai-security-problem-enterprises-cant-ignore/",
+      "id": 5
+    },
+    {
+      "title": "单次点击即可发起针对Copilot的隐蔽多阶段攻击",
+      "summary": "一项从聊天历史中窃取数据的漏洞即使在用户关闭聊天窗口后仍然有效。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-16",
+      "original_language": "en",
+      "original_title": "A single click mounted a covert, multistage attack against Copilot",
+      "source_url": "https://arstechnica.com/security/2026/01/a-single-click-mounted-a-covert-multistage-attack-against-copilot/",
+      "id": 6
+    }
+  ]
+}

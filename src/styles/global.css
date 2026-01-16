@@ -1,0 +1,69 @@
+/* 主题色系全局样式 - 默认极简黑白主题 */
+:root {
+  --morandi-primary: #2C3E50;
+  --morandi-secondary: #95A5A6;
+  --morandi-accent: #34495E;
+  --morandi-text: #2C3E50;
+  --morandi-text-light: #7F8C8D;
+  --morandi-bg: #F8F9FA;
+  --morandi-card: #FFFFFF;
+  --morandi-border: #E0E0E0;
+  --morandi-hover: #E8E8E8;
+  --morandi-danger: #E74C3C;
+  --morandi-success: #27AE60;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Hiragino Sans GB',
+    'Microsoft YaHei', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: var(--morandi-bg);
+  color: var(--morandi-text);
+  line-height: 1.6;
+}
+
+/* 滚动条样式 */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--morandi-bg);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--morandi-secondary);
+  border-radius: 0;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--morandi-primary);
+}
+
+/* 通用工具类 */
+.text-center {
+  text-align: center;
+}
+
+.mt-20 {
+  margin-top: 20px;
+}
+
+.mb-20 {
+  margin-bottom: 20px;
+}
+
+/* 响应式 */
+@media (max-width: 768px) {
+  body {
+    font-size: 14px;
+  }
+}
