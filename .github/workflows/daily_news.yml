@@ -2,8 +2,8 @@ name: AI News Auto Update
 
 on:
   schedule:
-    - cron: '0 0 * * *' # 每天早上自动运行
-  workflow_dispatch: # 让你能手动点按钮测试
+    - cron: '0 0 * * *' # 每天运行一次
+  workflow_dispatch: # 允许手动运行
 
 jobs:
   build:
@@ -18,17 +18,11 @@ jobs:
           python-version: '3.9'
 
       - name: Install dependencies
-        run: pip install feedparser requests
-
-      - name: Run script
-        env:
-          GEMINI_API_KEY: ${{ secrets.KUAI_API_KEY }}
-        run: python update_news.py
-
-      - name: Commit and Push
         run: |
-          git config --global user.name "FlowINGAi-Bot"
-          git config --global user.email "bot@flowingai.com"
-          git add index.html
-          git commit -m "自动更新 AI 动态" || exit 0
-          git push
+          pip install feedparser requests
+
+      - name: Run update script
+        env:
+          # 关键点：这里必须把 Secret 映射给环境变量
+          KUAI_API_KEY: ${{ secrets.KUAI_API_KEY }}
+        run: python update_news.py
