@@ -5,7 +5,7 @@ import json
 import re
 from datetime import datetime, timedelta
 
-# --- 抓取源配置 ---
+# --- 1. 抓取源配置 ---
 RSS_SOURCES = [
     "https://rsshub.app/twitter/user/OpenAI",
     "https://rsshub.app/twitter/user/ClaudeAI",
@@ -15,40 +15,51 @@ RSS_SOURCES = [
     "https://news.google.com/rss/search?q=AI+Sora+Claude+Code+Cursor+Kling+when:10d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans"
 ]
 
+# --- 2. AI 翻译与总结函数 ---
 def get_ai_summary(text):
-    api_key = os.getenv("GEMINI_API_KEY")
-    if not api_key: return "（未配置 API Key）"
-    # 增加翻译指令
-    prompt = f"你是一个AI专家。请将以下动态总结为一句话中文干货（若原内容为英文请翻译）。要求：30字以内，不含废话。内容：\n{text}"
+    # 这里已修改为匹配你的 Secret 名称: KUAI_API_KEY
+    api_key = os.getenv("KUAI_API_KEY")
+    
+    if not api_key:
+        print("错误：未找到 KUAI_API_KEY，请检查 GitHub Secrets 配置。")
+        return "（API配置错误）"
+    
+    prompt = f"你是一个AI专家。请将以下动态总结为一句话中文干货（若原内容为英文请务必翻译成中文）。要求：30字以内，极其精炼。内容：\n{text}"
     url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?key={api_key}"
+    
     try:
         response = requests.post(url, headers={'Content-Type': 'application/json'}, json={"contents": [{"parts": [{"text": prompt}]}]}, timeout=15)
         return response.json()['candidates'][0]['content']['parts'][0]['text']
-    except: return "动态总结生成中..."
+    except Exception as e:
+        print(f"AI总结出错: {e}")
+        return "动态总结生成中..."
 
+# --- 3. 自动分类逻辑 ---
 def classify_news(title):
-    """简单的关键词分类逻辑"""
-    title_lower = title.lower()
-    if any(word in title_lower for word in ['sora', 'video', 'runway', 'pika', 'kling', 'luma', '视频']):
+    t = title.lower()
+    if any(w in t for w in ['sora', 'video', 'runway', 'pika', 'kling', 'luma', '视频', '生成视频']):
         return 'video'
-    if any(word in title_lower for word in ['code', 'cursor', 'programming', 'github', 'python', '编程', '代码']):
+    if any(w in t for w in ['code', 'cursor', 'programming', 'github', 'python', '编程', '代码', 'copilot']):
         return 'code'
-    if any(word in title_lower for word in ['tool', 'agent', 'productivity', 'plugin', 'app', '工具', '助手']):
+    if any(w in t for w in ['tool', 'agent', 'productivity', 'plugin', 'app', '工具', '助手', '插件']):
         return 'tools'
-    return 'llm' # 默认归类为大模型
+    return 'llm'
 
+# --- 4. 核心运行逻辑 ---
 def run():
     db_file = 'data.json'
     if os.path.exists(db_file):
         with open(db_file, 'r', encoding='utf-8') as f:
             try: db_data = json.load(f)
             except: db_data = []
-    else: db_data = []
+    else:
+        db_data = []
 
     existing_titles = {item['title'] for item in db_data}
     new_found = 0
     ten_days_ago = datetime.now() - timedelta(days=10)
 
+    print("正在搜集并翻译全球 AI 动态...")
     for url in RSS_SOURCES:
         try:
             feed = feedparser.parse(url)
@@ -71,15 +82,16 @@ def run():
         db_data.sort(key=lambda x: x['timestamp'], reverse=True)
         with open(db_file, 'w', encoding='utf-8') as f:
             json.dump(db_data, f, ensure_ascii=False, indent=2)
+        print(f"数据库已更新，新增 {new_found} 条动态。")
     
     render_html(db_data)
 
+# --- 5. 渲染 HTML 页面 ---
 def render_html(data):
-    # 分别筛选四个分类的数据
     cats = {'llm': '', 'video': '', 'code': '', 'tools': ''}
     for item in data:
         html = f'''
-        <div class="news-card" data-cat="{item['category']}">
+        <div class="news-card">
             <span class="date-tag">{item["date"]}</span>
             <div class="news-title">{item["title"]}</div>
             <p class="news-summary">{item["summary"]}</p>
@@ -89,13 +101,26 @@ def render_html(data):
     with open("index.html", "r", encoding="utf-8") as f:
         content = f.read()
 
-    # 使用正则分别替换四个区域
     for c_id, c_html in cats.items():
         pattern = f'.*?'
         content = re.sub(pattern, f'{c_html}', content, flags=re.DOTALL)
 
     with open("index.html", "w", encoding="utf-8") as f:
         f.write(content)
+    print("网页内容已刷新。")
+
+# --- 6. 自动存盘回仓库 ---
+def commit_changes():
+    try:
+        os.system('git config --global user.name "github-actions[bot]"')
+        os.system('git config --global user.email "github-actions[bot]@users.noreply.github.com"')
+        os.system('git add index.html data.json')
+        os.system('git commit -m "Auto Update News Database [skip ci]"')
+        os.system('git push')
+        print("成功：数据已保存回 GitHub 仓库。")
+    except Exception as e:
+        print(f"保存失败: {e}")
 
 if __name__ == "__main__":
     run()
+    commit_changes()
