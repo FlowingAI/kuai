@@ -5,116 +5,29 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>FlowINGAi | 实时 AI 自动化情报站</title>
     <style>
-        :root {
-            --bg-dark: #0a0c10; /* 背景黑 */
-            --aurora-green: #00f5d4; /* 极光绿 */
-            --electric-purple: #9b5de5; /* 电光紫 */
-            --glass: rgba(255, 255, 255, 0.03);
-            --border: rgba(255, 255, 255, 0.1);
-        }
-
-        body {
-            background-color: var(--bg-dark);
-            color: #fff;
-            font-family: 'Inter', -apple-system, sans-serif;
-            margin: 0;
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            min-height: 100vh;
-        }
-
-        .container {
-            width: 90%;
-            max-width: 900px;
-            margin: 60px auto;
-        }
-
-        /* 极简模块化设计 (Bento Box Style) */
-        .hero-card {
-            padding: 60px 40px;
-            border-radius: 40px;
-            background: linear-gradient(135deg, rgba(0, 245, 212, 0.05) 0%, rgba(153, 93, 229, 0.05) 100%);
-            border: 1px solid var(--border);
-            text-align: center;
-            backdrop-filter: blur(20px);
-            box-shadow: 0 30px 60px rgba(0,0,0,0.4);
-        }
-
-        .logo-text {
-            font-size: 1.2rem;
-            font-weight: 800;
-            letter-spacing: 2px;
-            color: var(--aurora-green);
-            margin-bottom: 20px;
-            text-transform: uppercase;
-        }
-
-        h1 {
-            font-size: clamp(2rem, 6vw, 3.5rem);
-            line-height: 1.1;
-            margin-bottom: 25px;
-            background: linear-gradient(to bottom right, #fff 30%, var(--electric-purple));
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-        }
-
-        .cta-btn {
-            display: inline-block;
-            padding: 20px 50px;
-            background: #fff;
-            color: #000;
-            text-decoration: none;
-            border-radius: 100px;
-            font-weight: 900;
-            font-size: 1.2rem;
-            transition: 0.3s;
-        }
-
-        .cta-btn:hover {
-            transform: scale(1.05);
-            box-shadow: 0 0 40px rgba(155, 93, 229, 0.6);
-            background: var(--aurora-green);
-        }
-
-        .status-bar {
-            margin-top: 30px;
-            font-size: 0.9rem;
-            color: var(--aurora-green);
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            gap: 10px;
-        }
-
-        /* 呼吸灯效果 */
-        .dot {
-            width: 8px;
-            height: 8px;
-            background: var(--aurora-green);
-            border-radius: 50%;
-            animation: pulse 1.5s infinite;
-        }
-
-        @keyframes pulse {
-            0% { opacity: 1; }
-            50% { opacity: 0.3; }
-            100% { opacity: 1; }
-        }
+        :root { --bg-dark: #0a0c10; --aurora-green: #00f5d4; --electric-purple: #9b5de5; --glass: rgba(255, 255, 255, 0.03); --border: rgba(255, 255, 255, 0.1); }
+        body { background-color: var(--bg-dark); color: #fff; font-family: 'Inter', sans-serif; margin: 0; display: flex; flex-direction: column; align-items: center; min-height: 100vh; }
+        .container { width: 90%; max-width: 900px; margin: 60px auto; }
+        .hero-card { padding: 40px; border-radius: 40px; background: linear-gradient(135deg, rgba(0, 245, 212, 0.05) 0%, rgba(153, 93, 229, 0.05) 100%); border: 1px solid var(--border); text-align: center; backdrop-filter: blur(20px); box-shadow: 0 30px 60px rgba(0,0,0,0.4); margin-bottom: 30px; }
+        .logo-text { font-size: 1.2rem; font-weight: 800; color: var(--aurora-green); margin-bottom: 10px; }
+        h1 { font-size: 2.5rem; margin-bottom: 20px; background: linear-gradient(to bottom right, #fff 30%, var(--electric-purple)); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+        .cta-btn { display: inline-block; padding: 15px 40px; background: #fff; color: #000; text-decoration: none; border-radius: 100px; font-weight: 900; transition: 0.3s; }
+        .cta-btn:hover { transform: scale(1.05); box-shadow: 0 0 40px rgba(155, 93, 229, 0.6); background: var(--aurora-green); }
+        /* 机器人投放新闻的核心区域 */
+        .news-preview { width: 100%; display: flex; flex-direction: column; gap: 15px; }
     </style>
 </head>
 <body>
     <div class="container">
         <div class="hero-card">
             <div class="logo-text">FlowINGAi</div>
-            <h1>让 AI 资讯<br>像流水一样自动化</h1>
-            <p style="color: #aaa; font-size: 1.2rem; margin-bottom: 40px;">我替你筛选全球 AI 讯息源。只看干货，不看废话。</p>
-            
-            <a href="https://x.com/你的账号" class="cta-btn">在 X 上订阅我 (第一时间推送)</a>
+            <h1>让 AI 资讯自动化</h1>
+            <p style="color: #aaa; margin-bottom: 30px;">我替你筛选全球 AI 讯息源，只读脱水后的真金白银。</p>
+            <a href="https://x.com/" class="cta-btn">在 X 上订阅我</a>
+        </div>
 
-            <div class="status-bar">
-                <div class="dot"></div> 系统状态：24H 自动化流运行中
-            </div>
+        <div class="news-preview">
+            <div style="text-align:center; color:#666;">新闻正在从全球源头抓取并由 AI 总结中...</div>
         </div>
     </div>
 </body>
