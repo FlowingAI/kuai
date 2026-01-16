@@ -3,62 +3,266 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>FlowINGAi | AI脱水情报站</title>
+    <title>FlowINGAi | 极简 AI 情报站</title>
     <style>
-        :root { --bg: #05070a; --card-bg: rgba(255, 255, 255, 0.03); --aurora-green: #00f5d4; --electric-purple: #9b5de5; --text-dim: #888; }
-        body { background: var(--bg); color: #fff; font-family: sans-serif; margin: 0; padding: 20px; }
-        .header { text-align: center; margin: 40px 0; }
-        h1 { background: linear-gradient(135deg, #fff, var(--electric-purple)); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
-        .grid-container { display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; max-width: 1200px; margin: 0 auto; }
-        .category-box { background: rgba(255,255,255,0.02); border: 1px solid rgba(255,255,255,0.08); border-radius: 20px; padding: 20px; display: flex; flex-direction: column; min-height: 450px; }
-        .box-title { color: var(--aurora-green); border-left: 4px solid var(--aurora-green); padding-left: 10px; margin-bottom: 20px; font-weight: bold; }
-        .news-card { background: var(--card-bg); border-radius: 12px; padding: 15px; margin-bottom: 12px; display: none; border: 1px solid transparent; }
-        .news-card:hover { border-color: var(--aurora-green); }
-        .date-tag { color: var(--aurora-green); font-size: 0.8rem; }
-        .news-title { font-size: 1rem; font-weight: bold; margin: 5px 0; }
-        .news-summary { color: var(--text-dim); font-size: 0.9rem; margin: 0; }
-        .pagination { display: flex; justify-content: space-between; margin-top: auto; padding-top: 10px; }
-        .btn { background: transparent; border: 1px solid #333; color: #888; border-radius: 5px; cursor: pointer; padding: 5px 10px; }
-        @media (max-width: 800px) { .grid-container { grid-template-columns: 1fr; } }
+        :root {
+            --bg-color: #f8f9fa;
+            --card-bg: #ffffff;
+            --text-main: #2d3436;
+            --text-sub: #636e72;
+            --accent-blue: #74b9ff; /* 莫兰迪蓝 */
+            --accent-gray: #dfe6e9;
+            --border-radius: 12px;
+        }
+
+        body {
+            background-color: var(--bg-color);
+            color: var(--text-main);
+            font-family: 'PingFang SC', 'Microsoft YaHei', sans-serif;
+            margin: 0;
+            padding: 0;
+            line-height: 1.6;
+        }
+
+        .header {
+            text-align: center;
+            padding: 60px 20px;
+            background: #fff;
+            border-bottom: 1px solid var(--accent-gray);
+            margin-bottom: 40px;
+        }
+
+        .header h1 {
+            font-size: 2.2rem;
+            font-weight: 300;
+            letter-spacing: 2px;
+            margin: 0;
+            color: var(--text-main);
+        }
+
+        .header p {
+            color: var(--text-sub);
+            margin-top: 10px;
+            font-size: 0.9rem;
+        }
+
+        /* 四宫格容器 */
+        .grid-container {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 30px;
+            max-width: 1200px;
+            margin: 0 auto 60px auto;
+            padding: 0 20px;
+        }
+
+        .category-box {
+            background: var(--card-bg);
+            border-radius: var(--border-radius);
+            box-shadow: 0 4px 20px rgba(0,0,0,0.03);
+            padding: 25px;
+            display: flex;
+            flex-direction: column;
+            border: 1px solid #eee;
+            transition: transform 0.3s ease;
+        }
+
+        .category-box:hover {
+            transform: translateY(-5px);
+        }
+
+        .box-title {
+            font-size: 1.1rem;
+            font-weight: 600;
+            color: var(--text-main);
+            margin-bottom: 20px;
+            display: flex;
+            align-items: center;
+            border-bottom: 2px solid var(--bg-color);
+            padding-bottom: 10px;
+        }
+
+        /* 新闻卡片列表区域 */
+        .content-area {
+            flex-grow: 1;
+            min-height: 400px;
+        }
+
+        .news-card {
+            padding: 15px 0;
+            border-bottom: 1px solid #f1f1f1;
+            display: none; /* 由 JS 控制显示 */
+            animation: fadeIn 0.5s ease;
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; }
+            to { opacity: 1; }
+        }
+
+        .date-tag {
+            font-size: 0.75rem;
+            color: var(--accent-blue);
+            font-weight: bold;
+            display: block;
+            margin-bottom: 4px;
+        }
+
+        .news-title {
+            font-size: 0.95rem;
+            font-weight: 500;
+            margin-bottom: 6px;
+            color: var(--text-main);
+        }
+
+        .news-summary {
+            font-size: 0.85rem;
+            color: var(--text-sub);
+            margin: 0;
+        }
+
+        /* 分页按钮 */
+        .pagination {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-top: 20px;
+            padding-top: 15px;
+        }
+
+        .btn {
+            background: var(--bg-color);
+            border: none;
+            color: var(--text-sub);
+            padding: 8px 16px;
+            border-radius: 6px;
+            cursor: pointer;
+            font-size: 0.8rem;
+            transition: all 0.2s;
+        }
+
+        .btn:hover:not(:disabled) {
+            background: var(--accent-blue);
+            color: #fff;
+        }
+
+        .btn:disabled {
+            opacity: 0.3;
+            cursor: not-allowed;
+        }
+
+        .page-info {
+            font-size: 0.75rem;
+            color: #bdc3c7;
+        }
+
+        /* 响应式 */
+        @media (max-width: 850px) {
+            .grid-container {
+                grid-template-columns: 1fr;
+            }
+        }
+
+        footer {
+            text-align: center;
+            padding: 40px;
+            color: #bdc3c7;
+            font-size: 0.8rem;
+        }
     </style>
 </head>
 <body>
-    <div class="header"><h1>FlowINGAi 脱水简报</h1><p style="color:#444">既然改变不了浪潮，那就学会冲浪</p></div>
-    <div class="grid-container">
-        <div class="category-box" id="box-llm">
-            <div class="box-title">🤖 大模型</div>
-            <div class="content-area"></div>
-            <div class="pagination"><button class="btn" onclick="page(this, -1)">上页</button><button class="btn" onclick="page(this, 1)">下页</button></div>
-        </div>
-        <div class="category-box" id="box-video">
-            <div class="box-title">🎬 视频生成</div>
-            <div class="content-area"></div>
-            <div class="pagination"><button class="btn" onclick="page(this, -1)">上页</button><button class="btn" onclick="page(this, 1)">下页</button></div>
-        </div>
-        <div class="category-box" id="box-code">
-            <div class="box-title">💻 AI 编程</div>
-            <div class="content-area"></div>
-            <div class="pagination"><button class="btn" onclick="page(this, -1)">上页</button><button class="btn" onclick="page(this, 1)">下页</button></div>
-        </div>
-        <div class="category-box" id="box-tools">
-            <div class="box-title">🛠️ 生产力工具</div>
-            <div class="content-area"></div>
-            <div class="pagination"><button class="btn" onclick="page(this, -1)">上页</button><button class="btn" onclick="page(this, 1)">下页</button></div>
-        </div>
-    </div>
+
+    <header class="header">
+        <h1>FlowINGAi</h1>
+        <p>每一条情报，都经过深度脱水与自动化翻译</p>
+    </header>
+
+    <main class="grid-container">
+        <section class="category-box" id="box-llm">
+            <div class="box-title">🤖 LLM 大模型动态</div>
+            <div class="content-area">
+                </div>
+            <div class="pagination">
+                <button class="btn" onclick="page(this, -1)">PREV</button>
+                <span class="page-info"></span>
+                <button class="btn" onclick="page(this, 1)">NEXT</button>
+            </div>
+        </section>
+
+        <section class="category-box" id="box-video">
+            <div class="box-title">🎬 Video 视频生成</div>
+            <div class="content-area">
+                </div>
+            <div class="pagination">
+                <button class="btn" onclick="page(this, -1)">PREV</button>
+                <span class="page-info"></span>
+                <button class="btn" onclick="page(this, 1)">NEXT</button>
+            </div>
+        </section>
+
+        <section class="category-box" id="box-code">
+            <div class="box-title">💻 Code AI 编程</div>
+            <div class="content-area">
+                </div>
+            <div class="pagination">
+                <button class="btn" onclick="page(this, -1)">PREV</button>
+                <span class="page-info"></span>
+                <button class="btn" onclick="page(this, 1)">NEXT</button>
+            </div>
+        </section>
+
+        <section class="category-box" id="box-tools">
+            <div class="box-title">🛠️ Tools 生产力工具</div>
+            <div class="content-area">
+                </div>
+            <div class="pagination">
+                <button class="btn" onclick="page(this, -1)">PREV</button>
+                <span class="page-info"></span>
+                <button class="btn" onclick="page(this, 1)">NEXT</button>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        &copy; 2026 FlowINGAi | 数据每 12 小时自动更新
+    </footer>
+
     <script>
-        const pSize = 8; const states = { 'box-llm': 1, 'box-video': 1, 'box-code': 1, 'box-tools': 1 };
+        const pSize = 5; // 白色简洁版，建议每页条数少一点，看起来更清爽
+        const states = { 'box-llm': 1, 'box-video': 1, 'box-code': 1, 'box-tools': 1 };
+
         function updateBox(boxId) {
-            const box = document.getElementById(boxId); const cards = box.querySelectorAll('.news-card'); const page = states[boxId];
-            cards.forEach((c, i) => { c.style.display = (i >= (page-1)*pSize && i < page*pSize) ? 'block' : 'none'; });
+            const box = document.getElementById(boxId);
+            const cards = box.querySelectorAll('.news-card');
+            const pageNum = states[boxId];
+            const totalPages = Math.ceil(cards.length / pSize) || 1;
+
+            cards.forEach((c, i) => {
+                c.style.display = (i >= (pageNum-1)*pSize && i < pageNum*pSize) ? 'block' : 'none';
+            });
+
+            box.querySelector('.page-info').innerText = `${pageNum} / ${totalPages}`;
+            box.querySelectorAll('.btn')[0].disabled = (pageNum === 1);
+            box.querySelectorAll('.btn')[1].disabled = (pageNum === totalPages || cards.length === 0);
         }
+
         function page(btn, step) {
-            const boxId = btn.closest('.category-box').id; const cards = document.getElementById(boxId).querySelectorAll('.news-card');
+            const box = btn.closest('.category-box');
+            const boxId = box.id;
+            const cards = box.querySelectorAll('.news-card');
             const maxPage = Math.ceil(cards.length / pSize) || 1;
+            
             let newPage = states[boxId] + step;
-            if (newPage >= 1 && newPage <= maxPage) { states[boxId] = newPage; updateBox(boxId); }
+            if (newPage >= 1 && newPage <= maxPage) {
+                states[boxId] = newPage;
+                updateBox(boxId);
+            }
         }
-        window.onload = () => Object.keys(states).forEach(updateBox);
+
+        window.onload = () => {
+            Object.keys(states).forEach(updateBox);
+        };
     </script>
 </body>
 </html>
