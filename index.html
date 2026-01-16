@@ -66,18 +66,37 @@ def run_update():
         html_content = f.read()
 
     # 构建 HTML 模块
-    news_html = '<div class="news-preview">'
-    for item in all_news:
-        news_html += f'''
+    news_html = '<div class="news-preview">
         <div class="news-card">
-            <span class="date-tag">{item["date"]}</span>
-            <div class="news-title">{item["title"]}</div>
+            <span class="date-tag">2026-01-16</span>
+            <div class="news-title">从概念到落地，“物理AI”的“ChatGPT时刻”来了吗 - 新华网</div>
+            <p class="news-summary">（未配置 API Key）</p>
+        </div>
+        
+        <div class="news-card">
+            <span class="date-tag">2026-01-16</span>
+            <div class="news-title">高通在CES展会上将AI计算带入个人电脑、机器人和车辆 - 新浪网</div>
+            <p class="news-summary">（未配置 API Key）</p>
+        </div>
+        </div>
             <p class="news-summary">{item["summary"]}</p>
         </div>
         '''
     news_html += '</div>'
 
-    new_content = re.sub(r'<div class="news-preview">.*?</div>', news_html, html_content, flags=re.DOTALL)
+    new_content = re.sub(r'<div class="news-preview">
+        <div class="news-card">
+            <span class="date-tag">2026-01-16</span>
+            <div class="news-title">从概念到落地，“物理AI”的“ChatGPT时刻”来了吗 - 新华网</div>
+            <p class="news-summary">（未配置 API Key）</p>
+        </div>
+        
+        <div class="news-card">
+            <span class="date-tag">2026-01-16</span>
+            <div class="news-title">高通在CES展会上将AI计算带入个人电脑、机器人和车辆 - 新浪网</div>
+            <p class="news-summary">（未配置 API Key）</p>
+        </div>
+        </div>', news_html, html_content, flags=re.DOTALL)
 
     with open("index.html", "w", encoding="utf-8") as f:
         f.write(new_content)
