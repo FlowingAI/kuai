@@ -5,9 +5,8 @@ import vue from '@vitejs/plugin-vue'
 export default defineConfig({
   plugins: [vue()],
   // GitHub Pages 部署路径
-  // 仓库名是 kuai，base 设为 '/kuai/'
-  // 如果使用自定义域名或用户/组织页面，base 设为 '/'
-  base: '/kuai/',
+  // 使用相对路径，自动适配 GitHub Pages
+  base: './',
   build: {
     outDir: 'dist',
     rollupOptions: {
