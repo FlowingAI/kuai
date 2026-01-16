@@ -1,0 +1,53 @@
+name: 部署网站
+
+# 触发条件：推送代码到 main 分支时自动部署
+on:
+  push:
+    branches:
+      - main
+      - master
+  workflow_dispatch:  # 允许手动触发
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1. 检出代码
+      - name: 📥 检出代码
+        uses: actions/checkout@v4
+
+      # 2. 设置Node.js
+      - name: 🔧 设置Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+          cache: 'npm'
+
+      # 3. 安装依赖
+      - name: 📦 安装依赖
+        run: npm install
+
+      # 4. 复制数据文件到 public 目录
+      - name: 📁 复制数据文件
+        run: node scripts/copy-data.js
+
+      # 5. 构建前端
+      - name: 🏗️ 构建前端
+        run: npm run build
+
+      # 6. 部署到GitHub Pages
+      - name: 📦 部署到GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+
+      # 7. 输出摘要
+      - name: 📊 输出摘要
+        run: |
+          echo "## ✅ 网站部署成功" >> $GITHUB_STEP_SUMMARY
+          echo "- 部署时间: $(date '+%Y-%m-%d %H:%M:%S')" >> $GITHUB_STEP_SUMMARY
+          echo "- 提交信息: ${{ github.event.head_commit.message }}" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "🔗 [查看网站](https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/)" >> $GITHUB_STEP_SUMMARY
