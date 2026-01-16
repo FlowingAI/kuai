@@ -1,124 +1,203 @@
-import feedparser
-import requests
-import os
-import re
-from datetime import datetime, timedelta
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FlowINGAi | 自动脱水情报站</title>
+    <style>
+        :root {
+            --bg: #05070a;
+            --card-bg: rgba(255, 255, 255, 0.03);
+            --aurora-green: #00f5d4;
+            --electric-purple: #9b5de5;
+            --text-main: #ffffff;
+            --text-dim: #888888;
+        }
 
-# --- 配置区：更丰富的 AI 资讯源 ---
-RSS_SOURCES = [
-    "https://rsshub.app/twitter/user/OpenAI",           # OpenAI X 动态
-    "https://rsshub.app/twitter/user/GoogleDeepMind",   # Google DeepMind
-    "https://rsshub.app/twitter/user/AnthropicAI",     # Anthropic (Claude 官方)
-    "https://www.theverge.com/ai-artificial-intelligence/rss/index.xml", # The Verge AI
-    "https://feeds.feedburner.com/TechCrunch/AI",       # TechCrunch AI 频道
-    "https://news.google.com/rss/search?q=AI+news+when:10d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans" # 谷歌新闻近10天
-]
+        body {
+            background-color: var(--bg);
+            color: var(--text-main);
+            font-family: 'PingFang SC', 'Microsoft YaHei', sans-serif;
+            margin: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            min-height: 100vh;
+        }
 
-def get_ai_summary(text):
-    api_key = os.getenv("KUAI_API_KEY")
-    if not api_key: return "（未配置 API Key）"
-    
-    # 强制 AI 总结得极其精炼
-    prompt = f"你是AI深度观察者，请用一句话总结以下内容最核心的干货（不超过30字）：\n{text}"
-    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?key={api_key}"
-    headers = {'Content-Type': 'application/json'}
-    data = {"contents": [{"parts": [{"text": prompt}]}]}
-    
-    try:
-        response = requests.post(url, headers=headers, json=data, timeout=15)
-        return response.json()['candidates'][0]['content']['parts'][0]['text']
-    except:
-        return "精华加载中..."
+        .container {
+            width: 90%;
+            max-width: 800px;
+            margin: 60px auto;
+        }
 
-def run_update():
-    all_news = []
-    ten_days_ago = datetime.now() - timedelta(days=10)
-    print(f"正在扫描近10天（{ten_days_ago.strftime('%Y-%m-%d')}之后）的全球 AI 资讯...")
+        header {
+            text-align: center;
+            margin-bottom: 50px;
+        }
 
-    for url in RSS_SOURCES:
-        try:
-            feed = feedparser.parse(url)
-            for entry in feed.entries:
-                # 尝试获取新闻时间
-                pub_date = None
-                if 'published_parsed' in entry:
-                    pub_date = datetime(*entry.published_parsed[:6])
-                
-                # 如果有日期且在10天内，或者没有日期（有些源不给日期）则默认抓取
-                if pub_date is None or pub_date > ten_days_ago:
-                    summary = get_ai_summary(entry.title)
-                    all_news.append({
-                        "title": entry.title,
-                        "date": pub_date.strftime("%Y-%m-%d") if pub_date else datetime.now().strftime("%Y-%m-%d"),
-                        "summary": summary
-                    })
-                
-                if len(all_news) >= 30: break # 总数达到30条就停止，防止网页太长
-        except:
-            continue
+        .brand-logo {
+            font-size: 1rem;
+            font-weight: 900;
+            color: var(--aurora-green);
+            letter-spacing: 5px;
+            text-transform: uppercase;
+            margin-bottom: 20px;
+        }
 
-    if not all_news: return
+        h1 {
+            font-size: 2.5rem;
+            background: linear-gradient(135deg, #fff 0%, var(--electric-purple) 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            margin-bottom: 20px;
+        }
 
-    # 按照日期排序，最新的在上面
-    all_news.sort(key=lambda x: x['date'], reverse=True)
+        .tagline {
+            color: var(--text-dim);
+            font-size: 1.1rem;
+            margin-bottom: 30px;
+        }
 
-    with open("index.html", "r", encoding="utf-8") as f:
-        html_content = f.read()
+        /* 新闻卡片容器 */
+        .news-preview {
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+            min-height: 400px;
+        }
 
-    # 构建 HTML 模块
-    news_html = '<div class="news-preview">
-        <div class="news-card">
-            <span class="date-tag">2026-01-16</span>
-            <div class="news-title">从概念到落地，“物理AI”的“ChatGPT时刻”来了吗 - 新华网</div>
-            <p class="news-summary">（未配置 API Key）</p>
+        .news-card {
+            background: var(--card-bg);
+            border: 1px solid rgba(255, 255, 255, 0.08);
+            border-radius: 20px;
+            padding: 25px;
+            display: none; /* 由 JS 控制显示 */
+            transition: 0.3s;
+        }
+
+        .news-card:hover {
+            border-color: var(--aurora-green);
+            transform: translateY(-2px);
+        }
+
+        .date-tag {
+            color: var(--aurora-green);
+            font-size: 0.85rem;
+            font-weight: 600;
+            margin-bottom: 10px;
+            display: block;
+        }
+
+        .news-title {
+            font-size: 1.2rem;
+            font-weight: 700;
+            margin-bottom: 10px;
+        }
+
+        .news-summary {
+            color: var(--text-dim);
+            font-size: 0.95rem;
+            margin: 0;
+        }
+
+        /* 分页控制区 */
+        .pagination {
+            margin-top: 50px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 20px;
+        }
+
+        .page-btn {
+            padding: 10px 25px;
+            border: 1px solid var(--aurora-green);
+            color: var(--aurora-green);
+            background: transparent;
+            border-radius: 50px;
+            cursor: pointer;
+            font-weight: bold;
+            transition: 0.3s;
+        }
+
+        .page-btn:hover:not(:disabled) {
+            background: var(--aurora-green);
+            color: #000;
+        }
+
+        .page-btn:disabled {
+            border-color: #333;
+            color: #333;
+            cursor: not-allowed;
+        }
+
+        #pageInfo {
+            font-size: 0.9rem;
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <div class="brand-logo">FlowINGAi</div>
+            <h1>别在 AI 的废话里浪费生命</h1>
+            <p class="tagline">全天候监测大模型、效率工具、Sora视频及行业投融资动态，AI 自动脱水。</p>
+            <a href="https://x.com/" style="text-decoration: none;" class="page-btn">在 X 上同步进化</a>
+        </header>
+
+        <div id="news-container" class="news-preview">
+            <div style="text-align:center; color:#444; padding:50px;">数据加载中...</div>
         </div>
+
+        <div class="pagination">
+            <button id="prevBtn" class="page-btn" onclick="changePage(-1)">上一页</button>
+            <span id="pageInfo"></span>
+            <button id="nextBtn" class="page-btn" onclick="changePage(1)">下一页</button>
+        </div>
+    </div>
+
+    <script>
+        let currentPage = 1;
+        const itemsPerPage = 10;
+
+        function showPage(page) {
+            const cards = document.getElementsByClassName('news-card');
+            if (cards.length === 0) return;
+
+            const totalPages = Math.ceil(cards.length / itemsPerPage);
+            if (page < 1) page = 1;
+            if (page > totalPages) page = totalPages;
+            currentPage = page;
+
+            const start = (page - 1) * itemsPerPage;
+            const end = start + itemsPerPage;
+
+            for (let i = 0; i < cards.length; i++) {
+                cards[i].style.display = (i >= start && i < end) ? 'block' : 'none';
+            }
+
+            document.getElementById('pageInfo').innerText = `第 ${currentPage} 页 / 共 ${totalPages} 页`;
+            document.getElementById('prevBtn').disabled = (currentPage === 1);
+            document.getElementById('nextBtn').disabled = (currentPage === totalPages || totalPages === 0);
+        }
+
+        function changePage(step) {
+            changePageWithTop(currentPage + step);
+        }
+
+        function changePageWithTop(page) {
+            showPage(page);
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+        }
+
+        // 监视内容变化，自动初始化分页
+        const observer = new MutationObserver(() => showPage(1));
+        observer.observe(document.getElementById('news-container'), { childList: true });
         
-        <div class="news-card">
-            <span class="date-tag">2026-01-16</span>
-            <div class="news-title">高通在CES展会上将AI计算带入个人电脑、机器人和车辆 - 新浪网</div>
-            <p class="news-summary">（未配置 API Key）</p>
-        </div>
-        </div>
-            <p class="news-summary">（未配置 API Key）</p>
-        </div>
-        
-        <div class="news-card">
-            <span class="date-tag">2026-01-16</span>
-            <div class="news-title">高通在CES展会上将AI计算带入个人电脑、机器人和车辆 - 新浪网</div>
-            <p class="news-summary">（未配置 API Key）</p>
-        </div>
-        </div>
-            <p class="news-summary">{item["summary"]}</p>
-        </div>
-        '''
-    news_html += '</div>'
-
-    new_content = re.sub(r'<div class="news-preview">
-        <div class="news-card">
-            <span class="date-tag">2026-01-16</span>
-            <div class="news-title">从概念到落地，“物理AI”的“ChatGPT时刻”来了吗 - 新华网</div>
-            <p class="news-summary">（未配置 API Key）</p>
-        </div>
-        
-        <div class="news-card">
-            <span class="date-tag">2026-01-16</span>
-            <div class="news-title">高通在CES展会上将AI计算带入个人电脑、机器人和车辆 - 新浪网</div>
-            <p class="news-summary">（未配置 API Key）</p>
-        </div>
-        </div>
-            <p class="news-summary">（未配置 API Key）</p>
-        </div>
-        
-        <div class="news-card">
-            <span class="date-tag">2026-01-16</span>
-            <div class="news-title">高通在CES展会上将AI计算带入个人电脑、机器人和车辆 - 新浪网</div>
-            <p class="news-summary">（未配置 API Key）</p>
-        </div>
-        </div>', news_html, html_content, flags=re.DOTALL)
-
-    with open("index.html", "w", encoding="utf-8") as f:
-        f.write(new_content)
-    print(f"更新成功！共抓取到 {len(all_news)} 条高质量资讯。")
-
-if __name__ == "__main__":
-    run_update()
+        // 初始尝试显示
+        window.onload = () => showPage(1);
+    </script>
+</body>
+</html>
