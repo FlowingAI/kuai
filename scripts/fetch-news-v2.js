@@ -184,6 +184,11 @@ async function processArticles(articles, categoryKey) {
 
   const processed = []
 
+  // 统计计数器
+  let successCount = 0
+  let filteredCount = 0
+  let errorCount = 0
+
   // 分批处理（避免过载）
   const batchSize = 5 // 减少批次大小，提高稳定性
   for (let i = 0; i < articles.length; i += batchSize) {
@@ -215,7 +220,9 @@ async function processArticles(articles, categoryKey) {
             article.url
           )
         } catch (aiError) {
-          console.warn(`    ⚠️  AI 处理失败，跳过:`, aiError.message)
+          errorCount++
+          console.warn(`    ⚠️  AI 处理失败（第${errorCount}个）: ${aiError.message}`)
+          console.warn(`       标题: ${article.title.substring(0, 40)}...`)
           continue // 跳过这篇文章，继续下一篇
         }
 
@@ -226,12 +233,15 @@ async function processArticles(articles, categoryKey) {
             track: article.track,
             original_source: article.source
           })
+          successCount++
           console.log(`    ✅ [${article.track}] ${article.title.substring(0, 30)}...`)
         } else {
+          filteredCount++
           console.log(`    ⚠️  [${article.track}] 被过滤: ${article.title.substring(0, 30)}...`)
         }
 
       } catch (error) {
+        errorCount++
         console.warn(`    ❌ 处理失败:`, error.message)
       }
 
@@ -246,7 +256,13 @@ async function processArticles(articles, categoryKey) {
     }
   }
 
-  console.log(`\n  📊 处理完成: ${processed.length}/${articles.length} 条通过AI处理`)
+  // 输出统计信息
+  console.log(`\n  📊 处理统计:`)
+  console.log(`     ✅ 成功: ${successCount} 条`)
+  console.log(`     ⚠️  过滤: ${filteredCount} 条`)
+  console.log(`     ❌ 失败: ${errorCount} 条`)
+  console.log(`     📦 通过: ${processed.length}/${articles.length} 条`)
+
   return processed
 }
 

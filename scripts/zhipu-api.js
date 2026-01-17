@@ -108,16 +108,38 @@ export async function processNews(title, description, url) {
     // 尝试解析JSON
     let parsed
     try {
-      // 清理可能的markdown代码块标记
-      const cleaned = result.replace(/```json\n?/g, '').replace(/```\n?/g, '').trim()
+      // 清理可能的markdown代码块标记和其他干扰
+      let cleaned = result.trim()
+
+      // 移除可能的markdown代码块标记
+      cleaned = cleaned.replace(/```json\n?/gi, '')
+      cleaned = cleaned.replace(/```\n?/gi, '')
+
+      // 移除可能的前后空白字符
+      cleaned = cleaned.trim()
+
+      // 尝试找到JSON对象的开始和结束
+      const firstBrace = cleaned.indexOf('{')
+      const lastBrace = cleaned.lastIndexOf('}')
+
+      if (firstBrace !== -1 && lastBrace !== -1 && lastBrace > firstBrace) {
+        cleaned = cleaned.substring(firstBrace, lastBrace + 1)
+      }
+
       parsed = JSON.parse(cleaned)
+
     } catch (parseError) {
-      console.error('JSON解析失败:', result)
+      // 详细的错误日志
+      console.error('\n❌ JSON解析失败:')
+      console.error('原始返回内容:', result.substring(0, 500))
+      console.error('错误信息:', parseError.message)
       throw new Error('智谱AI返回的内容格式错误')
     }
 
     // 验证返回的数据
     if (!parsed.title || !parsed.summary) {
+      console.error('\n❌ 数据字段缺失:')
+      console.error('解析后的数据:', JSON.stringify(parsed, null, 2))
       throw new Error('智谱AI返回的数据缺少必要字段')
     }
 
