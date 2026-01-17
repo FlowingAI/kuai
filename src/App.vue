@@ -40,7 +40,11 @@
     </header>
 
     <main class="app-main">
-      <NewsGrid />
+      <!-- 主页视图 -->
+      <NewsGrid v-if="currentView === 'grid'" @showMore="handleShowMore" />
+
+      <!-- 详情页视图 -->
+      <CategoryDetail v-else :category="selectedCategory" @back="handleBack" />
     </main>
 
     <footer class="app-footer">
@@ -53,24 +57,52 @@
 <script setup>
 import { ref, onMounted } from 'vue'
 import NewsGrid from './components/NewsGrid.vue'
+import CategoryDetail from './components/CategoryDetail.vue'
 import { themes, applyTheme, loadTheme } from './config/themes'
 
 const lastUpdate = ref('')
 const currentTheme = ref('minimal')
+const currentView = ref('grid') // 'grid' 或 'detail'
+const selectedCategory = ref(null)
 
 onMounted(async () => {
   // 加载保存的主题
   currentTheme.value = loadTheme()
 
-  // 获取最新更新时间
+  // 获取最新更新时间（从所有6个JSON文件中找最新的）
   try {
-    const response = await fetch('/data/global-ai.json')
-    const data = await response.json()
-    lastUpdate.value = data.last_update || '未知'
+    const files = ['global-ai.json', 'china-ai.json', 'llm.json', 'video-model.json', 'coding-tools.json', 'applications.json']
+    const promises = files.map(file => fetch(`/data/${file}`).then(res => res.json()).catch(() => ({ last_update: '' })))
+    const results = await Promise.all(promises)
+
+    // 找到最新的更新时间
+    const validDates = results
+      .map(r => r.last_update)
+      .filter(date => date)
+      .map(dateStr => new Date(dateStr.replace(/\//g, '-')))
+
+    if (validDates.length > 0) {
+      const latestDate = new Date(Math.max(...validDates))
+      lastUpdate.value = formatUpdateTime(latestDate)
+    } else {
+      lastUpdate.value = '未知'
+    }
   } catch (error) {
     console.error('获取更新时间失败:', error)
+    lastUpdate.value = '未知'
   }
 })
+
+// 格式化更新时间
+const formatUpdateTime = (date) => {
+  const year = date.getFullYear()
+  const month = date.getMonth() + 1
+  const day = date.getDate()
+  const hours = String(date.getHours()).padStart(2, '0')
+  const minutes = String(date.getMinutes()).padStart(2, '0')
+
+  return `${year}年${month}月${day}日 ${hours}:${minutes}`
+}
 
 const changeTheme = (themeKey) => {
   currentTheme.value = themeKey
@@ -81,6 +113,22 @@ const changeTheme = (themeKey) => {
 
 const goToAdmin = () => {
   window.location.href = '/admin.html'
+}
+
+// 处理"更多>>"按钮点击
+const handleShowMore = (category) => {
+  selectedCategory.value = category
+  currentView.value = 'detail'
+  // 滚动到顶部
+  window.scrollTo({ top: 0, behavior: 'smooth' })
+}
+
+// 处理返回主页
+const handleBack = () => {
+  currentView.value = 'grid'
+  selectedCategory.value = null
+  // 滚动到顶部
+  window.scrollTo({ top: 0, behavior: 'smooth' })
 }
 </script>
 

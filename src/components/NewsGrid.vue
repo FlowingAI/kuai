@@ -7,7 +7,12 @@
           <div class="category-card">
             <div class="category-header">
               <h2 class="category-title">{{ category.name }}</h2>
-              <el-badge :value="getNewsCount(category.key)" class="badge" />
+              <div class="header-right">
+                <el-badge :value="getNewsCount(category.key)" class="badge" />
+                <el-button type="primary" link @click="$emit('showMore', category)" class="more-btn">
+                  更多 &gt;&gt;
+                </el-button>
+              </div>
             </div>
             <div class="category-content">
               <el-skeleton v-if="loading" :rows="3" animated />
@@ -29,8 +34,15 @@
       <div class="industrial-container">
         <div v-for="(category, index) in categories" :key="index" class="industrial-section">
           <div class="industrial-header">
-            <h2 class="industrial-title">{{ category.name }}</h2>
-            <el-badge :value="getNewsCount(category.key)" />
+            <div class="industrial-header-left">
+              <h2 class="industrial-title">{{ category.name }}</h2>
+            </div>
+            <div class="industrial-header-right">
+              <el-badge :value="getNewsCount(category.key)" />
+              <el-button type="primary" link @click="$emit('showMore', category)" class="more-btn">
+                更多 &gt;&gt;
+              </el-button>
+            </div>
           </div>
           <div class="industrial-content">
             <el-skeleton v-if="loading" :rows="3" animated />
@@ -50,8 +62,15 @@
       <div class="pixel-container">
         <div v-for="(category, index) in categories" :key="index" class="pixel-section">
           <div class="pixel-header">
-            <h2 class="pixel-title">{{ category.name }}</h2>
-            <el-badge :value="getNewsCount(category.key)" />
+            <div class="pixel-header-left">
+              <h2 class="pixel-title">{{ category.name }}</h2>
+            </div>
+            <div class="pixel-header-right">
+              <el-badge :value="getNewsCount(category.key)" />
+              <el-button type="primary" link @click="$emit('showMore', category)" class="more-btn">
+                更多 &gt;&gt;
+              </el-button>
+            </div>
           </div>
           <div class="pixel-content">
             <el-skeleton v-if="loading" :rows="3" animated />
@@ -73,8 +92,15 @@
       <div class="glass-container">
         <div v-for="(category, index) in categories" :key="index" class="glass-card">
           <div class="glass-header">
-            <h2 class="glass-title">{{ category.name }}</h2>
-            <el-badge :value="getNewsCount(category.key)" />
+            <div class="glass-header-left">
+              <h2 class="glass-title">{{ category.name }}</h2>
+            </div>
+            <div class="glass-header-right">
+              <el-badge :value="getNewsCount(category.key)" />
+              <el-button type="primary" link @click="$emit('showMore', category)" class="more-btn">
+                更多 &gt;&gt;
+              </el-button>
+            </div>
           </div>
           <div class="glass-content">
             <el-skeleton v-if="loading" :rows="3" animated />
@@ -94,8 +120,15 @@
       <div class="brutalist-container">
         <div v-for="(category, index) in categories" :key="index" class="brutalist-section">
           <div class="brutalist-header">
-            <h2 class="brutalist-title">{{ category.name }}</h2>
-            <el-badge :value="getNewsCount(category.key)" />
+            <div class="brutalist-header-left">
+              <h2 class="brutalist-title">{{ category.name }}</h2>
+            </div>
+            <div class="brutalist-header-right">
+              <el-badge :value="getNewsCount(category.key)" />
+              <el-button type="primary" link @click="$emit('showMore', category)" class="more-btn">
+                更多 &gt;&gt;
+              </el-button>
+            </div>
           </div>
           <div class="brutalist-content">
             <el-skeleton v-if="loading" :rows="3" animated />
@@ -118,8 +151,15 @@
       <div class="sakura-container">
         <div v-for="(category, index) in categories" :key="index" class="sakura-section">
           <div class="sakura-header">
-            <h2 class="sakura-title">{{ category.name }}</h2>
-            <el-badge :value="getNewsCount(category.key)" />
+            <div class="sakura-header-left">
+              <h2 class="sakura-title">{{ category.name }}</h2>
+            </div>
+            <div class="sakura-header-right">
+              <el-badge :value="getNewsCount(category.key)" />
+              <el-button type="primary" link @click="$emit('showMore', category)" class="more-btn">
+                更多 &gt;&gt;
+              </el-button>
+            </div>
           </div>
           <div class="sakura-content">
             <el-skeleton v-if="loading" :rows="3" animated />
@@ -139,8 +179,15 @@
       <div class="pop-container">
         <div v-for="(category, index) in categories" :key="index" class="pop-card">
           <div class="pop-header">
-            <h2 class="pop-title">{{ category.name }}</h2>
-            <el-badge :value="getNewsCount(category.key)" />
+            <div class="pop-header-left">
+              <h2 class="pop-title">{{ category.name }}</h2>
+            </div>
+            <div class="pop-header-right">
+              <el-badge :value="getNewsCount(category.key)" />
+              <el-button type="primary" link @click="$emit('showMore', category)" class="more-btn">
+                更多 &gt;&gt;
+              </el-button>
+            </div>
           </div>
           <div class="pop-content">
             <el-skeleton v-if="loading" :rows="3" animated />
@@ -167,8 +214,15 @@
             <div class="cloud cloud-2">☁️</div>
             <div class="sun">☀️</div>
             <div class="spring-header">
-              <h2 class="spring-title">{{ category.name }}</h2>
-              <el-badge :value="getNewsCount(category.key)" />
+              <div class="spring-header-left">
+                <h2 class="spring-title">{{ category.name }}</h2>
+              </div>
+              <div class="spring-header-right">
+                <el-badge :value="getNewsCount(category.key)" />
+                <el-button type="primary" link @click="$emit('showMore', category)" class="more-btn">
+                  更多 &gt;&gt;
+                </el-button>
+              </div>
             </div>
           </div>
           <div class="spring-grass">
@@ -195,8 +249,15 @@
         <div v-for="(category, index) in categories" :key="index" class="ocean-section">
           <div class="ocean-card">
             <div class="ocean-header">
-              <h2 class="ocean-title">{{ category.name }}</h2>
-              <el-badge :value="getNewsCount(category.key)" />
+              <div class="ocean-header-left">
+                <h2 class="ocean-title">{{ category.name }}</h2>
+              </div>
+              <div class="ocean-header-right">
+                <el-badge :value="getNewsCount(category.key)" />
+                <el-button type="primary" link @click="$emit('showMore', category)" class="more-btn">
+                  更多 &gt;&gt;
+                </el-button>
+              </div>
             </div>
             <div class="ocean-content">
               <el-skeleton v-if="loading" :rows="3" animated />
@@ -317,6 +378,34 @@ onMounted(() => {
 /* 通用样式 */
 .no-data { display: flex; align-items: center; justify-content: center; min-height: 200px; }
 .load-more { margin-top: 12px; width: 100%; font-weight: 600; }
+.more-btn { font-weight: 600; font-size: 0.9rem; }
+
+/* header 左右布局通用样式 */
+.header-right,
+.industrial-header-right,
+.pixel-header-right,
+.glass-header-right,
+.brutalist-header-right,
+.sakura-header-right,
+.pop-header-right,
+.spring-header-right,
+.ocean-header-right {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.header-left,
+.industrial-header-left,
+.pixel-header-left,
+.glass-header-left,
+.brutalist-header-left,
+.sakura-header-left,
+.pop-header-left,
+.spring-header-left,
+.ocean-header-left {
+  flex: 1;
+}
 
 /* 1. 极简黑白 - 网格布局 */
 .layout-grid .category-card {
@@ -334,6 +423,15 @@ onMounted(() => {
   display: flex;
   align-items: center;
   justify-content: space-between;
+  gap: 15px;
+}
+.layout-grid .category-header .header-left {
+  flex: 1;
+}
+.layout-grid .category-header .header-right {
+  display: flex;
+  align-items: center;
+  gap: 12px;
 }
 .layout-grid .category-title {
   font-size: 1.2rem;
