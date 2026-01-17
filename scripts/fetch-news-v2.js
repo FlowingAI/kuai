@@ -391,6 +391,14 @@ async function fetchCategory(categoryKey) {
 }
 
 /**
+ * 分批采集配置
+ */
+const batchConfig = {
+  '1': ['global-ai', 'china-ai', 'llm'], // 批次1：全球AI、中国AI、大模型
+  '2': ['video-model', 'coding-tools', 'applications'] // 批次2：视频模型、编程工具、主流应用
+}
+
+/**
  * 主函数：采集所有分类
  */
 async function main() {
@@ -400,7 +408,22 @@ async function main() {
   const startTime = Date.now()
 
   try {
-    const categories = Object.keys(enhancedCategories)
+    // 获取批次参数（从环境变量）
+    const batch = process.env.BATCH || 'all' // 默认采集所有
+
+    let categories
+    if (batch === '1') {
+      console.log('\n📦 批次1模式：全球AI、中国AI、大模型')
+      categories = batchConfig['1']
+    } else if (batch === '2') {
+      console.log('\n📦 批次2模式：视频模型、编程工具、主流应用')
+      categories = batchConfig['2']
+    } else {
+      console.log('\n📦 全量模式：所有模块')
+      categories = Object.keys(enhancedCategories)
+    }
+
+    console.log(`🎯 本次采集 ${categories.length} 个模块: ${categories.join(', ')}`)
 
     for (const categoryKey of categories) {
       await fetchCategory(categoryKey)

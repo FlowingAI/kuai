@@ -1,0 +1,109 @@
+name: 更新AI动态 - 批次2
+
+# 批次2：视频模型、编程工具、主流应用
+# 触发条件：
+# 1. 定时任务：每4小时执行一次（延迟2小时，与批次1错峰）
+# 2. 手动触发
+on:
+  schedule:
+    - cron: '0 1,5,9,13,17,21 * * *'  # 每4小时执行一次（UTC时间），比批次1晚2小时
+
+  workflow_dispatch:  # 允许手动触发
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+
+    # 设置超时时间（25分钟）
+    timeout-minutes: 25
+
+    steps:
+      # 1. 检出代码
+      - name: 📥 检出代码
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # 2. 设置Node.js
+      - name: 🔧 设置Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+          cache: 'npm'
+
+      # 3. 安装依赖
+      - name: 📦 安装依赖
+        run: npm install
+
+      # 4. 运行数据采集脚本（批次2）
+      - name: 🤖 采集AI动态 - 批次2
+        env:
+          ZHIPU_API_KEY: ${{ secrets.ZHIPU_API_KEY }}
+          BING_API_KEY: ${{ secrets.BING_API_KEY }}
+          BATCH: '2' # 批次2
+        run: node scripts/fetch-news-v2.js
+
+      # 5. 检查是否有更新
+      - name: 🔍 检查更新
+        id: check_changes
+        run: |
+          if [[ -n $(git status --porcelain data/) ]]; then
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+            echo "✅ 检测到数据更新"
+          else
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+            echo "ℹ️  没有新数据"
+          fi
+
+      # 6. 提交更改（仅在有更新时）
+      - name: 📝 提交更新
+        if: steps.check_changes.outputs.has_changes == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          git status
+          git diff --cached --stat
+
+          # 生成提交信息
+          COMMIT_MSG="Auto update (Batch2): $(date '+%Y-%m-%d %H:%M:%S') 🤖"
+          git commit -m "$COMMIT_MSG"
+
+      # 7. 推送到仓库
+      - name: 🚀 推送更新
+        if: steps.check_changes.outputs.has_changes == 'true'
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
+
+      # 8. 构建和部署（如果有更新）
+      - name: 🏗️ 构建前端
+        if: steps.check_changes.outputs.has_changes == 'true'
+        run: npm run build
+
+      # 9. 部署到GitHub Pages
+      - name: 📦 部署到GitHub Pages
+        if: steps.check_changes.outputs.has_changes == 'true'
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+
+      # 10. 输出摘要
+      - name: 📊 输出摘要
+        if: steps.check_changes.outputs.has_changes == 'true'
+        run: |
+          echo "## ✅ AI动态更新成功（批次2）" >> $GITHUB_STEP_SUMMARY
+          echo "- 更新时间: $(date '+%Y-%m-%d %H:%M:%S')" >> $GITHUB_STEP_SUMMARY
+          echo "- 采集模块: 视频模型、编程工具、主流应用" >> $GITHUB_STEP_SUMMARY
+          echo "- 提交信息: Auto update (Batch2)" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "🔗 [查看网站](https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/)" >> $GITHUB_STEP_SUMMARY
+
+      - name: ℹ️ 无更新
+        if: steps.check_changes.outputs.has_changes == 'false'
+        run: |
+          echo "## ℹ️ 无新数据（批次2）" >> $GITHUB_STEP_SUMMARY
+          echo "- 检查时间: $(date '+%Y-%m-%d %H:%M:%S')" >> $GITHUB_STEP_SUMMARY
+          echo "- 批次2暂无新数据" >> $GITHUB_STEP_SUMMARY
