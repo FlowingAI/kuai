@@ -190,7 +190,7 @@ async function processArticles(articles, categoryKey) {
   let errorCount = 0
 
   // 分批处理（避免过载）
-  const batchSize = 5 // 减少批次大小，提高稳定性
+  const batchSize = 10 // 从5增加到10，减少批次数
   for (let i = 0; i < articles.length; i += batchSize) {
     const batch = articles.slice(i, i + batchSize)
     console.log(`  📦 批次 ${Math.floor(i / batchSize) + 1}/${Math.ceil(articles.length / batchSize)}:`)
@@ -246,13 +246,13 @@ async function processArticles(articles, categoryKey) {
       }
 
       // 增加延迟，避免API限流
-      await sleep(500) // 从 1000ms 减少到 500ms，提高速度
+      await sleep(300) // 从 500ms 减少到 300ms，提高速度
     }
 
     // 批次间延迟
     if (i + batchSize < articles.length) {
-      console.log(`  ⏳ 等待 1 秒后继续...`)
-      await sleep(1000) // 从 3000ms 减少到 1000ms
+      console.log(`  ⏳ 等待 0.5 秒后继续...`)
+      await sleep(500) // 从 1000ms 减少到 500ms
     }
   }
 
@@ -446,8 +446,8 @@ async function main() {
 
       // 分类间延迟
       if (categories.indexOf(categoryKey) < categories.length - 1) {
-        console.log(`\n⏳ 等待 3 秒后继续...`)
-        await sleep(3000)
+        console.log(`\n⏳ 等待 1 秒后继续...`)
+        await sleep(1000) // 从 3000ms 减少到 1000ms
       }
     }
 
