@@ -14,8 +14,8 @@ jobs:
   update-news:
     runs-on: ubuntu-latest
 
-    # 设置超时时间（25分钟）
-    timeout-minutes: 25
+    # 设置超时时间（30分钟）
+    timeout-minutes: 30
 
     steps:
       # 1. 检出代码

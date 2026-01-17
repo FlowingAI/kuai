@@ -367,13 +367,14 @@ async function fetchCategory(categoryKey) {
     // 轨道1: RSS 采集
     const rssArticles = await fetchRSSNews(categoryKey)
 
-    // 轨道2: 搜索采集（如果RSS数量不足）
+    // 轨道2: 搜索采集（暂时禁用，提高速度）
     let searchArticles = []
-    if (rssArticles.length < rssConfig.targetCount) {
-      searchArticles = await fetchSearchNews(categoryKey)
-    } else {
-      console.log(`\n✅ RSS数量充足 (${rssArticles.length} >= ${rssConfig.targetCount})，跳过搜索`)
-    }
+    console.log(`\n✅ 搜索轨道已禁用（性能优化），仅使用RSS数据`)
+    // if (rssArticles.length < rssConfig.targetCount) {
+    //   searchArticles = await fetchSearchNews(categoryKey)
+    // } else {
+    //   console.log(`\n✅ RSS数量充足 (${rssArticles.length} >= ${rssConfig.targetCount})，跳过搜索`)
+    // }
 
     // 内容处理（AI）
     console.log(`\n${'='.repeat(80)}`)
