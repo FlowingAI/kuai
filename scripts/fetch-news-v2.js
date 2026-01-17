@@ -61,7 +61,16 @@ async function fetchRSSNews(categoryKey) {
     const promises = batch.map(async (source) => {
       try {
         console.log(`    🔗 ${source.name}...`)
-        const feed = await parser.parseURL(source.url)
+
+        // 添加超时控制
+        const timeoutPromise = new Promise((_, reject) =>
+          setTimeout(() => reject(new Error('请求超时')), rssConfig.timeout)
+        )
+
+        const feed = await Promise.race([
+          parser.parseURL(source.url),
+          timeoutPromise
+        ])
 
         // 提取文章（只取前20条）
         const articles = feed.items.slice(0, 20).map(item => ({
@@ -227,13 +236,13 @@ async function processArticles(articles, categoryKey) {
       }
 
       // 增加延迟，避免API限流
-      await sleep(1000) // 从 500ms 增加到 1000ms
+      await sleep(500) // 从 1000ms 减少到 500ms，提高速度
     }
 
     // 批次间延迟
     if (i + batchSize < articles.length) {
-      console.log(`  ⏳ 等待 3 秒后继续...`)
-      await sleep(3000) // 批次间增加延迟
+      console.log(`  ⏳ 等待 1 秒后继续...`)
+      await sleep(1000) // 从 3000ms 减少到 1000ms
     }
   }
 

@@ -157,14 +157,14 @@ export const rssConfig = {
   // 搜索补充的触发阈值
   searchThreshold: 20,
 
-  // 并发拉取批次大小
-  batchSize: 5,
+  // 并发拉取批次大小（从 5 增加到 8，减少批次数）
+  batchSize: 8,
 
-  // 批次间延迟（毫秒）
-  batchDelay: 2000,
+  // 批次间延迟（毫秒，从 2000 减少到 1000）
+  batchDelay: 1000,
 
-  // 超时时间（毫秒）
-  timeout: 10000,
+  // 超时时间（毫秒，从 10000 增加到 15000）
+  timeout: 15000,
 
   // 保留的天数（旧新闻清理）
   retainDays: 30,
