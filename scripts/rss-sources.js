@@ -1,6 +1,6 @@
 /**
  * RSS 新闻源配置
- * 17个权威媒体站点
+ * 14个权威媒体站点（已删除：The Verge AI、极客公园、新智元）
  */
 
 export const rssSources = {
@@ -30,14 +30,6 @@ export const rssSources = {
       enabled: true
     },
     {
-      name: '新智元',
-      url: 'https://www.xinzhiyuan.com/rss',
-      priority: 5,
-      modules: ['global-ai', 'china-ai'],
-      language: 'zh',
-      enabled: true
-    },
-    {
       name: '智东西',
       url: 'https://www.zhidx.com/rss',
       priority: 4,
@@ -60,26 +52,10 @@ export const rssSources = {
       modules: ['applications', 'video-model'],
       language: 'zh',
       enabled: true
-    },
-    {
-      name: '极客公园',
-      url: 'https://www.geekpark.net/rss',
-      priority: 3,
-      modules: ['global-ai', 'applications'],
-      language: 'zh',
-      enabled: true
     }
   ],
 
   全球: [
-    {
-      name: 'The Verge AI',
-      url: 'https://www.theverge.com/ai-artificial-intelligence/rss/index.xml',
-      priority: 5,
-      modules: ['global-ai', 'llm'],
-      language: 'en',
-      enabled: true
-    },
     {
       name: 'Hacker News',
       url: 'https://news.ycombinator.com/rss',
@@ -157,8 +133,8 @@ export const rssConfig = {
   // 搜索补充的触发阈值
   searchThreshold: 20,
 
-  // 并发拉取批次大小（从 8 增加到 17，一次性拉取所有RSS源）
-  batchSize: 17, // 17个RSS源一次性拉完
+  // 并发拉取批次大小（14个RSS源）
+  batchSize: 14, // 14个RSS源一次性拉完
 
   // 批次间延迟（毫秒，从 1000 减少到 500）
   batchDelay: 500,

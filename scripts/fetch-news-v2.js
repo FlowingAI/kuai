@@ -318,21 +318,60 @@ function assignIdsAndSort(articles) {
 }
 
 /**
- * 保存到 JSON 文件
+ * 保存到 JSON 文件（累积模式）
  */
-function saveToFile(categoryKey, articles, maxCount = 100) {
+function saveToFile(categoryKey, articles, maxCount = null) {
   const category = enhancedCategories[categoryKey]
   const filename = category.file
-  const filepath = path.join(__dirname, '..', 'public', 'data', filename)
+  const filepath = path.join(__dirname, '..', 'data', filename)  // 修改：保存到 data/ 目录
 
-  // 只保留前 N 条
-  const sliced = articles.slice(0, maxCount)
+  // 读取现有数据（如果存在）
+  let existingArticles = []
+  if (fs.existsSync(filepath)) {
+    try {
+      const existingData = JSON.parse(fs.readFileSync(filepath, 'utf-8'))
+      existingArticles = existingData.news || []
+      console.log(`  📦 现有数据: ${existingArticles.length} 条`)
+    } catch (error) {
+      console.warn(`  ⚠️  读取现有数据失败: ${error.message}，将创建新文件`)
+    }
+  }
+
+  // 合并新旧数据
+  const allArticles = [...existingArticles, ...articles]
+
+  // 去重（基于URL）
+  const urlMap = new Map()
+  const uniqueArticles = []
+  for (const article of allArticles) {
+    const url = article.source_url || article.url
+    if (!urlMap.has(url)) {
+      urlMap.set(url, true)
+      uniqueArticles.push(article)
+    }
+  }
+
+  // 按发布时间排序（最新的在前）
+  const sorted = uniqueArticles.sort((a, b) => {
+    const dateA = a.publish_time ? new Date(a.publish_time) : new Date(0)
+    const dateB = b.publish_time ? new Date(b.publish_time) : new Date(0)
+    return dateB - dateA
+  })
+
+  // 分配新序号
+  sorted.forEach((article, index) => {
+    article.id = index + 1
+  })
+
+  // 如果指定了maxCount，只保留前N条（累积模式下不限制）
+  const finalArticles = maxCount ? sorted.slice(0, maxCount) : sorted
 
   // 添加更新时间
   const output = {
     category: category.name,
     last_update: new Date().toLocaleString('zh-CN', { hour12: false }).replace(/\//g, '/'),
-    news: sliced
+    total_count: finalArticles.length,
+    news: finalArticles
   }
 
   // 确保目录存在
@@ -345,7 +384,9 @@ function saveToFile(categoryKey, articles, maxCount = 100) {
   fs.writeFileSync(filepath, JSON.stringify(output, null, 2), 'utf-8')
 
   console.log(`\n💾 已保存到: ${filename}`)
-  console.log(`  📊 共 ${sliced.length} 条新闻`)
+  console.log(`  📊 本次新增: ${articles.length} 条`)
+  console.log(`  📦 历史总计: ${existingArticles.length} 条`)
+  console.log(`  📊 去重后总计: ${finalArticles.length} 条`)
 }
 
 /**
@@ -394,8 +435,8 @@ async function fetchCategory(categoryKey) {
     // 分配序号并排序
     const sorted = assignIdsAndSort(merged)
 
-    // 保存到文件
-    saveToFile(categoryKey, sorted, enhancedConfig.newsCountPerCategory)
+    // 保存到文件（累积模式，不限制数量）
+    saveToFile(categoryKey, sorted, null)  // null表示不限制数量
 
     console.log(`\n✅ ${categoryKey} 采集完成!`)
 
