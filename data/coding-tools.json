@@ -1,8 +1,21 @@
 {
   "category": "AI编程工具进化",
-  "last_update": "2026-01-18 01:33:50 (北京时间)",
-  "total_count": 12,
+  "last_update": "2026-01-18 05:31:31 (北京时间)",
+  "total_count": 14,
   "news": [
+    {
+      "title": "Show HN: Minikv – 分布式键值和对象存储在 Rust 中（Raft, S3 API）",
+      "summary": "Comments\n\n新闻链接：https://github.com/whispem/minikv\n\n这是一个关于 Minikv 的讨论，Minikv 是一个使用 Rust 编写的分布式键值和对象存储系统，它实现了 Raft 协议和 S3 API。讨论中提到了 Minikv 的设计、性能和与其他存储解决方案的比较。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-18 05:20:10",
+      "original_language": "en",
+      "original_title": "Show HN: Minikv – Distributed key-value and object store in Rust (Raft, S3 API)",
+      "source_url": "https://github.com/whispem/minikv",
+      "id": 1,
+      "track": "rss",
+      "original_source": "Hacker News"
+    },
     {
       "title": "Colloqio",
       "summary": "Discussion\n            |\n            Link\n新闻链接：https://www.producthunt.com/products/colloqio-offline-ai-chat-app",
@@ -12,7 +25,7 @@
       "original_language": "en",
       "original_title": "Colloqio",
       "source_url": "https://www.producthunt.com/products/colloqio-offline-ai-chat-app",
-      "id": 1,
+      "id": 2,
       "track": "rss",
       "original_source": "Product Hunt"
     },
@@ -25,7 +38,7 @@
       "original_language": "en",
       "original_title": "Sled",
       "source_url": "https://www.producthunt.com/products/sled-voice-interface-for-claude-code",
-      "id": 2,
+      "id": 3,
       "track": "rss",
       "original_source": "Product Hunt"
     },
@@ -38,7 +51,7 @@
       "original_language": "en",
       "original_title": "Chessmaster AI",
       "source_url": "https://www.producthunt.com/products/chessmaster-ai",
-      "id": 3,
+      "id": 4,
       "track": "rss",
       "original_source": "Product Hunt"
     },
@@ -51,7 +64,7 @@
       "original_language": "en",
       "original_title": "ClickHouse acquires Langfuse",
       "source_url": "https://langfuse.com/blog/joining-clickhouse",
-      "id": 4,
+      "id": 5,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -64,7 +77,7 @@
       "original_language": "en",
       "original_title": "We Put Claude Code in Rollercoaster Tycoon",
       "source_url": "https://labs.ramp.com/rct",
-      "id": 5,
+      "id": 6,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -77,7 +90,7 @@
       "original_language": "zh",
       "original_title": "腾讯云ADP国内首发AI原生Widget：一句话秒级生成交互组件，重塑Agent使用体验",
       "source_url": "https://www.qbitai.com/2026/01/370069.html",
-      "id": 6,
+      "id": 7,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -90,7 +103,7 @@
       "original_language": "zh",
       "original_title": "不用拍的广告片？深度拆解美团闪购AIGC营销新案例",
       "source_url": "https://www.qbitai.com/2026/01/369884.html",
-      "id": 7,
+      "id": 8,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -103,7 +116,7 @@
       "original_language": "zh",
       "original_title": "支付宝携手千问App、淘宝闪购等发布中国首个AI商业协议ACT",
       "source_url": "https://www.qbitai.com/2026/01/369878.html",
-      "id": 8,
+      "id": 9,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -116,7 +129,7 @@
       "original_language": "zh",
       "original_title": "滴滴给我发了个赛博助理，专管出行的那种",
       "source_url": "https://www.qbitai.com/2026/01/369738.html",
-      "id": 9,
+      "id": 10,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -129,7 +142,20 @@
       "original_language": "en",
       "original_title": "A single click mounted a covert, multistage attack against Copilot",
       "source_url": "https://arstechnica.com/security/2026/01/a-single-click-mounted-a-covert-multistage-attack-against-copilot/",
-      "id": 10
+      "id": 11
+    },
+    {
+      "title": "替代开发者的重复梦想",
+      "summary": "Comments\n\nThe recurring dream of replacing developers has been a topic of discussion in the tech industry for many years. The idea of automating the development process to reduce the need for human developers has always been appealing. However, the reality is that while there have been significant advancements in AI and automation, we are still far from completely replacing developers. This article explores the challenges and opportunities in this field.\n\nThe article discusses the current state of AI and automation in software development. It highlights the progress made in areas such as code generation, automated testing, and AI-assisted debugging. However, it also points out the limitations of these technologies. For example, while AI can generate code, it often lacks the context and understanding of the overall system that a human developer would have. Similarly, automated testing can catch many bugs, but it cannot replace the creativity and problem-solving skills of a developer.\n\nThe article also touches on the ethical implications of replacing developers. There are concerns about job displacement and the potential for AI to be used in harmful ways. However, it also argues that AI can be a tool to augment human developers, rather than replace them. By automating repetitive tasks, AI can free up developers to focus on more complex and creative aspects of their work.\n\nIn conclusion, the recurring dream of replacing developers is still a dream. While AI and automation will continue to play a significant role in software development, they are unlikely to completely replace human developers in the near future. The key is to find ways to leverage these technologies to enhance human capabilities rather than replace them.",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2025-01-16 14:30:00",
+      "original_language": "en",
+      "original_title": "The recurring dream of replacing developers",
+      "source_url": "https://www.caimito.net/en/blog/2025/12/07/the-recurring-dream-of-replacing-developers.html",
+      "id": 12,
+      "track": "rss",
+      "original_source": "Hacker News"
     },
     {
       "title": "企业无法忽视的数十亿美元AI安全问题",
@@ -140,7 +166,7 @@
       "original_language": "en",
       "original_title": "The multibillion-dollar AI security problem enterprises can’t ignore ",
       "source_url": "https://techcrunch.com/podcast/the-multi-billion-ai-security-problem-enterprises-cant-ignore/",
-      "id": 11
+      "id": 13
     },
     {
       "title": "An Elizabethan mansion's secrets for staying warm",
@@ -151,7 +177,7 @@
       "original_language": "unknown",
       "original_title": "An Elizabethan mansion's secrets for staying warm",
       "source_url": "https://www.bbc.com/future/article/20260116-an-elizabethan-mansions-secrets-for-staying-warm",
-      "id": 12,
+      "id": 14,
       "track": "rss",
       "original_source": "Hacker News"
     }

@@ -1,8 +1,34 @@
 {
   "category": "视频模型动态",
-  "last_update": "2026-01-18 01:33:50 (北京时间)",
-  "total_count": 12,
+  "last_update": "2026-01-18 05:31:31 (北京时间)",
+  "total_count": 15,
   "news": [
+    {
+      "title": "MediaTek发布Dimensity 9500s和8500，为下一代旗舰智能手机提供动力",
+      "summary": "MediaTek的Dimensity 9500s和8500带来了更快的性能、更好的AI、先进的游戏功能和更高的效率。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-18 05:16:50",
+      "original_language": "en",
+      "original_title": "MediaTek launches Dimensity 9500s and 8500 to power next-gen flagship smartphones",
+      "source_url": "https://www.digitaltrends.com/phones/mediatek-launches-dimensity-9500s-and-8500-to-power-next-gen-flagship-smartphones/",
+      "id": 1,
+      "track": "rss",
+      "original_source": "Digital Trends"
+    },
+    {
+      "title": "可折叠iPhone将使用Touch ID，苹果押注2026年AI引领增长",
+      "summary": "苹果的iPhone 18系列，包括一款搭载Touch ID的可折叠型号，预计将推动针对AI的升级和市场份额增长。该文章首先出现在Digital Trends上。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-18 05:16:46",
+      "original_language": "en",
+      "original_title": "Foldable iPhone to use Touch ID as Apple bets on AI-led growth in 2026",
+      "source_url": "https://www.digitaltrends.com/phones/foldable-iphone-to-use-touch-id-as-apple-bets-on-ai-led-growth-in-2026/",
+      "id": 2,
+      "track": "rss",
+      "original_source": "Digital Trends"
+    },
     {
       "title": "OLED MacBook Pro 显示屏可能已在生产，预计 2026 年推出前完成",
       "summary": "报道显示，苹果公司的 OLED MacBook Pro 显示屏可能已经开始生产，这标志着该公司最大的笔记本电脑显示屏升级即将完成。",
@@ -12,7 +38,7 @@
       "original_language": "en",
       "original_title": "OLED MacBook Pro displays may already be in production ahead of rumored 2026 launch",
       "source_url": "https://www.digitaltrends.com/computing/oled-macbook-pro-displays-may-already-be-in-production-ahead-of-rumored-2026-launch/",
-      "id": 1,
+      "id": 3,
       "track": "rss",
       "original_source": "Digital Trends"
     },
@@ -25,7 +51,7 @@
       "original_language": "en",
       "original_title": "Microsoft Excel’s new import functions make handling numbers easier",
       "source_url": "https://www.digitaltrends.com/computing/microsoft-excels-new-import-functions-make-handling-numbers-easier/",
-      "id": 2,
+      "id": 4,
       "track": "rss",
       "original_source": "Digital Trends"
     },
@@ -38,7 +64,7 @@
       "original_language": "en",
       "original_title": "ChatGPT Go is now available in the U.S., but be prepared to see ads",
       "source_url": "https://www.digitaltrends.com/cool-tech/chatgpt-go-is-now-available-in-the-u-s-but-be-prepared-to-see-ads/",
-      "id": 3,
+      "id": 5,
       "track": "rss",
       "original_source": "Digital Trends"
     },
@@ -51,7 +77,7 @@
       "original_language": "zh",
       "original_title": "早报｜西贝闭店102家，贾国龙：自己不懂公关、不会诡辩/马斯克服软，Grok限制图像编辑能力/千问App上线AI购物功能",
       "source_url": "https://www.ifanr.com/1651977?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "id": 4,
+      "id": 6,
       "track": "rss",
       "original_source": "爱范儿"
     },
@@ -64,7 +90,7 @@
       "original_language": "zh",
       "original_title": "你的浏览器会主动提问了？夸克 AI 浏览器正在验证 AI Native 的「下半场」",
       "source_url": "https://www.ifanr.com/1651982?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "id": 5,
+      "id": 7,
       "track": "rss",
       "original_source": "爱范儿"
     },
@@ -77,7 +103,7 @@
       "original_language": "zh",
       "original_title": "早报｜贾国龙罗永浩恩怨复燃，双方账号被禁言/苹果上调iPhone、Mac以旧换新抵扣价/ChatGPT将开始测试广告",
       "source_url": "https://www.ifanr.com/1652187?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "id": 6,
+      "id": 8,
       "track": "rss",
       "original_source": "爱范儿"
     },
@@ -90,7 +116,7 @@
       "original_language": "zh",
       "original_title": "腾讯云ADP国内首发AI原生Widget：一句话秒级生成交互组件，重塑Agent使用体验",
       "source_url": "https://www.qbitai.com/2026/01/370069.html",
-      "id": 7,
+      "id": 9,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -103,7 +129,7 @@
       "original_language": "zh",
       "original_title": "不用拍的广告片？深度拆解美团闪购AIGC营销新案例",
       "source_url": "https://www.qbitai.com/2026/01/369884.html",
-      "id": 8,
+      "id": 10,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -116,7 +142,7 @@
       "original_language": "zh",
       "original_title": "支付宝携手千问App、淘宝闪购等发布中国首个AI商业协议ACT",
       "source_url": "https://www.qbitai.com/2026/01/369878.html",
-      "id": 9,
+      "id": 11,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -129,7 +155,20 @@
       "original_language": "zh",
       "original_title": "滴滴给我发了个赛博助理，专管出行的那种",
       "source_url": "https://www.qbitai.com/2026/01/369738.html",
-      "id": 10,
+      "id": 12,
+      "track": "rss",
+      "original_source": "量子位"
+    },
+    {
+      "title": "微软谷歌正在大力招「电工」",
+      "summary": "微软和谷歌正在积极招聘电工。这一消息源于一篇报道，指出缺电问题可能比缺GPU（图形处理单元）更加严重。报道中提到，随着全球对云计算和人工智能的需求不断增长，电力供应成为了一个关键瓶颈。因此，这两家科技巨头正在寻找电工来确保其数据中心和服务器能够持续稳定运行。新闻链接：https://www.qbitai.com/2026/01/370026.html",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2025-01-16 14:30:00",
+      "original_language": "zh",
+      "original_title": "微软谷歌正在大力招「电工」",
+      "source_url": "https://www.qbitai.com/2026/01/370026.html",
+      "id": 13,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -142,7 +181,7 @@
       "original_language": "en",
       "original_title": "Google brings its AI videomaker to Workspace users",
       "source_url": "https://www.theverge.com/news/863570/google-flow-ai-video-generator-workspace",
-      "id": 11
+      "id": 14
     },
     {
       "title": "宣布OpenAI Grove Cohort 2开放申请",
@@ -153,7 +192,7 @@
       "original_language": "en",
       "original_title": "Announcing OpenAI Grove Cohort 2",
       "source_url": "https://openai.com/index/openai-grove",
-      "id": 12
+      "id": 15
     }
   ]
 }
