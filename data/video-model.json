@@ -1,10 +1,10 @@
 {
   "category": "视频模型动态",
-  "last_update": "2026/1/17 04:23:46",
+  "last_update": "2026/1/17 09:26:17",
   "news": [
     {
       "title": "谷歌将AI视频制作工具扩展至Workspace用户",
-      "summary": "Google正在扩大其AI视频制作工具的访问权限。去年5月推出的Flow最初仅对Google AI Pro和AI Ultra订阅者开放，但现在，拥有Business、Enterprise和Education Workspace计划的用户也可以访问它。Flow使用Google的AI视频生成模型Veo 3.1，根据文本提示或图像生成八秒的剪辑。您可以将这些剪辑拼接成更长的场景，还可以访问一系列其他工具，允许您更改照明、调整“相机”角度以及在场景中插入或删除对象。本周早些时候，Google在Flow中增加了垂直视频支持。",
+      "summary": "Google正在扩大其AI视频制作工具的访问权限。去年5月推出的Flow最初仅限于Google AI Pro和AI Ultra订阅者使用，但现在，拥有Business、Enterprise和Education Workspace计划的用户也可以访问它。Flow使用Google的AI视频生成模型Veo 3.1，根据文本提示或图像生成八秒的视频片段。用户可以将这些片段拼接成更长的场景，还可以访问一系列其他工具，允许用户更改照明、调整“摄像机”角度以及在场景中插入或删除对象。本周早些时候，Google在Flow中增加了垂直视频支持。",
       "is_legal": true,
       "is_ai_related": true,
       "publish_time": null,
@@ -15,7 +15,7 @@
     },
     {
       "title": "宣布OpenAI Grove Cohort 2开放申请",
-      "summary": "现在开放申请OpenAI Grove Cohort 2，这是一个为期5周的创始人项目，面向处于任何阶段的个人，从想法阶段到产品阶段。参与者将获得5万美元的API信用额度，早期访问AI工具，以及来自OpenAI团队的实操指导。",
+      "summary": "现在开放申请OpenAI Grove Cohort 2，这是一个为期5周的创始人项目，面向任何阶段的个人，从想法阶段到产品阶段。参与者将获得50,000美元的API信用额度，早期访问AI工具，以及来自OpenAI团队的实操指导。",
       "is_legal": true,
       "is_ai_related": true,
       "publish_time": null,
