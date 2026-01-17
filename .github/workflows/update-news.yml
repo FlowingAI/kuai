@@ -47,12 +47,12 @@ jobs:
       - name: 📦 安装依赖
         run: npm install
 
-      # 4. 运行数据采集脚本
-      - name: 🤖 采集AI动态
+      # 4. 运行数据采集脚本（双轨制 v2.0）
+      - name: 🤖 采集AI动态 (双轨制 v2.0)
         env:
           ZHIPU_API_KEY: ${{ secrets.ZHIPU_API_KEY }}
           BING_API_KEY: ${{ secrets.BING_API_KEY }}
-        run: npm run fetch
+        run: node scripts/fetch-news-v2.js
 
       # 5. 检查是否有更新
       - name: 🔍 检查更新
