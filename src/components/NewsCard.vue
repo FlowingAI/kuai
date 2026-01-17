@@ -52,7 +52,7 @@ const handleClick = () => {
   padding: 16px;
   margin-bottom: 12px;
   cursor: pointer;
-  transition: all 0.3s ease;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
   box-shadow: 0 2px 8px rgba(168, 181, 201, 0.15);
   display: flex;
   gap: 12px;
@@ -73,8 +73,8 @@ const handleClick = () => {
 }
 
 .news-card:hover {
-  transform: translateX(4px);
-  box-shadow: 0 4px 16px rgba(168, 181, 201, 0.25);
+  transform: translateY(-4px) translateX(4px);
+  box-shadow: 0 8px 24px rgba(168, 181, 201, 0.35);
 }
 
 .news-card:hover::before {
@@ -94,6 +94,12 @@ const handleClick = () => {
   font-size: 0.85rem;
   font-weight: 600;
   margin-top: 2px;
+  transition: all 0.3s ease;
+}
+
+.news-card:hover .news-index {
+  transform: scale(1.1);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
 }
 
 .news-content {
@@ -111,6 +117,11 @@ const handleClick = () => {
   -webkit-line-clamp: 2;
   -webkit-box-orient: vertical;
   overflow: hidden;
+  transition: color 0.3s ease;
+}
+
+.news-card:hover .news-title {
+  color: var(--morandi-primary);
 }
 
 .news-summary {
@@ -122,6 +133,11 @@ const handleClick = () => {
   -webkit-line-clamp: 2;
   -webkit-box-orient: vertical;
   overflow: hidden;
+  transition: color 0.3s ease;
+}
+
+.news-card:hover .news-summary {
+  color: var(--morandi-text);
 }
 
 .news-meta {
