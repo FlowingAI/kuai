@@ -26,6 +26,8 @@ import { enhancedCategories, enhancedConfig, checkDirectMatch, checkLogicMatch }
 import { buildMultipleQueries, getStrategyDescription } from './search-query-builder.js'
 import { fetchWithJinaReader, extractKeyInfo } from './jina-reader.js'
 import { processNews, processNewsBatch, deduplicateNews } from './zhipu-api.js'
+import { shouldFilterByAIName } from './ai-name-filter.js'
+import { loadHistoricalURLs, filterHistoricalDuplicates, crossModuleDeduplicate } from './cross-deduplicate.js'
 
 const __filename = fileURLToPath(import.meta.url)
 const __dirname = path.dirname(__filename)
@@ -52,9 +54,16 @@ async function fetchRSSNews(categoryKey) {
   console.log(`  📍 找到 ${categorySources.length} 个相关RSS源`)
 
   const allArticles = []
+  const rssCollectTarget = 10  // RSS采集目标：10条就停止，避免浪费
 
   // 分批并发拉取
   for (let i = 0; i < categorySources.length; i += rssConfig.batchSize) {
+    // 提前检查：如果RSS采集够了10条，就停止采集后面的源
+    if (allArticles.length >= rssCollectTarget) {
+      console.log(`\n  ✅ RSS采集已完成：${allArticles.length} 条，达到采集目标 ${rssCollectTarget} 条，停止采集`)
+      break
+    }
+
     const batch = categorySources.slice(i, i + rssConfig.batchSize)
     console.log(`\n  📦 批次 ${Math.floor(i / rssConfig.batchSize) + 1}/${Math.ceil(categorySources.length / rssConfig.batchSize)}:`)
 
@@ -98,6 +107,8 @@ async function fetchRSSNews(categoryKey) {
         allArticles.push(...result.value)
       }
     })
+
+    console.log(`  📊 RSS已采集: ${allArticles.length} 条 / 采集目标: ${rssCollectTarget} 条`)
 
     // 批次间延迟
     if (i + rssConfig.batchSize < categorySources.length) {
@@ -188,6 +199,7 @@ async function processArticles(articles, categoryKey) {
   let successCount = 0
   let filteredCount = 0
   let errorCount = 0
+  let nameFilterCount = 0  // AI名称过滤计数
 
   // 分批处理（避免过载）
   const batchSize = 20 // 从10增加到20，进一步减少批次数
@@ -197,6 +209,13 @@ async function processArticles(articles, categoryKey) {
 
     for (const article of batch) {
       try {
+        // 0. AI名称过滤（中国AI/全球AI专属）
+        if (shouldFilterByAIName(categoryKey, article.title)) {
+          nameFilterCount++
+          console.log(`    🚫 [名称过滤] ${article.title.substring(0, 40)}...`)
+          continue
+        }
+
         // 1. Jina Reader 内容提取（如果启用）
         let fullContent = article.description
         try {
@@ -260,6 +279,7 @@ async function processArticles(articles, categoryKey) {
   console.log(`\n  📊 处理统计:`)
   console.log(`     ✅ 成功: ${successCount} 条`)
   console.log(`     ⚠️  过滤: ${filteredCount} 条`)
+  console.log(`     🚫 名称过滤: ${nameFilterCount} 条`)
   console.log(`     ❌ 失败: ${errorCount} 条`)
   console.log(`     📦 通过: ${processed.length}/${articles.length} 条`)
 
@@ -366,10 +386,15 @@ function saveToFile(categoryKey, articles, maxCount = null) {
   // 如果指定了maxCount，只保留前N条（累积模式下不限制）
   const finalArticles = maxCount ? sorted.slice(0, maxCount) : sorted
 
-  // 添加更新时间
+  // 添加更新时间（北京时间）
+  const now = new Date()
+  // 转换为北京时间（UTC+8）
+  const beijingTime = new Date(now.getTime() + (8 * 60 * 60 * 1000) + (now.getTimezoneOffset() * 60 * 1000))
+  const beijingTimeString = beijingTime.toISOString().replace('T', ' ').substring(0, 19) + ' (北京时间)'
+
   const output = {
     category: category.name,
-    last_update: new Date().toLocaleString('zh-CN', { hour12: false }).replace(/\//g, '/'),
+    last_update: beijingTimeString,
     total_count: finalArticles.length,
     news: finalArticles
   }
@@ -466,6 +491,12 @@ async function main() {
   const startTime = Date.now()
 
   try {
+    // 0. 加载历史数据（用于历史去重）
+    console.log(`\n${'='.repeat(80)}`)
+    console.log(`📚 加载历史数据`)
+    console.log(`${'='.repeat(80)}`)
+    const historicalURLs = loadHistoricalURLs()
+
     // 获取批次参数（从环境变量）
     const batch = process.env.BATCH || 'all' // 默认采集所有
 
@@ -483,13 +514,39 @@ async function main() {
 
     console.log(`🎯 本次采集 ${categories.length} 个模块: ${categories.join(', ')}`)
 
+    // 采集所有模块，暂存结果
+    const allModuleResults = {}
+
     for (const categoryKey of categories) {
-      await fetchCategory(categoryKey)
+      const result = await fetchCategory(categoryKey)
+
+      // 历史去重：过滤已存在的文章
+      const filtered = filterHistoricalDuplicates(result, historicalURLs)
+      allModuleResults[categoryKey] = filtered
 
       // 分类间延迟
       if (categories.indexOf(categoryKey) < categories.length - 1) {
         console.log(`\n⏳ 等待 1 秒后继续...`)
         await sleep(1000) // 从 3000ms 减少到 1000ms
+      }
+    }
+
+    // 跨模块去重
+    console.log(`\n${'='.repeat(80)}`)
+    console.log(`🔄 跨模块去重`)
+    console.log(`${'='.repeat(80)}`)
+    const deduplicatedResults = crossModuleDeduplicate(allModuleResults)
+
+    // 保存去重后的结果
+    console.log(`\n${'='.repeat(80)}`)
+    console.log(`💾 保存数据`)
+    console.log(`${'='.repeat(80)}`)
+    for (const categoryKey of categories) {
+      const articles = deduplicatedResults[categoryKey]
+      if (articles.length > 0) {
+        saveToFile(categoryKey, articles, null)
+      } else {
+        console.log(`\n⚠️  ${categoryKey}: 无新数据，跳过保存`)
       }
     }
 

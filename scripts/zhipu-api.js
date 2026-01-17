@@ -81,8 +81,9 @@ export async function processNews(title, description, url) {
    - 如果标题和摘要明显是营销广告，也应过滤
 
 4. **提取发布时间**：
-   - 如果内容中包含明确的时间信息（如"今日"、"1月15日"等），提取出来
-   - 格式统一为 YYYY-MM-DD
+   - 如果内容中包含明确的时间信息（如"今日"、"1月15日 10:30"等），提取出来
+   - 格式统一为 YYYY-MM-DD HH:MM:SS（24小时制，北京时间）
+   - 如果没有具体时间，使用当前时间
 
 新闻标题：${title}
 新闻内容：${description}
@@ -94,7 +95,7 @@ export async function processNews(title, description, url) {
   "summary": "完整翻译后的内容（不要压缩，保留所有信息）",
   "is_legal": true/false,
   "is_ai_related": true/false,
-  "publish_time": "2025-01-16 或 null",
+  "publish_time": "2025-01-16 14:30:00 或 null",
   "original_language": "en 或 zh"
 }
 `
@@ -170,6 +171,14 @@ export async function processNews(title, description, url) {
       // Fallback: 补全缺失字段
       if (!parsed.title) parsed.title = title
       if (!parsed.summary) parsed.summary = description || '无摘要'
+    }
+
+    // 处理发布时间：如果为null或格式不正确，使用当前北京时间
+    if (!parsed.publish_time || parsed.publish_time === null) {
+      const now = new Date()
+      // 转换为北京时间（UTC+8）
+      const beijingTime = new Date(now.getTime() + (8 * 60 * 60 * 1000) + (now.getTimezoneOffset() * 60 * 1000))
+      parsed.publish_time = beijingTime.toISOString().replace('T', ' ').substring(0, 19)
     }
 
     return {
