@@ -1,9 +1,9 @@
 {
   "category": "AI编程工具进化",
-  "last_update": "2026/1/17 09:26:48",
+  "last_update": "2026/1/17 10:43:40",
   "news": [
     {
-      "title": "单次点击即可对Copilot进行隐蔽的多阶段攻击",
+      "title": "Copilot遭受单点点击的隐蔽多阶段攻击",
       "summary": "一项从聊天历史中窃取数据的漏洞即使在用户关闭聊天窗口后仍然有效。",
       "is_legal": true,
       "is_ai_related": true,
@@ -14,7 +14,7 @@
       "id": 1
     },
     {
-      "title": "Copilot遭受单点点击的隐蔽多阶段攻击",
+      "title": "单次点击即可对Copilot进行隐蔽的多阶段攻击",
       "summary": "一项从聊天历史中窃取数据的漏洞即使在用户关闭聊天窗口后仍然有效。",
       "is_legal": true,
       "is_ai_related": true,
