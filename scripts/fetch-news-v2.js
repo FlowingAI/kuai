@@ -72,8 +72,8 @@ async function fetchRSSNews(categoryKey) {
           timeoutPromise
         ])
 
-        // 提取文章（只取前20条）
-        const articles = feed.items.slice(0, 20).map(item => ({
+        // 提取文章（只取前10条，从20减少到10）
+        const articles = feed.items.slice(0, 10).map(item => ({
           title: item.title || '',
           description: item.contentSnippet || item.content || '',
           url: item.link || item.guid || '',
@@ -190,7 +190,7 @@ async function processArticles(articles, categoryKey) {
   let errorCount = 0
 
   // 分批处理（避免过载）
-  const batchSize = 10 // 从5增加到10，减少批次数
+  const batchSize = 20 // 从10增加到20，进一步减少批次数
   for (let i = 0; i < articles.length; i += batchSize) {
     const batch = articles.slice(i, i + batchSize)
     console.log(`  📦 批次 ${Math.floor(i / batchSize) + 1}/${Math.ceil(articles.length / batchSize)}:`)
