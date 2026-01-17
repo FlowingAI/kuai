@@ -72,8 +72,8 @@ async function fetchRSSNews(categoryKey) {
           timeoutPromise
         ])
 
-        // 提取文章（只取前10条，从20减少到10）
-        const articles = feed.items.slice(0, 10).map(item => ({
+        // 提取文章（只取前8条，从10减少到8，极限优化）
+        const articles = feed.items.slice(0, 8).map(item => ({
           title: item.title || '',
           description: item.contentSnippet || item.content || '',
           url: item.link || item.guid || '',

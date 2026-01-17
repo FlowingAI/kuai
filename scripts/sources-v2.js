@@ -171,8 +171,8 @@ export const enhancedCategories = {
  * 采集配置
  */
 export const enhancedConfig = {
-  // 每次更新每个模块采集的新闻数量（从 60 减少到 40，最激进优化）
-  newsCountPerCategory: 40,
+  // 每次更新每个模块采集的新闻数量（从 40 减少到 30，极限优化）
+  newsCountPerCategory: 30,
 
   // 搜索结果数量倍数
   searchResultsMultiplier: 5,
