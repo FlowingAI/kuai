@@ -176,7 +176,7 @@ async function processArticles(articles, categoryKey) {
   const processed = []
 
   // 分批处理（避免过载）
-  const batchSize = 10
+  const batchSize = 5 // 减少批次大小，提高稳定性
   for (let i = 0; i < articles.length; i += batchSize) {
     const batch = articles.slice(i, i + batchSize)
     console.log(`  📦 批次 ${Math.floor(i / batchSize) + 1}/${Math.ceil(articles.length / batchSize)}:`)
@@ -185,19 +185,30 @@ async function processArticles(articles, categoryKey) {
       try {
         // 1. Jina Reader 内容提取（如果启用）
         let fullContent = article.description
-        if (rssConfig.jinaReaderEnabled && article.track === 'rss') {
-          const jinaContent = await fetchWithJinaReader(article.url)
-          if (jinaContent) {
-            fullContent = extractKeyInfo(jinaContent, 2000)
+        try {
+          if (rssConfig.jinaReaderEnabled && article.track === 'rss') {
+            const jinaContent = await fetchWithJinaReader(article.url, 20000) // 增加到20秒
+            if (jinaContent) {
+              fullContent = extractKeyInfo(jinaContent, 1000) // 减少到1000字符
+            }
           }
+        } catch (jinaError) {
+          console.warn(`    ⚠️  Jina Reader 失败，使用原始描述:`, jinaError.message)
+          fullContent = article.description
         }
 
         // 2. AI 处理（翻译、总结、过滤）
-        const aiResult = await processNews(
-          article.title,
-          fullContent,
-          article.url
-        )
+        let aiResult
+        try {
+          aiResult = await processNews(
+            article.title,
+            fullContent,
+            article.url
+          )
+        } catch (aiError) {
+          console.warn(`    ⚠️  AI 处理失败，跳过:`, aiError.message)
+          continue // 跳过这篇文章，继续下一篇
+        }
 
         if (aiResult && aiResult.is_legal && aiResult.is_ai_related) {
           processed.push({
@@ -215,8 +226,14 @@ async function processArticles(articles, categoryKey) {
         console.warn(`    ❌ 处理失败:`, error.message)
       }
 
-      // 避免API限流
-      await sleep(500)
+      // 增加延迟，避免API限流
+      await sleep(1000) // 从 500ms 增加到 1000ms
+    }
+
+    // 批次间延迟
+    if (i + batchSize < articles.length) {
+      console.log(`  ⏳ 等待 3 秒后继续...`)
+      await sleep(3000) // 批次间增加延迟
     }
   }
 

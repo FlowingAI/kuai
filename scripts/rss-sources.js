@@ -169,8 +169,8 @@ export const rssConfig = {
   // 保留的天数（旧新闻清理）
   retainDays: 30,
 
-  // Jina Reader API
-  jinaReaderEnabled: true,
+  // Jina Reader API（可选，如果遇到超时可关闭）
+  jinaReaderEnabled: false, // 暂时关闭，提高稳定性
   jinaReaderBaseUrl: 'https://r.jina.ai/',
 
   // AI 总结配置
