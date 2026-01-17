@@ -1,7 +1,125 @@
 {
   "category": "AI编程工具进化",
-  "last_update": "2026/1/17 10:43:40",
+  "last_update": "2026-01-18 01:33:50 (北京时间)",
+  "total_count": 12,
   "news": [
+    {
+      "title": "Colloqio",
+      "summary": "Discussion\n            |\n            Link\n新闻链接：https://www.producthunt.com/products/colloqio-offline-ai-chat-app",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-18 01:20:20",
+      "original_language": "en",
+      "original_title": "Colloqio",
+      "source_url": "https://www.producthunt.com/products/colloqio-offline-ai-chat-app",
+      "id": 1,
+      "track": "rss",
+      "original_source": "Product Hunt"
+    },
+    {
+      "title": "Sled",
+      "summary": "Discussion\n            |\n            Link\n新闻链接：https://www.producthunt.com/products/sled-voice-interface-for-claude-code",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-18 01:20:06",
+      "original_language": "en",
+      "original_title": "Sled",
+      "source_url": "https://www.producthunt.com/products/sled-voice-interface-for-claude-code",
+      "id": 2,
+      "track": "rss",
+      "original_source": "Product Hunt"
+    },
+    {
+      "title": "Chessmaster AI",
+      "summary": "Discussion\n            |\n            Link\n新闻链接：https://www.producthunt.com/products/chessmaster-ai",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-18 01:20:01",
+      "original_language": "en",
+      "original_title": "Chessmaster AI",
+      "source_url": "https://www.producthunt.com/products/chessmaster-ai",
+      "id": 3,
+      "track": "rss",
+      "original_source": "Product Hunt"
+    },
+    {
+      "title": "ClickHouse 收购 Langfuse",
+      "summary": "ClickHouse 宣布收购 Langfuse。Langfuse 是一家专注于自然语言处理和机器学习技术的公司。此次收购将加强 ClickHouse 在数据分析领域的竞争力，并为其用户提供更强大的自然语言处理功能。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-18 01:19:53",
+      "original_language": "en",
+      "original_title": "ClickHouse acquires Langfuse",
+      "source_url": "https://langfuse.com/blog/joining-clickhouse",
+      "id": 4,
+      "track": "rss",
+      "original_source": "Hacker News"
+    },
+    {
+      "title": "我们在过山车大亨中加入了Claude代码",
+      "summary": "We Put Claude Code in Rollercoaster Tycoon\nComments\n\nThis is a news article about integrating Claude Code into the game Rollercoaster Tycoon. The article discusses the features and benefits of this integration, and provides comments from users who have tried the game with the new code. The article also includes links to the game and the Claude Code repository for further information.\n\n[Original Link](https://labs.ramp.com/rct)",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-18 01:18:17",
+      "original_language": "en",
+      "original_title": "We Put Claude Code in Rollercoaster Tycoon",
+      "source_url": "https://labs.ramp.com/rct",
+      "id": 5,
+      "track": "rss",
+      "original_source": "Hacker News"
+    },
+    {
+      "title": "腾讯云ADP国内首发AI原生Widget：一句话秒级生成交互组件，重塑Agent使用体验",
+      "summary": "腾讯云ADP近日在国内首发了一款AI原生Widget，该Widget能够通过一句话实现秒级生成交互组件，从而重塑Agent的使用体验。这一创新技术有望进一步提升用户交互的便捷性和效率。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-18 01:17:17",
+      "original_language": "zh",
+      "original_title": "腾讯云ADP国内首发AI原生Widget：一句话秒级生成交互组件，重塑Agent使用体验",
+      "source_url": "https://www.qbitai.com/2026/01/370069.html",
+      "id": 6,
+      "track": "rss",
+      "original_source": "量子位"
+    },
+    {
+      "title": "不用拍的广告片？深度拆解美团闪购AIGC营销新案例",
+      "summary": "技术如何赋能业务？范本来了\n\n深度拆解美团闪购AIGC营销新案例，探讨如何利用人工智能技术提升广告效果。\n\n新闻链接：https://www.qbitai.com/2026/01/369884.html",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-16 14:30:00",
+      "original_language": "zh",
+      "original_title": "不用拍的广告片？深度拆解美团闪购AIGC营销新案例",
+      "source_url": "https://www.qbitai.com/2026/01/369884.html",
+      "id": 7,
+      "track": "rss",
+      "original_source": "量子位"
+    },
+    {
+      "title": "支付宝携手千问App、淘宝闪购等发布中国首个AI商业协议ACT",
+      "summary": "支付宝与千问App、淘宝闪购等合作，共同发布了中国首个AI商业协议ACT。该协议旨在为AI与电商、外卖等服务平台的协同提供一套“通用语言”，以促进不同平台间的数据共享和业务协同。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-16 14:30:00",
+      "original_language": "zh",
+      "original_title": "支付宝携手千问App、淘宝闪购等发布中国首个AI商业协议ACT",
+      "source_url": "https://www.qbitai.com/2026/01/369878.html",
+      "id": 8,
+      "track": "rss",
+      "original_source": "量子位"
+    },
+    {
+      "title": "滴滴给我发了个赛博助理，专管出行的那种",
+      "summary": "Agent重塑出行，终结“盲盒式”叫车。近日，滴滴推出了一款名为Agent的赛博助理，旨在为用户提供更加智能、便捷的出行服务。这款助理能够根据用户的出行需求，提供个性化的出行方案，并实时更新路况信息，帮助用户避开拥堵路段。此外，Agent还能根据用户的喜好，推荐附近的美食、景点等，让出行更加丰富多彩。据悉，Agent的推出标志着滴滴在出行领域的智能化升级，有望终结传统“盲盒式”叫车模式。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-16 14:30:00",
+      "original_language": "zh",
+      "original_title": "滴滴给我发了个赛博助理，专管出行的那种",
+      "source_url": "https://www.qbitai.com/2026/01/369738.html",
+      "id": 9,
+      "track": "rss",
+      "original_source": "量子位"
+    },
     {
       "title": "Copilot遭受单点点击的隐蔽多阶段攻击",
       "summary": "一项从聊天历史中窃取数据的漏洞即使在用户关闭聊天窗口后仍然有效。",
@@ -11,18 +129,7 @@
       "original_language": "en",
       "original_title": "A single click mounted a covert, multistage attack against Copilot",
       "source_url": "https://arstechnica.com/security/2026/01/a-single-click-mounted-a-covert-multistage-attack-against-copilot/",
-      "id": 1
-    },
-    {
-      "title": "单次点击即可对Copilot进行隐蔽的多阶段攻击",
-      "summary": "一项从聊天历史中窃取数据的漏洞即使在用户关闭聊天窗口后仍然有效。",
-      "is_legal": true,
-      "is_ai_related": true,
-      "publish_time": "2026-01-16",
-      "original_language": "en",
-      "original_title": "A single click mounted a covert, multistage attack against Copilot",
-      "source_url": "https://arstechnica.com/security/2026/01/a-single-click-mounted-a-covert-multistage-attack-against-copilot/",
-      "id": 2
+      "id": 10
     },
     {
       "title": "企业无法忽视的数十亿美元AI安全问题",
@@ -33,73 +140,20 @@
       "original_language": "en",
       "original_title": "The multibillion-dollar AI security problem enterprises can’t ignore ",
       "source_url": "https://techcrunch.com/podcast/the-multi-billion-ai-security-problem-enterprises-cant-ignore/",
-      "id": 3
+      "id": 11
     },
     {
-      "title": "Copilot遭受单次点击的隐蔽多阶段攻击",
-      "summary": "一项从聊天历史中窃取数据的漏洞即使在用户关闭聊天窗口后仍然有效。",
-      "is_legal": true,
-      "is_ai_related": true,
-      "publish_time": "2026-01-16",
-      "original_language": "en",
-      "original_title": "A single click mounted a covert, multistage attack against Copilot",
-      "source_url": "https://arstechnica.com/security/2026/01/a-single-click-mounted-a-covert-multistage-attack-against-copilot/",
-      "id": 4
-    },
-    {
-      "title": "企业无法忽视的数十亿美元人工智能安全问题",
-      "summary": "AI代理本应使工作变得更简单。但它们也正在创造一个全新的安全噩梦类别。随着公司在其运营中部署人工智能驱动的聊天机器人、代理和共飞行员，他们面临着一个新的风险：如何让员工和AI代理使用强大的AI工具，而不会意外泄露敏感数据、违反合规规则或打开...",
+      "title": "An Elizabethan mansion's secrets for staying warm",
+      "summary": "Comments",
       "is_legal": true,
       "is_ai_related": true,
       "publish_time": null,
-      "original_language": "en",
-      "original_title": "The multibillion-dollar AI security problem enterprises can’t ignore ",
-      "source_url": "https://techcrunch.com/podcast/the-multi-billion-ai-security-problem-enterprises-cant-ignore/",
-      "id": 5
-    },
-    {
-      "title": "企业不能忽视的数十亿美元人工智能安全问题",
-      "summary": "AI代理本应使工作变得更轻松。但它们也在创造一个全新的安全噩梦类别。随着公司在其运营中部署人工智能驱动的聊天机器人、代理和共飞行员，他们面临着新的风险：如何让员工和AI代理使用强大的AI工具，而不会意外泄露敏感数据、违反合规规则或打开……",
-      "is_legal": true,
-      "is_ai_related": true,
-      "publish_time": null,
-      "original_language": "en",
-      "original_title": "The multibillion-dollar AI security problem enterprises can’t ignore ",
-      "source_url": "https://techcrunch.com/podcast/the-multi-billion-ai-security-problem-enterprises-cant-ignore/",
-      "id": 6
-    },
-    {
-      "title": "Copilot遭受单点点击隐秘多阶段攻击",
-      "summary": "一项从聊天历史中窃取数据的漏洞即使在用户关闭聊天窗口后仍然有效。",
-      "is_legal": true,
-      "is_ai_related": true,
-      "publish_time": "2026-01-16",
-      "original_language": "en",
-      "original_title": "A single click mounted a covert, multistage attack against Copilot",
-      "source_url": "https://arstechnica.com/security/2026/01/a-single-click-mounted-a-covert-multistage-attack-against-copilot/",
-      "id": 7
-    },
-    {
-      "title": "企业不能忽视的数十亿美元AI安全问题",
-      "summary": "AI代理本应使工作变得更简单。但它们也正在创造一个全新的安全噩梦类别。随着公司在其运营中部署AI驱动的聊天机器人、代理和共飞行员，他们面临着一个新的风险：如何让员工和AI代理使用强大的AI工具，而不会意外泄露敏感数据，违反合规规则或打开...",
-      "is_legal": true,
-      "is_ai_related": true,
-      "publish_time": null,
-      "original_language": "en",
-      "original_title": "The multibillion-dollar AI security problem enterprises can’t ignore ",
-      "source_url": "https://techcrunch.com/podcast/the-multi-billion-ai-security-problem-enterprises-cant-ignore/",
-      "id": 8
-    },
-    {
-      "title": "单次点击即可发起针对Copilot的隐蔽多阶段攻击",
-      "summary": "一项从聊天历史中窃取数据的漏洞即使在用户关闭聊天窗口后仍然有效。",
-      "is_legal": true,
-      "is_ai_related": true,
-      "publish_time": "2026-01-16",
-      "original_language": "en",
-      "original_title": "A single click mounted a covert, multistage attack against Copilot",
-      "source_url": "https://arstechnica.com/security/2026/01/a-single-click-mounted-a-covert-multistage-attack-against-copilot/",
-      "id": 9
+      "original_language": "unknown",
+      "original_title": "An Elizabethan mansion's secrets for staying warm",
+      "source_url": "https://www.bbc.com/future/article/20260116-an-elizabethan-mansions-secrets-for-staying-warm",
+      "id": 12,
+      "track": "rss",
+      "original_source": "Hacker News"
     }
   ]
 }

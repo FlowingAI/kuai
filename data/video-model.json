@@ -1,7 +1,138 @@
 {
   "category": "视频模型动态",
-  "last_update": "2026/1/17 10:43:06",
+  "last_update": "2026-01-18 01:33:50 (北京时间)",
+  "total_count": 12,
   "news": [
+    {
+      "title": "OLED MacBook Pro 显示屏可能已在生产，预计 2026 年推出前完成",
+      "summary": "报道显示，苹果公司的 OLED MacBook Pro 显示屏可能已经开始生产，这标志着该公司最大的笔记本电脑显示屏升级即将完成。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-18 01:16:59",
+      "original_language": "en",
+      "original_title": "OLED MacBook Pro displays may already be in production ahead of rumored 2026 launch",
+      "source_url": "https://www.digitaltrends.com/computing/oled-macbook-pro-displays-may-already-be-in-production-ahead-of-rumored-2026-launch/",
+      "id": 1,
+      "track": "rss",
+      "original_source": "Digital Trends"
+    },
+    {
+      "title": "Microsoft Excel 新导入功能使处理数字更简单",
+      "summary": "Excel 现在支持 IMPORTTEXT 和 IMPORTCSV 函数，这些函数可以将外部文本和 CSV 文件作为动态数组加载，使得在电子表格中刷新和重用频繁更新的数据变得更加容易。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-18 01:16:50",
+      "original_language": "en",
+      "original_title": "Microsoft Excel’s new import functions make handling numbers easier",
+      "source_url": "https://www.digitaltrends.com/computing/microsoft-excels-new-import-functions-make-handling-numbers-easier/",
+      "id": 2,
+      "track": "rss",
+      "original_source": "Digital Trends"
+    },
+    {
+      "title": "ChatGPT Go 现已在美国推出，但请准备好看到广告",
+      "summary": "ChatGPT Go 是 OpenAI 的新预算订阅级别，提供扩展的使用限制、访问 GPT-5.2 和增强的内存，填补免费和高级计划之间的差距。该帖子 ChatGPT Go 现已在美国推出，但请准备好看到广告 首先出现在 Digital Trends 上。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-18 01:16:39",
+      "original_language": "en",
+      "original_title": "ChatGPT Go is now available in the U.S., but be prepared to see ads",
+      "source_url": "https://www.digitaltrends.com/cool-tech/chatgpt-go-is-now-available-in-the-u-s-but-be-prepared-to-see-ads/",
+      "id": 3,
+      "track": "rss",
+      "original_source": "Digital Trends"
+    },
+    {
+      "title": "早报｜西贝闭店102家，贾国龙：自己不懂公关、不会诡辩/马斯克服软，Grok限制图像编辑能力/千问App上线AI购物功能",
+      "summary": "· 苹果陷入供应链危机，全球芯片巨头争夺「玻璃布」\n· 萝卜快跑低调在全国落地近 20 城，广东就占 1/4\n· 清华姚班陈立杰加盟 OpenAI，16 岁保送清华，30 岁拿下 UC 伯克利助理教授\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-18 01:16:28",
+      "original_language": "zh",
+      "original_title": "早报｜西贝闭店102家，贾国龙：自己不懂公关、不会诡辩/马斯克服软，Grok限制图像编辑能力/千问App上线AI购物功能",
+      "source_url": "https://www.ifanr.com/1651977?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "id": 4,
+      "track": "rss",
+      "original_source": "爱范儿"
+    },
+    {
+      "title": "你的浏览器会主动提问了？夸克 AI 浏览器正在验证 AI Native 的「下半场」",
+      "summary": "都 2026 了，AI 浏览器就该这么玩\n\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n\n爱范儿 |\n原文链接 ·\n查看评论 ·\n新浪微博\n\n新闻链接：https://www.ifanr.com/1651982?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-18 01:15:53",
+      "original_language": "zh",
+      "original_title": "你的浏览器会主动提问了？夸克 AI 浏览器正在验证 AI Native 的「下半场」",
+      "source_url": "https://www.ifanr.com/1651982?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "id": 5,
+      "track": "rss",
+      "original_source": "爱范儿"
+    },
+    {
+      "title": "早报｜贾国龙罗永浩恩怨复燃，双方账号被禁言/苹果上调iPhone、Mac以旧换新抵扣价/ChatGPT将开始测试广告",
+      "summary": "· 消息称 Jony Ive 成苹果从 OpenAI 转向 Google Gemini 的导火索\n· AI 热潮推高需求，台积电毛利率突破 62% 创新高\n· 继多国政府后，日本也加入对 Grok 的审查\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-18 01:15:40",
+      "original_language": "zh",
+      "original_title": "早报｜贾国龙罗永浩恩怨复燃，双方账号被禁言/苹果上调iPhone、Mac以旧换新抵扣价/ChatGPT将开始测试广告",
+      "source_url": "https://www.ifanr.com/1652187?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "id": 6,
+      "track": "rss",
+      "original_source": "爱范儿"
+    },
+    {
+      "title": "腾讯云ADP国内首发AI原生Widget：一句话秒级生成交互组件，重塑Agent使用体验",
+      "summary": "腾讯云ADP在国内首次发布了AI原生Widget。这种Widget能够通过一句话的输入，在秒级时间内生成交互组件，从而显著提升Agent的使用体验。这一创新技术有望改变现有的交互方式，为用户提供更加便捷和高效的服务。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-18 01:14:52",
+      "original_language": "zh",
+      "original_title": "腾讯云ADP国内首发AI原生Widget：一句话秒级生成交互组件，重塑Agent使用体验",
+      "source_url": "https://www.qbitai.com/2026/01/370069.html",
+      "id": 7,
+      "track": "rss",
+      "original_source": "量子位"
+    },
+    {
+      "title": "不用拍的广告片？深度拆解美团闪购AIGC营销新案例",
+      "summary": "技术如何赋能业务？范本来了\n\n本文将深度拆解美团闪购利用AIGC技术制作广告片的案例，探讨技术如何为业务赋能。文章首先介绍了美团闪购的背景和业务需求，然后详细解析了AIGC技术在广告片制作中的应用，包括文本生成、图像生成和视频生成等方面。最后，文章总结了AIGC技术在广告营销领域的应用前景和挑战。\n\n原文链接：https://www.qbitai.com/2026/01/369884.html",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-16 14:30:00",
+      "original_language": "zh",
+      "original_title": "不用拍的广告片？深度拆解美团闪购AIGC营销新案例",
+      "source_url": "https://www.qbitai.com/2026/01/369884.html",
+      "id": 8,
+      "track": "rss",
+      "original_source": "量子位"
+    },
+    {
+      "title": "支付宝携手千问App、淘宝闪购等发布中国首个AI商业协议ACT",
+      "summary": "支付宝与千问App、淘宝闪购等合作，共同发布了中国首个AI商业协议ACT。该协议旨在为AI与电商、外卖等服务平台的协同提供一套“通用语言”，以促进不同平台之间的数据共享和业务协同。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-16 14:30:00",
+      "original_language": "zh",
+      "original_title": "支付宝携手千问App、淘宝闪购等发布中国首个AI商业协议ACT",
+      "source_url": "https://www.qbitai.com/2026/01/369878.html",
+      "id": 9,
+      "track": "rss",
+      "original_source": "量子位"
+    },
+    {
+      "title": "滴滴给我发了个赛博助理，专管出行的那种",
+      "summary": "Agent重塑出行，终结“盲盒式”叫车。近日，滴滴推出了一款名为Agent的赛博助理，旨在为用户提供更加智能、便捷的出行服务。这款助理能够根据用户的出行需求，提供个性化的出行方案，并实时更新路况信息，帮助用户避开拥堵路段。此外，Agent还能根据用户的消费习惯，推荐合适的出行方式，如打车、骑行或公共交通。此举标志着滴滴在出行领域的智能化升级，有望终结传统的“盲盒式”叫车模式。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-16 14:30:00",
+      "original_language": "zh",
+      "original_title": "滴滴给我发了个赛博助理，专管出行的那种",
+      "source_url": "https://www.qbitai.com/2026/01/369738.html",
+      "id": 10,
+      "track": "rss",
+      "original_source": "量子位"
+    },
     {
       "title": "谷歌将AI视频制作工具扩展至Workspace用户",
       "summary": "Google正在扩大其AI视频制作工具的访问权限。去年5月推出的Flow最初仅限于Google AI Pro和AI Ultra订阅者使用，但现在，拥有Business、Enterprise和Education Workspace计划的用户也可以访问它。Flow使用Google的AI视频生成模型Veo 3.1，根据文本提示或图像生成八秒的剪辑。您可以将这些剪辑拼接成更长的场景，还可以访问一系列其他工具，允许您更改照明、调整“摄像机”角度以及在场景中插入或删除对象。本周早些时候，Google在Flow中增加了垂直视频支持。",
@@ -11,7 +142,7 @@
       "original_language": "en",
       "original_title": "Google brings its AI videomaker to Workspace users",
       "source_url": "https://www.theverge.com/news/863570/google-flow-ai-video-generator-workspace",
-      "id": 1
+      "id": 11
     },
     {
       "title": "宣布OpenAI Grove Cohort 2开放申请",
@@ -22,7 +153,7 @@
       "original_language": "en",
       "original_title": "Announcing OpenAI Grove Cohort 2",
       "source_url": "https://openai.com/index/openai-grove",
-      "id": 2
+      "id": 12
     }
   ]
 }
