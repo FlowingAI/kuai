@@ -1,7 +1,7 @@
 {
   "category": "AI编程工具进化",
-  "last_update": "2026-01-18 21:41:56 (北京时间)",
-  "total_count": 30,
+  "last_update": "2026-01-19 01:18:49 (北京时间)",
+  "total_count": 32,
   "news": [
     {
       "title": "Iconify:开源图标库",
@@ -329,6 +329,19 @@
       "original_source": "量子位"
     },
     {
+      "title": "微软谷歌正在大力招「电工」",
+      "summary": "“缺电比缺GPU更致命”\n\n据QbitAI报道，随着全球对人工智能的需求不断增长，微软和谷歌等科技巨头正在积极招聘电力工程师。这一举措的背后，是由于人工智能计算对电力需求的激增。据业内人士分析，电力短缺可能比GPU短缺对人工智能发展的影响更为严重。电力工程师的招聘将有助于优化数据中心和云计算基础设施的能源效率，从而支持人工智能的持续发展。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-16 14:30:00",
+      "original_language": "zh",
+      "original_title": "微软谷歌正在大力招「电工」",
+      "source_url": "https://www.qbitai.com/2026/01/370026.html",
+      "id": 26,
+      "track": "rss",
+      "original_source": "量子位"
+    },
+    {
       "title": "Copilot遭受单点点击的隐蔽多阶段攻击",
       "summary": "一项从聊天历史中窃取数据的漏洞即使在用户关闭聊天窗口后仍然有效。",
       "is_legal": true,
@@ -337,7 +350,20 @@
       "original_language": "en",
       "original_title": "A single click mounted a covert, multistage attack against Copilot",
       "source_url": "https://arstechnica.com/security/2026/01/a-single-click-mounted-a-covert-multistage-attack-against-copilot/",
-      "id": 26
+      "id": 27
+    },
+    {
+      "title": "Milk-V Titan：售价329美元的8核心64位RISC-V mini-ITX主板，配备PCIe Gen4x16插槽",
+      "summary": "Milk-V Titan是一款售价329美元的8核心64位RISC-V mini-ITX主板，配备PCIe Gen4x16插槽。该主板采用8核心64位RISC-V处理器，支持PCIe Gen4x16插槽，可提供高速的数据传输能力。此外，该主板还支持多种接口，包括USB 3.2、SATA 3.0等，可满足不同用户的需求。新闻链接：https://www.cnx-software.com/2026/01/12/milk-v-titan-a-329-octa-core-64-bit-risc-v-mini-itx-motherboard-with-a-pcie-gen4-x16-slot/",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-12 14:30:00",
+      "original_language": "en",
+      "original_title": "Milk-V Titan: A $329 8-Core 64-bit RISC-V mini-ITX board with PCIe Gen4x16",
+      "source_url": "https://www.cnx-software.com/2026/01/12/milk-v-titan-a-329-octa-core-64-bit-risc-v-mini-itx-motherboard-with-a-pcie-gen4-x16-slot/",
+      "id": 28,
+      "track": "rss",
+      "original_source": "Hacker News"
     },
     {
       "title": "替代开发者的重复梦想",
@@ -348,7 +374,7 @@
       "original_language": "en",
       "original_title": "The recurring dream of replacing developers",
       "source_url": "https://www.caimito.net/en/blog/2025/12/07/the-recurring-dream-of-replacing-developers.html",
-      "id": 27,
+      "id": 29,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -361,7 +387,7 @@
       "original_language": "en",
       "original_title": "Command-line Tools can be 235x Faster than your Hadoop Cluster (2014)",
       "source_url": "https://adamdrake.com/command-line-tools-can-be-235x-faster-than-your-hadoop-cluster.html",
-      "id": 28,
+      "id": 30,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -374,7 +400,7 @@
       "original_language": "en",
       "original_title": "The multibillion-dollar AI security problem enterprises can’t ignore ",
       "source_url": "https://techcrunch.com/podcast/the-multi-billion-ai-security-problem-enterprises-cant-ignore/",
-      "id": 29
+      "id": 31
     },
     {
       "title": "An Elizabethan mansion's secrets for staying warm",
@@ -385,7 +411,7 @@
       "original_language": "unknown",
       "original_title": "An Elizabethan mansion's secrets for staying warm",
       "source_url": "https://www.bbc.com/future/article/20260116-an-elizabethan-mansions-secrets-for-staying-warm",
-      "id": 30,
+      "id": 32,
       "track": "rss",
       "original_source": "Hacker News"
     }
