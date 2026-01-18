@@ -1,8 +1,60 @@
 {
   "category": "AI编程工具进化",
-  "last_update": "2026-01-18 05:31:31 (北京时间)",
-  "total_count": 14,
+  "last_update": "2026-01-18 11:20:01 (北京时间)",
+  "total_count": 18,
   "news": [
+    {
+      "title": "Show HN: ChunkHound，一个用于理解大型代码库的本地工具（翻译后）",
+      "summary": "ChunkHound是一个本地工具，旨在帮助开发者理解大型代码库。它允许用户通过将代码库分割成更小的、更易于管理的部分来浏览和理解代码。该工具旨在提高代码的可读性和维护性，特别适用于大型项目。ChunkHound的GitHub链接为：https://github.com/chunkhound/chunkhound。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-18 11:08:15",
+      "original_language": "en",
+      "original_title": "Show HN: ChunkHound, a local-first tool for understanding large codebases",
+      "source_url": "https://github.com/chunkhound/chunkhound",
+      "id": 1,
+      "track": "rss",
+      "original_source": "Hacker News"
+    },
+    {
+      "title": "Xous操作系统",
+      "summary": "Comments\n\n新闻链接：https://xous.dev/\n\n请注意，新闻内容中并没有提供具体的信息或评论，因此无法进行详细翻译和内容整理。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-18 11:07:49",
+      "original_language": "en",
+      "original_title": "Xous Operating System",
+      "source_url": "https://xous.dev/",
+      "id": 2,
+      "track": "rss",
+      "original_source": "Hacker News"
+    },
+    {
+      "title": "MIT的计算机系统安全（2024）",
+      "summary": "Comments\n\n新闻链接：https://css.csail.mit.edu/6.858/2024/\n\n该链接指向麻省理工学院（MIT）的计算机系统安全课程页面。具体内容未提供，可能包含课程信息、教学资源、讨论区等。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-18 11:07:46",
+      "original_language": "en",
+      "original_title": "MIT's Computer Systems Security (2024)",
+      "source_url": "https://css.csail.mit.edu/6.858/2024/",
+      "id": 3,
+      "track": "rss",
+      "original_source": "Hacker News"
+    },
+    {
+      "title": "基于土耳其语语法格的编程语言",
+      "summary": "新闻内容：Comments\n新闻链接：https://github.com/kip-dili/kip",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-18 11:07:41",
+      "original_language": "en",
+      "original_title": "A programming language based on grammatical cases of Turkish",
+      "source_url": "https://github.com/kip-dili/kip",
+      "id": 4,
+      "track": "rss",
+      "original_source": "Hacker News"
+    },
     {
       "title": "Show HN: Minikv – 分布式键值和对象存储在 Rust 中（Raft, S3 API）",
       "summary": "Comments\n\n新闻链接：https://github.com/whispem/minikv\n\n这是一个关于 Minikv 的讨论，Minikv 是一个使用 Rust 编写的分布式键值和对象存储系统，它实现了 Raft 协议和 S3 API。讨论中提到了 Minikv 的设计、性能和与其他存储解决方案的比较。",
@@ -12,7 +64,7 @@
       "original_language": "en",
       "original_title": "Show HN: Minikv – Distributed key-value and object store in Rust (Raft, S3 API)",
       "source_url": "https://github.com/whispem/minikv",
-      "id": 1,
+      "id": 5,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -25,7 +77,7 @@
       "original_language": "en",
       "original_title": "Colloqio",
       "source_url": "https://www.producthunt.com/products/colloqio-offline-ai-chat-app",
-      "id": 2,
+      "id": 6,
       "track": "rss",
       "original_source": "Product Hunt"
     },
@@ -38,7 +90,7 @@
       "original_language": "en",
       "original_title": "Sled",
       "source_url": "https://www.producthunt.com/products/sled-voice-interface-for-claude-code",
-      "id": 3,
+      "id": 7,
       "track": "rss",
       "original_source": "Product Hunt"
     },
@@ -51,7 +103,7 @@
       "original_language": "en",
       "original_title": "Chessmaster AI",
       "source_url": "https://www.producthunt.com/products/chessmaster-ai",
-      "id": 4,
+      "id": 8,
       "track": "rss",
       "original_source": "Product Hunt"
     },
@@ -64,7 +116,7 @@
       "original_language": "en",
       "original_title": "ClickHouse acquires Langfuse",
       "source_url": "https://langfuse.com/blog/joining-clickhouse",
-      "id": 5,
+      "id": 9,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -77,7 +129,7 @@
       "original_language": "en",
       "original_title": "We Put Claude Code in Rollercoaster Tycoon",
       "source_url": "https://labs.ramp.com/rct",
-      "id": 6,
+      "id": 10,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -90,7 +142,7 @@
       "original_language": "zh",
       "original_title": "腾讯云ADP国内首发AI原生Widget：一句话秒级生成交互组件，重塑Agent使用体验",
       "source_url": "https://www.qbitai.com/2026/01/370069.html",
-      "id": 7,
+      "id": 11,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -103,7 +155,7 @@
       "original_language": "zh",
       "original_title": "不用拍的广告片？深度拆解美团闪购AIGC营销新案例",
       "source_url": "https://www.qbitai.com/2026/01/369884.html",
-      "id": 8,
+      "id": 12,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -116,7 +168,7 @@
       "original_language": "zh",
       "original_title": "支付宝携手千问App、淘宝闪购等发布中国首个AI商业协议ACT",
       "source_url": "https://www.qbitai.com/2026/01/369878.html",
-      "id": 9,
+      "id": 13,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -129,7 +181,7 @@
       "original_language": "zh",
       "original_title": "滴滴给我发了个赛博助理，专管出行的那种",
       "source_url": "https://www.qbitai.com/2026/01/369738.html",
-      "id": 10,
+      "id": 14,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -142,7 +194,7 @@
       "original_language": "en",
       "original_title": "A single click mounted a covert, multistage attack against Copilot",
       "source_url": "https://arstechnica.com/security/2026/01/a-single-click-mounted-a-covert-multistage-attack-against-copilot/",
-      "id": 11
+      "id": 15
     },
     {
       "title": "替代开发者的重复梦想",
@@ -153,7 +205,7 @@
       "original_language": "en",
       "original_title": "The recurring dream of replacing developers",
       "source_url": "https://www.caimito.net/en/blog/2025/12/07/the-recurring-dream-of-replacing-developers.html",
-      "id": 12,
+      "id": 16,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -166,7 +218,7 @@
       "original_language": "en",
       "original_title": "The multibillion-dollar AI security problem enterprises can’t ignore ",
       "source_url": "https://techcrunch.com/podcast/the-multi-billion-ai-security-problem-enterprises-cant-ignore/",
-      "id": 13
+      "id": 17
     },
     {
       "title": "An Elizabethan mansion's secrets for staying warm",
@@ -177,7 +229,7 @@
       "original_language": "unknown",
       "original_title": "An Elizabethan mansion's secrets for staying warm",
       "source_url": "https://www.bbc.com/future/article/20260116-an-elizabethan-mansions-secrets-for-staying-warm",
-      "id": 14,
+      "id": 18,
       "track": "rss",
       "original_source": "Hacker News"
     }
