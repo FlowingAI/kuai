@@ -1,7 +1,7 @@
 {
   "category": "大模型动态",
-  "last_update": "2026-01-18 16:53:23 (北京时间)",
-  "total_count": 80,
+  "last_update": "2026-01-18 21:08:36 (北京时间)",
+  "total_count": 86,
   "news": [
     {
       "title": "马斯克最大算力中心建成了：全球首个GW级超算集群，再创世界纪录",
@@ -810,6 +810,84 @@
       "original_source": "量子位"
     },
     {
+      "title": "咖啡机变聪明后，我连咖啡都喝不上了",
+      "summary": "咖啡机变聪明后，我连咖啡都喝不上了\n\n近日，一位用户在社交媒体上分享了自己的经历，称自己家的咖啡机升级后变得非常智能，但同时也出现了一些问题。这位用户表示，升级后的咖啡机能够自动识别咖啡豆的种类、研磨程度和冲泡时间，但同时也出现了一些意想不到的情况。例如，当用户想要喝咖啡时，咖啡机会自动识别出用户的需求，并开始准备咖啡。然而，在这个过程中，咖啡机会不断地发出各种提示音，让用户感到非常烦躁。此外，咖啡机还会自动调整冲泡参数，导致咖啡的味道与之前有所不同。这位用户表示，虽然咖啡机的智能化程度很高，但同时也给自己的生活带来了一些困扰。\n\n据悉，这位用户的咖啡机是某品牌的高端型号，具备智能识别和自动调整功能。随着人工智能技术的不断发展，越来越多的家电产品开始具备智能化功能。然而，这也引发了一些关于智能家居产品是否过于智能的讨论。一些用户认为，智能家居产品过于智能可能会给用户带来不便，甚至影响生活质量。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-18 14:30:00",
+      "original_language": "zh",
+      "original_title": "咖啡机变聪明后，我连咖啡都喝不上了",
+      "source_url": "https://www.jiqizhixin.com/articles/2026-01-18-5",
+      "id": 71,
+      "track": "rss",
+      "original_source": "机器之心"
+    },
+    {
+      "title": "谷歌工程师抛出5个残酷问题：未来两年，软件工程还剩下什么？",
+      "summary": "谷歌工程师抛出了5个关于未来两年软件工程的问题，这些问题涉及技术、团队和行业趋势等多个方面。以下是这5个问题：\n1. 我们是否还在使用正确的编程语言？\n2. 我们是否还在使用正确的框架？\n3. 我们是否还在使用正确的工具？\n4. 我们是否还在使用正确的流程？\n5. 我们是否还在使用正确的团队结构？\n这些问题引发了业界的广泛讨论。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-18 14:30:00",
+      "original_language": "zh",
+      "original_title": "谷歌工程师抛出5个残酷问题：未来两年，软件工程还剩下什么？",
+      "source_url": "https://www.jiqizhixin.com/articles/2026-01-18-3",
+      "id": 72,
+      "track": "rss",
+      "original_source": "机器之心"
+    },
+    {
+      "title": "AAAI 2026｜相聚新加坡，探讨AI时代最核心难题",
+      "summary": "AAAI 2026 将于新加坡举行，会议将聚焦于AI时代最核心的难题。具体内容包括但不限于人工智能的伦理、安全、可解释性以及其在不同领域的应用。会议将邀请全球顶尖的AI研究人员和行业领袖共同参与讨论，旨在推动人工智能技术的健康发展。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-18 00:00:00",
+      "original_language": "zh",
+      "original_title": "AAAI 2026｜相聚新加坡，探讨AI时代最核心难题",
+      "source_url": "https://www.jiqizhixin.com/articles/2026-01-18-4",
+      "id": 73,
+      "track": "rss",
+      "original_source": "机器之心"
+    },
+    {
+      "title": "红杉合伙人：2026，AGI已经来了",
+      "summary": "红杉合伙人表示，到2026年，通用人工智能（AGI）已经到来。这一观点在业界引起了广泛关注。通用人工智能是指能够执行各种复杂任务的人工智能系统，它将超越当前的人工智能技术，实现更加智能化的应用。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-18 00:00:00",
+      "original_language": "zh",
+      "original_title": "红杉合伙人：2026，AGI已经来了",
+      "source_url": "https://www.jiqizhixin.com/articles/2026-01-18-2",
+      "id": 74,
+      "track": "rss",
+      "original_source": "机器之心"
+    },
+    {
+      "title": "VerseCrafter：给视频世界模型装上4D方向盘，精准运镜控物",
+      "summary": "VerseCrafter 是一款用于视频制作的工具，它通过引入4D方向盘的概念，为视频世界模型提供了更精准的控制。用户可以通过这个工具来精确控制视频中的镜头和物体，从而实现更加流畅和专业的视频制作效果。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-16 14:30:00",
+      "original_language": "zh",
+      "original_title": "VerseCrafter：给视频世界模型装上4D方向盘，精准运镜控物",
+      "source_url": "https://www.jiqizhixin.com/articles/2026-01-18",
+      "id": 75,
+      "track": "rss",
+      "original_source": "机器之心"
+    },
+    {
+      "title": "微软谷歌正在大力招「电工」",
+      "summary": "微软和谷歌正在积极招聘电力工程师，因为电力短缺问题比GPU短缺更为严重。这一消息来源于QbitAI网站的一篇报道。报道指出，随着全球对云计算和人工智能服务的需求不断增长，电力供应成为了一个关键瓶颈。因此，这两家科技巨头正在寻找更多的电力工程师来确保其数据中心和服务器能够持续稳定运行。报道链接：[微软谷歌正在大力招「电工」](https://www.qbitai.com/2026/01/370026.html)",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-16 14:30:00",
+      "original_language": "zh",
+      "original_title": "微软谷歌正在大力招「电工」",
+      "source_url": "https://www.qbitai.com/2026/01/370026.html",
+      "id": 76,
+      "track": "rss",
+      "original_source": "量子位"
+    },
+    {
       "title": "裁员50%后，他靠AI编程大逆袭！ARR破亿，估值直冲600亿",
       "summary": "智东西\n作者 |  陈骏达\n编辑 |  心缘\n智东西1月16日报道，今天，据彭博社报道，美国Vibe Coding（氛围编程）独角兽Replit即将完成一笔新的融资交易，计划筹集大约4亿美元（约合人民币27.87亿元）的资金，其投后估值或将达到约90亿美元（约合人民币627.15亿元），大约是上轮融资时估值的3倍。\n去年9月，Replit刚刚完成一轮2.5亿美元（约合人民币17.42亿元）的融资，估值为30亿美元（约合人民币209.05亿元）。自2016年成立以来，Replit已经完成了10次融资，累计融资总额为4.72亿美元（约合人民币32.89亿元）。\nReplit还在2025年迈入了“1亿美元ARR（年度经常性收入）俱乐部”。在AI应用赛道，能迈过这一门槛的企业屈指可数，都是头部玩家，比如Perplexity、Character.AI等。而具体到Vibe Coding这一赛道，目前仅有Cursor、Lovable和Replit三家实现了这一目标。\n与传统编程依赖开发者逐行编写代码不同，Vibe Coding更强调表达意图，用户只需描述想做什么，AI会自动完成需求拆解、代码生成、调试、部署甚至数据库配置等完整流程。\n不过，Replit并非一开始就站在“Vibe Coding”的风口上。其最初的定位，是“在浏览器里写代码”的开发者工具，产品口碑不错，却始终没能跨过商业化这道坎，ARR长期徘徊在200万-300万美元区间，增长乏力。\n2024年，在经历商业化挫败与50%的大幅裁员后，Replit决定放手一搏：彻底放弃“专业开发者”这一核心市场，推出Replit Agent，把目标用户从程序员转向“不会写代码的普通人”，试图让任何人都能凭想法把应用真正做出来、上线跑起来。\n这一路线，正是后来在2025年2月由AI大牛卡帕西正式命名的“Vibe Coding”的雏形。\n这次豪赌最终改写了Replit的命运。短短半年，Replit的ARR从1000万美元级别跃升至1亿美元，到2025年9月，进一步增长至1.44亿美元，涨幅超过900%，公司估值随之飙升。Replit摇身一变成为AI编程赛道最具代表性的企业之一。\n融资与估值暴涨的喧嚣背后，Replit的起点，其实是一个再朴素不过的想法。\n一、创业受谷歌文档启发，曾拒绝Github 10亿美元收购邀约\n2010年左右，编程世界里，本地开发仍是主流。不过，复杂的本地环境搭建，较为困难的代码共享，让广大的学生、初学者群体望而却步。\n大约在同一时期，浏览器和网页技术实现了巨大飞跃。受到谷歌文档的启发，Replit创始人兼CEO Amjad Masad有了一个想法：为什么不直接在浏览器里写代码和运行代码呢？这将让代码共享变得极其简单，环境也能轻松复现。他的另一个灵感来源是云虚拟机，开发者可以编写代码并共享整台机器，其他人可以克隆这一机器。\n\n▲Replit创始人兼CEO Amjad Masad\n2010年，Amjad Masad获得了约旦苏玛雅公主理工大学的计算机科学学士学位，并开始着手开发Replit的原型。2011年，原型诞生了，最初名为“JSRepl”，借鉴了REPL（读-评估-打印循环）这一交互式计算机编程环境，并最终更名为Repl.it（2021年，Repl.it更名为Replit）。\nAmjad Masad在YC的新闻论坛Hacker News上发布了Replit的链接，产品迅速走红。这也促成了他在美国的第一份工作——代码学习网站Codecademy的创始工程师。之后，他陆续在雅虎、Facebook等公司担任软件工程师。\n到2016年，Amjad Masad和妻子Haya Odeh决定重新开始他在约旦的旧项目，正式创立Replit公司，作为一个在线平台，帮助开发者构建、协作和发布软件。\n由于此前在硅谷的耳濡目染，Amjad Masad深知宣传和产品本身一样重要。他开始实时博客报道Replit的发展进展，很快引起了YC联合创始人兼CEO Paul Graham本人的注意，并被后者邀约申请2018年的Y Combinator加速器项目。\n\n▲早期的Replit\n与其他初创项目不同，加入YC前，Replit已经拥有了20万名周活用户，并支持当时几乎所有编程语言，产品本身已经较为成熟。完成项目后，Replit获得了a16z 450万美元的投资。有了这些资金和支持，Replit开始在编程学习与教育领域获得关注，成为一款广受欢迎的工具。\nAmjad Masad称，他曾拒绝Github以10亿美元收购Replit的邀约，因为他认为Replit有一天会变得更值钱。\n二、2020年便布局AI编程，但业绩增长乏力\n回顾完Replit的创始故事，我们已经能看到一条清晰的主线——Replit想做的，其实就是尽可能降低编程这件事儿的门槛，让更多人可以更轻松的通过代码，实现自己的想法，无论是课堂的作业，还是网站，或是一个创业项目。\n而AI，无疑是完成上述目标的绝佳手段之一。\n2020年6月，OpenAI正式发布了OpenAI API，开发者可以直接通过API使用OpenAI当时最前沿的大模型。Amjad Masad获得了仍处于测试阶段的新模型访问权限，也就是后来的GPT-3。\nAmjad Masad对AI应用于编程领域的潜力感到十分兴奋，并推动Replit迅速推出了多项AI功能。比如，当时Replit打造了Code Oracle功能，让用户能选中代码并直接向大模型提问。\n\n▲Code Oracle（图源：Amjad Masad@X）\n2021年，随着OpenAI编程模型Codex的发布，Replit用新模型全面升级了其AI体验，已经支持代码生成、解释、转换和自动补全四大主要功能。\nAmjad Masad在当时便展望了AI编程的未来，他在博客中写道：AI辅助编程将消除编程的枯燥乏味，会让学习编程（以及许多其他东西）变得更容易。由于计算机在生成代码方面会比人类更快、更好，编程本身可能会改变，也许我们能通过说话编程，甚至在VR/AR空间里移动组件，实现编程（Amjad Masad说的这些，如今都已经实现了）。\n\n自那以后，Replit的发展其实并不顺利。2021年，Replit实现了283万美元的ARR，之后连续4年都维持在这一水平。他们尝试向学校销售Replit，用于编程教学，但是十分困难。Replit还试图更换不同的商业模式，但都未能给业绩带来起色。\n在转型过程中，Replit一方面保留了REPL的大部分理念，比如互动性、快速启动和可重复性等等，但他们也开始探索一条新道路，逐步开发出可移植的多人编程环境和计算基础设施，让人们学习如何编程、构建和发布网页应用，提供开箱即用的底层环境，甚至帮助人们创业和发展业务。\n2024年是Replit的至暗时刻，其公司员工达到130人，且资金紧张，不得不裁掉50%的员工，最低点时人数降至60至70人左右。\n不过，转机也在此时到来。随着模型能力的不断提升，AI在编程中能做的任务越来越多。2024年9月，Replit正式推出了Replit Agent。Amjad Masad称其为世界上第一个基于Agent的编程体验：不仅能编写代码，还能调试、部署、配置数据库，就像真正的软件开发合作伙伴一样。\nAmjad Masad在接受TechCrunch采访时称：“让编程对普通人和知识工作者来说更容易上手，这才是我们真正的市场，这也是一个全新的市场。”\n后来的发展证明，推出Replit Agent可能是Replit历史上最重要的决定之一。\n三、果断“抛弃”专业开发者，ARR半年涨900%\n2024年底，Replit的ARR已经从此前的200多万美元增长至1000万美元。2025年1月，Amjad Masad又做了一个大胆的决定——不再将专业开发者群体作为Replit的核心市场，也就是不与Cursor、GitHub Copilot这样的产品竞争，而是转而培养数十亿没有技术背景的开发者。\n不到6个月后，Replit的ARR已经突破1亿美元。\n在2025年，Replit在提升Agent自主性方面下了不少功夫。比如，Replit发布的Agent v2每一步都会生成假设，搜索合适的文件，只有在获得足够信息完成任务时才开始修改代码。\n而Agent v3的自主性进一步提升，能连续运行超过200分钟，且无需人类监督，具备自我监督、管理长任务列表和自主应用测试的能力，可以更端到端地完成开发任务。与纯粹的AI IDE不同，Replit能直接产出一个全栈的网页应用，包含完整的前后端。Agent还能主动指导用户，提供开发建议。\n\n在开发工具方面，Replit曾发布业内首个实时应用设计预览，也就是说用户能在开发的同时，实时看到应用或网站的界面。用户还可以在网页和手机上，实时监控Agent的操作过程。\nReplit还为用户提供了底层算力和环境，应用所需的服务器、存储等，都可以在平台上一站式配齐。\n不过，Replit Agent更强大的自主性也带来了新的风险。\n2025年7月，Adobe的联合创始人兼前CEO、有着SaaS行业教父之称的Jason Lemkin，就在X平台上分享了一场由Replit导致的Vibe Coding灾难。\n在一次操作中，Replit Agent在没有明确用户指令的情况下，竟错误地执行了一个致命的数据库命令，顷刻之间，他长达80小时的工作成果被清空。虽然最后Replit仍然帮助Lemkin恢复了相关数据，但其中隐藏的风险也暴露无遗。\n\n事件发生后，Replit在两天内推出了一套自动安全系统，将用户的开发数据库与真实数据库分开。Agent可以自由在开发数据库中实验，但用户真正互动的生产数据库则被完全隔离。\n在今年1月的一档播客中，Amjad Masad对Agent市场的未来极其看好。他认为，Agent的可服务市场规模不是软件工程行业，而是整个劳动力市场，其价值高达数万亿美元。\n\nAmjad Masad并不认为给底层模型套上“Agent”这个壳子没有价值。他认为，目前大多数Agent其实都是“废料（Slop）”，本质是不可靠的玩具，接触到真实世界的混乱数据数据后就会失效。要解决这一问题，就需要Agent平台本身做更多的努力，并为Agent注入品味。\n随着模型的升级，Agent开发者打造的壳，可能会成为下一代模型的内在能力。但Amjad Masad觉得这是件好事，这意味着开发者可以去解决新的、更困难的问题。\n就在传出融资消息之际，Replit确实已经开始解决下一个难题了：他们推出了手机应用的生成功能，开发者不需要拥有任何本地开发经验，只要在聊天中迭代，并手机即时预览，准备好时直接发布到App Store即可。\n\n结语：产品已实现盈利，优势在于“非技术用户”定位\n如果传闻中的4亿美元融资额准确的话，Replit的现金流情况将会十分良好。2025年10月，Amjad Masad曾向TechCrunch透露，公司账上还有3.5亿美元，并实现产品盈利。\n不过，Replit依然面临激烈的竞争。虽然其定位与Cursor、Claude Code等产品有明显区别，但是用户群体仍旧有重叠。而Lovable这样的明星Vibe Coding独角兽，用户定位与Replit完全一致。\nAmjad Masad认为，Replit的优势在于面向非技术用户，以及其构建的复杂部署和数据库管理基础设施，这是其他公司尚未优先考虑的问题。\n资料来源：Replit官网、TechCrunch、VentureBeat",
       "is_legal": true,
@@ -818,7 +896,7 @@
       "original_language": "unknown",
       "original_title": "裁员50%后，他靠AI编程大逆袭！ARR破亿，估值直冲600亿",
       "source_url": "https://zhidx.com/p/529226.html",
-      "id": 71,
+      "id": 77,
       "track": "rss",
       "original_source": "智东西"
     },
@@ -831,7 +909,7 @@
       "original_language": "zh",
       "original_title": "或达3000万副！Meta猛增AI眼镜产能，苹果入局小扎有点怕？",
       "source_url": "https://zhidx.com/p/529070.html",
-      "id": 72,
+      "id": 78,
       "track": "rss",
       "original_source": "智东西"
     },
@@ -844,7 +922,7 @@
       "original_language": "en",
       "original_title": "Introducing OptiMind, a research model designed for optimization",
       "source_url": "https://huggingface.co/blog/microsoft/optimind",
-      "id": 73,
+      "id": 79,
       "track": "rss",
       "original_source": "Hugging Face"
     },
@@ -857,7 +935,7 @@
       "original_language": "en",
       "original_title": "Open Responses: What you need to know",
       "source_url": "https://huggingface.co/blog/open-responses",
-      "id": 74,
+      "id": 80,
       "track": "rss",
       "original_source": "Hugging Face"
     },
@@ -870,7 +948,7 @@
       "original_language": "en",
       "original_title": "NVIDIA Cosmos Reason 2 Brings Advanced Reasoning To Physical AI",
       "source_url": "https://huggingface.co/blog/nvidia/nvidia-cosmos-reason-2-brings-advanced-reasoning",
-      "id": 75,
+      "id": 81,
       "track": "rss",
       "original_source": "Hugging Face"
     },
@@ -883,7 +961,7 @@
       "original_language": "en",
       "original_title": "Introducing Falcon-H1-Arabic: Pushing the Boundaries of Arabic Language AI with Hybrid Architecture",
       "source_url": "https://huggingface.co/blog/tiiuae/falcon-h1-arabic",
-      "id": 76,
+      "id": 82,
       "track": "rss",
       "original_source": "Hugging Face"
     },
@@ -896,7 +974,7 @@
       "original_language": "en",
       "original_title": "NVIDIA brings agents to life with DGX Spark and Reachy Mini",
       "source_url": "https://huggingface.co/blog/nvidia-reachy-mini",
-      "id": 77,
+      "id": 83,
       "track": "rss",
       "original_source": "Hugging Face"
     },
@@ -909,7 +987,7 @@
       "original_language": "en",
       "original_title": "AprielGuard: A Guardrail for Safety and Adversarial Robustness in Modern LLM Systems",
       "source_url": "https://huggingface.co/blog/ServiceNow-AI/aprielguard",
-      "id": 78,
+      "id": 84,
       "track": "rss",
       "original_source": "Hugging Face"
     },
@@ -922,7 +1000,7 @@
       "original_language": "en",
       "original_title": "Tokenization in Transformers v5: Simpler, Clearer, and More Modular",
       "source_url": "https://huggingface.co/blog/tokenizers",
-      "id": 79,
+      "id": 85,
       "track": "rss",
       "original_source": "Hugging Face"
     },
@@ -935,7 +1013,7 @@
       "original_language": "en",
       "original_title": "The Open Evaluation Standard: Benchmarking NVIDIA Nemotron 3 Nano with NeMo Evaluator",
       "source_url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-evaluation-recipe",
-      "id": 80,
+      "id": 86,
       "track": "rss",
       "original_source": "Hugging Face"
     }
