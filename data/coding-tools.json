@@ -1,8 +1,34 @@
 {
   "category": "AI编程工具进化",
-  "last_update": "2026-01-18 11:20:01 (北京时间)",
-  "total_count": 18,
+  "last_update": "2026-01-18 13:25:25 (北京时间)",
+  "total_count": 20,
   "news": [
+    {
+      "title": "科学家如何使用Claude加速研究和发现",
+      "summary": "科学家正在使用Claude来加速研究和发现。Claude是一种人工智能工具，可以帮助科学家分析数据、生成假设和预测。通过使用Claude，科学家可以更快地处理大量数据，从而加快研究进度。这项技术的应用已经在多个领域取得了显著成果，包括生物学、物理学和化学。例如，在生物学领域，Claude可以帮助科学家分析基因序列，从而更快地发现新的药物靶点。在物理学领域，Claude可以帮助科学家模拟复杂的物理过程，从而更好地理解宇宙的运作机制。这项技术的应用不仅提高了科学研究的效率，还有助于推动科学知识的进步。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-18 13:24:27",
+      "original_language": "en",
+      "original_title": "How scientists are using Claude to accelerate research and discovery",
+      "source_url": "https://www.anthropic.com/news/accelerating-scientific-research",
+      "id": 1,
+      "track": "rss",
+      "original_source": "Hacker News"
+    },
+    {
+      "title": "使用ChatGPT 5.2 Pro解决Erdos 281问题",
+      "summary": "Comments\n新闻链接：https://twitter.com/neelsomani/status/2012695714187325745",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-18 13:24:16",
+      "original_language": "en",
+      "original_title": "Erdos 281 solved with ChatGPT 5.2 Pro",
+      "source_url": "https://twitter.com/neelsomani/status/2012695714187325745",
+      "id": 2,
+      "track": "rss",
+      "original_source": "Hacker News"
+    },
     {
       "title": "Show HN: ChunkHound，一个用于理解大型代码库的本地工具（翻译后）",
       "summary": "ChunkHound是一个本地工具，旨在帮助开发者理解大型代码库。它允许用户通过将代码库分割成更小的、更易于管理的部分来浏览和理解代码。该工具旨在提高代码的可读性和维护性，特别适用于大型项目。ChunkHound的GitHub链接为：https://github.com/chunkhound/chunkhound。",
@@ -12,7 +38,7 @@
       "original_language": "en",
       "original_title": "Show HN: ChunkHound, a local-first tool for understanding large codebases",
       "source_url": "https://github.com/chunkhound/chunkhound",
-      "id": 1,
+      "id": 3,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -25,7 +51,7 @@
       "original_language": "en",
       "original_title": "Xous Operating System",
       "source_url": "https://xous.dev/",
-      "id": 2,
+      "id": 4,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -38,7 +64,7 @@
       "original_language": "en",
       "original_title": "MIT's Computer Systems Security (2024)",
       "source_url": "https://css.csail.mit.edu/6.858/2024/",
-      "id": 3,
+      "id": 5,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -51,7 +77,7 @@
       "original_language": "en",
       "original_title": "A programming language based on grammatical cases of Turkish",
       "source_url": "https://github.com/kip-dili/kip",
-      "id": 4,
+      "id": 6,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -64,7 +90,7 @@
       "original_language": "en",
       "original_title": "Show HN: Minikv – Distributed key-value and object store in Rust (Raft, S3 API)",
       "source_url": "https://github.com/whispem/minikv",
-      "id": 5,
+      "id": 7,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -77,7 +103,7 @@
       "original_language": "en",
       "original_title": "Colloqio",
       "source_url": "https://www.producthunt.com/products/colloqio-offline-ai-chat-app",
-      "id": 6,
+      "id": 8,
       "track": "rss",
       "original_source": "Product Hunt"
     },
@@ -90,7 +116,7 @@
       "original_language": "en",
       "original_title": "Sled",
       "source_url": "https://www.producthunt.com/products/sled-voice-interface-for-claude-code",
-      "id": 7,
+      "id": 9,
       "track": "rss",
       "original_source": "Product Hunt"
     },
@@ -103,7 +129,7 @@
       "original_language": "en",
       "original_title": "Chessmaster AI",
       "source_url": "https://www.producthunt.com/products/chessmaster-ai",
-      "id": 8,
+      "id": 10,
       "track": "rss",
       "original_source": "Product Hunt"
     },
@@ -116,7 +142,7 @@
       "original_language": "en",
       "original_title": "ClickHouse acquires Langfuse",
       "source_url": "https://langfuse.com/blog/joining-clickhouse",
-      "id": 9,
+      "id": 11,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -129,7 +155,7 @@
       "original_language": "en",
       "original_title": "We Put Claude Code in Rollercoaster Tycoon",
       "source_url": "https://labs.ramp.com/rct",
-      "id": 10,
+      "id": 12,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -142,7 +168,7 @@
       "original_language": "zh",
       "original_title": "腾讯云ADP国内首发AI原生Widget：一句话秒级生成交互组件，重塑Agent使用体验",
       "source_url": "https://www.qbitai.com/2026/01/370069.html",
-      "id": 11,
+      "id": 13,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -155,7 +181,7 @@
       "original_language": "zh",
       "original_title": "不用拍的广告片？深度拆解美团闪购AIGC营销新案例",
       "source_url": "https://www.qbitai.com/2026/01/369884.html",
-      "id": 12,
+      "id": 14,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -168,7 +194,7 @@
       "original_language": "zh",
       "original_title": "支付宝携手千问App、淘宝闪购等发布中国首个AI商业协议ACT",
       "source_url": "https://www.qbitai.com/2026/01/369878.html",
-      "id": 13,
+      "id": 15,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -181,7 +207,7 @@
       "original_language": "zh",
       "original_title": "滴滴给我发了个赛博助理，专管出行的那种",
       "source_url": "https://www.qbitai.com/2026/01/369738.html",
-      "id": 14,
+      "id": 16,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -194,7 +220,7 @@
       "original_language": "en",
       "original_title": "A single click mounted a covert, multistage attack against Copilot",
       "source_url": "https://arstechnica.com/security/2026/01/a-single-click-mounted-a-covert-multistage-attack-against-copilot/",
-      "id": 15
+      "id": 17
     },
     {
       "title": "替代开发者的重复梦想",
@@ -205,7 +231,7 @@
       "original_language": "en",
       "original_title": "The recurring dream of replacing developers",
       "source_url": "https://www.caimito.net/en/blog/2025/12/07/the-recurring-dream-of-replacing-developers.html",
-      "id": 16,
+      "id": 18,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -218,7 +244,7 @@
       "original_language": "en",
       "original_title": "The multibillion-dollar AI security problem enterprises can’t ignore ",
       "source_url": "https://techcrunch.com/podcast/the-multi-billion-ai-security-problem-enterprises-cant-ignore/",
-      "id": 17
+      "id": 19
     },
     {
       "title": "An Elizabethan mansion's secrets for staying warm",
@@ -229,7 +255,7 @@
       "original_language": "unknown",
       "original_title": "An Elizabethan mansion's secrets for staying warm",
       "source_url": "https://www.bbc.com/future/article/20260116-an-elizabethan-mansions-secrets-for-staying-warm",
-      "id": 18,
+      "id": 20,
       "track": "rss",
       "original_source": "Hacker News"
     }
