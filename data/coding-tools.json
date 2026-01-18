@@ -1,8 +1,60 @@
 {
   "category": "AI编程工具进化",
-  "last_update": "2026-01-18 17:34:45 (北京时间)",
-  "total_count": 25,
+  "last_update": "2026-01-18 21:41:56 (北京时间)",
+  "total_count": 30,
   "news": [
+    {
+      "title": "Iconify:开源图标库",
+      "summary": "Iconify是一个开源图标库，提供各种图标资源。新闻内容中包含对Iconify的评论和相关信息，但未提供具体评论内容。新闻链接为https://icon-sets.iconify.design/。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-18 21:29:48",
+      "original_language": "en",
+      "original_title": "Iconify: Library of Open Source Icons",
+      "source_url": "https://icon-sets.iconify.design/",
+      "id": 1,
+      "track": "rss",
+      "original_source": "Hacker News"
+    },
+    {
+      "title": "Consent-O-Matic",
+      "summary": "Consent-O-Matic 是一个开源项目，旨在帮助用户自动管理他们的同意。这个项目提供了一个用户界面，允许用户轻松地管理他们的同意，包括同意的撤销和更新。Consent-O-Matic 的目标是简化同意管理过程，使其更加透明和用户友好。项目链接：[Consent-O-Matic](https://github.com/cavi-au/Consent-O-Matic)",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-18 21:29:42",
+      "original_language": "en",
+      "original_title": "Consent-O-Matic",
+      "source_url": "https://github.com/cavi-au/Consent-O-Matic",
+      "id": 2,
+      "track": "rss",
+      "original_source": "Hacker News"
+    },
+    {
+      "title": "Show HN: Figma-use – CLI to control Figma for AI agents",
+      "summary": "Comments\n\n新闻链接：https://github.com/dannote/figma-use\n\n该新闻标题和内容为英文，内容主要介绍了Figma-use，这是一个用于控制Figma的命令行界面（CLI），旨在为AI代理提供支持。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-18 21:29:36",
+      "original_language": "en",
+      "original_title": "Show HN: Figma-use – CLI to control Figma for AI agents",
+      "source_url": "https://github.com/dannote/figma-use",
+      "id": 3,
+      "track": "rss",
+      "original_source": "Hacker News"
+    },
+    {
+      "title": "从头开始：训练一个30M拓扑变换器",
+      "summary": "Comments\n\nThis post is a continuation of our previous work on topological transformers. In our previous work, we introduced the Topological Transformer (TT) and demonstrated its effectiveness in various tasks. In this post, we focus on the training process of the 30M Topological Transformer (tauformer). We discuss the challenges we faced, the techniques we used to overcome them, and the results we achieved. We also provide a detailed analysis of the model architecture and training procedure. Finally, we discuss the potential applications of the tauformer in various domains.",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-18 21:29:23",
+      "original_language": "en",
+      "original_title": "Starting from scratch: Training a 30M Topological Transformer",
+      "source_url": "https://www.tuned.org.uk/posts/013_the_topological_transformer_training_tauformer",
+      "id": 4,
+      "track": "rss",
+      "original_source": "Hacker News"
+    },
     {
       "title": "Show HN: GibRAM一个内存中短暂的GraphRAG检索运行时",
       "summary": "Comments\n\n新闻链接：https://github.com/gibram-io/gibram",
@@ -12,7 +64,7 @@
       "original_language": "en",
       "original_title": "Show HN: GibRAM an in-memory ephemeral GraphRAG runtime for retrieval",
       "source_url": "https://github.com/gibram-io/gibram",
-      "id": 1,
+      "id": 5,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -25,7 +77,7 @@
       "original_language": "zh",
       "original_title": "马斯克最大算力中心建成了：全球首个GW级超算集群，再创世界纪录",
       "source_url": "https://www.qbitai.com/2026/01/370077.html",
-      "id": 2,
+      "id": 6,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -38,7 +90,7 @@
       "original_language": "zh",
       "original_title": "机器人终于能用明白洗碗机了｜UC伯克利新研究",
       "source_url": "https://www.qbitai.com/2026/01/370136.html",
-      "id": 3,
+      "id": 7,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -51,7 +103,7 @@
       "original_language": "en",
       "original_title": "How scientists are using Claude to accelerate research and discovery",
       "source_url": "https://www.anthropic.com/news/accelerating-scientific-research",
-      "id": 4,
+      "id": 8,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -64,7 +116,7 @@
       "original_language": "en",
       "original_title": "Erdos 281 solved with ChatGPT 5.2 Pro",
       "source_url": "https://twitter.com/neelsomani/status/2012695714187325745",
-      "id": 5,
+      "id": 9,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -77,7 +129,7 @@
       "original_language": "en",
       "original_title": "Show HN: ChunkHound, a local-first tool for understanding large codebases",
       "source_url": "https://github.com/chunkhound/chunkhound",
-      "id": 6,
+      "id": 10,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -90,7 +142,7 @@
       "original_language": "en",
       "original_title": "Xous Operating System",
       "source_url": "https://xous.dev/",
-      "id": 7,
+      "id": 11,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -103,7 +155,7 @@
       "original_language": "en",
       "original_title": "MIT's Computer Systems Security (2024)",
       "source_url": "https://css.csail.mit.edu/6.858/2024/",
-      "id": 8,
+      "id": 12,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -116,7 +168,7 @@
       "original_language": "en",
       "original_title": "A programming language based on grammatical cases of Turkish",
       "source_url": "https://github.com/kip-dili/kip",
-      "id": 9,
+      "id": 13,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -129,7 +181,7 @@
       "original_language": "en",
       "original_title": "Show HN: Minikv – Distributed key-value and object store in Rust (Raft, S3 API)",
       "source_url": "https://github.com/whispem/minikv",
-      "id": 10,
+      "id": 14,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -142,7 +194,7 @@
       "original_language": "en",
       "original_title": "Colloqio",
       "source_url": "https://www.producthunt.com/products/colloqio-offline-ai-chat-app",
-      "id": 11,
+      "id": 15,
       "track": "rss",
       "original_source": "Product Hunt"
     },
@@ -155,7 +207,7 @@
       "original_language": "en",
       "original_title": "Sled",
       "source_url": "https://www.producthunt.com/products/sled-voice-interface-for-claude-code",
-      "id": 12,
+      "id": 16,
       "track": "rss",
       "original_source": "Product Hunt"
     },
@@ -168,7 +220,7 @@
       "original_language": "en",
       "original_title": "Chessmaster AI",
       "source_url": "https://www.producthunt.com/products/chessmaster-ai",
-      "id": 13,
+      "id": 17,
       "track": "rss",
       "original_source": "Product Hunt"
     },
@@ -181,7 +233,7 @@
       "original_language": "en",
       "original_title": "ClickHouse acquires Langfuse",
       "source_url": "https://langfuse.com/blog/joining-clickhouse",
-      "id": 14,
+      "id": 18,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -194,7 +246,7 @@
       "original_language": "en",
       "original_title": "We Put Claude Code in Rollercoaster Tycoon",
       "source_url": "https://labs.ramp.com/rct",
-      "id": 15,
+      "id": 19,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -207,7 +259,7 @@
       "original_language": "zh",
       "original_title": "腾讯云ADP国内首发AI原生Widget：一句话秒级生成交互组件，重塑Agent使用体验",
       "source_url": "https://www.qbitai.com/2026/01/370069.html",
-      "id": 16,
+      "id": 20,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -220,7 +272,7 @@
       "original_language": "en",
       "original_title": "jQuery 4",
       "source_url": "https://blog.jquery.com/2026/01/17/jquery-4-0-0/",
-      "id": 17,
+      "id": 21,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -233,7 +285,7 @@
       "original_language": "en",
       "original_title": "Data Activation Thoughts",
       "source_url": "https://galsapir.github.io/sparse-thoughts/2026/01/17/data_activation/",
-      "id": 18,
+      "id": 22,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -246,7 +298,7 @@
       "original_language": "zh",
       "original_title": "不用拍的广告片？深度拆解美团闪购AIGC营销新案例",
       "source_url": "https://www.qbitai.com/2026/01/369884.html",
-      "id": 19,
+      "id": 23,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -259,7 +311,7 @@
       "original_language": "zh",
       "original_title": "支付宝携手千问App、淘宝闪购等发布中国首个AI商业协议ACT",
       "source_url": "https://www.qbitai.com/2026/01/369878.html",
-      "id": 20,
+      "id": 24,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -272,7 +324,7 @@
       "original_language": "zh",
       "original_title": "滴滴给我发了个赛博助理，专管出行的那种",
       "source_url": "https://www.qbitai.com/2026/01/369738.html",
-      "id": 21,
+      "id": 25,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -285,7 +337,7 @@
       "original_language": "en",
       "original_title": "A single click mounted a covert, multistage attack against Copilot",
       "source_url": "https://arstechnica.com/security/2026/01/a-single-click-mounted-a-covert-multistage-attack-against-copilot/",
-      "id": 22
+      "id": 26
     },
     {
       "title": "替代开发者的重复梦想",
@@ -296,7 +348,20 @@
       "original_language": "en",
       "original_title": "The recurring dream of replacing developers",
       "source_url": "https://www.caimito.net/en/blog/2025/12/07/the-recurring-dream-of-replacing-developers.html",
-      "id": 23,
+      "id": 27,
+      "track": "rss",
+      "original_source": "Hacker News"
+    },
+    {
+      "title": "命令行工具比你的Hadoop集群快235倍（2014）",
+      "summary": "Comments\n\n文章讨论了命令行工具在处理大数据方面的性能，指出在某些情况下，命令行工具比Hadoop集群快235倍。作者Adam Drake通过实际测试和比较，展示了命令行工具在处理数据时的优势，并分析了Hadoop集群在性能上的局限性。文章还讨论了不同类型的数据处理场景，以及如何选择合适的数据处理工具。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2014-01-16 14:30:00",
+      "original_language": "en",
+      "original_title": "Command-line Tools can be 235x Faster than your Hadoop Cluster (2014)",
+      "source_url": "https://adamdrake.com/command-line-tools-can-be-235x-faster-than-your-hadoop-cluster.html",
+      "id": 28,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -309,7 +374,7 @@
       "original_language": "en",
       "original_title": "The multibillion-dollar AI security problem enterprises can’t ignore ",
       "source_url": "https://techcrunch.com/podcast/the-multi-billion-ai-security-problem-enterprises-cant-ignore/",
-      "id": 24
+      "id": 29
     },
     {
       "title": "An Elizabethan mansion's secrets for staying warm",
@@ -320,7 +385,7 @@
       "original_language": "unknown",
       "original_title": "An Elizabethan mansion's secrets for staying warm",
       "source_url": "https://www.bbc.com/future/article/20260116-an-elizabethan-mansions-secrets-for-staying-warm",
-      "id": 25,
+      "id": 30,
       "track": "rss",
       "original_source": "Hacker News"
     }
