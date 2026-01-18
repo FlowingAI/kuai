@@ -1,8 +1,21 @@
 {
   "category": "AI编程工具进化",
-  "last_update": "2026-01-19 01:18:49 (北京时间)",
-  "total_count": 32,
+  "last_update": "2026-01-19 05:19:34 (北京时间)",
+  "total_count": 34,
   "news": [
+    {
+      "title": "Flux 2 Klein pure C inference",
+      "summary": "Comments",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-19 05:18:40",
+      "original_language": "en",
+      "original_title": "Flux 2 Klein pure C inference",
+      "source_url": "https://github.com/antirez/flux2.c",
+      "id": 1,
+      "track": "rss",
+      "original_source": "Hacker News"
+    },
     {
       "title": "Iconify:开源图标库",
       "summary": "Iconify是一个开源图标库，提供各种图标资源。新闻内容中包含对Iconify的评论和相关信息，但未提供具体评论内容。新闻链接为https://icon-sets.iconify.design/。",
@@ -12,7 +25,7 @@
       "original_language": "en",
       "original_title": "Iconify: Library of Open Source Icons",
       "source_url": "https://icon-sets.iconify.design/",
-      "id": 1,
+      "id": 2,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -25,7 +38,7 @@
       "original_language": "en",
       "original_title": "Consent-O-Matic",
       "source_url": "https://github.com/cavi-au/Consent-O-Matic",
-      "id": 2,
+      "id": 3,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -38,7 +51,7 @@
       "original_language": "en",
       "original_title": "Show HN: Figma-use – CLI to control Figma for AI agents",
       "source_url": "https://github.com/dannote/figma-use",
-      "id": 3,
+      "id": 4,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -51,7 +64,7 @@
       "original_language": "en",
       "original_title": "Starting from scratch: Training a 30M Topological Transformer",
       "source_url": "https://www.tuned.org.uk/posts/013_the_topological_transformer_training_tauformer",
-      "id": 4,
+      "id": 5,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -64,7 +77,7 @@
       "original_language": "en",
       "original_title": "Show HN: GibRAM an in-memory ephemeral GraphRAG runtime for retrieval",
       "source_url": "https://github.com/gibram-io/gibram",
-      "id": 5,
+      "id": 6,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -77,7 +90,7 @@
       "original_language": "zh",
       "original_title": "马斯克最大算力中心建成了：全球首个GW级超算集群，再创世界纪录",
       "source_url": "https://www.qbitai.com/2026/01/370077.html",
-      "id": 6,
+      "id": 7,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -90,7 +103,7 @@
       "original_language": "zh",
       "original_title": "机器人终于能用明白洗碗机了｜UC伯克利新研究",
       "source_url": "https://www.qbitai.com/2026/01/370136.html",
-      "id": 7,
+      "id": 8,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -103,7 +116,7 @@
       "original_language": "en",
       "original_title": "How scientists are using Claude to accelerate research and discovery",
       "source_url": "https://www.anthropic.com/news/accelerating-scientific-research",
-      "id": 8,
+      "id": 9,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -116,7 +129,7 @@
       "original_language": "en",
       "original_title": "Erdos 281 solved with ChatGPT 5.2 Pro",
       "source_url": "https://twitter.com/neelsomani/status/2012695714187325745",
-      "id": 9,
+      "id": 10,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -129,7 +142,7 @@
       "original_language": "en",
       "original_title": "Show HN: ChunkHound, a local-first tool for understanding large codebases",
       "source_url": "https://github.com/chunkhound/chunkhound",
-      "id": 10,
+      "id": 11,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -142,7 +155,7 @@
       "original_language": "en",
       "original_title": "Xous Operating System",
       "source_url": "https://xous.dev/",
-      "id": 11,
+      "id": 12,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -155,7 +168,7 @@
       "original_language": "en",
       "original_title": "MIT's Computer Systems Security (2024)",
       "source_url": "https://css.csail.mit.edu/6.858/2024/",
-      "id": 12,
+      "id": 13,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -168,7 +181,7 @@
       "original_language": "en",
       "original_title": "A programming language based on grammatical cases of Turkish",
       "source_url": "https://github.com/kip-dili/kip",
-      "id": 13,
+      "id": 14,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -181,7 +194,7 @@
       "original_language": "en",
       "original_title": "Show HN: Minikv – Distributed key-value and object store in Rust (Raft, S3 API)",
       "source_url": "https://github.com/whispem/minikv",
-      "id": 14,
+      "id": 15,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -194,7 +207,7 @@
       "original_language": "en",
       "original_title": "Colloqio",
       "source_url": "https://www.producthunt.com/products/colloqio-offline-ai-chat-app",
-      "id": 15,
+      "id": 16,
       "track": "rss",
       "original_source": "Product Hunt"
     },
@@ -207,7 +220,7 @@
       "original_language": "en",
       "original_title": "Sled",
       "source_url": "https://www.producthunt.com/products/sled-voice-interface-for-claude-code",
-      "id": 16,
+      "id": 17,
       "track": "rss",
       "original_source": "Product Hunt"
     },
@@ -220,7 +233,7 @@
       "original_language": "en",
       "original_title": "Chessmaster AI",
       "source_url": "https://www.producthunt.com/products/chessmaster-ai",
-      "id": 17,
+      "id": 18,
       "track": "rss",
       "original_source": "Product Hunt"
     },
@@ -233,7 +246,7 @@
       "original_language": "en",
       "original_title": "ClickHouse acquires Langfuse",
       "source_url": "https://langfuse.com/blog/joining-clickhouse",
-      "id": 18,
+      "id": 19,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -246,7 +259,7 @@
       "original_language": "en",
       "original_title": "We Put Claude Code in Rollercoaster Tycoon",
       "source_url": "https://labs.ramp.com/rct",
-      "id": 19,
+      "id": 20,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -259,7 +272,7 @@
       "original_language": "zh",
       "original_title": "腾讯云ADP国内首发AI原生Widget：一句话秒级生成交互组件，重塑Agent使用体验",
       "source_url": "https://www.qbitai.com/2026/01/370069.html",
-      "id": 20,
+      "id": 21,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -272,7 +285,7 @@
       "original_language": "en",
       "original_title": "jQuery 4",
       "source_url": "https://blog.jquery.com/2026/01/17/jquery-4-0-0/",
-      "id": 21,
+      "id": 22,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -285,7 +298,7 @@
       "original_language": "en",
       "original_title": "Data Activation Thoughts",
       "source_url": "https://galsapir.github.io/sparse-thoughts/2026/01/17/data_activation/",
-      "id": 22,
+      "id": 23,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -298,7 +311,7 @@
       "original_language": "zh",
       "original_title": "不用拍的广告片？深度拆解美团闪购AIGC营销新案例",
       "source_url": "https://www.qbitai.com/2026/01/369884.html",
-      "id": 23,
+      "id": 24,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -311,7 +324,7 @@
       "original_language": "zh",
       "original_title": "支付宝携手千问App、淘宝闪购等发布中国首个AI商业协议ACT",
       "source_url": "https://www.qbitai.com/2026/01/369878.html",
-      "id": 24,
+      "id": 25,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -324,7 +337,7 @@
       "original_language": "zh",
       "original_title": "滴滴给我发了个赛博助理，专管出行的那种",
       "source_url": "https://www.qbitai.com/2026/01/369738.html",
-      "id": 25,
+      "id": 26,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -337,7 +350,7 @@
       "original_language": "zh",
       "original_title": "微软谷歌正在大力招「电工」",
       "source_url": "https://www.qbitai.com/2026/01/370026.html",
-      "id": 26,
+      "id": 27,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -350,7 +363,7 @@
       "original_language": "en",
       "original_title": "A single click mounted a covert, multistage attack against Copilot",
       "source_url": "https://arstechnica.com/security/2026/01/a-single-click-mounted-a-covert-multistage-attack-against-copilot/",
-      "id": 27
+      "id": 28
     },
     {
       "title": "Milk-V Titan：售价329美元的8核心64位RISC-V mini-ITX主板，配备PCIe Gen4x16插槽",
@@ -361,7 +374,7 @@
       "original_language": "en",
       "original_title": "Milk-V Titan: A $329 8-Core 64-bit RISC-V mini-ITX board with PCIe Gen4x16",
       "source_url": "https://www.cnx-software.com/2026/01/12/milk-v-titan-a-329-octa-core-64-bit-risc-v-mini-itx-motherboard-with-a-pcie-gen4-x16-slot/",
-      "id": 28,
+      "id": 29,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -374,7 +387,7 @@
       "original_language": "en",
       "original_title": "The recurring dream of replacing developers",
       "source_url": "https://www.caimito.net/en/blog/2025/12/07/the-recurring-dream-of-replacing-developers.html",
-      "id": 29,
+      "id": 30,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -387,7 +400,7 @@
       "original_language": "en",
       "original_title": "Command-line Tools can be 235x Faster than your Hadoop Cluster (2014)",
       "source_url": "https://adamdrake.com/command-line-tools-can-be-235x-faster-than-your-hadoop-cluster.html",
-      "id": 30,
+      "id": 31,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -400,7 +413,7 @@
       "original_language": "en",
       "original_title": "The multibillion-dollar AI security problem enterprises can’t ignore ",
       "source_url": "https://techcrunch.com/podcast/the-multi-billion-ai-security-problem-enterprises-cant-ignore/",
-      "id": 31
+      "id": 32
     },
     {
       "title": "An Elizabethan mansion's secrets for staying warm",
@@ -411,7 +424,20 @@
       "original_language": "unknown",
       "original_title": "An Elizabethan mansion's secrets for staying warm",
       "source_url": "https://www.bbc.com/future/article/20260116-an-elizabethan-mansions-secrets-for-staying-warm",
-      "id": 32,
+      "id": 33,
+      "track": "rss",
+      "original_source": "Hacker News"
+    },
+    {
+      "title": "Gaussian Splatting – A$AP Rocky \"Helicopter\" music video",
+      "summary": "Comments",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": null,
+      "original_language": "unknown",
+      "original_title": "Gaussian Splatting – A$AP Rocky \"Helicopter\" music video",
+      "source_url": "https://radiancefields.com/a-ap-rocky-releases-helicopter-music-video-featuring-gaussian-splatting",
+      "id": 34,
       "track": "rss",
       "original_source": "Hacker News"
     }
