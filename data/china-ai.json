@@ -1,7 +1,7 @@
 {
   "category": "中国AI动态",
-  "last_update": "2026-01-18 10:20:03 (北京时间)",
-  "total_count": 24,
+  "last_update": "2026-01-18 12:58:15 (北京时间)",
+  "total_count": 25,
   "news": [
     {
       "title": "微软谷歌正在大力招「电工」",
@@ -93,6 +93,19 @@
       "original_source": "36氪"
     },
     {
+      "title": "【数智周报】 谷歌DeepMind CEO：中国的AI模型仅落后美国几个月；DeepSeek开源相关记忆模块Engram；微软在人工智能上的支出将达到5亿美元；美国放宽对英伟达H200芯片出口中国的管制",
+      "summary": "（1月12日~1月17日）中国将加快建立数据产权登记制度；谷歌母公司Alphabet市值突破4万亿美元；元宇宙转AI：Meta将裁员数百人，Reality Labs约10%员工受影响；阿里云：完成对ZStack进一步战略投资并实现控股；",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2025-01-16 14:30:00",
+      "original_language": "zh",
+      "original_title": "【数智周报】 谷歌DeepMind CEO：中国的AI模型仅落后美国几个月；DeepSeek开源相关记忆模块Engram；微软在人工智能上的支出将达到5亿美元；美国放宽对英伟达H200芯片出口中国的管制",
+      "source_url": "https://www.tmtpost.com/7845741.html",
+      "id": 8,
+      "track": "rss",
+      "original_source": "钛媒体"
+    },
+    {
       "title": "氪星晚报｜西贝公关副总裁宋宣已离职；大麦娱乐宣布进军博物馆赛道；叮咚买菜江苏盐城开仓",
       "summary": "大公司：福特或与比亚迪洽谈为海外工厂采购电池；西贝公关副总裁宋宣已离职；大麦娱乐宣布进军博物馆赛道；小米、OPPO、vivo、传音四家手机厂商下调全年出货预期；叮咚买菜江苏盐城开仓；新产品：MediaTek发布天玑 9500s和天玑 8500；美团上线首个开源“重思考”模型；投融资：日本三菱商事宣布收购75.3亿美元美国页岩气资产；今日观点：华为车BU CEO靳玉志：预计今年搭载华为ADS车型数超过80款；台积电魏哲家：需要充足的电力，才能不受限制地扩产；其他值得关注的新闻：2025年我国动力和储能电池累计销量同比增长63.6%；西班牙2025年国际游客数量创新高。",
       "is_legal": true,
@@ -101,7 +114,7 @@
       "original_language": "zh",
       "original_title": "氪星晚报｜西贝公关副总裁宋宣已离职；大麦娱乐宣布进军博物馆赛道；叮咚买菜江苏盐城开仓",
       "source_url": "https://36kr.com/p/3641990475140738?f=rss",
-      "id": 8,
+      "id": 9,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -114,7 +127,7 @@
       "original_language": "zh",
       "original_title": "OpenAI正式进军脑机接口，投了自家CEO阿尔特曼的新公司",
       "source_url": "https://zhidx.com/p/529327.html",
-      "id": 9,
+      "id": 10,
       "track": "rss",
       "original_source": "智东西"
     },
@@ -127,7 +140,7 @@
       "original_language": "zh",
       "original_title": "iQOO中端机用上豆包手机同款“AI操控”，搭第五代骁龙8旗舰芯，2399元起",
       "source_url": "https://zhidx.com/p/529205.html",
-      "id": 10,
+      "id": 11,
       "track": "rss",
       "original_source": "智东西"
     },
@@ -140,7 +153,7 @@
       "original_language": "zh",
       "original_title": "谷歌Gemini重磅升级，上线”苹果智能“同款功能，手机个人信息全能读",
       "source_url": "https://zhidx.com/p/529157.html",
-      "id": 11,
+      "id": 12,
       "track": "rss",
       "original_source": "智东西"
     },
@@ -153,7 +166,7 @@
       "original_language": "zh",
       "original_title": "ChatGPT发了个“谷歌翻译”，但我只觉得多余...",
       "source_url": "https://zhidx.com/p/529124.html",
-      "id": 12,
+      "id": 13,
       "track": "rss",
       "original_source": "智东西"
     },
@@ -166,7 +179,7 @@
       "original_language": "zh",
       "original_title": "联发科再发双芯，3nm天玑9500s来了，小米、vivo、OPPO首批发布",
       "source_url": "https://zhidx.com/p/529107.html",
-      "id": 13,
+      "id": 14,
       "track": "rss",
       "original_source": "智东西"
     },
@@ -179,7 +192,7 @@
       "original_language": "zh",
       "original_title": "今天，阿里园区被AI点的奶茶包围了",
       "source_url": "https://zhidx.com/p/528993.html",
-      "id": 14,
+      "id": 15,
       "track": "rss",
       "original_source": "智东西"
     },
@@ -192,7 +205,7 @@
       "original_language": "zh",
       "original_title": "头部物流公司拿下浙江投资，要用AI完成中大件门到门履约｜36氪首发",
       "source_url": "https://36kr.com/p/3641918009937540?f=rss",
-      "id": 15,
+      "id": 16,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -205,7 +218,7 @@
       "original_language": "unknown",
       "original_title": "9点1氪丨贾国龙罗永浩微博被禁言，罗永浩朋友圈最新发声；李湘多平台账号被禁止关注；特朗普拿到诺贝尔和平奖奖章",
       "source_url": "https://36kr.com/p/3642816248172161?f=rss",
-      "id": 16,
+      "id": 17,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -218,7 +231,7 @@
       "original_language": "unknown",
       "original_title": "中国的AI应用创业者正在换道领跑 ｜ AI火花开放麦",
       "source_url": "https://36kr.com/p/3641730074300038?f=rss",
-      "id": 17,
+      "id": 18,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -231,7 +244,7 @@
       "original_language": "unknown",
       "original_title": "B站也推出了新的广告+AI工具，未来会从“开环”走向“闭环”",
       "source_url": "https://36kr.com/p/3640520932560006?f=rss",
-      "id": 18,
+      "id": 19,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -244,7 +257,7 @@
       "original_language": "unknown",
       "original_title": "两年市值翻了三倍，运动品牌最意外的赢家出现了",
       "source_url": "https://36kr.com/p/3640240794225793?f=rss",
-      "id": 19,
+      "id": 20,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -257,7 +270,7 @@
       "original_language": "unknown",
       "original_title": "千问诞生后，负责人吴嘉首次回应15个关键问题",
       "source_url": "https://36kr.com/p/3641479608881030?f=rss",
-      "id": 20,
+      "id": 21,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -270,7 +283,7 @@
       "original_language": "unknown",
       "original_title": "裁员50%后，他靠AI编程大逆袭！ARR破亿，估值直冲600亿",
       "source_url": "https://zhidx.com/p/529226.html",
-      "id": 21,
+      "id": 22,
       "track": "rss",
       "original_source": "智东西"
     },
@@ -283,7 +296,7 @@
       "original_language": "zh",
       "original_title": "或达3000万副！Meta猛增AI眼镜产能，苹果入局小扎有点怕？",
       "source_url": "https://zhidx.com/p/529070.html",
-      "id": 22,
+      "id": 23,
       "track": "rss",
       "original_source": "智东西"
     },
@@ -296,7 +309,7 @@
       "original_language": "zh",
       "original_title": "2026，AI音乐跃迁元年？",
       "source_url": "https://www.tmtpost.com/7846436.html",
-      "id": 23,
+      "id": 24,
       "track": "rss",
       "original_source": "钛媒体"
     },
@@ -309,7 +322,7 @@
       "original_language": "zh",
       "original_title": "仅用一周时间，谷歌就让OpenAI认清现实",
       "source_url": "https://www.tmtpost.com/7846324.html",
-      "id": 24,
+      "id": 25,
       "track": "rss",
       "original_source": "钛媒体"
     }
