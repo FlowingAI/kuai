@@ -1,8 +1,34 @@
 {
   "category": "视频模型动态",
-  "last_update": "2026-01-18 13:23:23 (北京时间)",
-  "total_count": 15,
+  "last_update": "2026-01-18 17:34:45 (北京时间)",
+  "total_count": 18,
   "news": [
+    {
+      "title": "AMD发布新芯片，但内存价格才是真正的Boss战",
+      "summary": "AMD的2026年PC战略专注于增量CPU更新、性价比GPU和谨慎的AI升级。\n\n原文链接：https://www.digitaltrends.com/computing/amd-has-new-chips-but-ram-prices-are-the-real-boss-fight/",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-18 17:19:37",
+      "original_language": "en",
+      "original_title": "AMD has new chips, but RAM prices are the real boss fight",
+      "source_url": "https://www.digitaltrends.com/computing/amd-has-new-chips-but-ram-prices-are-the-real-boss-fight/",
+      "id": 1,
+      "track": "rss",
+      "original_source": "Digital Trends"
+    },
+    {
+      "title": "机器人终于能用明白洗碗机了｜UC伯克利新研究",
+      "summary": "低门槛教学+智能选动作，为人形机器人实用化铺平道路",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-18 17:17:54",
+      "original_language": "zh",
+      "original_title": "机器人终于能用明白洗碗机了｜UC伯克利新研究",
+      "source_url": "https://www.qbitai.com/2026/01/370136.html",
+      "id": 2,
+      "track": "rss",
+      "original_source": "量子位"
+    },
     {
       "title": "MediaTek发布Dimensity 9500s和8500，为下一代旗舰智能手机提供动力",
       "summary": "MediaTek的Dimensity 9500s和8500带来了更快的性能、更好的AI、先进的游戏功能和更高的效率。",
@@ -12,7 +38,7 @@
       "original_language": "en",
       "original_title": "MediaTek launches Dimensity 9500s and 8500 to power next-gen flagship smartphones",
       "source_url": "https://www.digitaltrends.com/phones/mediatek-launches-dimensity-9500s-and-8500-to-power-next-gen-flagship-smartphones/",
-      "id": 1,
+      "id": 3,
       "track": "rss",
       "original_source": "Digital Trends"
     },
@@ -25,7 +51,7 @@
       "original_language": "en",
       "original_title": "Foldable iPhone to use Touch ID as Apple bets on AI-led growth in 2026",
       "source_url": "https://www.digitaltrends.com/phones/foldable-iphone-to-use-touch-id-as-apple-bets-on-ai-led-growth-in-2026/",
-      "id": 2,
+      "id": 4,
       "track": "rss",
       "original_source": "Digital Trends"
     },
@@ -38,7 +64,7 @@
       "original_language": "en",
       "original_title": "OLED MacBook Pro displays may already be in production ahead of rumored 2026 launch",
       "source_url": "https://www.digitaltrends.com/computing/oled-macbook-pro-displays-may-already-be-in-production-ahead-of-rumored-2026-launch/",
-      "id": 3,
+      "id": 5,
       "track": "rss",
       "original_source": "Digital Trends"
     },
@@ -51,7 +77,7 @@
       "original_language": "en",
       "original_title": "Microsoft Excel’s new import functions make handling numbers easier",
       "source_url": "https://www.digitaltrends.com/computing/microsoft-excels-new-import-functions-make-handling-numbers-easier/",
-      "id": 4,
+      "id": 6,
       "track": "rss",
       "original_source": "Digital Trends"
     },
@@ -64,7 +90,7 @@
       "original_language": "en",
       "original_title": "ChatGPT Go is now available in the U.S., but be prepared to see ads",
       "source_url": "https://www.digitaltrends.com/cool-tech/chatgpt-go-is-now-available-in-the-u-s-but-be-prepared-to-see-ads/",
-      "id": 5,
+      "id": 7,
       "track": "rss",
       "original_source": "Digital Trends"
     },
@@ -77,7 +103,7 @@
       "original_language": "zh",
       "original_title": "早报｜西贝闭店102家，贾国龙：自己不懂公关、不会诡辩/马斯克服软，Grok限制图像编辑能力/千问App上线AI购物功能",
       "source_url": "https://www.ifanr.com/1651977?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "id": 6,
+      "id": 8,
       "track": "rss",
       "original_source": "爱范儿"
     },
@@ -90,7 +116,7 @@
       "original_language": "zh",
       "original_title": "你的浏览器会主动提问了？夸克 AI 浏览器正在验证 AI Native 的「下半场」",
       "source_url": "https://www.ifanr.com/1651982?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "id": 7,
+      "id": 9,
       "track": "rss",
       "original_source": "爱范儿"
     },
@@ -103,7 +129,7 @@
       "original_language": "zh",
       "original_title": "早报｜贾国龙罗永浩恩怨复燃，双方账号被禁言/苹果上调iPhone、Mac以旧换新抵扣价/ChatGPT将开始测试广告",
       "source_url": "https://www.ifanr.com/1652187?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "id": 8,
+      "id": 10,
       "track": "rss",
       "original_source": "爱范儿"
     },
@@ -116,7 +142,7 @@
       "original_language": "zh",
       "original_title": "腾讯云ADP国内首发AI原生Widget：一句话秒级生成交互组件，重塑Agent使用体验",
       "source_url": "https://www.qbitai.com/2026/01/370069.html",
-      "id": 9,
+      "id": 11,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -129,7 +155,7 @@
       "original_language": "zh",
       "original_title": "不用拍的广告片？深度拆解美团闪购AIGC营销新案例",
       "source_url": "https://www.qbitai.com/2026/01/369884.html",
-      "id": 10,
+      "id": 12,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -142,7 +168,7 @@
       "original_language": "zh",
       "original_title": "支付宝携手千问App、淘宝闪购等发布中国首个AI商业协议ACT",
       "source_url": "https://www.qbitai.com/2026/01/369878.html",
-      "id": 11,
+      "id": 13,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -155,7 +181,20 @@
       "original_language": "zh",
       "original_title": "滴滴给我发了个赛博助理，专管出行的那种",
       "source_url": "https://www.qbitai.com/2026/01/369738.html",
-      "id": 12,
+      "id": 14,
+      "track": "rss",
+      "original_source": "量子位"
+    },
+    {
+      "title": "马斯克最大算力中心建成了：全球首个GW级超算集群，再创世界纪录",
+      "summary": "Colossus 2正式投运。马斯克的最大算力中心，全球首个GW级超算集群，已经正式建成并投入使用。这一成就再次刷新了世界纪录，展示了马斯克在科技领域的强大实力。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-16 14:30:00",
+      "original_language": "zh",
+      "original_title": "马斯克最大算力中心建成了：全球首个GW级超算集群，再创世界纪录",
+      "source_url": "https://www.qbitai.com/2026/01/370077.html",
+      "id": 15,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -168,7 +207,7 @@
       "original_language": "zh",
       "original_title": "微软谷歌正在大力招「电工」",
       "source_url": "https://www.qbitai.com/2026/01/370026.html",
-      "id": 13,
+      "id": 16,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -181,7 +220,7 @@
       "original_language": "en",
       "original_title": "Google brings its AI videomaker to Workspace users",
       "source_url": "https://www.theverge.com/news/863570/google-flow-ai-video-generator-workspace",
-      "id": 14
+      "id": 17
     },
     {
       "title": "宣布OpenAI Grove Cohort 2开放申请",
@@ -192,7 +231,7 @@
       "original_language": "en",
       "original_title": "Announcing OpenAI Grove Cohort 2",
       "source_url": "https://openai.com/index/openai-grove",
-      "id": 15
+      "id": 18
     }
   ]
 }
