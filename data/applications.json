@@ -1,8 +1,34 @@
 {
   "category": "当前主流应用",
-  "last_update": "2026-01-18 11:20:01 (北京时间)",
-  "total_count": 46,
+  "last_update": "2026-01-18 13:37:15 (北京时间)",
+  "total_count": 51,
   "news": [
+    {
+      "title": "零克云发布AI托管平台破解“工程鸿沟”",
+      "summary": "零克云近日发布了一款AI托管平台，旨在解决“工程鸿沟”问题。该平台通过提供高效、便捷的AI服务，帮助企业和开发者快速构建和部署AI应用。据悉，Vibe Coding催生了百万“超级个体”，这一现象也进一步推动了AI技术的发展和应用。该平台的具体功能和特点尚未详细披露，但预计将为企业提供强大的AI支持。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-18 13:33:19",
+      "original_language": "zh",
+      "original_title": "零克云发布AI托管平台破解“工程鸿沟”｜公司动态",
+      "source_url": "https://www.tmtpost.com/7846680.html",
+      "id": 1,
+      "track": "rss",
+      "original_source": "钛媒体"
+    },
+    {
+      "title": "马斯克最大算力中心建成了：全球首个GW级超算集群，再创世界纪录",
+      "summary": "Colossus 2正式投运。马斯克的最大算力中心Colossus 2已经建成并正式投运，这是全球首个达到GW级（吉瓦级）的超算集群。这一成就再次刷新了世界纪录，展示了马斯克在科技领域的创新实力。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-18 13:25:47",
+      "original_language": "zh",
+      "original_title": "马斯克最大算力中心建成了：全球首个GW级超算集群，再创世界纪录",
+      "source_url": "https://www.qbitai.com/2026/01/370077.html",
+      "id": 2,
+      "track": "rss",
+      "original_source": "量子位"
+    },
     {
       "title": "大学无用？奥特曼辍学当了CEO，但名校生撑起了整个OpenAI！",
       "summary": "知识就是力量，人才结构决定企业命运。从奥特曼的辍学神话到OpenAI员工母校排行，学历无用论被数据击溃！OpenAI斯坦福、伯克利、MIT毕业生云集，AI人才聚集效应浮现。世上从不缺天才。OpenAI的首席执行官奥特曼上了2年大学后，从斯坦福辍学开始创业，没有大学文凭；Meta的首席AI官Alexandr Wang汪滔，从MIT辍学创业；谷歌大脑前研究科学家、OpenAI可解释性负责人、Anthropic的联创Christopher Olah，甚至没上过大学。奥特曼甚至说，大学对「大多数而言，并没什么效果」。他暗示自己的孩子「很可能不会」上大学，并把这番话包装成一种理性选择。但现实，很快打脸了这种「学历无用论」。当 OpenAI 员工的母校分布图被公开时，一切变得异常清晰。OpenAI的员工数据，有几所大学的表现尤为突出：🥇 斯坦福大学：230名员工🥈 加州大学伯克利分校：151名员工（作为一所公立大学，表现相当不错！）🥉 麻省理工学院：100名员工其他一些引人注目的发现：→ 仅前三所学校的员工总数就超过480人，占本次统计中OpenAI员工总数的13%以上。→ 计算机科学/工程强校（卡内基梅隆大学、佐治亚理工学院）与传统研究型大学并驾齐驱。→ 国际院校表现亮眼，滑铁卢大学、清华大学和北京大学均跻身前20名。科技投资人Deedy精准地概括了这份名单的特点：「本质上，这就是全球计算机科学的大学排名。」科技投资人Deedy社媒Deedy认为，学历依然重要。但他也同意，这份名单只是说这些名校的最好的学生主动性强，不一定能反映其教育质量有多好。科技投资人Deedy社媒名校毕业生云集OpenAI想要在全球最热门的AI初创OpenAI工作吗？那么，拥有几所特定大学的学位绝对能为你的申请加分。根据Harmonic Data，为 GPT-5等大语言模型开发输送人才的前 10 所高校包括斯坦福、加州大学系统、麻省理工、卡内基梅隆、哈佛等——全部为美国院校。Harmonic Data需要说明的是，前20所学校的员工仅占样本总数的一部分，因此其他院校构成了长长的「人才尾巴」。即便这次数据不全，对AI研究人员而言，大学母校很重要。社媒评论此外，这份统计没有考虑学校人数的影响，也没有考虑距离对就业的影响，社媒评论社媒评论虽非决定命运的关键，但学历依旧很重要——这依然代表着训练、资源、眼界、人脉……但毫无疑问的是，你做过的项目、发表的论文、掌握的技能，这些实打实的成果远胜名校光环。社媒评论社媒评论在AI等技术领域共同学习的学生之间形成的网络与社群，有助于新思想更快地从研究走向现实应用。这并非巧合，OpenAI或Anthropic等公司的部分创始团队与早期成员，皆与这些学府有所关联；在欧洲，也能看到Hugging Face与Mistral同巴黎综合理工学院的渊源，以及OpenAI与牛津大学的研究合作。总而言之，人才的机构来源至关重要：它影响着研究、研究的应用以及技术标准，进而形塑技术的发展轨迹。人才是AI行业的真正护城河AI巨头都知道，人才是他们最大的护城河。去年7月，咨询师Ram Srinivasan判断，AI人才之争，已进入第二阶段。AI人才之争让我们从半年前的事实开始：OpenAI的顶级AI研究员年收入超过1000万美元。谷歌DeepMind，据报道开出了2000万美元的薪酬包。200万美元的留任奖金（仅需在职12个月）如今已是常态。而现在，AI巨头的实习已超越传统的「初入职场体验」概念，演变为一场高端人才争夺战。最新报告显示，AI短期初级岗位薪资出现爆发式增长，薪酬水平足以让许多其他行业的资深全职员工感到震惊。现在，为锁定下一代顶尖研究人才，各大科技公司不断突破薪资上限：OpenAI为期6个月的驻场研究员项目（resident researcher program），月薪高达18,300美元（约合12.9万元人民币）的薪酬还提供正式职位的机会；Anthropic为期4个月的研究项目，研究者每周可得到3,850美元津贴，同时每月可使用1.5万美元的计算资源经费，还能在导师指导下开展前沿研究；谷歌为博士生研究员开出了最高年薪15万美元（约合105.4万元人民币）的待遇，而Meta的研究实习生月薪已升至1.2万美元。这场薪资竞赛背后，是大模型时代对顶尖算法人才的迫切需求，实习生已成为大厂AI战略中不可或缺的一环。2024年，有位Meta的研究员拒绝Perplexity的offer时，只说了一句：「等你们有一万张 H100 再来找我。」AI人才之争即便开出价值15亿美元的薪酬包，Meta仍未能说服部分顶尖AI工程师加入——他们选择了更具自主权的创业道路。AI人才之争这点明了本质：这场AI人才竞争早已超越了薪资的范畴，核心在于基础设施、资源通道和宏大愿景。我们正在目睹一个全新经济秩序的崛起——一个以智能、杠杆与放大效应为核心构建的新世界。这次OpenAI员工的母校排行榜单，再一次证明OpenAI真正的护城河在于对AI人才的吸引力，而不是AI模型。社媒评论相比于AI的「自我递归改进」，OpenAI目前获得的指数级优势的关键：不是提示词或GPU，而是聚集顶尖人才，把来自全球的顶尖人才拉入到同一个反馈循环，最终形成复利效应。参考资料：https://www.ram-srinivasan.com/post/ai-talent-war-2-0-has-begun-here-s-what-most-are-missinghttps://www.linkedin.com/posts/josh-angle-816b3436_want-to-work-at-the-arguably-the-hottest-activity-7389688792737210368-6DOS/本文来自微信公众号“新智元”，作者：新智元，36氪经授权发布。新闻链接：https://36kr.com/p/3644311216344712?f=rss",
@@ -12,7 +38,7 @@
       "original_language": "zh",
       "original_title": "大学无用？奥特曼辍学当了CEO，但名校生撑起了整个OpenAI！",
       "source_url": "https://36kr.com/p/3644311216344712?f=rss",
-      "id": 1,
+      "id": 3,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -25,7 +51,7 @@
       "original_language": "en",
       "original_title": "MediaTek launches Dimensity 9500s and 8500 to power next-gen flagship smartphones",
       "source_url": "https://www.digitaltrends.com/phones/mediatek-launches-dimensity-9500s-and-8500-to-power-next-gen-flagship-smartphones/",
-      "id": 2,
+      "id": 4,
       "track": "rss",
       "original_source": "Digital Trends"
     },
@@ -38,7 +64,7 @@
       "original_language": "en",
       "original_title": "Foldable iPhone to use Touch ID as Apple bets on AI-led growth in 2026",
       "source_url": "https://www.digitaltrends.com/phones/foldable-iphone-to-use-touch-id-as-apple-bets-on-ai-led-growth-in-2026/",
-      "id": 3,
+      "id": 5,
       "track": "rss",
       "original_source": "Digital Trends"
     },
@@ -51,7 +77,7 @@
       "original_language": "en",
       "original_title": "OLED MacBook Pro displays may already be in production ahead of rumored 2026 launch",
       "source_url": "https://www.digitaltrends.com/computing/oled-macbook-pro-displays-may-already-be-in-production-ahead-of-rumored-2026-launch/",
-      "id": 4,
+      "id": 6,
       "track": "rss",
       "original_source": "Digital Trends"
     },
@@ -64,7 +90,7 @@
       "original_language": "en",
       "original_title": "Microsoft Excel’s new import functions make handling numbers easier",
       "source_url": "https://www.digitaltrends.com/computing/microsoft-excels-new-import-functions-make-handling-numbers-easier/",
-      "id": 5,
+      "id": 7,
       "track": "rss",
       "original_source": "Digital Trends"
     },
@@ -77,7 +103,7 @@
       "original_language": "en",
       "original_title": "ChatGPT Go is now available in the U.S., but be prepared to see ads",
       "source_url": "https://www.digitaltrends.com/cool-tech/chatgpt-go-is-now-available-in-the-u-s-but-be-prepared-to-see-ads/",
-      "id": 6,
+      "id": 8,
       "track": "rss",
       "original_source": "Digital Trends"
     },
@@ -90,7 +116,7 @@
       "original_language": "en",
       "original_title": "Sled",
       "source_url": "https://www.producthunt.com/products/sled-voice-interface-for-claude-code",
-      "id": 7,
+      "id": 9,
       "track": "rss",
       "original_source": "Product Hunt"
     },
@@ -103,7 +129,7 @@
       "original_language": "en",
       "original_title": "Chessmaster AI",
       "source_url": "https://www.producthunt.com/products/chessmaster-ai",
-      "id": 8,
+      "id": 10,
       "track": "rss",
       "original_source": "Product Hunt"
     },
@@ -116,7 +142,7 @@
       "original_language": "en",
       "original_title": "Colloqio",
       "source_url": "https://www.producthunt.com/products/colloqio-offline-ai-chat-app",
-      "id": 9,
+      "id": 11,
       "track": "rss",
       "original_source": "Product Hunt"
     },
@@ -129,7 +155,7 @@
       "original_language": "en",
       "original_title": "Hands On With Anthropic’s Claude Cowork, an AI Agent That Actually Works",
       "source_url": "https://www.wired.com/story/anthropic-claude-cowork-agent/",
-      "id": 10,
+      "id": 12,
       "track": "rss",
       "original_source": "Wired AI"
     },
@@ -142,7 +168,7 @@
       "original_language": "en",
       "original_title": "OpenAI Invests in Sam Altman’s New Brain-Tech Startup Merge Labs",
       "source_url": "https://www.wired.com/story/openai-invests-in-sam-altmans-new-brain-tech-startup-merge-labs/",
-      "id": 11,
+      "id": 13,
       "track": "rss",
       "original_source": "Wired AI"
     },
@@ -155,7 +181,7 @@
       "original_language": "en",
       "original_title": "Elon Musk’s Grok ‘Undressing’ Problem Isn’t Fixed",
       "source_url": "https://www.wired.com/story/elon-musks-grok-undressing-problem-isnt-fixed/",
-      "id": 12,
+      "id": 14,
       "track": "rss",
       "original_source": "Wired AI"
     },
@@ -168,7 +194,7 @@
       "original_language": "en",
       "original_title": "Inside OpenAI’s Raid on Thinking Machines Lab",
       "source_url": "https://www.wired.com/story/inside-openai-raid-on-thinking-machines-lab/",
-      "id": 13,
+      "id": 15,
       "track": "rss",
       "original_source": "Wired AI"
     },
@@ -181,7 +207,7 @@
       "original_language": "en",
       "original_title": "Ads Are Coming to ChatGPT. Here’s How They’ll Work",
       "source_url": "https://www.wired.com/story/openai-testing-ads-us/",
-      "id": 14,
+      "id": 16,
       "track": "rss",
       "original_source": "Wired AI"
     },
@@ -194,7 +220,7 @@
       "original_language": "en",
       "original_title": "Thinking Machines Cofounder’s Office Relationship Preceded His Termination",
       "source_url": "https://www.wired.com/story/thinking-machines-lab-cofounder-office-relationship-firing-openai/",
-      "id": 15,
+      "id": 17,
       "track": "rss",
       "original_source": "Wired AI"
     },
@@ -207,7 +233,7 @@
       "original_language": "en",
       "original_title": "OpenAI and Anthropic are making their play for healthcare, and we’re not surprised",
       "source_url": "https://techcrunch.com/podcast/openai-and-anthropic-are-making-their-play-for-healthcare-and-were-not-surprised/",
-      "id": 16,
+      "id": 18,
       "track": "rss",
       "original_source": "TechCrunch AI"
     },
@@ -220,7 +246,7 @@
       "original_language": "en",
       "original_title": "The AI healthcare gold rush is here",
       "source_url": "https://techcrunch.com/video/the-ai-healthcare-gold-rush-is-here/",
-      "id": 17,
+      "id": 19,
       "track": "rss",
       "original_source": "TechCrunch AI"
     },
@@ -233,7 +259,7 @@
       "original_language": "zh",
       "original_title": "早报｜西贝闭店102家，贾国龙：自己不懂公关、不会诡辩/马斯克服软，Grok限制图像编辑能力/千问App上线AI购物功能",
       "source_url": "https://www.ifanr.com/1651977?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "id": 18,
+      "id": 20,
       "track": "rss",
       "original_source": "爱范儿"
     },
@@ -246,7 +272,7 @@
       "original_language": "zh",
       "original_title": "你的浏览器会主动提问了？夸克 AI 浏览器正在验证 AI Native 的「下半场」",
       "source_url": "https://www.ifanr.com/1651982?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "id": 19,
+      "id": 21,
       "track": "rss",
       "original_source": "爱范儿"
     },
@@ -259,7 +285,7 @@
       "original_language": "zh",
       "original_title": "早报｜贾国龙罗永浩恩怨复燃，双方账号被禁言/苹果上调iPhone、Mac以旧换新抵扣价/ChatGPT将开始测试广告",
       "source_url": "https://www.ifanr.com/1652187?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "id": 20,
+      "id": 22,
       "track": "rss",
       "original_source": "爱范儿"
     },
@@ -272,7 +298,7 @@
       "original_language": "zh",
       "original_title": "死磕8年，烧光400亿，中国芯片迎来最大IPO",
       "source_url": "https://www.tmtpost.com/7846009.html",
-      "id": 21,
+      "id": 23,
       "track": "rss",
       "original_source": "钛媒体"
     },
@@ -285,7 +311,7 @@
       "original_language": "zh",
       "original_title": "仅用一周时间，谷歌就让OpenAI认清现实",
       "source_url": "https://www.tmtpost.com/7846324.html",
-      "id": 22,
+      "id": 24,
       "track": "rss",
       "original_source": "钛媒体"
     },
@@ -298,7 +324,7 @@
       "original_language": "zh",
       "original_title": "2026，AI音乐跃迁元年？",
       "source_url": "https://www.tmtpost.com/7846436.html",
-      "id": 23,
+      "id": 25,
       "track": "rss",
       "original_source": "钛媒体"
     },
@@ -311,7 +337,7 @@
       "original_language": "zh",
       "original_title": "头部物流公司拿下浙江投资，要用AI完成中大件门到门履约｜36氪首发",
       "source_url": "https://36kr.com/p/3641918009937540?f=rss",
-      "id": 24,
+      "id": 26,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -324,7 +350,7 @@
       "original_language": "zh",
       "original_title": "腾讯云ADP国内首发AI原生Widget：一句话秒级生成交互组件，重塑Agent使用体验",
       "source_url": "https://www.qbitai.com/2026/01/370069.html",
-      "id": 25,
+      "id": 27,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -337,7 +363,7 @@
       "original_language": "en",
       "original_title": "Musk wants up to $134B in OpenAI lawsuit, despite $700B fortune",
       "source_url": "https://techcrunch.com/2026/01/17/musk-wants-up-to-134b-in-openai-lawsuit-despite-700b-fortune/",
-      "id": 26,
+      "id": 28,
       "track": "rss",
       "original_source": "TechCrunch AI"
     },
@@ -350,7 +376,7 @@
       "original_language": "zh",
       "original_title": "微软谷歌正在大力招「电工」",
       "source_url": "https://www.qbitai.com/2026/01/370026.html",
-      "id": 27,
+      "id": 29,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -363,7 +389,7 @@
       "original_language": "zh",
       "original_title": "不用拍的广告片？深度拆解美团闪购AIGC营销新案例",
       "source_url": "https://www.qbitai.com/2026/01/369884.html",
-      "id": 28,
+      "id": 30,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -376,7 +402,7 @@
       "original_language": "zh",
       "original_title": "支付宝携手千问App、淘宝闪购等发布中国首个AI商业协议ACT",
       "source_url": "https://www.qbitai.com/2026/01/369878.html",
-      "id": 29,
+      "id": 31,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -389,7 +415,7 @@
       "original_language": "zh",
       "original_title": "滴滴给我发了个赛博助理，专管出行的那种",
       "source_url": "https://www.qbitai.com/2026/01/369738.html",
-      "id": 30,
+      "id": 32,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -402,7 +428,7 @@
       "original_language": "en",
       "original_title": "AI cloud startup Runpod hits $120M in ARR — and it started with a Reddit post  ",
       "source_url": "https://techcrunch.com/2026/01/16/ai-cloud-startup-runpod-hits-120m-in-arr-and-it-started-with-a-reddit-post/",
-      "id": 31,
+      "id": 33,
       "track": "rss",
       "original_source": "TechCrunch AI"
     },
@@ -415,7 +441,7 @@
       "original_language": "en",
       "original_title": "California AG sends Musk’s xAI a cease-and-desist order over sexual deepfakes",
       "source_url": "https://techcrunch.com/2026/01/16/california-ag-sends-musks-xai-a-cease-and-desist-order-over-sexual-deepfakes/",
-      "id": 32,
+      "id": 34,
       "track": "rss",
       "original_source": "TechCrunch AI"
     },
@@ -428,7 +454,7 @@
       "original_language": "en",
       "original_title": "From OpenAI’s offices to a deal with Eli Lilly — how Chai Discovery became one of the flashiest names in AI drug development",
       "source_url": "https://techcrunch.com/2026/01/16/from-openais-offices-to-a-deal-with-eli-lilly-how-chai-discovery-became-one-of-the-flashiest-names-in-ai-drug-development/",
-      "id": 33,
+      "id": 35,
       "track": "rss",
       "original_source": "TechCrunch AI"
     },
@@ -441,9 +467,22 @@
       "original_language": "en",
       "original_title": "ChatGPT users are about to get hit with targeted ads",
       "source_url": "https://techcrunch.com/2026/01/16/chatgpt-users-are-about-to-get-hit-with-targeted-ads/",
-      "id": 34,
+      "id": 36,
       "track": "rss",
       "original_source": "TechCrunch AI"
+    },
+    {
+      "title": "猎头黄仁勋的2025：高管从巨头挖，干活钟爱华人创业团队",
+      "summary": "全球市值第一也有人才焦虑\n猎头黄仁勋的2025：高管从巨头挖，干活钟爱华人创业团队\n\n全球市值第一的英伟达，也有人才焦虑。近日，英伟达CEO黄仁勋亲自担任猎头，从各大巨头挖角高管，同时钟爱华人创业团队。据悉，黄仁勋在2025年将重点放在吸引和培养人才上，希望通过强大的团队力量推动公司持续发展。\n\n黄仁勋表示，英伟达的招聘策略将更加灵活，不仅会从竞争对手那里挖角，还会关注新兴市场和初创企业。他认为，人才是企业最宝贵的资产，只有拥有优秀的人才，才能在激烈的市场竞争中立于不败之地。\n\n此外，黄仁勋还强调，英伟达将加大对华人创业团队的支持力度。他认为，华人创业团队在技术创新和产品开发方面具有独特的优势，是英伟达未来发展的关键力量。\n\n据悉，英伟达已经与多家华人创业团队建立了合作关系，并计划在未来进一步扩大合作范围。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-16 14:30:00",
+      "original_language": "zh",
+      "original_title": "猎头黄仁勋的2025：高管从巨头挖，干活钟爱华人创业团队",
+      "source_url": "https://www.qbitai.com/2026/01/370085.html",
+      "id": 37,
+      "track": "rss",
+      "original_source": "量子位"
     },
     {
       "title": "科大讯飞推出SuperAgent应用框架，驱动营销关系演进至B2A2C丨最前线",
@@ -454,7 +493,7 @@
       "original_language": "zh",
       "original_title": "科大讯飞推出SuperAgent应用框架，驱动营销关系演进至B2A2C丨最前线",
       "source_url": "https://36kr.com/p/3642948995862405?f=rss",
-      "id": 35,
+      "id": 38,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -467,7 +506,7 @@
       "original_language": "en",
       "original_title": "AI models are starting to crack high-level math problems ",
       "source_url": "https://techcrunch.com/2026/01/14/ai-models-are-starting-to-crack-high-level-math-problems/",
-      "id": 36
+      "id": 39
     },
     {
       "title": "氪星晚报｜西贝公关副总裁宋宣已离职；大麦娱乐宣布进军博物馆赛道；叮咚买菜江苏盐城开仓",
@@ -478,7 +517,7 @@
       "original_language": "zh",
       "original_title": "氪星晚报｜西贝公关副总裁宋宣已离职；大麦娱乐宣布进军博物馆赛道；叮咚买菜江苏盐城开仓",
       "source_url": "https://36kr.com/p/3641990475140738?f=rss",
-      "id": 37,
+      "id": 40,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -491,7 +530,7 @@
       "original_language": "zh",
       "original_title": "【数智周报】 谷歌DeepMind CEO：中国的AI模型仅落后美国几个月；DeepSeek开源相关记忆模块Engram；微软在人工智能上的支出将达到5亿美元；美国放宽对英伟达H200芯片出口中国的管制",
       "source_url": "https://www.tmtpost.com/7845741.html",
-      "id": 38,
+      "id": 41,
       "track": "rss",
       "original_source": "钛媒体"
     },
@@ -504,7 +543,7 @@
       "original_language": "en",
       "original_title": "Announcing OpenAI Grove Cohort 2",
       "source_url": "https://openai.com/index/openai-grove",
-      "id": 39
+      "id": 42
     },
     {
       "title": "学习者和教育者是AI的新“超级用户”",
@@ -515,7 +554,7 @@
       "original_language": "en",
       "original_title": "Learners and educators are AI’s new “super users”",
       "source_url": "https://blog.google/products-and-platforms/products/education/our-life-with-ai-2025/",
-      "id": 40
+      "id": 43
     },
     {
       "title": "企业不能忽视的数十亿美元AI安全问题",
@@ -526,7 +565,7 @@
       "original_language": "en",
       "original_title": "The multibillion-dollar AI security problem enterprises can’t ignore ",
       "source_url": "https://techcrunch.com/podcast/the-multi-billion-ai-security-problem-enterprises-cant-ignore/",
-      "id": 41
+      "id": 44
     },
     {
       "title": "9点1氪丨贾国龙罗永浩微博被禁言，罗永浩朋友圈最新发声；李湘多平台账号被禁止关注；特朗普拿到诺贝尔和平奖奖章",
@@ -537,7 +576,7 @@
       "original_language": "unknown",
       "original_title": "9点1氪丨贾国龙罗永浩微博被禁言，罗永浩朋友圈最新发声；李湘多平台账号被禁止关注；特朗普拿到诺贝尔和平奖奖章",
       "source_url": "https://36kr.com/p/3642816248172161?f=rss",
-      "id": 42,
+      "id": 45,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -550,7 +589,7 @@
       "original_language": "unknown",
       "original_title": "中国的AI应用创业者正在换道领跑 ｜ AI火花开放麦",
       "source_url": "https://36kr.com/p/3641730074300038?f=rss",
-      "id": 43,
+      "id": 46,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -563,7 +602,7 @@
       "original_language": "unknown",
       "original_title": "B站也推出了新的广告+AI工具，未来会从“开环”走向“闭环”",
       "source_url": "https://36kr.com/p/3640520932560006?f=rss",
-      "id": 44,
+      "id": 47,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -576,7 +615,7 @@
       "original_language": "unknown",
       "original_title": "两年市值翻了三倍，运动品牌最意外的赢家出现了",
       "source_url": "https://36kr.com/p/3640240794225793?f=rss",
-      "id": 45,
+      "id": 48,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -589,7 +628,33 @@
       "original_language": "unknown",
       "original_title": "千问诞生后，负责人吴嘉首次回应15个关键问题",
       "source_url": "https://36kr.com/p/3641479608881030?f=rss",
-      "id": 46,
+      "id": 49,
+      "track": "rss",
+      "original_source": "36氪"
+    },
+    {
+      "title": "8300亿美金独角兽不得不试水“广告”，AI讲不出新故事？",
+      "summary": "示意图\n文｜晓静\n编辑｜徐青阳\n山姆·奥特曼曾在接受采访时说：“广告加AI让我感到特别不安。我认为广告是我们商业模式的最后手段。”\n但是，在 2026 年刚刚开年，北京时间1月17日凌晨，OpenAI 就宣布了正式开始试水最令奥特曼不安的“广告加 AI”。\n未来几周内，将率先于美国市场启动ChatGPT广告测试，同时在全球核心市场推出月费8美元的低价订阅套餐ChatGPT Go。这个时间距OpenAI 内部启动“红色警报”（Code Red）仅一个月。\n面对新一轮融资目标直指8300亿美金估值的资本厚望，OpenAI必须抢在AGI落地之前，为身后那笔以万亿计的巨额算力开销，在现实市场中找到真正的买单者。\n01\n“克制”的广告\n刚刚试水广告的 OpenAI，还是保持这相当的克制，也借助 AI 的优势，做了一些微创新，毕竟按照奥特曼的说法，这是商业模式“最后的手段”。\n\nOpenAI试水广告\nChatGPT以底部“对话节点”的形式呈现广告\n广告不在回答中，而在文尾\n测试阶段，广告不会生硬植入回答文本，而是以底部“对话节点”的形式呈现，且仅在模型判定其与用户当前需求高度匹配时才会触发。比如，当用户咨询墨西哥风味晚餐的烹饪方案，ChatGPT在给出详尽菜谱后，会在页面底部附上赞助商的食材一键选购提示。\n\nOpenAI试水广告\n广告支持用户“追问”\n用户可以直接针对广告内容向平台咨询细节，甚至在对话界面内，完成与购买决策相关的各类问询。\n先不打扰“高阶用户”\n此次广告测试，主要面向美国地区的免费用户，以及新推出的ChatGPT Go（月费8美元）订阅群体。\n而ChatGPT Plus、Pro及企业级用户，将继续享有100%无广告的纯净使用环境。OpenAI 希望通过这样的分层运营，在保障高端用户体验的前提下，为更广泛的用户群体，提供可持续的免费服务。\n02\n成为“平台”的野心\nChatGPT 订阅收入占据了营收的六成，自2022年面世以来，ChatGPT的周活跃用户数已迅速增长至近9亿，根据OpenAI测算，预计到2030年用户数量有望达到26亿。\n然而，截至2025年10月，仅有约5%的周活跃用户付费，每月贡献20美元或200美元的订阅服务付费，绝大多数用户并未贡献直接收入。\n如何从剩余的 95%用户身上获得实际的商业价值？OpenAI 的解法就是更低的价格和广告策略。OpenAI 的用户结构也被精准切分成了“四层金字塔”。\n8美元的ChatGPT Go\n这一档位锚定了“觉得20美元订阅价过高，又无法容忍免费版功能限制”的中间用户群体。ChatGPT Go提供10倍于免费版的使用额度，还开放GPT-5.2 Instant等核心功能，同时保留广告服务。这种“付费+广告”的混合变现模式，本质上复刻了流媒体行业的成熟盈利路径。\n月费20美元的ChatGPT Plus\n当低阶版本被广告覆盖，Plus版的价值感反而被进一步凸显。它被塑造成一个搭载GPT-5.2 Thinking深度推理引擎与Codex编程智能体的专业级纯净空间。通过人为制造“广告干扰”与“推理深度”的双重差异，OpenAI成功将高价值用户引流至这一付费层级。\n月费200美元的ChatGPT Pro\n这是产品金字塔的塔尖，提供GPT-5.2 Pro的超大上下文窗口（196K及以上）与新功能优先体验权。它的定位早已超越工具范畴，成为面向高端用户的生产力特权入口。\n如果 8美元的月费都难以转换，还有金字塔最底层的免费用户，以广告的方式覆盖一切。\n这种分层策略，早已跳出单纯的工具定价范畴，而是典型的平台级流量运营思路。\n除了面向普通用户的ChatGPT客户端，OpenAI还有传统的API业务，面对开发者，及推出企业定制化部署（Enterprise/Team版），深度渗透代码开发、医疗健康、金融服务、法律咨询等高价值垂直领域。\n这部分业务被视作OpenAI的核心“护城河”，虽然客户决策周期较长，却具备极高的用户粘性与客单价。开发者生态的持续繁荣，本质上是让全球的程序员与企业，共同分摊其算力研发的边际成本。\n至此，占收入六成的订阅业务、传统的 B端 API业务、新增广告业务，也成为构成OpenAI收入结构的新三级。\n03\n广告能创造多少增量？\n作为当下资本市场最为看重的“第二增长曲线”，究竟能挣多少钱？据OpenAI内部预测，预计2027年，仅广告这一项新增业务的收入，就将突破100亿美元大关。到2030年，从非付费用户群体（通过广告投放及交易分成）获取的收入目标，将高达1100亿美元。\n通过与沃尔玛、Shopify、塔吉特等零售巨头的早期接口合作，OpenAI希望能推动自身从一个 “智能问答工具”，向 AI时代的新平台转型。\n根据媒体公开信息，OpenAI正筹备新一轮融资，目标金额高达1000亿美元，有望将估值从2025年底的5000亿美元，进一步推升至8300 亿美元。\n显然，一个AI效率工具完全撑不起8300亿美元的估值，但是一个具有完善用户生态，和流量分发能力的平台有能力够到“8300亿”美元。\n有评论说，OpenAI向广告的“打脸式”急转向背后，是巨大财务之下的无奈。即便在2025年年底时OpenAI的年化营收已超过200亿美元大关，但OpenAI的资金消耗速度达到了令人咋舌的水平。\n2025年上半年，运营亏损已高达80亿美元；更有市场传闻称，仅2025年第三季度，单季亏损就可能突破120亿美元。对于一家尚处成长期的科技企业而言，这样的“烧钱”速率，几乎刷新了行业纪录。\n与此同时，作为点燃生成式AI浪潮的独角兽企业，它不得不在Scaling Law的路线上继续豪赌。\nOpenAI已明确承诺，2025至2029年间，仅在算力搭建与数据中心建设上，就将投入约 1150 亿美元。而从长远规划来看，奥特曼勾勒的AI基础设施投资蓝图，规模更是高达1万亿至1.4万亿美元。\n但是，广告真的只是无奈之举吗？\n04\n无广告，完全不可能实现的“初心”故事？\n谷歌和Meta走过的路证明，“无广告”仅仅是科技大佬在创业初期无法实现的“乌托邦故事”，奥特曼仅仅是将这条路又走了一遍。\n早期的 Google 是一家有着工程师洁癖的公司。联合创始人佩奇和布林曾公开宣称，搜索引擎不应该被广告驱动，否则会失去中立。\n最初的 AdWords 广告被小心翼翼地放在右侧，甚至不被允许使用图片，只允许纯文字，生怕破坏了那张洁白的搜索页面。\n然而，2000 年代末的一场商业转折点改变了这一切。当 Google 意识到移动端的屏幕只有巴掌大，右侧侧边栏根本无处安放时，原本的“克制”被迫让位于“生存”。\n为了提升点击率，Google 开始进行一系列温水煮青蛙的实验：先是取消了广告位的背景底色，让它看起来更像自然搜索；接着，广告位从 1 个增加到 3 个，甚至 4 个。到了 2016 年，Google 彻底移除右侧广告，将所有火力集中在用户视线的中心。\n现在的商业化故事则更进一步——如果你在 Google 搜索“最好的床垫”，前三屏几乎看不到真正的评测网站，全是付费买断位置的厂家。曾经的“指路人”，最终在资本压力下，变成了最强势的“带货导购”。\nMeta 的故事，上演了相似的剧本。\n扎克伯格最初在哈佛校园创建 Facebook 时，曾经也是一片拒绝广告的社交净土。当第一笔广告订单进入时，为了不破坏用户体验，他甚至坚持广告必须是“社交性”的。早期的 Meta 广告只是安静地躺在页面角落，像是一个礼貌的旁观者。\n真正的转折发生在 2012 年上市前夕。面临营收压力的 Meta 决定将广告塞进用户最核心的“信息流”中。这是一个极具争议的决定：广告开始伪装成你朋友的状态，混迹在婴儿照片和聚会通知之间。\n随着 Instagram 被收购并引入算法逻辑，这种激进演变成了一场“数据收割”。最著名的商业事例是 Meta 的“微定向”技术——它甚至能根据你当下的情绪状态（比如你是刚失恋还是刚升职）来投放广告。\n在一次内部会议中，Meta 的高管曾提出要让广告“无缝”到用户分不清这是广告还是生活。\n在流量红利耗尽的下半场，谁能更激进地挤压用户注意力，谁就能在财报中给出更漂亮的曲线。这是所有科技公司必须面对的增长现实。\n反观OpenAI，这场“克制”的广告试水，未来很可能会演变为OpenAI收入结构中的绝对支柱。\n当然，这应该也是OpenAI最想看到的结果。毕竟，广告可以在金字塔最宽广的基座上做转换漏斗，这才是看起来最没有天花板的商业模式。\nPC互联网时代如此、移动互联网时代也是如此，到了 AI时代，故事会不一样吗？\n大哥谷歌在前方看着曾经慷慨激昂的“倔强小弟”，笑笑说，欢迎回到凡间。\n特约编译无忌对本文亦有贡献\n本文来自微信公众号“腾讯科技”，作者：值得关注的，36氪经授权发布。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": null,
+      "original_language": "unknown",
+      "original_title": "8300亿美金独角兽不得不试水“广告”，AI讲不出新故事？",
+      "source_url": "https://36kr.com/p/3644462576995970?f=rss",
+      "id": 50,
+      "track": "rss",
+      "original_source": "36氪"
+    },
+    {
+      "title": "新能源车的“硬核”战事，2026年卷向何处？",
+      "summary": "示意图\n「核心提示」\n政策潮水慢慢退去，电车行业正面临着从“政策输血”到“市场造血”的转向。 \n作者 | 娜娜\n编辑 | 邢昀 \n2025年，中国新能源车渗透率首次突破50%，这个数字背后，是“油电倒挂”时代的真正到来。\n随着充电桩遍布街头巷尾，续航轻松突破500公里，“续航焦虑”几乎不成为购车困扰。国产力量的集体崛起与激烈的内部竞争，彻底改写了赛场规则。\n热闹的销量背后，是“电动化”的逐渐完善，这也意味着“智能化”竞争正式开始，各家车企把“智能化”的概念炒得火热，噱头层出不穷。可当消费者真正坐进车里，却发现城区智驾还得时刻盯着，系统急刹、误判时有发生。\n技术在进步，体验却没跟上营销节奏。\n更关键的转折点出现在2026年，购置税减半、补贴政策调整，电车行业面临着从“政策输血”到“自我造血”的转向。除了比智驾这项硬实力，用户体验这个软实力也不容忽视。\n2025：格局重塑、内卷与反内卷\n2025年，电车成了真正的“C位”。\n中国新能源汽车市场的渗透率首次突破了50%这道关口。11月，甚至冲到了59.5%。也就是说，每卖出去100辆车，接近60辆都是新能源车。\n这种“油电倒挂”的背后，一方面是补能系统的完善，到2025年11月底，全国电动汽车充电基础设施（枪）总数达到1932.2万个，同比增长52%。换电站数量到2025年底超过5000座，全国高速公路服务区充电桩覆盖率超过98%。\n另一方面则是续航能力的持续增加，新能源车型续航普遍能跑500公里到700公里，一些高端车型甚至能突破1000公里。\n更深刻的变革在于市场格局。2025年，特斯拉在中国市场的零售销量同比下滑4.8%，至62.59万辆，电车市场特斯拉“一枝独秀”的时代已然终结。取而代之的，是国产力量的全面崛起与内部排位的激烈更迭。\n目前，国产新能源呈现“一超多强”的态势，其中比亚迪是无人能撼动的超级霸主。\n根据乘联会公布的2025年1-12月新能源厂商零售销量排行榜，比亚迪汽车以348.45万辆的累计销量稳居榜首，虽然同比下滑6.3%，但市场份额依然高达27.2%，是唯一一家销量超300万辆的车企。\n榜首之外的座次排列在2025年迎来重新洗牌。部分传统车企转型见效，在新能源赛道快速增长。吉利汽车以156.46万辆位居第二，同比暴涨81.3%，市场份额达到12.2%，主要靠吉利银河等多个新能源品牌拉动。长安汽车以78.91万辆排名第三，同比增长26.8%。\n值得注意的是，新势力品牌中“黑马”频出。零跑汽车以52.95万辆排名第八，同比暴涨86.3%，成为新势力中的最强黑马。小米汽车则以41.18万辆的成绩首次进入新能源厂商销量榜，排名第十，同比暴涨200.9%。而2024年还在榜上的理想等则不见身影。\n\n图片来源：乘联会\n \n在国产阵营高速迭代与内卷的背景下，反应稍慢的品牌面临巨大压力。整个2025年，特斯拉在中国市场基本没什么新车，Model 3和Model Y这两款车新鲜感消磨殆尽。反观国产品牌，零跑2025年推出了多款新车，小鹏的MONA M03和P7+成了爆款，小米在SU7成功后又推出YU7接力。\n这些变化揭示了一个核心事实：2025年的市场，不仅是电车对油车的胜利，更是中国产业链、快速迭代理念，与用户中心思维对传统造车模式的深度冲击。国产品牌通过更密集的新车投放、更敏捷的产能爬坡和更深入的本土化创新，开始掌握市场主导权。\n激烈的份额争夺，也让2025年成了“价格战”与“反内卷”并存的矛盾之年。\n年初由特斯拉官降引发的价格战贯穿全年，众多品牌被迫跟进，以价换量，部分车型的成交价屡破底线，内卷之下，成本压力传导至全产业链。这也推动“反内卷”成为共识，部分车企将供应商付款周期缩短至60天，以修复产业链生态。\n更为关键的是，激烈的竞争在推动行业分化，一部分玩家深陷价格红海，另一部分则开始探索以技术和生态构建护城河，为2026年“后补贴时代”的更高维度竞争埋下伏笔。\n \n智能化演进，技术与体验的落差\n“智能化才是电车的下半场”，这句话在2025年快被说烂了。\n从2025年初比亚迪喊出“全民智驾元年”开始，过去一整年智能化营销你方唱罢我登场，概念一个比一个酷炫，发布会一场比一场热闹。\n比亚迪主打安全平权与技术下放，构建天神之眼技术矩阵，宣布全系车型搭载高阶智驾系统；蔚来2025年推送世界模型（NWM）首个版本，同时自研5nm智驾芯片“神玑”量产上车；理想在7月发布i8时同步上线了VLA（视觉-语言-动作模型）司机大模型，要带来“ChatGPT时刻”；小鹏在11月的科技日上把企业定位升级为“物理AI世界的出行探索者”，并发布了全球首个量产级物理世界大模型“第二代VLA”。\n从技术路径看，VLM（视觉语言模型）/VLA是2025年的前沿焦点，试图通过大语言模型来补充社会规则并且补充corner case，而VLA模型则更进一步，在理解的基础上直接生成控制，让智驾更拟人。\n但是VLA本质上还是基于视觉-语言-行动的线性映射，在处理一些极端场景时，模型的泛化能力仍然存在瓶颈。于是，世界模型开始进入车企的视野。世界模型的核心思路是让AI不仅仅学习“看到什么就做什么”，而是建立对物理世界的理解和预测能力，从而做出更合理的决策。\n同时，不管是全栈自研的“垂直整合”派，还是生态赋能的“开放合作”派，汽车厂商们在追求智驾技术演进的同时，也开始推动数据闭环能力建设。\n不过从技术演化到稳定普及，智能化仍有长路要走。\n被寄予厚望的“L3元年”直至年底才有实质进展，工信部批准了长安深蓝SL03和北汽极狐阿尔法S两款L3车型准入，且仅限于特定路段和速度。即使如此，L3的进展与很多车企年初所宣传的L3量产上路还有很大差距。\n更关键的是，在智驾疯狂营销中，几次事故的出现，让消费者对智驾的信任度大打折扣。\n在北京工作的30岁白领Linda，2025年换了一台搭载城市NOA功能的国产电车。她表示，高速上用智驾确实挺省心，长途开车轻松很多。“但城区就不太敢开了，有几次遇到加塞或者突然变道，系统会突然急刹。”\n这反映了当前智驾技术的真实境遇：作为辅助价值已被认可，但距真正的“自动驾驶”或无忧体验，仍有相当距离。\n一位电车行业观察员对此评价道：车企目前在技术突破上主要集中在L2级和L3级的自动驾驶技术，但业内普遍认为，目前更像是无限接近L3级自动驾驶的状态。消费者对L1至L3级自动驾驶技术其实没有明确的边界认知，更关注应用场景如高速自动跟车、城市穿梭等。\n目前厂家的营销宣传倾向于强调技术的进步，而消费者的态度已由过去的尝鲜体验转变为希望更安全、更好的驾驶体验。\n \n2026年：告别输血，直面市场\n到了2026年，政策端落下了一记重锤。\n从今年1月1日起，实施了十年的新能源汽车购置税全额免征政策，正式切换到减半征收模式，税率调整为5%，单车最高减税额由3万元减少至1.5万元。换句话说，一辆售价20多万元的电车，今年买要比2025年多掏一万多元，相当于多出买一台高端笔记本电脑的钱。\n同时，以旧换新补贴进行了调整，从2025年的定额补贴改成了与新车售价挂钩的比例补贴。\n政策变化，导致2025年年底出现了一波“末班车”抢购潮。这也暗示着，电车行业必须从“政策输血”转向“市场造血”。在渗透率已经逼近60%的当下，电车已经过了需要靠补贴“扶上马”的阶段，接下来就是“裸泳比赛”。\n除了技术迭代、成本控制这两项硬实力，用户体验这样的软实力也不容忽视。其中，多元化补能方式，是软实力中重要一环。\n2025年，超充、换电飞速演进。超充这边，华为发布了1.5兆瓦超充解决方案，可以实现每分钟补电20千瓦时，15分钟完成一次完整充电；比亚迪推出了自研的全球首款全液冷兆瓦闪充终端系统，计划未来建设超过4000座“闪充站”；极氪的V4极充兆瓦桩已实现量产，率先在行业内投入实际运营。800V高压平台和5C超充正在成为主流配置。\n换电这边，竞争格局从蔚来“一枝独秀”演变成多方混战，加速落地。\n宁德时代成为换电行业最重要的参与者之一。2025年，宁德时代的巧克力换电与骐骥换电分别建成1020座、305座换电站，超额完成年度目标。2026年，巧克力换电计划在140多座城市累计建成超3000座换电站，同步启动高速公路网络建设，长期目标为3万座，并将开放加盟计划。\n蔚来在深耕县域市场的同时，也在推动技术标准统一，实现跨品牌生态共建。目前蔚来在全国累计建成近3700座换电站。此外，奥动新能源也递交了港交所招股书，冲击港股“换电第一股”。\n除了补能方式的多元化，动力形式的多元化也是2026年的一大看点。\n和初期的“纯电崇拜”不同，现在的电车圈是增程、混动、纯电大混战。2026年，不仅小鹏、小米等新势力开始进军增程赛道，福特、通用、丰田、大众都在规划增程车型，2026年将迎来跨国车企增程车型的扎堆上市。\n这背后其实是市场成熟与用户需求分化的结果。2025年末，车百会理事长张永伟表示，“汽车消费已经进入了新阶段，过去是‘拿钱买辆车’就实现了购买目标，现在要千挑万选，买到消费者真正认可的产品。”\n电车行业正在进入一个更务实，以真实使用场景和产品力为导向的新阶段。这也正是对“价格战”的一种超越，企业需要更精细地识别细分市场，并提供真正匹配价值的产品与服务。\n同时，在国内竞争激励的态势下，出海也成为车企2026年的重点方向。\n2025年，是电车在销量与认知上全面超越油车的转折年。步入2026年，竞争进入新赛道，将是技术深度、成本效率、生态布局、品牌价值与用户忠诚度的综合比拼。真正的“裸泳”开始了。\n本文来自微信公众号“豹变”，作者：娜娜，36氪经授权发布。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": null,
+      "original_language": "unknown",
+      "original_title": "新能源车的“硬核”战事，2026年卷向何处？",
+      "source_url": "https://36kr.com/p/3644455846514304?f=rss",
+      "id": 51,
       "track": "rss",
       "original_source": "36氪"
     }
