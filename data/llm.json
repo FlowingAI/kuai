@@ -1,8 +1,21 @@
 {
   "category": "大模型动态",
-  "last_update": "2026-01-18 13:06:31 (北京时间)",
-  "total_count": 78,
+  "last_update": "2026-01-18 16:53:23 (北京时间)",
+  "total_count": 80,
   "news": [
+    {
+      "title": "马斯克最大算力中心建成了：全球首个GW级超算集群，再创世界纪录",
+      "summary": "Colossus 2正式投运。马斯克的最大算力中心，全球首个GW级超算集群，已经正式建成并投运。这一超算集群的建成再次刷新了世界纪录，标志着我国在超算领域的技术实力得到了进一步提升。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-18 16:46:27",
+      "original_language": "zh",
+      "original_title": "马斯克最大算力中心建成了：全球首个GW级超算集群，再创世界纪录",
+      "source_url": "https://www.qbitai.com/2026/01/370077.html",
+      "id": 1,
+      "track": "rss",
+      "original_source": "量子位"
+    },
     {
       "title": "AI 视频生成时代，留给人类的只有演技？",
       "summary": "随着人工智能技术的不断发展，AI视频生成技术已经取得了显著的进步。这项技术能够根据文本或语音指令生成视频内容，甚至可以模仿人类的表情和动作。然而，这也引发了一个问题：在AI视频生成时代，人类的演技是否还有存在的价值？本文将探讨这一话题，分析AI视频生成技术对人类演技的影响，以及人类如何应对这一挑战。",
@@ -12,7 +25,7 @@
       "original_language": "zh",
       "original_title": "AI 视频生成时代，留给人类的只有演技？",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-17-4",
-      "id": 1,
+      "id": 2,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -25,7 +38,7 @@
       "original_language": "zh",
       "original_title": "贴广告的ChatGPT，一夜之间让全球网友破了防",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-17-3",
-      "id": 2,
+      "id": 3,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -38,7 +51,7 @@
       "original_language": "zh",
       "original_title": "开源8300小时标注数据，新一代实时通用游戏AI Pixel2Play发布",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-17-2",
-      "id": 3,
+      "id": 4,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -51,7 +64,7 @@
       "original_language": "zh",
       "original_title": "大模型听懂语音却反而变笨？港中深与微软联合解决语音大模型降智问题",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-17",
-      "id": 4,
+      "id": 5,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -64,7 +77,7 @@
       "original_language": "zh",
       "original_title": "神同步OpenAI！中国团队Deep Principle领衔发布LLMs for Science评测，引爆外网",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-16-9",
-      "id": 5
+      "id": 6
     },
     {
       "title": "腾讯AngelSlim升级，首个集LLM、VLM及语音多模态为一体的投机采样训练框架，推理速度飙升1.8倍",
@@ -75,7 +88,7 @@
       "original_language": "zh",
       "original_title": "腾讯AngelSlim升级，首个集LLM、VLM及语音多模态为一体的投机采样训练框架，推理速度飙升1.8倍",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-16-3",
-      "id": 6
+      "id": 7
     },
     {
       "title": "DeepSeek连发两篇论文背后，原来藏着一场学术接力",
@@ -86,7 +99,7 @@
       "original_language": "zh",
       "original_title": "DeepSeek连发两篇论文背后，原来藏着一场学术接力",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-16-2",
-      "id": 7
+      "id": 8
     },
     {
       "title": "从OpenAI的办公室到与礼来达成交易——Chai Discovery如何成为AI药物开发中最耀眼的名称之一",
@@ -97,7 +110,7 @@
       "original_language": "en",
       "original_title": "From OpenAI’s offices to a deal with Eli Lilly — how Chai Discovery became one of the flashiest names in AI drug development",
       "source_url": "https://techcrunch.com/2026/01/16/from-openais-offices-to-a-deal-with-eli-lilly-how-chai-discovery-became-one-of-the-flashiest-names-in-ai-drug-development/",
-      "id": 8
+      "id": 9
     },
     {
       "title": "ChatGPT用户即将面临定向广告",
@@ -108,7 +121,7 @@
       "original_language": "en",
       "original_title": "ChatGPT users are about to get hit with targeted ads",
       "source_url": "https://techcrunch.com/2026/01/16/chatgpt-users-are-about-to-get-hit-with-targeted-ads/",
-      "id": 9
+      "id": 10
     },
     {
       "title": "OpenAI将在ChatGPT中测试广告，因为它烧掉了数十亿美元",
@@ -119,7 +132,7 @@
       "original_language": "en",
       "original_title": "OpenAI to test ads in ChatGPT as it burns through billions",
       "source_url": "https://arstechnica.com/information-technology/2026/01/openai-to-test-ads-in-chatgpt-as-it-burns-through-billions/",
-      "id": 10
+      "id": 11
     },
     {
       "title": "ChatGPT Health允许您将医疗记录连接到虚构事物的AI",
@@ -130,7 +143,7 @@
       "original_language": "en",
       "original_title": "ChatGPT Health lets you connect medical records to an AI that makes things up",
       "source_url": "https://arstechnica.com/ai/2026/01/chatgpt-health-lets-you-connect-medical-records-to-an-ai-that-makes-things-up/",
-      "id": 11
+      "id": 12
     },
     {
       "title": "ChatGPT遭受新的数据窃取攻击，AI恶性循环持续",
@@ -141,7 +154,7 @@
       "original_language": "en",
       "original_title": "ChatGPT falls to new data-pilfering attack as a vicious cycle in AI continues",
       "source_url": "https://arstechnica.com/security/2026/01/chatgpt-falls-to-new-data-pilfering-attack-as-a-vicious-cycle-in-ai-continues/",
-      "id": 12
+      "id": 13
     },
     {
       "title": "面向临床的心电图AI，上智院、复旦等提出CLEAR-HUG框架实现诊断性能与可解释性双突破",
@@ -152,7 +165,7 @@
       "original_language": "zh",
       "original_title": "面向临床的心电图AI，上智院、复旦等提出CLEAR-HUG框架实现诊断性能与可解释性双突破",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-16-10",
-      "id": 13,
+      "id": 14,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -165,7 +178,7 @@
       "original_language": "zh",
       "original_title": "美团又上新模型，8个Thinker齐开工，能顶个诸葛亮？",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-16-8",
-      "id": 14,
+      "id": 15,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -178,7 +191,7 @@
       "original_language": "en",
       "original_title": "Anthropic taps former Microsoft India MD to lead Bengaluru expansion",
       "source_url": "https://techcrunch.com/2026/01/15/anthropic-taps-former-microsoft-india-md-to-lead-bengaluru-expansion/",
-      "id": 15
+      "id": 16
     },
     {
       "title": "硅谷最混乱的分手案肯定将走向法庭",
@@ -189,7 +202,7 @@
       "original_language": "en",
       "original_title": "Silicon Valley’s messiest breakup is definitely headed to court",
       "source_url": "https://techcrunch.com/2026/01/15/silicon-valleys-messiest-breakout-is-definitely-headed-to-court/",
-      "id": 16
+      "id": 17
     },
     {
       "title": "OpenAI投资Sam Altman的脑机接口初创公司Merge Labs",
@@ -200,7 +213,7 @@
       "original_language": "en",
       "original_title": "OpenAI invests in Sam Altman’s brain computer interface startup Merge Labs",
       "source_url": "https://techcrunch.com/2026/01/15/openai-invests-in-sam-altmans-brain-computer-interface-startup-merge-labs/",
-      "id": 17
+      "id": 18
     },
     {
       "title": "不用拍的广告片？深度拆解美团闪购AIGC营销新案例",
@@ -211,7 +224,7 @@
       "original_language": "zh",
       "original_title": "不用拍的广告片？深度拆解美团闪购AIGC营销新案例",
       "source_url": "https://www.qbitai.com/2026/01/369884.html",
-      "id": 18,
+      "id": 19,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -224,7 +237,7 @@
       "original_language": "en",
       "original_title": "Mira Murati’s startup, Thinking Machines Lab, is losing two of its co-founders to OpenAI",
       "source_url": "https://techcrunch.com/2026/01/14/mira-muratis-startup-thinking-machines-lab-is-losing-two-of-its-co-founders-to-openai/",
-      "id": 19
+      "id": 20
     },
     {
       "title": "OpenAI 与 Cerebras 签署价值 100 亿美元的计算服务协议",
@@ -235,7 +248,7 @@
       "original_language": "en",
       "original_title": "OpenAI signs deal, worth $10B, for compute from Cerebras",
       "source_url": "https://techcrunch.com/2026/01/14/openai-signs-deal-reportedly-worth-10-billion-for-compute-from-cerebras/",
-      "id": 20
+      "id": 21
     },
     {
       "title": "AI模型开始破解高级数学问题",
@@ -246,7 +259,7 @@
       "original_language": "en",
       "original_title": "AI models are starting to crack high-level math problems ",
       "source_url": "https://techcrunch.com/2026/01/14/ai-models-are-starting-to-crack-high-level-math-problems/",
-      "id": 21
+      "id": 22
     },
     {
       "title": "谷歌趋势探索页面新增Gemini功能",
@@ -257,7 +270,7 @@
       "original_language": "en",
       "original_title": "Google’s Trends Explore page gets new Gemini capabilities ",
       "source_url": "https://techcrunch.com/2026/01/14/googles-trends-explore-page-gets-new-gemini-capabilities/",
-      "id": 22
+      "id": 23
     },
     {
       "title": "OpenAI的新ChatGPT图像生成器让伪造照片变得容易",
@@ -268,7 +281,7 @@
       "original_language": "en",
       "original_title": "OpenAI’s new ChatGPT image generator makes faking photos easy",
       "source_url": "https://arstechnica.com/ai/2025/12/openais-new-chatgpt-image-generator-makes-faking-photos-easy/",
-      "id": 23
+      "id": 24
     },
     {
       "title": "OpenAI正式进军脑机接口，投了自家CEO阿尔特曼的新公司",
@@ -279,7 +292,7 @@
       "original_language": "zh",
       "original_title": "OpenAI正式进军脑机接口，投了自家CEO阿尔特曼的新公司",
       "source_url": "https://zhidx.com/p/529327.html",
-      "id": 24,
+      "id": 25,
       "track": "rss",
       "original_source": "智东西"
     },
@@ -292,7 +305,7 @@
       "original_language": "zh",
       "original_title": "今天，阿里园区被AI点的奶茶包围了",
       "source_url": "https://zhidx.com/p/528993.html",
-      "id": 25,
+      "id": 26,
       "track": "rss",
       "original_source": "智东西"
     },
@@ -305,7 +318,7 @@
       "original_language": "zh",
       "original_title": "iQOO中端机用上豆包手机同款“AI操控”，搭第五代骁龙8旗舰芯，2399元起",
       "source_url": "https://zhidx.com/p/529205.html",
-      "id": 26,
+      "id": 27,
       "track": "rss",
       "original_source": "智东西"
     },
@@ -318,7 +331,7 @@
       "original_language": "zh",
       "original_title": "谷歌Gemini重磅升级，上线”苹果智能“同款功能，手机个人信息全能读",
       "source_url": "https://zhidx.com/p/529157.html",
-      "id": 27,
+      "id": 28,
       "track": "rss",
       "original_source": "智东西"
     },
@@ -331,7 +344,7 @@
       "original_language": "zh",
       "original_title": "ChatGPT发了个“谷歌翻译”，但我只觉得多余...",
       "source_url": "https://zhidx.com/p/529124.html",
-      "id": 28,
+      "id": 29,
       "track": "rss",
       "original_source": "智东西"
     },
@@ -344,7 +357,7 @@
       "original_language": "zh",
       "original_title": "联发科再发双芯，3nm天玑9500s来了，小米、vivo、OPPO首批发布",
       "source_url": "https://zhidx.com/p/529107.html",
-      "id": 29,
+      "id": 30,
       "track": "rss",
       "original_source": "智东西"
     },
@@ -357,7 +370,7 @@
       "original_language": "en",
       "original_title": "The AI healthcare gold rush is here",
       "source_url": "https://techcrunch.com/video/the-ai-healthcare-gold-rush-is-here/",
-      "id": 30
+      "id": 31
     },
     {
       "title": "OpenAI和Anthropic正在进军医疗保健领域，我们并不感到惊讶",
@@ -368,7 +381,7 @@
       "original_language": "en",
       "original_title": "OpenAI and Anthropic are making their play for healthcare, and we’re not surprised",
       "source_url": "https://techcrunch.com/podcast/openai-and-anthropic-are-making-their-play-for-healthcare-and-were-not-surprised/",
-      "id": 31
+      "id": 32
     },
     {
       "title": "ChatGPT 将很快开始展示广告，首先是购物链接",
@@ -379,7 +392,7 @@
       "original_language": "en",
       "original_title": "Ads are coming soon to ChatGPT, starting with shopping links",
       "source_url": "https://www.theverge.com/news/863428/openai-chatgpt-shopping-ads-test",
-      "id": 32
+      "id": 33
     },
     {
       "title": "OpenAI发布更便宜的ChatGPT订阅服务",
@@ -390,7 +403,7 @@
       "original_language": "en",
       "original_title": "OpenAI releases a cheaper ChatGPT subscription",
       "source_url": "https://www.theverge.com/news/863466/openai-chatgpt-go-global-release",
-      "id": 33
+      "id": 34
     },
     {
       "title": "我看到了零售的未来，那就是人工智能",
@@ -401,7 +414,7 @@
       "original_language": "en",
       "original_title": "I saw the future of retail, and it’s all AI",
       "source_url": "https://www.theverge.com/tech/863365/national-retail-federation-show-shopping-commerce-ai",
-      "id": 34
+      "id": 35
     },
     {
       "title": "Siri is a Gemini",
@@ -412,7 +425,7 @@
       "original_language": "en",
       "original_title": "Siri is a Gemini",
       "source_url": "https://www.theverge.com/podcast/863340/siri-is-a-gemini",
-      "id": 35
+      "id": 36
     },
     {
       "title": "埃隆·马斯克对OpenAI提起诉讼：我从这场诉讼中学到了什么",
@@ -423,7 +436,7 @@
       "original_language": "en",
       "original_title": "‘Sideshow’ concerns and billionaire dreams: What I learned from Elon Musk’s lawsuit against OpenAI",
       "source_url": "https://www.theverge.com/column/863319/highlights-musk-v-altman-openai",
-      "id": 36
+      "id": 37
     },
     {
       "title": "苹果在人工智能竞赛中失利——真正的挑战才刚刚开始",
@@ -434,7 +447,7 @@
       "original_language": "en",
       "original_title": "Apple lost the AI race — now the real challenge starts",
       "source_url": "https://www.theverge.com/tech/861957/google-apple-ai-deal-iphone-gemini",
-      "id": 37
+      "id": 38
     },
     {
       "title": "ChatGPT Go全球发布",
@@ -445,7 +458,7 @@
       "original_language": "en",
       "original_title": "Introducing ChatGPT Go, now available worldwide",
       "source_url": "https://openai.com/index/introducing-chatgpt-go",
-      "id": 38
+      "id": 39
     },
     {
       "title": "我们的广告策略和扩大ChatGPT访问权限的方法",
@@ -456,7 +469,7 @@
       "original_language": "en",
       "original_title": "Our approach to advertising and expanding access to ChatGPT",
       "source_url": "https://openai.com/index/our-approach-to-advertising-and-expanding-access",
-      "id": 39
+      "id": 40
     },
     {
       "title": "OpenAI投资Merge Labs以支持新的脑机接口",
@@ -467,7 +480,7 @@
       "original_language": "en",
       "original_title": "Investing in Merge Labs",
       "source_url": "https://openai.com/index/investing-in-merge-labs",
-      "id": 40
+      "id": 41
     },
     {
       "title": "通过国内制造加强美国人工智能供应链",
@@ -478,7 +491,7 @@
       "original_language": "en",
       "original_title": "Strengthening the U.S. AI supply chain through domestic manufacturing",
       "source_url": "https://openai.com/index/strengthening-the-us-ai-supply-chain",
-      "id": 41
+      "id": 42
     },
     {
       "title": "OpenAI与Cerebras合作，增加750MW的高速AI计算能力，降低推理延迟并使ChatGPT在实时AI工作负载中更快",
@@ -489,7 +502,7 @@
       "original_language": "en",
       "original_title": "OpenAI partners with Cerebras  ",
       "source_url": "https://openai.com/index/cerebras-partnership",
-      "id": 42
+      "id": 43
     },
     {
       "title": "Zenken通过ChatGPT Enterprise提升精简销售团队",
@@ -500,7 +513,7 @@
       "original_language": "en",
       "original_title": "Zenken boosts a lean sales team with ChatGPT Enterprise",
       "source_url": "https://openai.com/index/zenken",
-      "id": 43
+      "id": 44
     },
     {
       "title": "OpenAI与软银集团与SB Energy合作",
@@ -511,7 +524,7 @@
       "original_language": "en",
       "original_title": "OpenAI and SoftBank Group partner with SB Energy",
       "source_url": "https://openai.com/index/stargate-sb-energy-partnership",
-      "id": 44
+      "id": 45
     },
     {
       "title": "Datadog使用Codex进行系统级代码审查",
@@ -522,7 +535,7 @@
       "original_language": "en",
       "original_title": "Datadog uses Codex for system-level code review",
       "source_url": "https://openai.com/index/datadog",
-      "id": 45
+      "id": 46
     },
     {
       "title": "Netomi的企业级智能代理系统扩展经验",
@@ -533,7 +546,7 @@
       "original_language": "en",
       "original_title": "Netomi’s lessons for scaling agentic systems into the enterprise",
       "source_url": "https://openai.com/index/netomi",
-      "id": 46
+      "id": 47
     },
     {
       "title": "OpenAI for Healthcare",
@@ -544,7 +557,7 @@
       "original_language": "en",
       "original_title": "OpenAI for Healthcare",
       "source_url": "https://openai.com/index/openai-for-healthcare",
-      "id": 47
+      "id": 48
     },
     {
       "title": "如何使用GPT-5.1构建语音优先AI",
@@ -555,7 +568,7 @@
       "original_language": "en",
       "original_title": "How Tolan builds voice-first AI with GPT-5.1",
       "source_url": "https://openai.com/index/tolan",
-      "id": 48
+      "id": 49
     },
     {
       "title": "介绍ChatGPT Health",
@@ -566,7 +579,7 @@
       "original_language": "en",
       "original_title": "Introducing ChatGPT Health ",
       "source_url": "https://openai.com/index/introducing-chatgpt-health",
-      "id": 49
+      "id": 50
     },
     {
       "title": "宣布OpenAI Grove Cohort 2开放申请",
@@ -577,7 +590,7 @@
       "original_language": "en",
       "original_title": "Announcing OpenAI Grove Cohort 2",
       "source_url": "https://openai.com/index/openai-grove",
-      "id": 50
+      "id": 51
     },
     {
       "title": "持续强化ChatGPT Atlas抵御提示注入攻击",
@@ -588,7 +601,7 @@
       "original_language": "en",
       "original_title": "Continuously hardening ChatGPT Atlas against prompt injection",
       "source_url": "https://openai.com/index/hardening-atlas-against-prompt-injection",
-      "id": 51
+      "id": 52
     },
     {
       "title": "庆祝塑造人工智能未来的百万客户",
@@ -599,7 +612,7 @@
       "original_language": "en",
       "original_title": "One in a million: celebrating the customers shaping AI’s future",
       "source_url": "https://openai.com/index/one-in-a-million-customers",
-      "id": 52
+      "id": 53
     },
     {
       "title": "评估思维链的可监控性",
@@ -610,7 +623,7 @@
       "original_language": "en",
       "original_title": "Evaluating chain-of-thought monitorability",
       "source_url": "https://openai.com/index/evaluating-chain-of-thought-monitorability",
-      "id": 53
+      "id": 54
     },
     {
       "title": "更新我们的模型规范以加入青少年保护措施",
@@ -621,7 +634,7 @@
       "original_language": "en",
       "original_title": "Updating our Model Spec with teen protections",
       "source_url": "https://openai.com/index/updating-model-spec-with-teen-protections",
-      "id": 54
+      "id": 55
     },
     {
       "title": "青少年和家长的人工智能素养资源",
@@ -632,7 +645,7 @@
       "original_language": "en",
       "original_title": "AI literacy resources for teens and parents",
       "source_url": "https://openai.com/index/ai-literacy-resources-for-teens-and-parents",
-      "id": 55
+      "id": 56
     },
     {
       "title": "深化与美国能源部的合作",
@@ -643,7 +656,7 @@
       "original_language": "en",
       "original_title": "Deepening our collaboration with the U.S. Department of Energy",
       "source_url": "https://openai.com/index/us-department-of-energy-collaboration",
-      "id": 56
+      "id": 57
     },
     {
       "title": "谷歌假日助手指南",
@@ -654,7 +667,7 @@
       "original_language": "en",
       "original_title": "The Google guide for holiday help",
       "source_url": "https://blog.google/innovation-and-ai/technology/ai/holiday-planning-ai-gemini-tips/",
-      "id": 57
+      "id": 58
     },
     {
       "title": "了解Gemini，我们最强大的AI模型",
@@ -665,7 +678,7 @@
       "original_language": "en",
       "original_title": "Learn more about Gemini, our most capable AI model",
       "source_url": "https://blog.google/innovation-and-ai/technology/ai/gemini-collection/",
-      "id": 58
+      "id": 59
     },
     {
       "title": "OpenAI安全研究负责人安德烈亚·瓦隆离职加入Anthropic",
@@ -676,7 +689,7 @@
       "original_language": "en",
       "original_title": "An OpenAI safety research lead departed for Anthropic",
       "source_url": "https://www.theverge.com/ai-artificial-intelligence/862402/openai-safety-lead-model-policy-departs-for-anthropic-alignment-andrea-vallone",
-      "id": 59
+      "id": 60
     },
     {
       "title": "介绍 GPT-5.2-Codex",
@@ -687,7 +700,7 @@
       "original_language": "en",
       "original_title": "Introducing GPT-5.2-Codex",
       "source_url": "https://openai.com/index/introducing-gpt-5-2-codex",
-      "id": 60
+      "id": 61
     },
     {
       "title": "全球内存短缺：RAM价格上涨的最新消息",
@@ -698,7 +711,7 @@
       "original_language": "en",
       "original_title": "RAM price hikes: the latest on the global memory shortage",
       "source_url": "https://www.theverge.com/news/839353/pc-ram-shortage-pricing-spike-news",
-      "id": 61
+      "id": 62
     },
     {
       "title": "GPT-5.2-Codex系统卡片的补充：GPT-5.2-Codex",
@@ -709,7 +722,7 @@
       "original_language": "en",
       "original_title": "Addendum to GPT-5.2 System Card: GPT-5.2-Codex",
       "source_url": "https://openai.com/index/gpt-5-2-codex-system-card",
-      "id": 62
+      "id": 63
     },
     {
       "title": "OpenAI的ChatGPT翻译器挑战谷歌翻译",
@@ -720,7 +733,7 @@
       "original_language": "en",
       "original_title": "OpenAI’s ChatGPT translator challenges Google Translate",
       "source_url": "https://www.theverge.com/news/862448/openai-chatgpt-translate-tool-launch-website",
-      "id": 63
+      "id": 64
     },
     {
       "title": "姚班传奇陈立杰入职OpenAI！16岁保送清华，30岁拿下UC伯克利助理教授",
@@ -731,7 +744,7 @@
       "original_language": "zh",
       "original_title": "姚班传奇陈立杰入职OpenAI！16岁保送清华，30岁拿下UC伯克利助理教授",
       "source_url": "https://www.qbitai.com/2026/01/369684.html",
-      "id": 64
+      "id": 65
     },
     {
       "title": "Gemini胜出",
@@ -742,7 +755,7 @@
       "original_language": "en",
       "original_title": "Gemini is winning",
       "source_url": "https://www.theverge.com/ai-artificial-intelligence/861863/google-gemini-ai-race-winner",
-      "id": 65
+      "id": 66
     },
     {
       "title": "腾讯云ADP国内首发AI原生Widget：一句话秒级生成交互组件，重塑Agent使用体验",
@@ -753,7 +766,7 @@
       "original_language": "zh",
       "original_title": "腾讯云ADP国内首发AI原生Widget：一句话秒级生成交互组件，重塑Agent使用体验",
       "source_url": "https://www.qbitai.com/2026/01/370069.html",
-      "id": 66,
+      "id": 67,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -766,7 +779,7 @@
       "original_language": "zh",
       "original_title": "支付宝携手千问App、淘宝闪购等发布中国首个AI商业协议ACT",
       "source_url": "https://www.qbitai.com/2026/01/369878.html",
-      "id": 67,
+      "id": 68,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -779,7 +792,20 @@
       "original_language": "zh",
       "original_title": "滴滴给我发了个赛博助理，专管出行的那种",
       "source_url": "https://www.qbitai.com/2026/01/369738.html",
-      "id": 68,
+      "id": 69,
+      "track": "rss",
+      "original_source": "量子位"
+    },
+    {
+      "title": "机器人终于能用明白洗碗机了｜UC伯克利新研究",
+      "summary": "低门槛教学+智能选动作，为人形机器人实用化铺平道路",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-18 16:46:13",
+      "original_language": "zh",
+      "original_title": "机器人终于能用明白洗碗机了｜UC伯克利新研究",
+      "source_url": "https://www.qbitai.com/2026/01/370136.html",
+      "id": 70,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -792,7 +818,7 @@
       "original_language": "unknown",
       "original_title": "裁员50%后，他靠AI编程大逆袭！ARR破亿，估值直冲600亿",
       "source_url": "https://zhidx.com/p/529226.html",
-      "id": 69,
+      "id": 71,
       "track": "rss",
       "original_source": "智东西"
     },
@@ -805,7 +831,7 @@
       "original_language": "zh",
       "original_title": "或达3000万副！Meta猛增AI眼镜产能，苹果入局小扎有点怕？",
       "source_url": "https://zhidx.com/p/529070.html",
-      "id": 70,
+      "id": 72,
       "track": "rss",
       "original_source": "智东西"
     },
@@ -818,7 +844,7 @@
       "original_language": "en",
       "original_title": "Introducing OptiMind, a research model designed for optimization",
       "source_url": "https://huggingface.co/blog/microsoft/optimind",
-      "id": 71,
+      "id": 73,
       "track": "rss",
       "original_source": "Hugging Face"
     },
@@ -831,7 +857,7 @@
       "original_language": "en",
       "original_title": "Open Responses: What you need to know",
       "source_url": "https://huggingface.co/blog/open-responses",
-      "id": 72,
+      "id": 74,
       "track": "rss",
       "original_source": "Hugging Face"
     },
@@ -844,7 +870,7 @@
       "original_language": "en",
       "original_title": "NVIDIA Cosmos Reason 2 Brings Advanced Reasoning To Physical AI",
       "source_url": "https://huggingface.co/blog/nvidia/nvidia-cosmos-reason-2-brings-advanced-reasoning",
-      "id": 73,
+      "id": 75,
       "track": "rss",
       "original_source": "Hugging Face"
     },
@@ -857,7 +883,7 @@
       "original_language": "en",
       "original_title": "Introducing Falcon-H1-Arabic: Pushing the Boundaries of Arabic Language AI with Hybrid Architecture",
       "source_url": "https://huggingface.co/blog/tiiuae/falcon-h1-arabic",
-      "id": 74,
+      "id": 76,
       "track": "rss",
       "original_source": "Hugging Face"
     },
@@ -870,7 +896,7 @@
       "original_language": "en",
       "original_title": "NVIDIA brings agents to life with DGX Spark and Reachy Mini",
       "source_url": "https://huggingface.co/blog/nvidia-reachy-mini",
-      "id": 75,
+      "id": 77,
       "track": "rss",
       "original_source": "Hugging Face"
     },
@@ -883,7 +909,7 @@
       "original_language": "en",
       "original_title": "AprielGuard: A Guardrail for Safety and Adversarial Robustness in Modern LLM Systems",
       "source_url": "https://huggingface.co/blog/ServiceNow-AI/aprielguard",
-      "id": 76,
+      "id": 78,
       "track": "rss",
       "original_source": "Hugging Face"
     },
@@ -896,7 +922,7 @@
       "original_language": "en",
       "original_title": "Tokenization in Transformers v5: Simpler, Clearer, and More Modular",
       "source_url": "https://huggingface.co/blog/tokenizers",
-      "id": 77,
+      "id": 79,
       "track": "rss",
       "original_source": "Hugging Face"
     },
@@ -909,7 +935,7 @@
       "original_language": "en",
       "original_title": "The Open Evaluation Standard: Benchmarking NVIDIA Nemotron 3 Nano with NeMo Evaluator",
       "source_url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-evaluation-recipe",
-      "id": 78,
+      "id": 80,
       "track": "rss",
       "original_source": "Hugging Face"
     }

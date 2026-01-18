@@ -1,8 +1,47 @@
 {
   "category": "全球AI动态",
-  "last_update": "2026-01-18 13:06:31 (北京时间)",
-  "total_count": 40,
+  "last_update": "2026-01-18 16:53:23 (北京时间)",
+  "total_count": 45,
   "news": [
+    {
+      "title": "艾萨克·阿西莫夫的职业",
+      "summary": "Comments",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-18 16:32:29",
+      "original_language": "en",
+      "original_title": "Profession by Isaac Asimov",
+      "source_url": "https://www.abelard.org/asimov.php",
+      "id": 1,
+      "track": "rss",
+      "original_source": "Hacker News"
+    },
+    {
+      "title": "马斯克最大算力中心建成了：全球首个GW级超算集群，再创世界纪录",
+      "summary": "Colossus 2正式投运。马斯克的最大算力中心，全球首个GW级超算集群，已经正式建成并投入运营。这一超算集群的建成再次刷新了世界纪录，标志着我国在超算领域取得了重大突破。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-18 16:31:27",
+      "original_language": "zh",
+      "original_title": "马斯克最大算力中心建成了：全球首个GW级超算集群，再创世界纪录",
+      "source_url": "https://www.qbitai.com/2026/01/370077.html",
+      "id": 2,
+      "track": "rss",
+      "original_source": "量子位"
+    },
+    {
+      "title": "机器人终于能用明白洗碗机了｜UC伯克利新研究",
+      "summary": "低门槛教学+智能选动作，为人形机器人实用化铺平道路",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-18 16:31:11",
+      "original_language": "zh",
+      "original_title": "机器人终于能用明白洗碗机了｜UC伯克利新研究",
+      "source_url": "https://www.qbitai.com/2026/01/370136.html",
+      "id": 3,
+      "track": "rss",
+      "original_source": "量子位"
+    },
     {
       "title": "科学家如何使用Claude加速研究和发现",
       "summary": "科学家正在使用Claude来加速研究和发现。Claude是一种先进的人工智能工具，可以帮助科学家分析数据、生成假设和预测结果。通过使用Claude，研究人员可以更快地处理大量数据，从而加快科学研究的进程。这项技术的应用已经在多个领域取得了显著成果，包括生物学、物理学和化学等。新闻链接：[https://www.anthropic.com/news/accelerating-scientific-research](https://www.anthropic.com/news/accelerating-scientific-research)",
@@ -12,7 +51,7 @@
       "original_language": "en",
       "original_title": "How scientists are using Claude to accelerate research and discovery",
       "source_url": "https://www.anthropic.com/news/accelerating-scientific-research",
-      "id": 1,
+      "id": 4,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -25,7 +64,7 @@
       "original_language": "en",
       "original_title": "Erdos 281 solved with ChatGPT 5.2 Pro",
       "source_url": "https://twitter.com/neelsomani/status/2012695714187325745",
-      "id": 2,
+      "id": 5,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -38,7 +77,7 @@
       "original_language": "en",
       "original_title": "Show HN: ChunkHound, a local-first tool for understanding large codebases",
       "source_url": "https://github.com/chunkhound/chunkhound",
-      "id": 3,
+      "id": 6,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -51,7 +90,7 @@
       "original_language": "en",
       "original_title": "Xous Operating System",
       "source_url": "https://xous.dev/",
-      "id": 4,
+      "id": 7,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -64,7 +103,7 @@
       "original_language": "en",
       "original_title": "A programming language based on grammatical cases of Turkish",
       "source_url": "https://github.com/kip-dili/kip",
-      "id": 5,
+      "id": 8,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -77,7 +116,7 @@
       "original_language": "en",
       "original_title": "Counterfactual evaluation for recommendation systems",
       "source_url": "https://eugeneyan.com/writing/counterfactual-evaluation/",
-      "id": 6,
+      "id": 9,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -90,7 +129,20 @@
       "original_language": "en",
       "original_title": "We put Claude Code in Rollercoaster Tycoon",
       "source_url": "https://labs.ramp.com/rct",
-      "id": 7,
+      "id": 10,
+      "track": "rss",
+      "original_source": "Hacker News"
+    },
+    {
+      "title": "jQuery 4.0.0 版本发布",
+      "summary": "jQuery 4.0.0 版本已经发布。这是 jQuery 库的一个重要更新，带来了许多新特性和改进。以下是主要更新内容：\n- 改进了性能和稳定性\n- 新增了对现代浏览器的支持\n- 优化了API和文档\n- 移除了过时的功能\n- 更新了依赖项和构建工具\n\n更多信息请访问：[jQuery 4.0.0 发布博客](https://blog.jquery.com/2026/01/17/jquery-4-0-0/)",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-17 14:30:00",
+      "original_language": "en",
+      "original_title": "jQuery 4.0.0 Released",
+      "source_url": "https://blog.jquery.com/2026/01/17/jquery-4-0-0/",
+      "id": 11,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -103,7 +155,7 @@
       "original_language": "zh",
       "original_title": "AI 视频生成时代，留给人类的只有演技？",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-17-4",
-      "id": 8,
+      "id": 12,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -116,7 +168,7 @@
       "original_language": "zh",
       "original_title": "贴广告的ChatGPT，一夜之间让全球网友破了防",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-17-3",
-      "id": 9,
+      "id": 13,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -129,7 +181,7 @@
       "original_language": "zh",
       "original_title": "开源8300小时标注数据，新一代实时通用游戏AI Pixel2Play发布",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-17-2",
-      "id": 10,
+      "id": 14,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -142,7 +194,7 @@
       "original_language": "zh",
       "original_title": "大模型听懂语音却反而变笨？港中深与微软联合解决语音大模型降智问题",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-17",
-      "id": 11,
+      "id": 15,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -155,7 +207,7 @@
       "original_language": "en",
       "original_title": "Musk wants up to $134B in OpenAI lawsuit, despite $700B fortune",
       "source_url": "https://techcrunch.com/2026/01/17/musk-wants-up-to-134b-in-openai-lawsuit-despite-700b-fortune/",
-      "id": 12,
+      "id": 16,
       "track": "rss",
       "original_source": "TechCrunch AI"
     },
@@ -168,7 +220,7 @@
       "original_language": "zh",
       "original_title": "失去三个联创后，Mira公司危机持续：又有两人要出走",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-16-7",
-      "id": 13,
+      "id": 17,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -181,7 +233,20 @@
       "original_language": "zh",
       "original_title": "微软谷歌正在大力招「电工」",
       "source_url": "https://www.qbitai.com/2026/01/370026.html",
-      "id": 14,
+      "id": 18,
+      "track": "rss",
+      "original_source": "量子位"
+    },
+    {
+      "title": "猎头黄仁勋的2025：高管从巨头挖，干活钟爱华人创业团队",
+      "summary": "全球市值第一也有人才焦虑\n猎头黄仁勋的2025：高管从巨头挖，干活钟爱华人创业团队\n\n全球市值第一的英伟达，也有人才焦虑。近日，英伟达CEO黄仁勋亲自担任猎头，从其他巨头公司挖角高管，同时钟爱华人创业团队。据悉，黄仁勋在2025年将重点放在吸引和培养人才上，以应对激烈的市场竞争。\n\n黄仁勋表示，英伟达的成功离不开优秀的人才团队。因此，他亲自担任猎头，从其他科技巨头公司挖角高管，包括谷歌、微软等。此外，黄仁勋还特别关注华人创业团队，认为他们具有创新精神和执行力。\n\n据悉，黄仁勋在2025年将重点放在吸引和培养人才上，以应对激烈的市场竞争。他希望通过优化人才结构，提升公司的核心竞争力。\n\n英伟达的这一举措，也引发了业界对人才竞争的关注。在当前科技行业，人才争夺战愈发激烈，各大公司都在努力吸引和留住优秀人才。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-16 14:30:00",
+      "original_language": "zh",
+      "original_title": "猎头黄仁勋的2025：高管从巨头挖，干活钟爱华人创业团队",
+      "source_url": "https://www.qbitai.com/2026/01/370085.html",
+      "id": 19,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -194,7 +259,7 @@
       "original_language": "zh",
       "original_title": "面向临床的心电图AI，上智院、复旦等提出CLEAR-HUG框架实现诊断性能与可解释性双突破",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-16-10",
-      "id": 15,
+      "id": 20,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -207,7 +272,7 @@
       "original_language": "zh",
       "original_title": "神同步OpenAI！中国团队Deep Principle领衔发布LLMs for Science评测，引爆外网",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-16-9",
-      "id": 16,
+      "id": 21,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -220,7 +285,7 @@
       "original_language": "zh",
       "original_title": "美团又上新模型，8个Thinker齐开工，能顶个诸葛亮？",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-16-8",
-      "id": 17,
+      "id": 22,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -233,7 +298,7 @@
       "original_language": "zh",
       "original_title": "不用拍的广告片？深度拆解美团闪购AIGC营销新案例",
       "source_url": "https://www.qbitai.com/2026/01/369884.html",
-      "id": 18,
+      "id": 23,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -246,7 +311,7 @@
       "original_language": "zh",
       "original_title": "支付宝携手千问App、淘宝闪购等发布中国首个AI商业协议ACT",
       "source_url": "https://www.qbitai.com/2026/01/369878.html",
-      "id": 19,
+      "id": 24,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -259,7 +324,7 @@
       "original_language": "en",
       "original_title": "AI cloud startup Runpod hits $120M in ARR — and it started with a Reddit post  ",
       "source_url": "https://techcrunch.com/2026/01/16/ai-cloud-startup-runpod-hits-120m-in-arr-and-it-started-with-a-reddit-post/",
-      "id": 20,
+      "id": 25,
       "track": "rss",
       "original_source": "TechCrunch AI"
     },
@@ -272,7 +337,7 @@
       "original_language": "en",
       "original_title": "California AG sends Musk’s xAI a cease-and-desist order over sexual deepfakes",
       "source_url": "https://techcrunch.com/2026/01/16/california-ag-sends-musks-xai-a-cease-and-desist-order-over-sexual-deepfakes/",
-      "id": 21,
+      "id": 26,
       "track": "rss",
       "original_source": "TechCrunch AI"
     },
@@ -285,7 +350,7 @@
       "original_language": "en",
       "original_title": "ChatGPT users are about to get hit with targeted ads",
       "source_url": "https://techcrunch.com/2026/01/16/chatgpt-users-are-about-to-get-hit-with-targeted-ads/",
-      "id": 22,
+      "id": 27,
       "track": "rss",
       "original_source": "TechCrunch AI"
     },
@@ -298,7 +363,7 @@
       "original_language": "en",
       "original_title": "From OpenAI’s offices to a deal with Eli Lilly — how Chai Discovery became one of the flashiest names in AI drug development",
       "source_url": "https://techcrunch.com/2026/01/16/from-openais-offices-to-a-deal-with-eli-lilly-how-chai-discovery-became-one-of-the-flashiest-names-in-ai-drug-development/",
-      "id": 23,
+      "id": 28,
       "track": "rss",
       "original_source": "TechCrunch AI"
     },
@@ -311,7 +376,7 @@
       "original_language": "en",
       "original_title": "The AI lab revolving door spins ever faster",
       "source_url": "https://techcrunch.com/2026/01/15/the-ai-lab-revolving-door-spins-ever-faster/",
-      "id": 24
+      "id": 29
     },
     {
       "title": "取代开发者的重复梦想",
@@ -322,12 +387,12 @@
       "original_language": "en",
       "original_title": "The recurring dream of replacing developers",
       "source_url": "https://www.caimito.net/en/blog/2025/12/07/the-recurring-dream-of-replacing-developers.html",
-      "id": 25,
+      "id": 30,
       "track": "rss",
       "original_source": "Hacker News"
     },
     {
-      "id": 26,
+      "id": 31,
       "title": "示例新闻：全球AI技术取得重大突破",
       "summary": "这是一个示例新闻数据。真实的新闻将通过 GitHub Actions 自动采集和更新。",
       "original_title": "Example: Global AI Technology Makes Major Breakthrough",
@@ -346,7 +411,7 @@
       "original_language": "en",
       "original_title": "The Check Up with Google",
       "source_url": "https://blog.google/innovation-and-ai/technology/health/google-health-check-up-2025/",
-      "id": 27
+      "id": 32
     },
     {
       "title": "十问2026中国电影",
@@ -357,7 +422,7 @@
       "original_language": "zh",
       "original_title": "十问2026中国电影",
       "source_url": "http://www.huxiu.com/article/4826481.html?f=wangzhan",
-      "id": 28
+      "id": 33
     },
     {
       "title": "腾讯云ADP国内首发AI原生Widget：一句话秒级生成交互组件，重塑Agent使用体验",
@@ -368,7 +433,7 @@
       "original_language": "zh",
       "original_title": "腾讯云ADP国内首发AI原生Widget：一句话秒级生成交互组件，重塑Agent使用体验",
       "source_url": "https://www.qbitai.com/2026/01/370069.html",
-      "id": 29,
+      "id": 34,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -381,7 +446,7 @@
       "original_language": "zh",
       "original_title": "滴滴给我发了个赛博助理，专管出行的那种",
       "source_url": "https://www.qbitai.com/2026/01/369738.html",
-      "id": 30,
+      "id": 35,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -394,7 +459,7 @@
       "original_language": "en",
       "original_title": "ClickHouse acquires Langfuse",
       "source_url": "https://langfuse.com/blog/joining-clickhouse",
-      "id": 31,
+      "id": 36,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -407,7 +472,7 @@
       "original_language": "en",
       "original_title": "The AI healthcare gold rush is here",
       "source_url": "https://techcrunch.com/video/the-ai-healthcare-gold-rush-is-here/",
-      "id": 32,
+      "id": 37,
       "track": "rss",
       "original_source": "TechCrunch AI"
     },
@@ -420,7 +485,7 @@
       "original_language": "en",
       "original_title": "OpenAI and Anthropic are making their play for healthcare, and we’re not surprised",
       "source_url": "https://techcrunch.com/podcast/openai-and-anthropic-are-making-their-play-for-healthcare-and-were-not-surprised/",
-      "id": 33,
+      "id": 38,
       "track": "rss",
       "original_source": "TechCrunch AI"
     },
@@ -433,7 +498,7 @@
       "original_language": "en",
       "original_title": "Thinking Machines Cofounder’s Office Relationship Preceded His Termination",
       "source_url": "https://www.wired.com/story/thinking-machines-lab-cofounder-office-relationship-firing-openai/",
-      "id": 34,
+      "id": 39,
       "track": "rss",
       "original_source": "Wired AI"
     },
@@ -446,7 +511,7 @@
       "original_language": "en",
       "original_title": "Ads Are Coming to ChatGPT. Here’s How They’ll Work",
       "source_url": "https://www.wired.com/story/openai-testing-ads-us/",
-      "id": 35,
+      "id": 40,
       "track": "rss",
       "original_source": "Wired AI"
     },
@@ -459,7 +524,7 @@
       "original_language": "en",
       "original_title": "Inside OpenAI’s Raid on Thinking Machines Lab",
       "source_url": "https://www.wired.com/story/inside-openai-raid-on-thinking-machines-lab/",
-      "id": 36,
+      "id": 41,
       "track": "rss",
       "original_source": "Wired AI"
     },
@@ -472,7 +537,7 @@
       "original_language": "en",
       "original_title": "Elon Musk’s Grok ‘Undressing’ Problem Isn’t Fixed",
       "source_url": "https://www.wired.com/story/elon-musks-grok-undressing-problem-isnt-fixed/",
-      "id": 37,
+      "id": 42,
       "track": "rss",
       "original_source": "Wired AI"
     },
@@ -485,7 +550,7 @@
       "original_language": "en",
       "original_title": "OpenAI Invests in Sam Altman’s New Brain-Tech Startup Merge Labs",
       "source_url": "https://www.wired.com/story/openai-invests-in-sam-altmans-new-brain-tech-startup-merge-labs/",
-      "id": 38,
+      "id": 43,
       "track": "rss",
       "original_source": "Wired AI"
     },
@@ -498,7 +563,7 @@
       "original_language": "en",
       "original_title": "Hands On With Anthropic’s Claude Cowork, an AI Agent That Actually Works",
       "source_url": "https://www.wired.com/story/anthropic-claude-cowork-agent/",
-      "id": 39,
+      "id": 44,
       "track": "rss",
       "original_source": "Wired AI"
     },
@@ -511,7 +576,7 @@
       "original_language": "unknown",
       "original_title": "An Elizabethan mansion's secrets for staying warm",
       "source_url": "https://www.bbc.com/future/article/20260116-an-elizabethan-mansions-secrets-for-staying-warm",
-      "id": 40,
+      "id": 45,
       "track": "rss",
       "original_source": "Hacker News"
     }
