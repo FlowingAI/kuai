@@ -1,7 +1,7 @@
 {
   "category": "全球AI动态",
-  "last_update": "2026-01-19 16:59:32 (北京时间)",
-  "total_count": 74,
+  "last_update": "2026-01-19 21:17:51 (北京时间)",
+  "total_count": 82,
   "news": [
     {
       "title": "我多年前就放弃了编程。AI让我重拾热情",
@@ -563,6 +563,84 @@
       "original_source": "量子位"
     },
     {
+      "title": "维基百科：WikiProject AI 清理项目",
+      "summary": "Comments\n\nThis page is part of the WikiProject AI Cleanup, which aims to improve the quality of Wikipedia articles related to artificial intelligence. The project is open to all editors, and contributions are welcome. For more information, see the project page.\n\nHere are some comments from the project page:\n- Comment 1: This article needs more references to recent research in AI.\n- Comment 2: The section on AI ethics should be expanded to include more examples.\n- Comment 3: The history section is outdated and needs to be updated with recent developments.\n\nFor more comments and discussions, please visit the project page.",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-19 20:58:09",
+      "original_language": "en",
+      "original_title": "Wikipedia: WikiProject AI Cleanup",
+      "source_url": "https://en.wikipedia.org/wiki/Wikipedia:WikiProject_AI_Cleanup",
+      "id": 44,
+      "track": "rss",
+      "original_source": "Hacker News"
+    },
+    {
+      "title": "加速推进“Robot for AI”战略落地，动易科技完成亿元级天使++轮融资，天使轮累计融资额超2亿元",
+      "summary": "动易科技近日宣布，已完成亿元级天使++轮融资，这是继天使轮融资后的再次融资，累计融资额已超过2亿元人民币。此次融资将用于加速推进“Robot for AI”战略的落地，进一步推动公司在人工智能领域的研发和应用。据悉，动易科技致力于通过技术创新，为用户提供更智能、更高效的解决方案。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-19 20:57:04",
+      "original_language": "zh",
+      "original_title": "加速推进“Robot for AI”战略落地，动易科技完成亿元级天使++轮融资，天使轮累计融资额超2亿元",
+      "source_url": "https://www.qbitai.com/2026/01/370277.html",
+      "id": 45,
+      "track": "rss",
+      "original_source": "量子位"
+    },
+    {
+      "title": "ChatGPT强行上马广告，因为OpenAI真的很烧钱",
+      "summary": "ChatGPT强行上马广告，因为OpenAI真的很烧钱。OpenAI是一家总部位于美国的人工智能研究公司，其核心产品是人工智能助手ChatGPT。然而，OpenAI的运营成本非常高，因此公司决定在ChatGPT上投放广告，以增加收入。这一决定引发了业界广泛关注，有人认为这是OpenAI为了生存而做出的无奈之举，也有人认为这是人工智能商业化的重要一步。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-19 20:56:59",
+      "original_language": "zh",
+      "original_title": "ChatGPT强行上马广告，因为OpenAI真的很烧钱",
+      "source_url": "https://www.qbitai.com/2026/01/370285.html",
+      "id": 46,
+      "track": "rss",
+      "original_source": "量子位"
+    },
+    {
+      "title": "最适合科研工作的模型是什么？Anthropic：斯坦福、MIT用Claude加速科研进程",
+      "summary": "近日，人工智能公司Anthropic发布了一篇博客文章，讨论了在科研工作中最适合使用的模型。文章指出，斯坦福大学和麻省理工学院（MIT）的研究人员正在使用Anthropic开发的Claude模型来加速他们的科研进程。Claude是一种基于GPT-3的模型，经过专门训练以适应科研工作，包括文献回顾、实验设计、数据分析等。文章还提到了Claude的一些特点，如强大的语言理解能力、能够处理复杂的研究问题以及生成高质量的文本输出。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-19 14:30:00",
+      "original_language": "zh",
+      "original_title": "最适合科研工作的模型是什么？Anthropic：斯坦福、MIT用Claude加速科研进程",
+      "source_url": "https://www.jiqizhixin.com/articles/2026-01-19-9",
+      "id": 47,
+      "track": "rss",
+      "original_source": "机器之心"
+    },
+    {
+      "title": "机器人终于「懂」家务了！伯克利MomaGraph让机器人像人一样做家务",
+      "summary": "机器人终于「懂」家务了！伯克利MomaGraph让机器人像人一样做家务。这项技术由加州大学伯克利分校的研究团队开发，旨在让机器人更好地理解和执行家务任务。通过模拟人类的行为和决策过程，MomaGraph能够帮助机器人更有效地完成清洁、整理和烹饪等家务活动。这项研究有望为家庭自动化领域带来革命性的变化。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-19 14:30:00",
+      "original_language": "zh",
+      "original_title": "机器人终于「懂」家务了！伯克利MomaGraph让机器人像人一样做家务",
+      "source_url": "https://www.jiqizhixin.com/articles/2026-01-19-6",
+      "id": 48,
+      "track": "rss",
+      "original_source": "机器之心"
+    },
+    {
+      "title": "评审用不用AI，作者说了算？ICML 2026全新评审政策出炉",
+      "summary": "ICML 2026会议宣布了一项全新的评审政策，该政策允许作者选择是否使用人工智能工具进行论文评审。这一决定旨在提高评审过程的效率和公正性，同时尊重作者的个人偏好。根据新政策，作者在提交论文时可以选择是否启用AI辅助评审。如果选择启用，AI将帮助筛选和评估论文，但最终决定权仍由人类评审团掌握。这一政策预计将在2026年的ICML会议上实施。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-19 00:00:00",
+      "original_language": "zh",
+      "original_title": "评审用不用AI，作者说了算？ICML 2026全新评审政策出炉",
+      "source_url": "https://www.jiqizhixin.com/articles/2026-01-19-7",
+      "id": 49,
+      "track": "rss",
+      "original_source": "机器之心"
+    },
+    {
       "title": "AVX-512：性能和可编程性的初步印象",
       "summary": "Comments\n\nAVX-512 是 Intel 的一项新指令集，旨在提高处理器的性能。在这篇博客中，作者分享了他们对 AVX-512 在性能和可编程性方面的初步印象。\n\n作者首先介绍了 AVX-512 的背景和目的，然后详细讨论了它在性能方面的提升，包括对浮点运算和整数运算的加速。作者还提到了 AVX-512 在可编程性方面的改进，例如新的指令和更灵活的编程模型。\n\n在性能测试部分，作者使用了一系列基准测试来评估 AVX-512 的性能，包括科学计算、图像处理和机器学习等应用。测试结果显示，AVX-512 在这些应用中都能提供显著的性能提升。\n\n最后，作者讨论了 AVX-512 的局限性和未来发展方向。他们指出，尽管 AVX-512 提供了显著的性能提升，但仍然存在一些挑战，例如内存带宽和编程复杂性。\n\n总体来说，作者对 AVX-512 的性能和可编程性表示了积极的态度，并认为它将为未来的处理器设计和软件开发带来新的机遇。",
       "is_legal": true,
@@ -571,9 +649,35 @@
       "original_language": "en",
       "original_title": "AVX-512: First Impressions on Performance and Programmability",
       "source_url": "https://shihab-shahriar.github.io//blog/2026/AVX-512-First-Impressions-on-Performance-and-Programmability/",
-      "id": 44,
+      "id": 50,
       "track": "rss",
       "original_source": "Hacker News"
+    },
+    {
+      "title": "45年数论猜想被GPT-5.2 Pro独立完成证明，陶哲轩：没犯任何错误",
+      "summary": "45年数论猜想被GPT-5.2 Pro独立完成证明，陶哲轩：没犯任何错误。评估AI工具真实成功率时，最大的统计偏差来自强烈的报告偏差。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-16 14:30:00",
+      "original_language": "zh",
+      "original_title": "45年数论猜想被GPT-5.2 Pro独立完成证明，陶哲轩：没犯任何错误",
+      "source_url": "https://www.qbitai.com/2026/01/370328.html",
+      "id": 51,
+      "track": "rss",
+      "original_source": "量子位"
+    },
+    {
+      "title": "安克创新与飞书联合发布“安克 AI 录音豆”，手指可握仅重10克",
+      "summary": "安克创新与飞书联合发布了一款名为“安克 AI 录音豆”的产品。这款产品由飞书提供AI软件和智能会议服务支持。其特点是可以被手指握持，重量仅为10克。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-16 14:30:00",
+      "original_language": "zh",
+      "original_title": "安克创新与飞书联合发布“安克 AI 录音豆” ,手指可握仅重10克",
+      "source_url": "https://www.qbitai.com/2026/01/370245.html",
+      "id": 52,
+      "track": "rss",
+      "original_source": "量子位"
     },
     {
       "title": "面向临床的心电图AI，上智院、复旦等提出CLEAR-HUG框架实现诊断性能与可解释性双突破",
@@ -584,7 +688,7 @@
       "original_language": "zh",
       "original_title": "面向临床的心电图AI，上智院、复旦等提出CLEAR-HUG框架实现诊断性能与可解释性双突破",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-16-10",
-      "id": 45,
+      "id": 53,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -597,7 +701,7 @@
       "original_language": "zh",
       "original_title": "神同步OpenAI！中国团队Deep Principle领衔发布LLMs for Science评测，引爆外网",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-16-9",
-      "id": 46,
+      "id": 54,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -610,7 +714,7 @@
       "original_language": "zh",
       "original_title": "美团又上新模型，8个Thinker齐开工，能顶个诸葛亮？",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-16-8",
-      "id": 47,
+      "id": 55,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -623,7 +727,7 @@
       "original_language": "zh",
       "original_title": "不用拍的广告片？深度拆解美团闪购AIGC营销新案例",
       "source_url": "https://www.qbitai.com/2026/01/369884.html",
-      "id": 48,
+      "id": 56,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -636,7 +740,7 @@
       "original_language": "zh",
       "original_title": "支付宝携手千问App、淘宝闪购等发布中国首个AI商业协议ACT",
       "source_url": "https://www.qbitai.com/2026/01/369878.html",
-      "id": 49,
+      "id": 57,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -649,7 +753,7 @@
       "original_language": "en",
       "original_title": "AI cloud startup Runpod hits $120M in ARR — and it started with a Reddit post  ",
       "source_url": "https://techcrunch.com/2026/01/16/ai-cloud-startup-runpod-hits-120m-in-arr-and-it-started-with-a-reddit-post/",
-      "id": 50,
+      "id": 58,
       "track": "rss",
       "original_source": "TechCrunch AI"
     },
@@ -662,7 +766,7 @@
       "original_language": "en",
       "original_title": "California AG sends Musk’s xAI a cease-and-desist order over sexual deepfakes",
       "source_url": "https://techcrunch.com/2026/01/16/california-ag-sends-musks-xai-a-cease-and-desist-order-over-sexual-deepfakes/",
-      "id": 51,
+      "id": 59,
       "track": "rss",
       "original_source": "TechCrunch AI"
     },
@@ -675,7 +779,7 @@
       "original_language": "en",
       "original_title": "ChatGPT users are about to get hit with targeted ads",
       "source_url": "https://techcrunch.com/2026/01/16/chatgpt-users-are-about-to-get-hit-with-targeted-ads/",
-      "id": 52,
+      "id": 60,
       "track": "rss",
       "original_source": "TechCrunch AI"
     },
@@ -688,7 +792,7 @@
       "original_language": "en",
       "original_title": "From OpenAI’s offices to a deal with Eli Lilly — how Chai Discovery became one of the flashiest names in AI drug development",
       "source_url": "https://techcrunch.com/2026/01/16/from-openais-offices-to-a-deal-with-eli-lilly-how-chai-discovery-became-one-of-the-flashiest-names-in-ai-drug-development/",
-      "id": 53,
+      "id": 61,
       "track": "rss",
       "original_source": "TechCrunch AI"
     },
@@ -701,7 +805,7 @@
       "original_language": "en",
       "original_title": "The AI lab revolving door spins ever faster",
       "source_url": "https://techcrunch.com/2026/01/15/the-ai-lab-revolving-door-spins-ever-faster/",
-      "id": 54
+      "id": 62
     },
     {
       "title": "Milk-V Titan：售价329美元的8核心64位RISC-V mini-ITX主板，配备PCIe Gen4x16插槽",
@@ -712,7 +816,7 @@
       "original_language": "en",
       "original_title": "Milk-V Titan: A $329 8-Core 64-bit RISC-V mini-ITX board with PCIe Gen4x16",
       "source_url": "https://www.cnx-software.com/2026/01/12/milk-v-titan-a-329-octa-core-64-bit-risc-v-mini-itx-motherboard-with-a-pcie-gen4-x16-slot/",
-      "id": 55,
+      "id": 63,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -725,12 +829,12 @@
       "original_language": "en",
       "original_title": "The recurring dream of replacing developers",
       "source_url": "https://www.caimito.net/en/blog/2025/12/07/the-recurring-dream-of-replacing-developers.html",
-      "id": 56,
+      "id": 64,
       "track": "rss",
       "original_source": "Hacker News"
     },
     {
-      "id": 57,
+      "id": 65,
       "title": "示例新闻：全球AI技术取得重大突破",
       "summary": "这是一个示例新闻数据。真实的新闻将通过 GitHub Actions 自动采集和更新。",
       "original_title": "Example: Global AI Technology Makes Major Breakthrough",
@@ -749,7 +853,7 @@
       "original_language": "en",
       "original_title": "The Check Up with Google",
       "source_url": "https://blog.google/innovation-and-ai/technology/health/google-health-check-up-2025/",
-      "id": 58
+      "id": 66
     },
     {
       "title": "十问2026中国电影",
@@ -760,7 +864,7 @@
       "original_language": "zh",
       "original_title": "十问2026中国电影",
       "source_url": "http://www.huxiu.com/article/4826481.html?f=wangzhan",
-      "id": 59
+      "id": 67
     },
     {
       "title": "腾讯云ADP国内首发AI原生Widget：一句话秒级生成交互组件，重塑Agent使用体验",
@@ -771,7 +875,7 @@
       "original_language": "zh",
       "original_title": "腾讯云ADP国内首发AI原生Widget：一句话秒级生成交互组件，重塑Agent使用体验",
       "source_url": "https://www.qbitai.com/2026/01/370069.html",
-      "id": 60,
+      "id": 68,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -784,7 +888,7 @@
       "original_language": "zh",
       "original_title": "滴滴给我发了个赛博助理，专管出行的那种",
       "source_url": "https://www.qbitai.com/2026/01/369738.html",
-      "id": 61,
+      "id": 69,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -797,7 +901,7 @@
       "original_language": "en",
       "original_title": "ClickHouse acquires Langfuse",
       "source_url": "https://langfuse.com/blog/joining-clickhouse",
-      "id": 62,
+      "id": 70,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -810,7 +914,7 @@
       "original_language": "en",
       "original_title": "The AI healthcare gold rush is here",
       "source_url": "https://techcrunch.com/video/the-ai-healthcare-gold-rush-is-here/",
-      "id": 63,
+      "id": 71,
       "track": "rss",
       "original_source": "TechCrunch AI"
     },
@@ -823,7 +927,7 @@
       "original_language": "en",
       "original_title": "OpenAI and Anthropic are making their play for healthcare, and we’re not surprised",
       "source_url": "https://techcrunch.com/podcast/openai-and-anthropic-are-making-their-play-for-healthcare-and-were-not-surprised/",
-      "id": 64,
+      "id": 72,
       "track": "rss",
       "original_source": "TechCrunch AI"
     },
@@ -836,7 +940,7 @@
       "original_language": "en",
       "original_title": "Thinking Machines Cofounder’s Office Relationship Preceded His Termination",
       "source_url": "https://www.wired.com/story/thinking-machines-lab-cofounder-office-relationship-firing-openai/",
-      "id": 65,
+      "id": 73,
       "track": "rss",
       "original_source": "Wired AI"
     },
@@ -849,7 +953,7 @@
       "original_language": "en",
       "original_title": "Ads Are Coming to ChatGPT. Here’s How They’ll Work",
       "source_url": "https://www.wired.com/story/openai-testing-ads-us/",
-      "id": 66,
+      "id": 74,
       "track": "rss",
       "original_source": "Wired AI"
     },
@@ -862,7 +966,7 @@
       "original_language": "en",
       "original_title": "Inside OpenAI’s Raid on Thinking Machines Lab",
       "source_url": "https://www.wired.com/story/inside-openai-raid-on-thinking-machines-lab/",
-      "id": 67,
+      "id": 75,
       "track": "rss",
       "original_source": "Wired AI"
     },
@@ -875,7 +979,7 @@
       "original_language": "en",
       "original_title": "Elon Musk’s Grok ‘Undressing’ Problem Isn’t Fixed",
       "source_url": "https://www.wired.com/story/elon-musks-grok-undressing-problem-isnt-fixed/",
-      "id": 68,
+      "id": 76,
       "track": "rss",
       "original_source": "Wired AI"
     },
@@ -888,7 +992,7 @@
       "original_language": "en",
       "original_title": "OpenAI Invests in Sam Altman’s New Brain-Tech Startup Merge Labs",
       "source_url": "https://www.wired.com/story/openai-invests-in-sam-altmans-new-brain-tech-startup-merge-labs/",
-      "id": 69,
+      "id": 77,
       "track": "rss",
       "original_source": "Wired AI"
     },
@@ -901,7 +1005,7 @@
       "original_language": "en",
       "original_title": "Hands On With Anthropic’s Claude Cowork, an AI Agent That Actually Works",
       "source_url": "https://www.wired.com/story/anthropic-claude-cowork-agent/",
-      "id": 70,
+      "id": 78,
       "track": "rss",
       "original_source": "Wired AI"
     },
@@ -914,7 +1018,7 @@
       "original_language": "unknown",
       "original_title": "An Elizabethan mansion's secrets for staying warm",
       "source_url": "https://www.bbc.com/future/article/20260116-an-elizabethan-mansions-secrets-for-staying-warm",
-      "id": 71,
+      "id": 79,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -927,7 +1031,7 @@
       "original_language": "unknown",
       "original_title": "Command-line Tools can be 235x Faster than your Hadoop Cluster (2014)",
       "source_url": "https://adamdrake.com/command-line-tools-can-be-235x-faster-than-your-hadoop-cluster.html",
-      "id": 72,
+      "id": 80,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -940,7 +1044,7 @@
       "original_language": "unknown",
       "original_title": "Gaussian Splatting – A$AP Rocky \"Helicopter\" music video",
       "source_url": "https://radiancefields.com/a-ap-rocky-releases-helicopter-music-video-featuring-gaussian-splatting",
-      "id": 73,
+      "id": 81,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -953,7 +1057,7 @@
       "original_language": "unknown",
       "original_title": "Breaking the Zimmermann Telegram (2018)",
       "source_url": "https://medium.com/lapsed-historian/breaking-the-zimmermann-telegram-b34ed1d73614",
-      "id": 74,
+      "id": 82,
       "track": "rss",
       "original_source": "Hacker News"
     }
