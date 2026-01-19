@@ -1,7 +1,7 @@
 {
   "category": "中国AI动态",
-  "last_update": "2026-01-19 10:26:08 (北京时间)",
-  "total_count": 39,
+  "last_update": "2026-01-19 13:17:30 (北京时间)",
+  "total_count": 46,
   "news": [
     {
       "title": "ARR达2.4亿美元，可灵能带快手起飞吗？",
@@ -132,6 +132,58 @@
       "original_source": "量子位"
     },
     {
+      "title": "从技术自信到产业爆发：2025十大趋势，见证中国产业的「破局与共生」",
+      "summary": "技术突破带来了一波又一波的机会，有人抓住了AI、低空经济的风口，实现了跨越式发展；也有人困在传统产业转型的阵痛里，还在艰难摸索。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-19 13:08:29",
+      "original_language": "zh",
+      "original_title": "从技术自信到产业爆发：2025十大趋势，见证中国产业的「破局与共生」",
+      "source_url": "https://www.tmtpost.com/7847492.html",
+      "id": 11,
+      "track": "rss",
+      "original_source": "钛媒体"
+    },
+    {
+      "title": "AI手搓的Cowork“李鬼”版跟“李逵”一样能打，还免费？",
+      "summary": "AI已经可以自己构建AI，AGI的时代也不远了。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-19 13:08:16",
+      "original_language": "zh",
+      "original_title": "AI手搓的Cowork“李鬼”版跟“李逵”一样能打，还免费？",
+      "source_url": "https://www.tmtpost.com/7847558.html",
+      "id": 12,
+      "track": "rss",
+      "original_source": "钛媒体"
+    },
+    {
+      "title": "打造最低幻觉率医学AI助手 阿里健康上线“氢离子”",
+      "summary": "阿里健康宣布上线一款名为“氢离子”的医学AI助手，旨在提供最低的幻觉率。该助手通过先进的算法和大数据分析，能够为医生提供准确的诊断建议，提高医疗服务的质量和效率。新闻链接：https://www.qbitai.com/2026/01/370192.html",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-19 12:58:23",
+      "original_language": "zh",
+      "original_title": "打造最低幻觉率医学AI助手 阿里健康上线“氢离子”",
+      "source_url": "https://www.qbitai.com/2026/01/370192.html",
+      "id": 13,
+      "track": "rss",
+      "original_source": "量子位"
+    },
+    {
+      "title": "李飞飞的World Labs联手光轮智能，具身智能进入评测驱动时代！",
+      "summary": "李飞飞的World Labs与光轮智能宣布合作，共同推动具身智能领域的发展。双方将利用评测驱动的方式，推动具身智能技术的进步和应用。这一合作标志着具身智能领域进入了一个新的发展阶段。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-19 12:58:11",
+      "original_language": "zh",
+      "original_title": "李飞飞的World Labs联手光轮智能，具身智能进入评测驱动时代！",
+      "source_url": "https://www.qbitai.com/2026/01/370217.html",
+      "id": 14,
+      "track": "rss",
+      "original_source": "量子位"
+    },
+    {
       "title": "飞书史上第一次硬件合作，和安克创新做了一款「AI录音豆」",
       "summary": "《智能涌现》获悉，飞书将与安克创新联合发布一款名为“AI录音豆”的智能录音硬件。从我们获得的资料来看，这是一款重量仅10克的圆形设备，外观呈豆状，机身搭载双MEMS麦克风阵列，整机配合充电舱重量约48克。产品支持蓝牙与Wi-Fi两种传输模式，主打无感佩戴和随时录音。自2025年海外创业公司Plaud凭借AI录音卡片产品打开市场后，国内已有多家厂商跟进推出类似产品，但大厂亲自下场做AI录音硬件的案例并不多见。从2017年成立以来，飞书从未推出过硬件产品。多位接近飞书的人士向36氪表示，这款AI录音豆在飞书内部属于探索性项目，飞书产品团队负责软件部分研发工作。从2024年开始，市面上也出现不少AI硬件的创新形态——录音卡片、录音豆、AI便携相机、AI眼镜等产品相继涌现。这些产品都试图在手机之外，找到一个更贴近用户日常场景的AI交互入口。飞书和安克创新并没有跟随市场主流的卡片形态，而是选择了更小巧的“豆”状设计，这是一个有意的差异化选择。卡片形态的优势在于，可以贴合手机背面、利用磁吸，但代价是体积更大、佩戴场景比较受限；豆状设计更像近年流行的AI陪伴硬件，强调无感佩戴和全天候随身。比如，用户可将其夹在衣领、口袋边缘，或通过磁吸配件固定在手机背面。这种设计降低了录音的仪式感，让用户在日常会议、客户拜访、甚至通勤路上都能随时开启录音，而不必专门掏出手机打开App。飞书x安克创新AI录音豆另一个值得关注的设计是，AI录音豆支持实时纪要功能，相较于其尺寸而言，能够做到这点并不容易。用户能够在录音中实时查看字幕和AI总结，并且支持柱状图等多种图例样式。这样的设计可以让设备更快捷、更灵活地获取更多上下文。《智能涌现》了解到，AI录音豆配合充电舱可实现超过32小时的总续航，存储空间为8GB，可保存约250小时音频，并具备快充能力——充电10分钟可录音2小时。这些参数在同类产品中处于主流水平。争夺更近的上下文入口2025年以来，随着基础模型，尤其是多模态能力的进一步提升，让语音交互领域迎来新一波的创业热潮。在国内，讯飞、搜狗等老牌玩家纷纷升级AI语音输入法，字节旗下的豆包也推出豆包输入法，将大模型能力嵌入日常输入场景。另外，像Remio等AI应用产品，也主打让用户无感地管理自己办公或生活场景的上下文。无论是AI语音输入法还是AI硬件，这些创业趋势都指向同一个方向：争夺成为用户AI助手的记忆入口——谁能获取更多的用户上下文数据，谁就能提供更个性化的AI服务，进而构建更深的产品壁垒。“智能涌现”了解到，AI录音豆会覆盖从会中到会后的全流程：会议进行时，用户可以实时看到AI生成的要点总结；会议结束后，系统能快速输出包含发言角色、待办事项和关键决策的完整纪要。并且，所有录音内容会自动沉淀至飞书知识库，AI会自动完成从语音到文字、从文字到结构化信息的转化。用户可以通过AI助手以对话方式对历史内容进行检索、提问和二次创作。例如，用户可以直接问AI“上周和某客户的会议中，对方提到了哪些顾虑”，系统会从录音记录中提取相关信息并给出回答。这种全流程覆盖，会大幅降低用户的后处理成本。飞书的产品体系脱胎于字节跳动这个高知识密度的组织。2017年才正式推出的飞书，在起步之中，选择了差异化路线——从互联网高新技术行业切入，把文档、会议和转写等等功能做得足够好，赚取了第一波产品口碑。这一策略行之有效，让飞书在AI时代同样拥有了不错的口碑和产品体感。一个例子是，飞书在AI Native公司中渗透率颇高，比如DeepSeek、MiniMax、月之暗面、智谱AI等头部大模型公司，创业初期就都选择了飞书作为内部协作工具。互联网等高新技术行业，恰恰也是会议密集、文档繁多的知识密集型行业，这与AI录音硬件的目标用户高度重合。从这个角度看，飞书入局AI硬件也是意料之中、合情合理的一步，能够和飞书文档、飞书多维表格这样的拳头产品，更好地协同起来。这些客户的使用习惯和痛点，直接决定了录音豆的产品逻辑——例如会议纪要需要区分发言人、待办事项需要自动提取、历史记录需要可被检索，这些都是飞书在服务这类客户时最常见的需求。对AI录音设备这个赛道，目前的一个市场共识是：类似的录音设备，硬件层面可以在较短时间内被复刻，但产品体验的差距更多来自工程层面的持续打磨。这包括对不同办公场景的洞察，比如会议纪要模板的不断优化、以及后处理流程中各种细节的调校，这些工程化能力需要长期积累。在这个维度上，飞书也会有一定优势。比如，AI录音豆搭载的是字节跳动自研的豆包大模型，后者在多模态理解能力上处于行业领先位置，识别准确率高低和对复杂对话的理解能力，又会直接影响到转写精准度和智能纪要的生成质量，这会是创业公司难以在短期内追平的技术壁垒。",
       "is_legal": true,
@@ -140,7 +192,7 @@
       "original_language": "zh",
       "original_title": "飞书史上第一次硬件合作，和安克创新做了一款「AI录音豆」",
       "source_url": "https://36kr.com/p/3645215315267202?f=rss",
-      "id": 11,
+      "id": 15,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -153,7 +205,7 @@
       "original_language": "zh",
       "original_title": "马斯克最大算力中心建成了：全球首个GW级超算集群，再创世界纪录",
       "source_url": "https://www.qbitai.com/2026/01/370077.html",
-      "id": 12,
+      "id": 16,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -166,7 +218,20 @@
       "original_language": "zh",
       "original_title": "机器人终于能用明白洗碗机了｜UC伯克利新研究",
       "source_url": "https://www.qbitai.com/2026/01/370136.html",
-      "id": 13,
+      "id": 17,
+      "track": "rss",
+      "original_source": "量子位"
+    },
+    {
+      "title": "MIT新研究：架构0改动，让大模型解锁千万级上下文",
+      "summary": "大模型还能递归读上下文？？\n\n近日，麻省理工学院（MIT）的研究团队发布了一项新的研究成果，该研究在不改变现有架构的情况下，使得大型语言模型能够处理千万级长度的上下文。这一突破性的进展，为大型语言模型在处理复杂任务时的能力提供了新的可能性。\n\n研究人员通过改进模型内部的注意力机制，使得模型能够有效地捕捉到长距离的依赖关系。这种改进不仅提高了模型处理长文本的能力，而且没有对模型的架构进行任何改动，从而降低了实现的复杂性。\n\n该研究已经在预训练模型上进行了测试，结果显示，在处理长文本任务时，改进后的模型表现优于未改进的模型。这一成果对于推动大型语言模型在自然语言处理领域的应用具有重要意义。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-16 14:30:00",
+      "original_language": "zh",
+      "original_title": "真·开外挂！MIT新研究：架构0改动，让大模型解锁千万级上下文",
+      "source_url": "https://www.qbitai.com/2026/01/370196.html",
+      "id": 18,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -179,9 +244,22 @@
       "original_language": "zh",
       "original_title": "科大讯飞推出SuperAgent应用框架，驱动营销关系演进至B2A2C丨最前线",
       "source_url": "https://36kr.com/p/3642948995862405?f=rss",
-      "id": 14,
+      "id": 19,
       "track": "rss",
       "original_source": "36氪"
+    },
+    {
+      "title": "第二家2万亿AI独角兽即将诞生！微软英伟达红杉押注",
+      "summary": "智东西 作者 | 陈骏达 编辑 | 李水青 智东西1月19日消息，昨天，据英国《金融时报》报道，美国AI超级独角兽Anthropic正在进行一轮总额超过250亿美元（约合人民币1742.1亿元）的融资。本轮融资预计将使其估值提升至约3500亿美元（约合人民币24389.0亿元），较去年9月的1700亿美元（约合人民币11846.1亿元）估值实现翻倍。此轮融资的重要部分将来自微软与英伟达此前已宣布的投资，总融资规模则比上次宣布时高了100亿美元。去年11月，微软分别承诺向Anthropic投资50亿美元（约合人民币348.4亿元）和100亿美元（约合人民币696.8亿元）。此外，美国知名风险投资机构红杉资本计划首次投资Anthropic，并且很有可能会“下重注”，与新加坡主权财富基金GIC和美国投资机构Coatue领投Anthropic的此轮融资。红杉此时入局Anthropic，代表着其在AI领域投资逻辑的变化。此前，风投并不会同时投资同一领域的竞争对手，但是AI领域的巨大财务机会正在改变这一做法。此轮融资中，风险投资机构及其他投资者将向Anthropic投入至少100亿美元。其中，GIC、Coatue两家将会分别投入15亿美元，红杉的投资规模尚未披露。目前，这笔融资的谈判仍在进行中，最终金额仍可能发生变化。Anthropic尚未决定引入哪些投资者，但预计本轮融资将在未来几周内完成。Anthropic进行最新一轮融资之际，也迎来一段高速增长期，其年化收入（ARR）已从一年前的10亿美元，增长至如今的100亿美元。过去1年中，Anthropic在模型和产品侧都做出了广受认可的成绩。Anthropic的Claude系列模型持续迭代，由3.7版本升级至最新的4.5版本，编程能力、Agent能力都有明显提升，能在生产力场景更为端到端、长时间地完成复杂任务。在其专精的编程领域，Claude虽然并不总是位居榜单第一，但在开发者群体里的口碑较好。产品侧，Anthropic做出了爆款产品Claude Code。2025年2月，Claude Code随着Claude 3.7 Sonnet一同发布，此后迅速成为开发者圈内的爆款。作为一款能自动执行工程任务、读写代码库、运行测试的AI编程助手，Claude Code采用了开发者熟悉的命令行界面，还在上下文持久化、Agent能力上持续进步，体验不断优化。今年1月，Anthropic还推出了Claude Code的图形化UI版本——Cowork。如今，更多非技术背景的人员也可以使用到Claude Code的Agent能力，完成整理文件、抓取网页等非编程类任务。此外，Anthropic也试图定义Agent这一赛道的开放生态。2025年10月，Anthropic推出了Agent Skills概念，并在同年12月将其作为开放标准正式发布，试图让智能体具备类似“技能包”的模块能力，这些技能可以被封装、复用、共享和组合。Agent Skills本质上是由指令、资源和可选脚本组成的文件夹式结构，Claude会根据当前任务自动识别并按需加载相关技能，从而实现可重复、可组合的专业化任务执行能力，而不是每次都靠提示词驱动。Anthropic正在为IPO做准备，最早可能在今年进行。Anthropic已经聘请律师事务所开展前期准备工作，并与多家投行就上市事宜进行了初步接触。结语：Anthropic差异化路线获市场认可 从本轮融资的规模、参与方阵容以及估值跃升幅度来看，资本市场显然认可Anthropic的战略价值。与OpenAI更强调通用对话、C端流量的路径不同，Anthropic的重心更多放在to B市场，在企业级生产力工具、编程与代码生成、安全可控的模型能力等方向。100亿美元的年化收入，也从侧面印证了这一选择的商业可行性。由此可见，AI并不只是爆款产品的竞赛，也可以是嵌入企业工作流、提升效率、创造长期价值的较量。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2025-01-19 14:30:00",
+      "original_language": "zh",
+      "original_title": "第二家2万亿AI独角兽即将诞生！微软英伟达红杉押注",
+      "source_url": "https://zhidx.com/p/529430.html",
+      "id": 20,
+      "track": "rss",
+      "original_source": "智东西"
     },
     {
       "title": "【数智周报】 谷歌DeepMind CEO：中国的AI模型仅落后美国几个月；DeepSeek开源相关记忆模块Engram；微软在人工智能上的支出将达到5亿美元；美国放宽对英伟达H200芯片出口中国的管制",
@@ -192,7 +270,7 @@
       "original_language": "zh",
       "original_title": "【数智周报】 谷歌DeepMind CEO：中国的AI模型仅落后美国几个月；DeepSeek开源相关记忆模块Engram；微软在人工智能上的支出将达到5亿美元；美国放宽对英伟达H200芯片出口中国的管制",
       "source_url": "https://www.tmtpost.com/7845741.html",
-      "id": 15,
+      "id": 21,
       "track": "rss",
       "original_source": "钛媒体"
     },
@@ -205,7 +283,7 @@
       "original_language": "zh",
       "original_title": "智谱1000亿 ,  清华赚翻了",
       "source_url": "https://36kr.com/p/3644717569625990?f=rss",
-      "id": 16,
+      "id": 22,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -218,7 +296,7 @@
       "original_language": "zh",
       "original_title": "氪星晚报｜西贝公关副总裁宋宣已离职；大麦娱乐宣布进军博物馆赛道；叮咚买菜江苏盐城开仓",
       "source_url": "https://36kr.com/p/3641990475140738?f=rss",
-      "id": 17,
+      "id": 23,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -231,7 +309,7 @@
       "original_language": "zh",
       "original_title": "一笔交易，市值涨了70亿",
       "source_url": "https://36kr.com/p/3644606458252930?f=rss",
-      "id": 18,
+      "id": 24,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -244,7 +322,7 @@
       "original_language": "zh",
       "original_title": "OpenAI正式进军脑机接口，投了自家CEO阿尔特曼的新公司",
       "source_url": "https://zhidx.com/p/529327.html",
-      "id": 19,
+      "id": 25,
       "track": "rss",
       "original_source": "智东西"
     },
@@ -257,7 +335,7 @@
       "original_language": "zh",
       "original_title": "iQOO中端机用上豆包手机同款“AI操控”，搭第五代骁龙8旗舰芯，2399元起",
       "source_url": "https://zhidx.com/p/529205.html",
-      "id": 20,
+      "id": 26,
       "track": "rss",
       "original_source": "智东西"
     },
@@ -270,7 +348,7 @@
       "original_language": "zh",
       "original_title": "谷歌Gemini重磅升级，上线”苹果智能“同款功能，手机个人信息全能读",
       "source_url": "https://zhidx.com/p/529157.html",
-      "id": 21,
+      "id": 27,
       "track": "rss",
       "original_source": "智东西"
     },
@@ -283,7 +361,7 @@
       "original_language": "zh",
       "original_title": "ChatGPT发了个“谷歌翻译”，但我只觉得多余...",
       "source_url": "https://zhidx.com/p/529124.html",
-      "id": 22,
+      "id": 28,
       "track": "rss",
       "original_source": "智东西"
     },
@@ -296,7 +374,7 @@
       "original_language": "zh",
       "original_title": "联发科再发双芯，3nm天玑9500s来了，小米、vivo、OPPO首批发布",
       "source_url": "https://zhidx.com/p/529107.html",
-      "id": 23,
+      "id": 29,
       "track": "rss",
       "original_source": "智东西"
     },
@@ -309,7 +387,7 @@
       "original_language": "zh",
       "original_title": "今天，阿里园区被AI点的奶茶包围了",
       "source_url": "https://zhidx.com/p/528993.html",
-      "id": 24,
+      "id": 30,
       "track": "rss",
       "original_source": "智东西"
     },
@@ -322,7 +400,7 @@
       "original_language": "zh",
       "original_title": "头部物流公司拿下浙江投资，要用AI完成中大件门到门履约｜36氪首发",
       "source_url": "https://36kr.com/p/3641918009937540?f=rss",
-      "id": 25,
+      "id": 31,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -335,7 +413,7 @@
       "original_language": "unknown",
       "original_title": "9点1氪丨贾国龙罗永浩微博被禁言，罗永浩朋友圈最新发声；李湘多平台账号被禁止关注；特朗普拿到诺贝尔和平奖奖章",
       "source_url": "https://36kr.com/p/3642816248172161?f=rss",
-      "id": 26,
+      "id": 32,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -348,7 +426,7 @@
       "original_language": "unknown",
       "original_title": "中国的AI应用创业者正在换道领跑 ｜ AI火花开放麦",
       "source_url": "https://36kr.com/p/3641730074300038?f=rss",
-      "id": 27,
+      "id": 33,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -361,7 +439,7 @@
       "original_language": "unknown",
       "original_title": "B站也推出了新的广告+AI工具，未来会从“开环”走向“闭环”",
       "source_url": "https://36kr.com/p/3640520932560006?f=rss",
-      "id": 28,
+      "id": 34,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -374,7 +452,7 @@
       "original_language": "unknown",
       "original_title": "两年市值翻了三倍，运动品牌最意外的赢家出现了",
       "source_url": "https://36kr.com/p/3640240794225793?f=rss",
-      "id": 29,
+      "id": 35,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -387,7 +465,7 @@
       "original_language": "unknown",
       "original_title": "千问诞生后，负责人吴嘉首次回应15个关键问题",
       "source_url": "https://36kr.com/p/3641479608881030?f=rss",
-      "id": 30,
+      "id": 36,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -400,7 +478,7 @@
       "original_language": "unknown",
       "original_title": "裁员50%后，他靠AI编程大逆袭！ARR破亿，估值直冲600亿",
       "source_url": "https://zhidx.com/p/529226.html",
-      "id": 31,
+      "id": 37,
       "track": "rss",
       "original_source": "智东西"
     },
@@ -413,7 +491,7 @@
       "original_language": "zh",
       "original_title": "或达3000万副！Meta猛增AI眼镜产能，苹果入局小扎有点怕？",
       "source_url": "https://zhidx.com/p/529070.html",
-      "id": 32,
+      "id": 38,
       "track": "rss",
       "original_source": "智东西"
     },
@@ -426,7 +504,7 @@
       "original_language": "zh",
       "original_title": "2026，AI音乐跃迁元年？",
       "source_url": "https://www.tmtpost.com/7846436.html",
-      "id": 33,
+      "id": 39,
       "track": "rss",
       "original_source": "钛媒体"
     },
@@ -439,7 +517,7 @@
       "original_language": "zh",
       "original_title": "仅用一周时间，谷歌就让OpenAI认清现实",
       "source_url": "https://www.tmtpost.com/7846324.html",
-      "id": 34,
+      "id": 40,
       "track": "rss",
       "original_source": "钛媒体"
     },
@@ -452,7 +530,7 @@
       "original_language": "unknown",
       "original_title": "猎头黄仁勋的2025：高管从巨头挖，干活钟爱华人创业团队",
       "source_url": "https://36kr.com/p/3644499135221632?f=rss",
-      "id": 35,
+      "id": 41,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -465,7 +543,7 @@
       "original_language": "unknown",
       "original_title": "80后最爱喝的啤酒 ,  要破产了？",
       "source_url": "https://36kr.com/p/3644485919395718?f=rss",
-      "id": 36,
+      "id": 42,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -478,7 +556,7 @@
       "original_language": "unknown",
       "original_title": "8300亿美金独角兽不得不试水“广告”，AI讲不出新故事？",
       "source_url": "https://36kr.com/p/3644462576995970?f=rss",
-      "id": 37,
+      "id": 43,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -491,7 +569,7 @@
       "original_language": "unknown",
       "original_title": "新能源车的“硬核”战事，2026年卷向何处？",
       "source_url": "https://36kr.com/p/3644455846514304?f=rss",
-      "id": 38,
+      "id": 44,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -504,9 +582,22 @@
       "original_language": "unknown",
       "original_title": "前第四范式总裁创业，用营销AI Agent解构内容社交平台的“营销玄学”，已获千万元融资",
       "source_url": "https://36kr.com/p/3644947937972103?f=rss",
-      "id": 39,
+      "id": 45,
       "track": "rss",
       "original_source": "36氪"
+    },
+    {
+      "title": "全球首个负载100斤的真实持续干活机器人，来自银河通用",
+      "summary": "银河通用公司推出全球首个负载100斤的真实持续干活机器人，标志着具身智能正式步入工业级重载时代。该机器人具备高负载能力和持续工作能力，适用于各种工业场景。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "null",
+      "original_language": "zh",
+      "original_title": "全球首个负载100斤的真实持续干活机器人，来自银河通用",
+      "source_url": "https://www.qbitai.com/2026/01/370169.html",
+      "id": 46,
+      "track": "rss",
+      "original_source": "量子位"
     }
   ]
 }
