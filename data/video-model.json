@@ -1,7 +1,7 @@
 {
   "category": "视频模型动态",
-  "last_update": "2026-01-19 13:31:27 (北京时间)",
-  "total_count": 23,
+  "last_update": "2026-01-19 17:47:39 (北京时间)",
+  "total_count": 29,
   "news": [
     {
       "title": "飞书联手安克造了颗AI豆，你的「外脑」仅重 10 克",
@@ -295,6 +295,84 @@
       "original_title": "全球首个负载100斤的真实持续干活机器人，来自银河通用",
       "source_url": "https://www.qbitai.com/2026/01/370169.html",
       "id": 23,
+      "track": "rss",
+      "original_source": "量子位"
+    },
+    {
+      "title": "45年数论猜想被GPT-5.2 Pro独立完成证明，陶哲轩：没犯任何错误",
+      "summary": "45年数论猜想被GPT-5.2 Pro独立完成证明，陶哲轩：没犯任何错误。评估AI工具真实成功率时，最大的统计偏差来自强烈的报告偏差。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-15 00:00:00",
+      "original_language": "zh",
+      "original_title": "45年数论猜想被GPT-5.2 Pro独立完成证明，陶哲轩：没犯任何错误",
+      "source_url": "https://www.qbitai.com/2026/01/370328.html",
+      "id": 24,
+      "track": "rss",
+      "original_source": "量子位"
+    },
+    {
+      "title": "ChatGPT强行上马广告，因为OpenAI真的很烧钱",
+      "summary": "ChatGPT强行上马广告，因为OpenAI真的很烧钱。近日，OpenAI宣布将推出付费订阅服务，并计划在ChatGPT中插入广告。这一决定引发了业界的广泛关注和讨论。据悉，OpenAI的运营成本极高，而广告收入将成为其重要的资金来源。这一举措也引发了用户对于隐私和用户体验的担忧。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "null",
+      "original_language": "zh",
+      "original_title": "ChatGPT强行上马广告，因为OpenAI真的很烧钱",
+      "source_url": "https://www.qbitai.com/2026/01/370285.html",
+      "id": 25,
+      "track": "rss",
+      "original_source": "量子位"
+    },
+    {
+      "title": "李飞飞的World Labs联手光轮智能，具身智能进入评测驱动时代！",
+      "summary": "李飞飞的World Labs与光轮智能合作，标志着具身智能领域进入评测驱动的新时代。这一合作旨在通过评测来推动具身智能技术的进步和应用。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-19 17:31:54",
+      "original_language": "zh",
+      "original_title": "李飞飞的World Labs联手光轮智能，具身智能进入评测驱动时代！",
+      "source_url": "https://www.qbitai.com/2026/01/370217.html",
+      "id": 26,
+      "track": "rss",
+      "original_source": "量子位"
+    },
+    {
+      "title": "加速推进“Robot for AI”战略落地，动易科技完成亿元级天使++轮融资，天使轮累计融资额超2亿元",
+      "summary": "动易科技近日宣布，已完成亿元级天使++轮融资。此次融资将加速公司“Robot for AI”战略的落地。截至目前，动易科技天使轮累计融资额已超过2亿元人民币。具体投资方信息未公开。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-19 17:31:37",
+      "original_language": "zh",
+      "original_title": "加速推进“Robot for AI”战略落地，动易科技完成亿元级天使++轮融资，天使轮累计融资额超2亿元",
+      "source_url": "https://www.qbitai.com/2026/01/370277.html",
+      "id": 27,
+      "track": "rss",
+      "original_source": "量子位"
+    },
+    {
+      "title": "安克创新与飞书联合发布“安克 AI 录音豆”，手指可握仅重10克",
+      "summary": "安克创新与飞书联合发布了一款名为“安克 AI 录音豆”的新产品。这款产品由飞书提供AI软件和智能会议服务支持。安克 AI 录音豆体积小巧，可以轻松握在手指之间，重量仅为10克。该产品旨在为用户提供便捷的录音和会议记录功能。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-16 14:30:00",
+      "original_language": "zh",
+      "original_title": "安克创新与飞书联合发布“安克 AI 录音豆” ,手指可握仅重10克",
+      "source_url": "https://www.qbitai.com/2026/01/370245.html",
+      "id": 28,
+      "track": "rss",
+      "original_source": "量子位"
+    },
+    {
+      "title": "MIT新研究：架构0改动，让大模型解锁千万级上下文",
+      "summary": "大模型还能递归读上下文？？\n\nMIT的一项新研究引起了广泛关注。这项研究在不修改现有架构的情况下，成功使大型模型能够处理千万级上下文。这一突破性进展为自然语言处理领域带来了新的可能性。\n\n研究团队通过创新的方法，使得模型能够有效地处理长文本，从而实现更深入的上下文理解。这一成果对于提高机器翻译、文本摘要等应用的性能具有重要意义。\n\n据悉，这项研究已经发表在顶级学术期刊上，并引起了业界的广泛关注。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-16 14:30:00",
+      "original_language": "zh",
+      "original_title": "真·开外挂！MIT新研究：架构0改动，让大模型解锁千万级上下文",
+      "source_url": "https://www.qbitai.com/2026/01/370196.html",
+      "id": 29,
       "track": "rss",
       "original_source": "量子位"
     }
