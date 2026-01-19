@@ -1,7 +1,7 @@
 {
   "category": "AI编程工具进化",
-  "last_update": "2026-01-19 17:36:23 (北京时间)",
-  "total_count": 47,
+  "last_update": "2026-01-19 21:57:53 (北京时间)",
+  "total_count": 50,
   "news": [
     {
       "title": "我多年前就放弃了编程。AI让我重拾热情",
@@ -607,6 +607,45 @@
       "original_title": "安克创新与飞书联合发布“安克 AI 录音豆” ,手指可握仅重10克",
       "source_url": "https://www.qbitai.com/2026/01/370245.html",
       "id": 47,
+      "track": "rss",
+      "original_source": "量子位"
+    },
+    {
+      "title": "两种智能的概念",
+      "summary": "评论",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-19 21:46:12",
+      "original_language": "en",
+      "original_title": "Two Concepts of Intelligence",
+      "source_url": "https://cacm.acm.org/blogcacm/two-concepts-of-intelligence/",
+      "id": 48,
+      "track": "rss",
+      "original_source": "Hacker News"
+    },
+    {
+      "title": "Vm0",
+      "summary": "Comments",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-19 21:46:02",
+      "original_language": "en",
+      "original_title": "Vm0",
+      "source_url": "https://github.com/vm0-ai/vm0",
+      "id": 49,
+      "track": "rss",
+      "original_source": "Hacker News"
+    },
+    {
+      "title": "哈工大系闯出人形机器人黑马：成立不到一年，全栈开源3m/s原型机，小米商汤都投了",
+      "summary": "哈工大系的人形机器人初创公司成立不到一年，已经推出了全栈开源的3m/s原型机。该公司在硬件图纸、算法和避坑指南方面都有所涉猎。小米和商汤等知名企业已经对其进行了投资。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-19 21:44:59",
+      "original_language": "zh",
+      "original_title": "哈工大系闯出人形机器人黑马：成立不到一年，全栈开源3m/s原型机，小米商汤都投了",
+      "source_url": "https://www.qbitai.com/2026/01/370355.html",
+      "id": 50,
       "track": "rss",
       "original_source": "量子位"
     }
