@@ -1,7 +1,7 @@
 {
   "category": "中国AI动态",
-  "last_update": "2026-01-19 21:17:51 (北京时间)",
-  "total_count": 60,
+  "last_update": "2026-01-20 00:55:55 (北京时间)",
+  "total_count": 61,
   "news": [
     {
       "title": "这款让丁磊都紧张的游戏，上新AI大模型玩法",
@@ -327,6 +327,19 @@
       "original_source": "智东西"
     },
     {
+      "title": "硅谷AI大佬迁徙图谱：32人易职，有人反复横跳，苹果最伤",
+      "summary": "智东西1月19日报道，1月15日，前OpenAI CTO、Thinking Machines Lab联合创始人兼CTO Barret Zoph重回OpenAI。Thinking Machines Lab联合创始人Luke Metz以及Sam Schoenholz也随之一同离职，回到OpenAI。这场看似突发的人事震荡，实则是2025年以来硅谷AI人才大战白热化的余波。回溯时间线，自2025年6月Meta掀起“AI人才闪电战”以来，硅谷顶尖人才的争夺战从未停歇。据智东西不完全统计，2025年1月至今，硅谷AI巨头，如苹果、Meta、OpenAI、谷歌、微软、xAI、Anthropic等，已至少有32位技术高管或核心研究员易主。在这场没有硝烟的战争中，人才的流动路径清晰地勾勒出了各大巨头的战略版图：1、Meta通过高额资本投入组建“超级智能实验室”，冲击AI研究的领先地位；2、OpenAI专注于商业化道路，通过引入曾成功带领公司商业化的高管，来强化产品的商业变现能力；3、苹果损失最为惨重，其AI战略的推进节奏可能因此受到影响；4、谷歌在内部整合资源的同时，同时有针对性地进行收购和引进；5、微软则从谷歌成功吸纳多位AI搜索与模型专家，增强Copilot与Bing的技术实力。以下我们将详细拆解这场“人才大迁徙”中的核心人物。一、Meta“闪电战”挖空苹果AI核心，Siri大改版恐陷困境在Meta的攻势下，苹果的AI部门几乎成了人才流失的重灾区。据智东西统计，2025年至今，苹果共至少有6位AI相关高管层离职，1位新入职。其中除了John Giannandrea是内部退休以外，其余离职的5位均被Meta挖走。以下是苹果AI技术相关高管的详细情况：John Giannandrea、杨克、庞若鸣、Frank Chu、Jian Zhang、Alan Dye。二、Meta砸重金挖来27岁CEO，理念不合致AI元老出走Meta可谓是这场人才之战的主角，其用一张张天文数字的支票，组建起了一支AI“雇佣兵”军团，成立了“超级智能实验室”（MSL）。以下是Meta AI技术相关高管的详细情况：Yann LeCun、Joelle Pineau、Chris Cox、Alexander Wang、赵昇佳、Nat Friedman、Daniel Gross。三、挖来Instacart前CEO，OpenAI瞄准商业化当Meta在疯狂买人时，OpenAI在商业化上迈出了大步，任命Fidji Simo为应用业务CEO便是明证。以下是OpenAI AI技术相关高管及核心研究员的详细情况：Liam Fedus、Vijaye Raji、Sachin Katti、Fidji Simo、Barret Zoph、Luke Metz。四、收购AI编程创企，谷歌强化智能体编程“战力”相比于Meta的激进和OpenAI的动荡，谷歌在2025年的人才争夺战中显得相对“稳健”。以下是谷歌AI技术相关高管的详细情况：Jerry Dischler、Adam Sadovsky、Sonal Gupta、Varun Mohan、Douglas Chen、Aaron Saunders。五、微软补齐拼图、xAI吸纳投资好手、Anthropic迎新CTO微软、xAI和Anthropic虽然不是人才流失的主战场，但也有小部分人员流动。以下是微软、xAI和Anthropic AI技术相关高管的详细情况：Amar Subramanya、Indrojit Deb、Igor Babuschkin、Rahul Patil、Jay Parikh、Anthony Armstrong。结语：人才始终是AI巨头“必争之地”纵观2025年以来硅谷AI技术人才流动图景，其规模与密集程度远超以往。Meta采取激进的“闪电战”策略，通过高额资本投入组建超级智能实验室，旨在快速获取顶尖智力资源，冲击AI研究的领先地位。OpenAI则在经历高层震荡后，正通过商业化核心人物的引入强化产品落地与商业变现能力。苹果成为此轮人才战中主要的“失血方”，AI关键团队接连被Meta“整建制”挖走，其AI战略的推进节奏可能因此受到影响。人才流动的背后，是巨头们对AI技术主导权的争夺，可以预见，这场没有硝烟的战争还将持续，并可能进一步重塑全球AI产业的权力格局。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2025-01-19 14:30:00",
+      "original_language": "zh",
+      "original_title": "硅谷AI大佬迁徙图谱：32人易职，有人反复横跳，苹果最伤",
+      "source_url": "https://zhidx.com/p/529518.html",
+      "id": 26,
+      "track": "rss",
+      "original_source": "智东西"
+    },
+    {
       "title": "【数智周报】 谷歌DeepMind CEO：中国的AI模型仅落后美国几个月；DeepSeek开源相关记忆模块Engram；微软在人工智能上的支出将达到5亿美元；美国放宽对英伟达H200芯片出口中国的管制",
       "summary": "（1月12日~1月17日）中国将加快建立数据产权登记制度；谷歌母公司Alphabet市值突破4万亿美元；元宇宙转AI：Meta将裁员数百人，Reality Labs约10%员工受影响；阿里云：完成对ZStack进一步战略投资并实现控股；",
       "is_legal": true,
@@ -335,7 +348,7 @@
       "original_language": "zh",
       "original_title": "【数智周报】 谷歌DeepMind CEO：中国的AI模型仅落后美国几个月；DeepSeek开源相关记忆模块Engram；微软在人工智能上的支出将达到5亿美元；美国放宽对英伟达H200芯片出口中国的管制",
       "source_url": "https://www.tmtpost.com/7845741.html",
-      "id": 26,
+      "id": 27,
       "track": "rss",
       "original_source": "钛媒体"
     },
@@ -348,7 +361,7 @@
       "original_language": "zh",
       "original_title": "智谱1000亿 ,  清华赚翻了",
       "source_url": "https://36kr.com/p/3644717569625990?f=rss",
-      "id": 27,
+      "id": 28,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -361,7 +374,7 @@
       "original_language": "zh",
       "original_title": "氪星晚报｜西贝公关副总裁宋宣已离职；大麦娱乐宣布进军博物馆赛道；叮咚买菜江苏盐城开仓",
       "source_url": "https://36kr.com/p/3641990475140738?f=rss",
-      "id": 28,
+      "id": 29,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -374,7 +387,7 @@
       "original_language": "zh",
       "original_title": "一笔交易，市值涨了70亿",
       "source_url": "https://36kr.com/p/3644606458252930?f=rss",
-      "id": 29,
+      "id": 30,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -387,7 +400,7 @@
       "original_language": "zh",
       "original_title": "OpenAI正式进军脑机接口，投了自家CEO阿尔特曼的新公司",
       "source_url": "https://zhidx.com/p/529327.html",
-      "id": 30,
+      "id": 31,
       "track": "rss",
       "original_source": "智东西"
     },
@@ -400,7 +413,7 @@
       "original_language": "zh",
       "original_title": "iQOO中端机用上豆包手机同款“AI操控”，搭第五代骁龙8旗舰芯，2399元起",
       "source_url": "https://zhidx.com/p/529205.html",
-      "id": 31,
+      "id": 32,
       "track": "rss",
       "original_source": "智东西"
     },
@@ -413,7 +426,7 @@
       "original_language": "zh",
       "original_title": "谷歌Gemini重磅升级，上线”苹果智能“同款功能，手机个人信息全能读",
       "source_url": "https://zhidx.com/p/529157.html",
-      "id": 32,
+      "id": 33,
       "track": "rss",
       "original_source": "智东西"
     },
@@ -426,7 +439,7 @@
       "original_language": "zh",
       "original_title": "ChatGPT发了个“谷歌翻译”，但我只觉得多余...",
       "source_url": "https://zhidx.com/p/529124.html",
-      "id": 33,
+      "id": 34,
       "track": "rss",
       "original_source": "智东西"
     },
@@ -439,7 +452,7 @@
       "original_language": "zh",
       "original_title": "联发科再发双芯，3nm天玑9500s来了，小米、vivo、OPPO首批发布",
       "source_url": "https://zhidx.com/p/529107.html",
-      "id": 34,
+      "id": 35,
       "track": "rss",
       "original_source": "智东西"
     },
@@ -452,7 +465,7 @@
       "original_language": "zh",
       "original_title": "今天，阿里园区被AI点的奶茶包围了",
       "source_url": "https://zhidx.com/p/528993.html",
-      "id": 35,
+      "id": 36,
       "track": "rss",
       "original_source": "智东西"
     },
@@ -465,7 +478,7 @@
       "original_language": "zh",
       "original_title": "头部物流公司拿下浙江投资，要用AI完成中大件门到门履约｜36氪首发",
       "source_url": "https://36kr.com/p/3641918009937540?f=rss",
-      "id": 36,
+      "id": 37,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -478,7 +491,7 @@
       "original_language": "unknown",
       "original_title": "9点1氪丨贾国龙罗永浩微博被禁言，罗永浩朋友圈最新发声；李湘多平台账号被禁止关注；特朗普拿到诺贝尔和平奖奖章",
       "source_url": "https://36kr.com/p/3642816248172161?f=rss",
-      "id": 37,
+      "id": 38,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -491,7 +504,7 @@
       "original_language": "unknown",
       "original_title": "中国的AI应用创业者正在换道领跑 ｜ AI火花开放麦",
       "source_url": "https://36kr.com/p/3641730074300038?f=rss",
-      "id": 38,
+      "id": 39,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -504,7 +517,7 @@
       "original_language": "unknown",
       "original_title": "B站也推出了新的广告+AI工具，未来会从“开环”走向“闭环”",
       "source_url": "https://36kr.com/p/3640520932560006?f=rss",
-      "id": 39,
+      "id": 40,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -517,7 +530,7 @@
       "original_language": "unknown",
       "original_title": "两年市值翻了三倍，运动品牌最意外的赢家出现了",
       "source_url": "https://36kr.com/p/3640240794225793?f=rss",
-      "id": 40,
+      "id": 41,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -530,7 +543,7 @@
       "original_language": "unknown",
       "original_title": "千问诞生后，负责人吴嘉首次回应15个关键问题",
       "source_url": "https://36kr.com/p/3641479608881030?f=rss",
-      "id": 41,
+      "id": 42,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -543,7 +556,7 @@
       "original_language": "unknown",
       "original_title": "裁员50%后，他靠AI编程大逆袭！ARR破亿，估值直冲600亿",
       "source_url": "https://zhidx.com/p/529226.html",
-      "id": 42,
+      "id": 43,
       "track": "rss",
       "original_source": "智东西"
     },
@@ -556,7 +569,7 @@
       "original_language": "zh",
       "original_title": "或达3000万副！Meta猛增AI眼镜产能，苹果入局小扎有点怕？",
       "source_url": "https://zhidx.com/p/529070.html",
-      "id": 43,
+      "id": 44,
       "track": "rss",
       "original_source": "智东西"
     },
@@ -569,7 +582,7 @@
       "original_language": "zh",
       "original_title": "2026，AI音乐跃迁元年？",
       "source_url": "https://www.tmtpost.com/7846436.html",
-      "id": 44,
+      "id": 45,
       "track": "rss",
       "original_source": "钛媒体"
     },
@@ -582,7 +595,7 @@
       "original_language": "zh",
       "original_title": "仅用一周时间，谷歌就让OpenAI认清现实",
       "source_url": "https://www.tmtpost.com/7846324.html",
-      "id": 45,
+      "id": 46,
       "track": "rss",
       "original_source": "钛媒体"
     },
@@ -595,7 +608,7 @@
       "original_language": "unknown",
       "original_title": "猎头黄仁勋的2025：高管从巨头挖，干活钟爱华人创业团队",
       "source_url": "https://36kr.com/p/3644499135221632?f=rss",
-      "id": 46,
+      "id": 47,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -608,7 +621,7 @@
       "original_language": "unknown",
       "original_title": "80后最爱喝的啤酒 ,  要破产了？",
       "source_url": "https://36kr.com/p/3644485919395718?f=rss",
-      "id": 47,
+      "id": 48,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -621,7 +634,7 @@
       "original_language": "unknown",
       "original_title": "8300亿美金独角兽不得不试水“广告”，AI讲不出新故事？",
       "source_url": "https://36kr.com/p/3644462576995970?f=rss",
-      "id": 48,
+      "id": 49,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -634,7 +647,7 @@
       "original_language": "unknown",
       "original_title": "新能源车的“硬核”战事，2026年卷向何处？",
       "source_url": "https://36kr.com/p/3644455846514304?f=rss",
-      "id": 49,
+      "id": 50,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -647,7 +660,7 @@
       "original_language": "unknown",
       "original_title": "前第四范式总裁创业，用营销AI Agent解构内容社交平台的“营销玄学”，已获千万元融资",
       "source_url": "https://36kr.com/p/3644947937972103?f=rss",
-      "id": 50,
+      "id": 51,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -660,7 +673,7 @@
       "original_language": "zh",
       "original_title": "全球首个负载100斤的真实持续干活机器人，来自银河通用",
       "source_url": "https://www.qbitai.com/2026/01/370169.html",
-      "id": 51,
+      "id": 52,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -673,7 +686,7 @@
       "original_language": "zh",
       "original_title": "加速推进“Robot for AI”战略落地，动易科技完成亿元级天使++轮融资，天使轮累计融资额超2亿元",
       "source_url": "https://www.qbitai.com/2026/01/370277.html",
-      "id": 52,
+      "id": 53,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -686,7 +699,7 @@
       "original_language": "zh",
       "original_title": "券商扶植的AI炒股，是新机遇还是“新陷阱”？",
       "source_url": "https://www.tmtpost.com/7847632.html",
-      "id": 53,
+      "id": 54,
       "track": "rss",
       "original_source": "钛媒体"
     },
@@ -699,7 +712,7 @@
       "original_language": "zh",
       "original_title": "2026年，AI由“狂热”转向“务实”",
       "source_url": "https://www.tmtpost.com/7847522.html",
-      "id": 54,
+      "id": 55,
       "track": "rss",
       "original_source": "钛媒体"
     },
@@ -712,7 +725,7 @@
       "original_language": "zh",
       "original_title": "苹果谷歌握手AI背后：国产手机为何不敢革自己的命？",
       "source_url": "https://www.tmtpost.com/7847723.html",
-      "id": 55,
+      "id": 56,
       "track": "rss",
       "original_source": "钛媒体"
     },
@@ -725,7 +738,7 @@
       "original_language": "zh",
       "original_title": "AI手机走到分岔口：巨头们正在重注Agent逻辑",
       "source_url": "https://www.tmtpost.com/7847824.html",
-      "id": 56,
+      "id": 57,
       "track": "rss",
       "original_source": "钛媒体"
     },
@@ -738,7 +751,7 @@
       "original_language": "zh",
       "original_title": "安克创新与飞书联合发布“安克 AI 录音豆” ,手指可握仅重10克",
       "source_url": "https://www.qbitai.com/2026/01/370245.html",
-      "id": 57,
+      "id": 58,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -751,7 +764,7 @@
       "original_language": "zh",
       "original_title": "AI加速普及，数据库为何成为新底座？",
       "source_url": "https://36kr.com/p/3646024739638914?f=rss",
-      "id": 58,
+      "id": 59,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -764,7 +777,7 @@
       "original_language": "unknown",
       "original_title": "日均停留近2小时，这个AI内容产品拿捏了县城青少年",
       "source_url": "https://36kr.com/p/3646033157984136?f=rss",
-      "id": 59,
+      "id": 60,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -777,7 +790,7 @@
       "original_language": "unknown",
       "original_title": "8点1氪丨贾国龙再发声：“西贝从来不存在两岁的西蓝花”；特朗普宣布将对欧洲8国加征关税；铁路12306平台推出旅客误购限时免费退票服务",
       "source_url": "https://36kr.com/p/3645586129964675?f=rss",
-      "id": 60,
+      "id": 61,
       "track": "rss",
       "original_source": "36氪"
     }
