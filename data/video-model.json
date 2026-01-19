@@ -1,8 +1,34 @@
 {
   "category": "视频模型动态",
-  "last_update": "2026-01-19 11:22:02 (北京时间)",
-  "total_count": 20,
+  "last_update": "2026-01-19 13:31:27 (北京时间)",
+  "total_count": 23,
   "news": [
+    {
+      "title": "飞书联手安克造了颗AI豆，你的「外脑」仅重 10 克",
+      "summary": "飞书与安克合作推出了一款名为AI豆的设备，这款设备被描述为你的「外脑」，重量仅为10克。每次对话都会在知识库中进行记录和存储。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n\n爱范儿 |\n原文链接 ·\n查看评论 ·\n新浪微博\n新闻链接：https://www.ifanr.com/1652210?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-19 13:30:05",
+      "original_language": "zh",
+      "original_title": "飞书联手安克造了颗AI豆，你的「外脑」仅重 10 克",
+      "source_url": "https://www.ifanr.com/1652210?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "id": 1,
+      "track": "rss",
+      "original_source": "爱范儿"
+    },
+    {
+      "title": "打造最低幻觉率医学AI助手 阿里健康上线“氢离子”",
+      "summary": "打造最低幻觉率医学AI助手 阿里健康上线“氢离子”\n近日，阿里健康宣布上线了一款名为“氢离子”的医学AI助手。该助手旨在通过人工智能技术，为医生提供更精准、高效的辅助诊断服务。据悉，氢离子在幻觉率方面表现优异，能够有效降低误诊率，提高医疗质量。\n新闻链接：https://www.qbitai.com/2026/01/370192.html",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-19 13:29:23",
+      "original_language": "zh",
+      "original_title": "打造最低幻觉率医学AI助手 阿里健康上线“氢离子”",
+      "source_url": "https://www.qbitai.com/2026/01/370192.html",
+      "id": 2,
+      "track": "rss",
+      "original_source": "量子位"
+    },
     {
       "title": "AMD发布新芯片，但内存价格才是真正的Boss战",
       "summary": "AMD的2026年PC战略专注于增量CPU更新、性价比GPU和谨慎的AI升级。\n\n原文链接：https://www.digitaltrends.com/computing/amd-has-new-chips-but-ram-prices-are-the-real-boss-fight/",
@@ -12,7 +38,7 @@
       "original_language": "en",
       "original_title": "AMD has new chips, but RAM prices are the real boss fight",
       "source_url": "https://www.digitaltrends.com/computing/amd-has-new-chips-but-ram-prices-are-the-real-boss-fight/",
-      "id": 1,
+      "id": 3,
       "track": "rss",
       "original_source": "Digital Trends"
     },
@@ -25,7 +51,7 @@
       "original_language": "zh",
       "original_title": "机器人终于能用明白洗碗机了｜UC伯克利新研究",
       "source_url": "https://www.qbitai.com/2026/01/370136.html",
-      "id": 2,
+      "id": 4,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -38,7 +64,7 @@
       "original_language": "en",
       "original_title": "MediaTek launches Dimensity 9500s and 8500 to power next-gen flagship smartphones",
       "source_url": "https://www.digitaltrends.com/phones/mediatek-launches-dimensity-9500s-and-8500-to-power-next-gen-flagship-smartphones/",
-      "id": 3,
+      "id": 5,
       "track": "rss",
       "original_source": "Digital Trends"
     },
@@ -51,7 +77,7 @@
       "original_language": "en",
       "original_title": "Foldable iPhone to use Touch ID as Apple bets on AI-led growth in 2026",
       "source_url": "https://www.digitaltrends.com/phones/foldable-iphone-to-use-touch-id-as-apple-bets-on-ai-led-growth-in-2026/",
-      "id": 4,
+      "id": 6,
       "track": "rss",
       "original_source": "Digital Trends"
     },
@@ -64,7 +90,7 @@
       "original_language": "en",
       "original_title": "OLED MacBook Pro displays may already be in production ahead of rumored 2026 launch",
       "source_url": "https://www.digitaltrends.com/computing/oled-macbook-pro-displays-may-already-be-in-production-ahead-of-rumored-2026-launch/",
-      "id": 5,
+      "id": 7,
       "track": "rss",
       "original_source": "Digital Trends"
     },
@@ -77,7 +103,7 @@
       "original_language": "en",
       "original_title": "Microsoft Excel’s new import functions make handling numbers easier",
       "source_url": "https://www.digitaltrends.com/computing/microsoft-excels-new-import-functions-make-handling-numbers-easier/",
-      "id": 6,
+      "id": 8,
       "track": "rss",
       "original_source": "Digital Trends"
     },
@@ -90,7 +116,7 @@
       "original_language": "en",
       "original_title": "ChatGPT Go is now available in the U.S., but be prepared to see ads",
       "source_url": "https://www.digitaltrends.com/cool-tech/chatgpt-go-is-now-available-in-the-u-s-but-be-prepared-to-see-ads/",
-      "id": 7,
+      "id": 9,
       "track": "rss",
       "original_source": "Digital Trends"
     },
@@ -103,7 +129,7 @@
       "original_language": "zh",
       "original_title": "早报｜西贝闭店102家，贾国龙：自己不懂公关、不会诡辩/马斯克服软，Grok限制图像编辑能力/千问App上线AI购物功能",
       "source_url": "https://www.ifanr.com/1651977?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "id": 8,
+      "id": 10,
       "track": "rss",
       "original_source": "爱范儿"
     },
@@ -116,7 +142,7 @@
       "original_language": "zh",
       "original_title": "你的浏览器会主动提问了？夸克 AI 浏览器正在验证 AI Native 的「下半场」",
       "source_url": "https://www.ifanr.com/1651982?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "id": 9,
+      "id": 11,
       "track": "rss",
       "original_source": "爱范儿"
     },
@@ -129,7 +155,7 @@
       "original_language": "zh",
       "original_title": "早报｜贾国龙罗永浩恩怨复燃，双方账号被禁言/苹果上调iPhone、Mac以旧换新抵扣价/ChatGPT将开始测试广告",
       "source_url": "https://www.ifanr.com/1652187?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "id": 10,
+      "id": 12,
       "track": "rss",
       "original_source": "爱范儿"
     },
@@ -142,7 +168,7 @@
       "original_language": "zh",
       "original_title": "腾讯云ADP国内首发AI原生Widget：一句话秒级生成交互组件，重塑Agent使用体验",
       "source_url": "https://www.qbitai.com/2026/01/370069.html",
-      "id": 11,
+      "id": 13,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -155,7 +181,7 @@
       "original_language": "zh",
       "original_title": "不用拍的广告片？深度拆解美团闪购AIGC营销新案例",
       "source_url": "https://www.qbitai.com/2026/01/369884.html",
-      "id": 12,
+      "id": 14,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -168,7 +194,7 @@
       "original_language": "zh",
       "original_title": "支付宝携手千问App、淘宝闪购等发布中国首个AI商业协议ACT",
       "source_url": "https://www.qbitai.com/2026/01/369878.html",
-      "id": 13,
+      "id": 15,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -181,7 +207,7 @@
       "original_language": "zh",
       "original_title": "滴滴给我发了个赛博助理，专管出行的那种",
       "source_url": "https://www.qbitai.com/2026/01/369738.html",
-      "id": 14,
+      "id": 16,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -194,7 +220,7 @@
       "original_language": "zh",
       "original_title": "马斯克最大算力中心建成了：全球首个GW级超算集群，再创世界纪录",
       "source_url": "https://www.qbitai.com/2026/01/370077.html",
-      "id": 15,
+      "id": 17,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -207,7 +233,7 @@
       "original_language": "zh",
       "original_title": "微软谷歌正在大力招「电工」",
       "source_url": "https://www.qbitai.com/2026/01/370026.html",
-      "id": 16,
+      "id": 18,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -220,7 +246,7 @@
       "original_language": "en",
       "original_title": "Google brings its AI videomaker to Workspace users",
       "source_url": "https://www.theverge.com/news/863570/google-flow-ai-video-generator-workspace",
-      "id": 17
+      "id": 19
     },
     {
       "title": "宣布OpenAI Grove Cohort 2开放申请",
@@ -231,7 +257,7 @@
       "original_language": "en",
       "original_title": "Announcing OpenAI Grove Cohort 2",
       "source_url": "https://openai.com/index/openai-grove",
-      "id": 18
+      "id": 20
     },
     {
       "title": "猎头黄仁勋的2025：高管从巨头挖，干活钟爱华人创业团队",
@@ -242,7 +268,7 @@
       "original_language": "zh",
       "original_title": "猎头黄仁勋的2025：高管从巨头挖，干活钟爱华人创业团队",
       "source_url": "https://www.qbitai.com/2026/01/370085.html",
-      "id": 19,
+      "id": 21,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -255,9 +281,22 @@
       "original_language": "zh",
       "original_title": "4600万围观！Claude两周搓出「Manus」火到宕机：0行代码是人写，创业公司集体破防",
       "source_url": "https://www.ifanr.com/1652055?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "id": 20,
+      "id": 22,
       "track": "rss",
       "original_source": "爱范儿"
+    },
+    {
+      "title": "全球首个负载100斤的真实持续干活机器人，来自银河通用",
+      "summary": "银河通用推出全球首个负载100斤的真实持续干活机器人，标志着具身智能正式步入工业级重载时代。该机器人具备高负载能力和持续工作能力，适用于各种工业场景。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "null",
+      "original_language": "zh",
+      "original_title": "全球首个负载100斤的真实持续干活机器人，来自银河通用",
+      "source_url": "https://www.qbitai.com/2026/01/370169.html",
+      "id": 23,
+      "track": "rss",
+      "original_source": "量子位"
     }
   ]
 }
