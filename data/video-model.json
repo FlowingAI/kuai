@@ -1,7 +1,7 @@
 {
   "category": "视频模型动态",
-  "last_update": "2026-01-19 05:17:46 (北京时间)",
-  "total_count": 18,
+  "last_update": "2026-01-19 11:22:02 (北京时间)",
+  "total_count": 20,
   "news": [
     {
       "title": "AMD发布新芯片，但内存价格才是真正的Boss战",
@@ -232,6 +232,32 @@
       "original_title": "Announcing OpenAI Grove Cohort 2",
       "source_url": "https://openai.com/index/openai-grove",
       "id": 18
+    },
+    {
+      "title": "猎头黄仁勋的2025：高管从巨头挖，干活钟爱华人创业团队",
+      "summary": "全球市值第一也有人才焦虑\n猎头黄仁勋的2025：高管从巨头挖，干活钟爱华人创业团队\n\n全球市值第一的英伟达也有人才焦虑，CEO黄仁勋亲自担任猎头，从各大巨头挖角高管，同时钟爱华人创业团队。据悉，黄仁勋在2025年已经成功挖来了多位行业精英，其中包括来自谷歌、亚马逊等科技巨头的资深人士。这些高管加入英伟达后，将助力公司在人工智能、自动驾驶等领域的发展。\n\n黄仁勋对华人创业团队的青睐，源于他对中国市场的重视。他认为，中国拥有丰富的创新资源和人才储备，是未来科技发展的关键。因此，他特别关注华人创业团队，希望通过与他们合作，推动英伟达在中国市场的发展。\n\n此外，黄仁勋还表示，英伟达将继续加大对研发的投入，以保持其在人工智能领域的领先地位。他强调，英伟达的愿景是成为全球人工智能领域的领导者，为人类创造更美好的未来。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "null",
+      "original_language": "zh",
+      "original_title": "猎头黄仁勋的2025：高管从巨头挖，干活钟爱华人创业团队",
+      "source_url": "https://www.qbitai.com/2026/01/370085.html",
+      "id": 19,
+      "track": "rss",
+      "original_source": "量子位"
+    },
+    {
+      "title": "4600万围观！Claude两周搓出「Manus」火到宕机：0行代码是人写，创业公司集体破防",
+      "summary": "桌面 Agent 会是 2026 年的大热门\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n\n爱范儿 |\n原文链接 ·\n查看评论 ·\n新浪微博\n\n新闻链接：https://www.ifanr.com/1652055?utm_source=rss&utm_medium=rss&utm_campaign=\n",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-19 11:05:32",
+      "original_language": "zh",
+      "original_title": "4600万围观！Claude两周搓出「Manus」火到宕机：0行代码是人写，创业公司集体破防",
+      "source_url": "https://www.ifanr.com/1652055?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "id": 20,
+      "track": "rss",
+      "original_source": "爱范儿"
     }
   ]
 }
