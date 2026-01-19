@@ -1,8 +1,21 @@
 {
   "category": "视频模型动态",
-  "last_update": "2026-01-20 01:23:31 (北京时间)",
-  "total_count": 35,
+  "last_update": "2026-01-20 05:31:54 (北京时间)",
+  "total_count": 36,
   "news": [
+    {
+      "title": "三星Galaxy Z Fold 8可能采用独特显示技术实现无折痕外观",
+      "summary": "三星Galaxy Z Fold 8可能配备重新设计的显示堆叠，使用新材料以更均匀地分散折叠应力，这可能在日常使用中使折痕几乎不明显。\n\n原文链接：[Digital Trends](https://www.digitaltrends.com/phones/samsung-might-adopt-a-unique-display-tech-to-erase-the-display-crease-on-galaxy-z-fold-8/)",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-20 05:18:44",
+      "original_language": "en",
+      "original_title": "Samsung Galaxy Z Fold 8 might adopt a unique display tech for a crease-free look",
+      "source_url": "https://www.digitaltrends.com/phones/samsung-might-adopt-a-unique-display-tech-to-erase-the-display-crease-on-galaxy-z-fold-8/",
+      "id": 1,
+      "track": "rss",
+      "original_source": "Digital Trends"
+    },
     {
       "title": "微软可能很快将允许您免费流式传输Xbox游戏，但带有广告和游戏时间限制",
       "summary": "微软可能很快将推出传闻中的支持广告的Xbox云游戏层级，一些游戏玩家的通知已经提前出现。\n\n原文链接：[Microsoft may soon let you stream your Xbox games for free, with ads and playtime limits](https://www.digitaltrends.com/gaming/microsoft-may-soon-let-you-stream-your-xbox-games-for-free-with-ads-and-playtime-limits/)",
@@ -12,7 +25,7 @@
       "original_language": "en",
       "original_title": "Microsoft may soon let you stream your Xbox games for free, with ads and playtime limits",
       "source_url": "https://www.digitaltrends.com/gaming/microsoft-may-soon-let-you-stream-your-xbox-games-for-free-with-ads-and-playtime-limits/",
-      "id": 1,
+      "id": 2,
       "track": "rss",
       "original_source": "Digital Trends"
     },
@@ -25,7 +38,7 @@
       "original_language": "en",
       "original_title": "A Windows 11 update broke shutdowns, here’s what you should do",
       "source_url": "https://www.digitaltrends.com/computing/a-windows-11-update-broke-shutdowns-heres-what-you-should-do/",
-      "id": 2,
+      "id": 3,
       "track": "rss",
       "original_source": "Digital Trends"
     },
@@ -38,7 +51,7 @@
       "original_language": "en",
       "original_title": "You can soon ask AI about any Chrome webpage with one right-click",
       "source_url": "https://www.digitaltrends.com/computing/you-can-soon-ask-ai-about-any-chrome-webpage-with-one-right-click/",
-      "id": 3,
+      "id": 4,
       "track": "rss",
       "original_source": "Digital Trends"
     },
@@ -51,7 +64,7 @@
       "original_language": "en",
       "original_title": "Gemini now lets you skip the wait and get quicker responses with a tap",
       "source_url": "https://www.digitaltrends.com/phones/gemini-now-lets-you-skip-the-wait-and-get-quicker-responses-with-a-tap/",
-      "id": 4,
+      "id": 5,
       "track": "rss",
       "original_source": "Digital Trends"
     },
@@ -64,7 +77,7 @@
       "original_language": "zh",
       "original_title": "90 后正在掌管中国 AI，凭实力活成了「爽文」主角",
       "source_url": "https://www.ifanr.com/1652256?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "id": 5,
+      "id": 6,
       "track": "rss",
       "original_source": "爱范儿"
     },
@@ -77,7 +90,7 @@
       "original_language": "zh",
       "original_title": "哈工大系闯出人形机器人黑马：成立不到一年，全栈开源3m/s原型机，小米商汤都投了",
       "source_url": "https://www.qbitai.com/2026/01/370355.html",
-      "id": 6,
+      "id": 7,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -90,7 +103,7 @@
       "original_language": "zh",
       "original_title": "飞书联手安克造了颗AI豆，你的「外脑」仅重 10 克",
       "source_url": "https://www.ifanr.com/1652210?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "id": 7,
+      "id": 8,
       "track": "rss",
       "original_source": "爱范儿"
     },
@@ -103,7 +116,7 @@
       "original_language": "zh",
       "original_title": "打造最低幻觉率医学AI助手 阿里健康上线“氢离子”",
       "source_url": "https://www.qbitai.com/2026/01/370192.html",
-      "id": 8,
+      "id": 9,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -116,7 +129,7 @@
       "original_language": "en",
       "original_title": "AMD has new chips, but RAM prices are the real boss fight",
       "source_url": "https://www.digitaltrends.com/computing/amd-has-new-chips-but-ram-prices-are-the-real-boss-fight/",
-      "id": 9,
+      "id": 10,
       "track": "rss",
       "original_source": "Digital Trends"
     },
@@ -129,7 +142,7 @@
       "original_language": "zh",
       "original_title": "机器人终于能用明白洗碗机了｜UC伯克利新研究",
       "source_url": "https://www.qbitai.com/2026/01/370136.html",
-      "id": 10,
+      "id": 11,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -142,7 +155,7 @@
       "original_language": "en",
       "original_title": "MediaTek launches Dimensity 9500s and 8500 to power next-gen flagship smartphones",
       "source_url": "https://www.digitaltrends.com/phones/mediatek-launches-dimensity-9500s-and-8500-to-power-next-gen-flagship-smartphones/",
-      "id": 11,
+      "id": 12,
       "track": "rss",
       "original_source": "Digital Trends"
     },
@@ -155,7 +168,7 @@
       "original_language": "en",
       "original_title": "Foldable iPhone to use Touch ID as Apple bets on AI-led growth in 2026",
       "source_url": "https://www.digitaltrends.com/phones/foldable-iphone-to-use-touch-id-as-apple-bets-on-ai-led-growth-in-2026/",
-      "id": 12,
+      "id": 13,
       "track": "rss",
       "original_source": "Digital Trends"
     },
@@ -168,7 +181,7 @@
       "original_language": "en",
       "original_title": "OLED MacBook Pro displays may already be in production ahead of rumored 2026 launch",
       "source_url": "https://www.digitaltrends.com/computing/oled-macbook-pro-displays-may-already-be-in-production-ahead-of-rumored-2026-launch/",
-      "id": 13,
+      "id": 14,
       "track": "rss",
       "original_source": "Digital Trends"
     },
@@ -181,7 +194,7 @@
       "original_language": "en",
       "original_title": "Microsoft Excel’s new import functions make handling numbers easier",
       "source_url": "https://www.digitaltrends.com/computing/microsoft-excels-new-import-functions-make-handling-numbers-easier/",
-      "id": 14,
+      "id": 15,
       "track": "rss",
       "original_source": "Digital Trends"
     },
@@ -194,7 +207,7 @@
       "original_language": "en",
       "original_title": "ChatGPT Go is now available in the U.S., but be prepared to see ads",
       "source_url": "https://www.digitaltrends.com/cool-tech/chatgpt-go-is-now-available-in-the-u-s-but-be-prepared-to-see-ads/",
-      "id": 15,
+      "id": 16,
       "track": "rss",
       "original_source": "Digital Trends"
     },
@@ -207,7 +220,7 @@
       "original_language": "zh",
       "original_title": "早报｜西贝闭店102家，贾国龙：自己不懂公关、不会诡辩/马斯克服软，Grok限制图像编辑能力/千问App上线AI购物功能",
       "source_url": "https://www.ifanr.com/1651977?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "id": 16,
+      "id": 17,
       "track": "rss",
       "original_source": "爱范儿"
     },
@@ -220,7 +233,7 @@
       "original_language": "zh",
       "original_title": "你的浏览器会主动提问了？夸克 AI 浏览器正在验证 AI Native 的「下半场」",
       "source_url": "https://www.ifanr.com/1651982?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "id": 17,
+      "id": 18,
       "track": "rss",
       "original_source": "爱范儿"
     },
@@ -233,7 +246,7 @@
       "original_language": "zh",
       "original_title": "早报｜贾国龙罗永浩恩怨复燃，双方账号被禁言/苹果上调iPhone、Mac以旧换新抵扣价/ChatGPT将开始测试广告",
       "source_url": "https://www.ifanr.com/1652187?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "id": 18,
+      "id": 19,
       "track": "rss",
       "original_source": "爱范儿"
     },
@@ -246,7 +259,7 @@
       "original_language": "zh",
       "original_title": "腾讯云ADP国内首发AI原生Widget：一句话秒级生成交互组件，重塑Agent使用体验",
       "source_url": "https://www.qbitai.com/2026/01/370069.html",
-      "id": 19,
+      "id": 20,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -259,7 +272,7 @@
       "original_language": "zh",
       "original_title": "不用拍的广告片？深度拆解美团闪购AIGC营销新案例",
       "source_url": "https://www.qbitai.com/2026/01/369884.html",
-      "id": 20,
+      "id": 21,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -272,7 +285,7 @@
       "original_language": "zh",
       "original_title": "支付宝携手千问App、淘宝闪购等发布中国首个AI商业协议ACT",
       "source_url": "https://www.qbitai.com/2026/01/369878.html",
-      "id": 21,
+      "id": 22,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -285,7 +298,7 @@
       "original_language": "zh",
       "original_title": "滴滴给我发了个赛博助理，专管出行的那种",
       "source_url": "https://www.qbitai.com/2026/01/369738.html",
-      "id": 22,
+      "id": 23,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -298,7 +311,7 @@
       "original_language": "zh",
       "original_title": "马斯克最大算力中心建成了：全球首个GW级超算集群，再创世界纪录",
       "source_url": "https://www.qbitai.com/2026/01/370077.html",
-      "id": 23,
+      "id": 24,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -311,7 +324,7 @@
       "original_language": "zh",
       "original_title": "微软谷歌正在大力招「电工」",
       "source_url": "https://www.qbitai.com/2026/01/370026.html",
-      "id": 24,
+      "id": 25,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -324,7 +337,7 @@
       "original_language": "en",
       "original_title": "Google brings its AI videomaker to Workspace users",
       "source_url": "https://www.theverge.com/news/863570/google-flow-ai-video-generator-workspace",
-      "id": 25
+      "id": 26
     },
     {
       "title": "宣布OpenAI Grove Cohort 2开放申请",
@@ -335,7 +348,7 @@
       "original_language": "en",
       "original_title": "Announcing OpenAI Grove Cohort 2",
       "source_url": "https://openai.com/index/openai-grove",
-      "id": 26
+      "id": 27
     },
     {
       "title": "猎头黄仁勋的2025：高管从巨头挖，干活钟爱华人创业团队",
@@ -346,7 +359,7 @@
       "original_language": "zh",
       "original_title": "猎头黄仁勋的2025：高管从巨头挖，干活钟爱华人创业团队",
       "source_url": "https://www.qbitai.com/2026/01/370085.html",
-      "id": 27,
+      "id": 28,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -359,7 +372,7 @@
       "original_language": "zh",
       "original_title": "4600万围观！Claude两周搓出「Manus」火到宕机：0行代码是人写，创业公司集体破防",
       "source_url": "https://www.ifanr.com/1652055?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "id": 28,
+      "id": 29,
       "track": "rss",
       "original_source": "爱范儿"
     },
@@ -372,7 +385,7 @@
       "original_language": "zh",
       "original_title": "全球首个负载100斤的真实持续干活机器人，来自银河通用",
       "source_url": "https://www.qbitai.com/2026/01/370169.html",
-      "id": 29,
+      "id": 30,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -385,7 +398,7 @@
       "original_language": "zh",
       "original_title": "45年数论猜想被GPT-5.2 Pro独立完成证明，陶哲轩：没犯任何错误",
       "source_url": "https://www.qbitai.com/2026/01/370328.html",
-      "id": 30,
+      "id": 31,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -398,7 +411,7 @@
       "original_language": "zh",
       "original_title": "ChatGPT强行上马广告，因为OpenAI真的很烧钱",
       "source_url": "https://www.qbitai.com/2026/01/370285.html",
-      "id": 31,
+      "id": 32,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -411,7 +424,7 @@
       "original_language": "zh",
       "original_title": "李飞飞的World Labs联手光轮智能，具身智能进入评测驱动时代！",
       "source_url": "https://www.qbitai.com/2026/01/370217.html",
-      "id": 32,
+      "id": 33,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -424,7 +437,7 @@
       "original_language": "zh",
       "original_title": "加速推进“Robot for AI”战略落地，动易科技完成亿元级天使++轮融资，天使轮累计融资额超2亿元",
       "source_url": "https://www.qbitai.com/2026/01/370277.html",
-      "id": 33,
+      "id": 34,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -437,7 +450,7 @@
       "original_language": "zh",
       "original_title": "安克创新与飞书联合发布“安克 AI 录音豆” ,手指可握仅重10克",
       "source_url": "https://www.qbitai.com/2026/01/370245.html",
-      "id": 34,
+      "id": 35,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -450,7 +463,7 @@
       "original_language": "zh",
       "original_title": "真·开外挂！MIT新研究：架构0改动，让大模型解锁千万级上下文",
       "source_url": "https://www.qbitai.com/2026/01/370196.html",
-      "id": 35,
+      "id": 36,
       "track": "rss",
       "original_source": "量子位"
     }
