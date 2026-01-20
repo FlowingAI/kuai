@@ -1,7 +1,7 @@
 {
   "category": "AI编程工具进化",
-  "last_update": "2026-01-21 01:31:00 (北京时间)",
-  "total_count": 73,
+  "last_update": "2026-01-21 05:31:55 (北京时间)",
+  "total_count": 77,
   "news": [
     {
       "title": "通过提高WebAssembly Text Format解析器性能350%",
@@ -806,6 +806,58 @@
       "original_source": "量子位"
     },
     {
+      "title": "Figy.ai",
+      "summary": "Discussion\n            |\n            Link\n新闻链接：https://www.producthunt.com/products/figy-ai",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-21 05:22:24",
+      "original_language": "en",
+      "original_title": "Figy.ai",
+      "source_url": "https://www.producthunt.com/products/figy-ai",
+      "id": 63,
+      "track": "rss",
+      "original_source": "Product Hunt"
+    },
+    {
+      "title": "Show HN: wxpath – 基于XPath的声明式网页爬虫",
+      "summary": "Comments\n\n新闻链接：https://github.com/rodricios/wxpath\n\n这是一个基于XPath的声明式网页爬虫项目。XPath是一种在XML和HTML文档中查找信息的语言。该项目旨在提供一个简单而强大的方式来爬取网页，通过使用XPath表达式来定义需要爬取的数据。这可以帮助开发者更高效地处理网页数据提取任务。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-21 05:22:00",
+      "original_language": "en",
+      "original_title": "Show HN: wxpath – Declarative web crawling in XPath",
+      "source_url": "https://github.com/rodricios/wxpath",
+      "id": 64,
+      "track": "rss",
+      "original_source": "Hacker News"
+    },
+    {
+      "title": "非常规的 PostgreSQL 优化",
+      "summary": "本文讨论了一些非常规的 PostgreSQL 优化方法，包括但不限于使用自定义函数、调整配置参数、以及使用特定的查询技巧来提高数据库性能。文章中提到了一些具体的例子，如使用 PostgreSQL 的自定义函数来优化查询，以及如何调整工作内存参数来提高大查询的处理速度。此外，还讨论了如何使用 EXPLAIN 分析查询计划，以及如何通过调整索引策略来优化性能。文章最后强调了，虽然这些优化方法可能不是最常见或最直接的方法，但它们在某些情况下可能非常有用。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-21 05:21:49",
+      "original_language": "en",
+      "original_title": "Unconventional PostgreSQL Optimizations",
+      "source_url": "https://hakibenita.com/postgresql-unconventional-optimizations",
+      "id": 65,
+      "track": "rss",
+      "original_source": "Hacker News"
+    },
+    {
+      "title": "没有对LLM进行基准测试，你可能会多付5-10倍的费用",
+      "summary": "Comments\n\n新闻链接：https://karllorey.com/posts/without-benchmarking-llms-youre-overpaying",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-21 05:21:28",
+      "original_language": "en",
+      "original_title": "Without benchmarking LLMs, you're likely overpaying 5-10x",
+      "source_url": "https://karllorey.com/posts/without-benchmarking-llms-youre-overpaying",
+      "id": 66,
+      "track": "rss",
+      "original_source": "Hacker News"
+    },
+    {
       "title": "Linux内核PCIe设备仿真用户空间框架",
       "summary": "新闻内容：Comments\n新闻链接：https://github.com/cakehonolulu/pciem",
       "is_legal": true,
@@ -814,7 +866,7 @@
       "original_language": "en",
       "original_title": "Linux kernel framework for PCIe device emulation, in userspace",
       "source_url": "https://github.com/cakehonolulu/pciem",
-      "id": 63,
+      "id": 67,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -827,7 +879,7 @@
       "original_language": "zh",
       "original_title": "豆包的新身份曝光：在国际艺术展当起了“AI讲解员”",
       "source_url": "https://www.qbitai.com/2026/01/370665.html",
-      "id": 64,
+      "id": 68,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -840,7 +892,7 @@
       "original_language": "zh",
       "original_title": "MiniMax把自家“实习生”放出来了！",
       "source_url": "https://www.qbitai.com/2026/01/370720.html",
-      "id": 65,
+      "id": 69,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -853,7 +905,7 @@
       "original_language": "en",
       "original_title": "x86 prefixes and escape opcodes flowchart",
       "source_url": "https://soc.me/interfaces/x86-prefixes-and-escape-opcodes-flowchart.html",
-      "id": 66,
+      "id": 70,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -866,7 +918,7 @@
       "original_language": "en",
       "original_title": "The Overcomplexity of the Shadcn Radio Button",
       "source_url": "https://paulmakeswebsites.com/writing/shadcn-radio-button/",
-      "id": 67,
+      "id": 71,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -879,7 +931,7 @@
       "original_language": "zh",
       "original_title": "美团卡姐接管无人车，MIT博士离职创业具身智能",
       "source_url": "https://www.qbitai.com/2026/01/370599.html",
-      "id": 68,
+      "id": 72,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -892,7 +944,7 @@
       "original_language": "en",
       "original_title": "Giving University Exams in the Age of Chatbots",
       "source_url": "https://ploum.net/2026-01-19-exam-with-chatbots.html",
-      "id": 69,
+      "id": 73,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -905,7 +957,7 @@
       "original_language": "zh",
       "original_title": "“车载华为”冲刺IPO：供应5G，上汽奇瑞吉利东风都是客户",
       "source_url": "https://www.qbitai.com/2026/01/370618.html",
-      "id": 70,
+      "id": 74,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -918,7 +970,7 @@
       "original_language": "zh",
       "original_title": "首个真正“能用”的LLM游戏Agent诞生！可实时高频决策，思维链还全程可见",
       "source_url": "https://www.qbitai.com/2026/01/370494.html",
-      "id": 71,
+      "id": 75,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -931,7 +983,7 @@
       "original_language": "zh",
       "original_title": "智谱新模型也用DeepSeek的MLA，苹果M5就能跑",
       "source_url": "https://www.qbitai.com/2026/01/370652.html",
-      "id": 72,
+      "id": 76,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -944,7 +996,7 @@
       "original_language": "en",
       "original_title": "Running Claude Code dangerously (safely)",
       "source_url": "https://blog.emilburzo.com/2026/01/running-claude-code-dangerously-safely/",
-      "id": 73,
+      "id": 77,
       "track": "rss",
       "original_source": "Hacker News"
     }
