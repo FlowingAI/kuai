@@ -1,7 +1,7 @@
 {
   "category": "全球AI动态",
-  "last_update": "2026-01-20 13:17:56 (北京时间)",
-  "total_count": 96,
+  "last_update": "2026-01-20 17:02:37 (北京时间)",
+  "total_count": 102,
   "news": [
     {
       "title": "钉钉上线AI差旅：企业免垫资，员工免报销，AI帮比价",
@@ -1242,6 +1242,84 @@
       "id": 96,
       "track": "rss",
       "original_source": "量子位"
+    },
+    {
+      "title": "x86 前缀和逃逸操作码流程图",
+      "summary": "Comments\n",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-20 16:39:58",
+      "original_language": "en",
+      "original_title": "x86 prefixes and escape opcodes flowchart",
+      "source_url": "https://soc.me/interfaces/x86-prefixes-and-escape-opcodes-flowchart.html",
+      "id": 97,
+      "track": "rss",
+      "original_source": "Hacker News"
+    },
+    {
+      "title": "一周对战2500万局，这些「AI假人」让人类游戏玩家破防了",
+      "summary": "一周对战2500万局，这些「AI假人」让人类游戏玩家破防了\n\n近日，一款名为「AI假人」的游戏辅助工具在网络上引起了广泛关注。这款工具通过模拟人类玩家的行为，为游戏玩家提供对手，从而提高游戏难度和趣味性。据悉，自上线以来，该工具已经吸引了超过2500万玩家使用，并在短时间内积累了大量用户。\n\n据开发者介绍，「AI假人」采用了先进的深度学习技术，能够根据玩家的游戏风格和习惯，生成与之匹配的对手。这使得游戏玩家在对抗「AI假人」时，需要不断调整自己的策略和技巧，从而提高自己的游戏水平。\n\n然而，也有不少玩家表示，面对「AI假人」的强大实力，他们感到压力巨大，甚至有些破防。他们认为，这种游戏辅助工具虽然能够提高游戏难度，但也容易让玩家产生依赖心理，影响游戏的公平性和竞技性。\n\n对此，有业内人士指出，游戏辅助工具的出现是科技发展的必然产物，但游戏开发者应该加强对这类工具的监管，确保游戏的公平性和健康性。同时，玩家也应该理性看待游戏辅助工具，避免过度依赖，保持良好的游戏心态。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-20 16:36:58",
+      "original_language": "zh",
+      "original_title": "一周对战2500万局，这些「AI假人」让人类游戏玩家破防了",
+      "source_url": "https://www.jiqizhixin.com/articles/2026-01-20-7",
+      "id": 98,
+      "track": "rss",
+      "original_source": "机器之心"
+    },
+    {
+      "title": "具身基座模型的曙光初现？35000小时训练数据，打造全球最强跨本体VLA",
+      "summary": "具身基座模型的曙光初现？35000小时训练数据，打造全球最强跨本体VLA\n\n据机器之心报道，近日，一家名为OpenAI的公司推出了全球最强的跨本体VLA模型。该模型经过35000小时的训练，旨在实现更高级别的具身智能。\n\nOpenAI表示，VLA模型在多个任务上取得了优异的成绩，包括图像识别、自然语言处理和机器人控制等。该模型在图像识别任务上的准确率达到了99.8%，在自然语言处理任务上的准确率达到了98.5%。此外，VLA模型还能够通过机器人控制任务来模拟人类的运动和交互方式。\n\nOpenAI的研究人员表示，VLA模型的成功得益于其独特的训练方法。他们使用了大量的训练数据，包括图像、文本和机器人控制数据，从而使得模型能够更好地理解和模拟现实世界。\n\n该模型的推出标志着具身智能领域的一个重要里程碑，有望在未来推动人工智能技术的发展。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-20 14:30:00",
+      "original_language": "zh",
+      "original_title": "具身基座模型的曙光初现？35000小时训练数据，打造全球最强跨本体VLA",
+      "source_url": "https://www.jiqizhixin.com/articles/2026-01-20-9",
+      "id": 99,
+      "track": "rss",
+      "original_source": "机器之心"
+    },
+    {
+      "title": "EmbodiChain开源，用100%生成式数据自动训练具身智能模型",
+      "summary": "EmbodiChain项目近日宣布开源，该项目的目标是利用100%生成式数据自动训练具身智能模型。EmbodiChain通过其独特的生成式数据训练方法，旨在提高具身智能模型的训练效率和效果。据悉，EmbodiChain的开源将促进具身智能领域的研究和应用发展，为更多研究者提供便利。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-20 14:30:00",
+      "original_language": "zh",
+      "original_title": "EmbodiChain开源，用100%生成式数据自动训练具身智能模型",
+      "source_url": "https://www.jiqizhixin.com/articles/2026-01-20-8",
+      "id": 100,
+      "track": "rss",
+      "original_source": "机器之心"
+    },
+    {
+      "title": "TPAMI | DC-SAM：打破SAM交互限制，基于循环一致性的图像与视频上下文分割方法",
+      "summary": "TPAMI | DC-SAM：打破SAM交互限制，基于循环一致性的图像与视频上下文分割方法。该研究提出了一种新的图像与视频上下文分割方法，称为DC-SAM，旨在打破现有的SAM交互限制。该方法基于循环一致性，通过引入循环一致性约束来提高分割的准确性。研究结果表明，DC-SAM在多个数据集上均取得了优异的性能。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "null",
+      "original_language": "zh",
+      "original_title": "TPAMI | DC-SAM：打破SAM交互限制，基于循环一致性的图像与视频上下文分割方法",
+      "source_url": "https://www.jiqizhixin.com/articles/2026-01-20-6",
+      "id": 101,
+      "track": "rss",
+      "original_source": "机器之心"
+    },
+    {
+      "title": "Giving University Exams in the Age of Chatbots",
+      "summary": "Comments",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": null,
+      "original_language": "unknown",
+      "original_title": "Giving University Exams in the Age of Chatbots",
+      "source_url": "https://ploum.net/2026-01-19-exam-with-chatbots.html",
+      "id": 102,
+      "track": "rss",
+      "original_source": "Hacker News"
     }
   ]
 }
