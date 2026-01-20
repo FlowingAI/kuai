@@ -1,7 +1,7 @@
 {
   "category": "AI编程工具进化",
-  "last_update": "2026-01-20 13:43:23 (北京时间)",
-  "total_count": 61,
+  "last_update": "2026-01-20 17:49:34 (北京时间)",
+  "total_count": 67,
   "news": [
     {
       "title": "谷歌新发现：DeepSeek推理分裂出多重人格，左右脑互搏越来越聪明",
@@ -789,6 +789,84 @@
       "original_title": "WAIC首次“南下”：沪港握手2026“WAIC UP!全球年终盛会”，共揭AI对话新篇",
       "source_url": "https://www.qbitai.com/2026/01/370402.html",
       "id": 61,
+      "track": "rss",
+      "original_source": "量子位"
+    },
+    {
+      "title": "x86 前缀和逃逸操作码流程图",
+      "summary": "Comments\n",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-20 17:34:42",
+      "original_language": "en",
+      "original_title": "x86 prefixes and escape opcodes flowchart",
+      "source_url": "https://soc.me/interfaces/x86-prefixes-and-escape-opcodes-flowchart.html",
+      "id": 62,
+      "track": "rss",
+      "original_source": "Hacker News"
+    },
+    {
+      "title": "Shadcn单选按钮的过度复杂性",
+      "summary": "Comments\n\n新闻内容链接：https://paulmakeswebsites.com/writing/shadcn-radio-button/\n\n请注意，由于新闻内容未提供，以下内容仅为示例翻译。\n\n评论内容：\n\n- 'This radio button is too complex for what it's supposed to do.'\n- 'I think the design of the Shadcn radio button could be simplified to improve user experience.'\n- 'The complexity of the Shadcn radio button is a good example of overengineering.'",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-20 17:33:53",
+      "original_language": "en",
+      "original_title": "The Overcomplexity of the Shadcn Radio Button",
+      "source_url": "https://paulmakeswebsites.com/writing/shadcn-radio-button/",
+      "id": 63,
+      "track": "rss",
+      "original_source": "Hacker News"
+    },
+    {
+      "title": "美团卡姐接管无人车，MIT博士离职创业具身智能",
+      "summary": "美团卡姐接管无人车，MIT博士离职创业具身智能。近日，美团宣布卡姐将接管无人车项目，旨在提升无人车服务质量和用户体验。同时，MIT博士离职创业，专注于具身智能领域的研究和应用。据悉，该项目旨在通过结合人工智能和机器人技术，实现更加智能化的服务。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-20 17:33:06",
+      "original_language": "zh",
+      "original_title": "美团卡姐接管无人车，MIT博士离职创业具身智能",
+      "source_url": "https://www.qbitai.com/2026/01/370599.html",
+      "id": 64,
+      "track": "rss",
+      "original_source": "量子位"
+    },
+    {
+      "title": "在聊天机器人时代进行大学考试",
+      "summary": "Comments\n\n在聊天机器人时代进行大学考试是一个引人深思的话题。随着人工智能技术的不断发展，聊天机器人已经能够模仿人类的对话方式，甚至在某些领域超过了人类。这种技术进步对教育领域产生了深远的影响，尤其是对于考试制度。一些人担心，如果聊天机器人能够轻松通过考试，那么传统的考试方式可能不再适用于评估学生的真实能力。另一方面，也有人认为，利用聊天机器人进行考试可以提高考试的效率和公平性。在这个问题上，各方观点不一，但无论如何，这是一个值得深入探讨的话题。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-19 14:30:00",
+      "original_language": "en",
+      "original_title": "Giving University Exams in the Age of Chatbots",
+      "source_url": "https://ploum.net/2026-01-19-exam-with-chatbots.html",
+      "id": 65,
+      "track": "rss",
+      "original_source": "Hacker News"
+    },
+    {
+      "title": "华为车载冲刺IPO：供应5G，上汽奇瑞吉利东风都是客户",
+      "summary": "华为车载业务正在冲刺IPO，其5G技术已获得上汽、奇瑞、吉利、东风等汽车制造商的认可。中电科科学家团队带领的华为车载业务，在5G通信领域取得了显著进展，为汽车行业提供了强大的技术支持。新闻链接：https://www.qbitai.com/2026/01/370618.html",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-16 14:30:00",
+      "original_language": "zh",
+      "original_title": "“车载华为”冲刺IPO：供应5G，上汽奇瑞吉利东风都是客户",
+      "source_url": "https://www.qbitai.com/2026/01/370618.html",
+      "id": 66,
+      "track": "rss",
+      "original_source": "量子位"
+    },
+    {
+      "title": "首个真正“能用”的LLM游戏Agent诞生！可实时高频决策，思维链还全程可见",
+      "summary": "全新游戏AI范式，实战堪比高分玩家。首个真正“能用”的LLM游戏Agent诞生！该Agent可实时高频决策，其思维链全程可见。这是游戏AI领域的一项重大突破，标志着游戏AI迈向了一个新的阶段。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-16 14:30:00",
+      "original_language": "zh",
+      "original_title": "首个真正“能用”的LLM游戏Agent诞生！可实时高频决策，思维链还全程可见",
+      "source_url": "https://www.qbitai.com/2026/01/370494.html",
+      "id": 67,
       "track": "rss",
       "original_source": "量子位"
     }
