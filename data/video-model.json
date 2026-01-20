@@ -1,7 +1,7 @@
 {
   "category": "视频模型动态",
-  "last_update": "2026-01-20 11:18:52 (北京时间)",
-  "total_count": 39,
+  "last_update": "2026-01-20 13:43:23 (北京时间)",
+  "total_count": 42,
   "news": [
     {
       "title": "人形机器人建造飞机？空中客车正在探索这一想法",
@@ -505,6 +505,45 @@
       "id": 39,
       "track": "rss",
       "original_source": "量子位"
+    },
+    {
+      "title": "WAIC首次“南下”：沪港握手2026“WAIC UP!全球年终盛会”，共揭AI对话新篇",
+      "summary": "从认知到行动、从个体到生态的全面唤醒",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "null",
+      "original_language": "zh",
+      "original_title": "WAIC首次“南下”：沪港握手2026“WAIC UP!全球年终盛会”，共揭AI对话新篇",
+      "source_url": "https://www.qbitai.com/2026/01/370402.html",
+      "id": 40,
+      "track": "rss",
+      "original_source": "量子位"
+    },
+    {
+      "title": "华硕暂停2026年所有智能手机发布，Zenfone和ROG Phone未来不确定",
+      "summary": "华硕已暂停2026年的智能手机开发，暂停推出新的Zenfone和ROG型号，因为它转向AI硬件，这使得其移动产品线的未来变得不确定。\n\n原文链接：[Digital Trends](https://www.digitaltrends.com/phones/asus-halts-all-smartphone-releases-for-2026-future-of-zenfone-and-rog-phone-uncertain/)",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-20 13:28:11",
+      "original_language": "en",
+      "original_title": "Asus halts all smartphone releases for 2026, future of Zenfone and ROG Phone uncertain",
+      "source_url": "https://www.digitaltrends.com/phones/asus-halts-all-smartphone-releases-for-2026-future-of-zenfone-and-rog-phone-uncertain/",
+      "id": 41,
+      "track": "rss",
+      "original_source": "Digital Trends"
+    },
+    {
+      "title": "滴滴 AI 叫车，用了几天我发现这才是打车该有的样子",
+      "summary": "在解决效率之外，所能提供的最高级、最有人情味的价值。\n\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n\n爱范儿 |\n原文链接 ·\n查看评论 ·\n新浪微博\n新闻链接：https://www.ifanr.com/1651778?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-20 13:27:17",
+      "original_language": "zh",
+      "original_title": "滴滴 AI 叫车，用了几天我发现这才是打车该有的样子",
+      "source_url": "https://www.ifanr.com/1651778?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "id": 42,
+      "track": "rss",
+      "original_source": "爱范儿"
     }
   ]
 }
