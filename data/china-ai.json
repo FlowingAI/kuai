@@ -1,8 +1,21 @@
 {
   "category": "中国AI动态",
-  "last_update": "2026-01-21 21:23:00 (北京时间)",
-  "total_count": 110,
+  "last_update": "2026-01-22 01:21:35 (北京时间)",
+  "total_count": 111,
   "news": [
+    {
+      "title": "铭镓半导体再获近4亿元融资，将主要用于6英寸氧化镓衬底量产",
+      "summary": "氧化镓作为新一代超宽禁带半导体材料，在高压、高功率及高频应用中具备显著优势。铭镓半导体近日宣布获得近4亿元人民币的融资，这笔资金将主要用于6英寸氧化镓衬底的量产。据悉，铭镓半导体致力于研发和生产氧化镓半导体器件，此次融资将加速其产品研发和市场推广。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-22 01:09:57",
+      "original_language": "zh",
+      "original_title": "铭镓半导体再获近4亿元融资，将主要用于6英寸氧化镓衬底量产｜融资速递",
+      "source_url": "https://www.tmtpost.com/7850824.html",
+      "id": 1,
+      "track": "rss",
+      "original_source": "钛媒体"
+    },
     {
       "title": "当AI成为了「杀猪盘」的新外衣",
       "summary": "当人工智能成为新时代的炼金术，一群对技术既狂热又无知的普通人，成了最理想的猎物。",
@@ -12,7 +25,7 @@
       "original_language": "zh",
       "original_title": "当AI成为了「杀猪盘」的新外衣",
       "source_url": "https://www.tmtpost.com/7850736.html",
-      "id": 1,
+      "id": 2,
       "track": "rss",
       "original_source": "钛媒体"
     },
@@ -25,7 +38,7 @@
       "original_language": "zh",
       "original_title": "后视镜都不要了！特斯拉Robotaxi路测被拍，新增摄像头清洁装置",
       "source_url": "https://www.qbitai.com/2026/01/370859.html",
-      "id": 2,
+      "id": 3,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -38,7 +51,7 @@
       "original_language": "zh",
       "original_title": "端侧AI下半场，从跑起来到会思考",
       "source_url": "https://www.tmtpost.com/7849609.html",
-      "id": 3,
+      "id": 4,
       "track": "rss",
       "original_source": "钛媒体"
     },
@@ -51,7 +64,7 @@
       "original_language": "zh",
       "original_title": "别再给我推AI音乐了",
       "source_url": "https://www.tmtpost.com/7849590.html",
-      "id": 4,
+      "id": 5,
       "track": "rss",
       "original_source": "钛媒体"
     },
@@ -64,7 +77,7 @@
       "original_language": "zh",
       "original_title": "英伟达及其他19只值得逢低买入的科技股",
       "source_url": "https://www.tmtpost.com/7850071.html",
-      "id": 5,
+      "id": 6,
       "track": "rss",
       "original_source": "钛媒体"
     },
@@ -77,7 +90,7 @@
       "original_language": "zh",
       "original_title": "MiniMax把自家“实习生”放出来了！",
       "source_url": "https://www.qbitai.com/2026/01/370720.html",
-      "id": 6,
+      "id": 7,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -90,7 +103,7 @@
       "original_language": "zh",
       "original_title": "晶核能源融资数千万元，专攻固态电池“固固界面”难题丨36氪首发",
       "source_url": "https://36kr.com/p/3647590832508808?f=rss",
-      "id": 7,
+      "id": 8,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -103,7 +116,7 @@
       "original_language": "zh",
       "original_title": "开年的AI狂欢，是利好还是隐忧？",
       "source_url": "https://www.tmtpost.com/7849179.html",
-      "id": 8,
+      "id": 9,
       "track": "rss",
       "original_source": "钛媒体"
     },
@@ -116,7 +129,7 @@
       "original_language": "zh",
       "original_title": "2026，物理AI的六大趋势：新物种大爆发，淘汰赛开启",
       "source_url": "https://www.tmtpost.com/7844541.html",
-      "id": 9,
+      "id": 10,
       "track": "rss",
       "original_source": "钛媒体"
     },
@@ -129,7 +142,7 @@
       "original_language": "zh",
       "original_title": "豆包、千问与Kimi，站在AI Agent的岔路口",
       "source_url": "https://www.tmtpost.com/7848425.html",
-      "id": 10,
+      "id": 11,
       "track": "rss",
       "original_source": "钛媒体"
     },
@@ -142,7 +155,7 @@
       "original_language": "zh",
       "original_title": "这款让丁磊都紧张的游戏，上新AI大模型玩法",
       "source_url": "https://www.tmtpost.com/7848091.html",
-      "id": 11,
+      "id": 12,
       "track": "rss",
       "original_source": "钛媒体"
     },
@@ -155,7 +168,7 @@
       "original_language": "zh",
       "original_title": "王小川“怼天怼地”，百川智能的“腰杆”够硬吗？",
       "source_url": "https://www.tmtpost.com/7848095.html",
-      "id": 12,
+      "id": 13,
       "track": "rss",
       "original_source": "钛媒体"
     },
@@ -168,7 +181,7 @@
       "original_language": "zh",
       "original_title": "氪星晚报 ｜飞书史上第一次硬件合作，和安克创新做了一款“AI录音豆”；良品铺子2025年预计净亏损1.2亿至1.6亿元；马斯克称AI5将是一款“性能非常强大”的芯片",
       "source_url": "https://36kr.com/p/3646220101701256?f=rss",
-      "id": 13,
+      "id": 14,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -181,7 +194,7 @@
       "original_language": "zh",
       "original_title": "哈工大系闯出人形机器人黑马：成立不到一年，全栈开源3m/s原型机，小米商汤都投了",
       "source_url": "https://www.qbitai.com/2026/01/370355.html",
-      "id": 14,
+      "id": 15,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -194,7 +207,7 @@
       "original_language": "zh",
       "original_title": "ARR达2.4亿美元，可灵能带快手起飞吗？",
       "source_url": "https://www.tmtpost.com/7847119.html",
-      "id": 15,
+      "id": 16,
       "track": "rss",
       "original_source": "钛媒体"
     },
@@ -207,7 +220,7 @@
       "original_language": "zh",
       "original_title": "千问： AI互联网时代，阿里要卷土重来？",
       "source_url": "https://www.tmtpost.com/7847147.html",
-      "id": 16,
+      "id": 17,
       "track": "rss",
       "original_source": "钛媒体"
     },
@@ -220,7 +233,7 @@
       "original_language": "zh",
       "original_title": "AI应用爆发前夜，大模型等待黎明",
       "source_url": "https://www.tmtpost.com/7846728.html",
-      "id": 17,
+      "id": 18,
       "track": "rss",
       "original_source": "钛媒体"
     },
@@ -233,7 +246,7 @@
       "original_language": "zh",
       "original_title": "零克云发布AI托管平台破解“工程鸿沟”｜公司动态",
       "source_url": "https://www.tmtpost.com/7846680.html",
-      "id": 18,
+      "id": 19,
       "track": "rss",
       "original_source": "钛媒体"
     },
@@ -246,7 +259,7 @@
       "original_language": "zh",
       "original_title": "微软谷歌正在大力招「电工」",
       "source_url": "https://www.qbitai.com/2026/01/370026.html",
-      "id": 19,
+      "id": 20,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -259,7 +272,7 @@
       "original_language": "zh",
       "original_title": "DeepSeek连发两篇论文背后，原来藏着一场学术接力",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-16-2",
-      "id": 20
+      "id": 21
     },
     {
       "title": "不用拍的广告片？深度拆解美团闪购AIGC营销新案例",
@@ -270,7 +283,7 @@
       "original_language": "zh",
       "original_title": "不用拍的广告片？深度拆解美团闪购AIGC营销新案例",
       "source_url": "https://www.qbitai.com/2026/01/369884.html",
-      "id": 21,
+      "id": 22,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -283,7 +296,7 @@
       "original_language": "zh",
       "original_title": "腾讯云ADP国内首发AI原生Widget：一句话秒级生成交互组件，重塑Agent使用体验",
       "source_url": "https://www.qbitai.com/2026/01/370069.html",
-      "id": 22,
+      "id": 23,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -296,7 +309,7 @@
       "original_language": "zh",
       "original_title": "支付宝携手千问App、淘宝闪购等发布中国首个AI商业协议ACT",
       "source_url": "https://www.qbitai.com/2026/01/369878.html",
-      "id": 23,
+      "id": 24,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -309,7 +322,7 @@
       "original_language": "zh",
       "original_title": "滴滴给我发了个赛博助理，专管出行的那种",
       "source_url": "https://www.qbitai.com/2026/01/369738.html",
-      "id": 24,
+      "id": 25,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -322,7 +335,7 @@
       "original_language": "zh",
       "original_title": "从技术自信到产业爆发：2025十大趋势，见证中国产业的「破局与共生」",
       "source_url": "https://www.tmtpost.com/7847492.html",
-      "id": 25,
+      "id": 26,
       "track": "rss",
       "original_source": "钛媒体"
     },
@@ -335,7 +348,7 @@
       "original_language": "zh",
       "original_title": "AI手搓的Cowork“李鬼”版跟“李逵”一样能打，还免费？",
       "source_url": "https://www.tmtpost.com/7847558.html",
-      "id": 26,
+      "id": 27,
       "track": "rss",
       "original_source": "钛媒体"
     },
@@ -348,7 +361,7 @@
       "original_language": "zh",
       "original_title": "打造最低幻觉率医学AI助手 阿里健康上线“氢离子”",
       "source_url": "https://www.qbitai.com/2026/01/370192.html",
-      "id": 27,
+      "id": 28,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -361,7 +374,7 @@
       "original_language": "zh",
       "original_title": "李飞飞的World Labs联手光轮智能，具身智能进入评测驱动时代！",
       "source_url": "https://www.qbitai.com/2026/01/370217.html",
-      "id": 28,
+      "id": 29,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -374,7 +387,7 @@
       "original_language": "zh",
       "original_title": "飞书史上第一次硬件合作，和安克创新做了一款「AI录音豆」",
       "source_url": "https://36kr.com/p/3645215315267202?f=rss",
-      "id": 29,
+      "id": 30,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -387,7 +400,7 @@
       "original_language": "zh",
       "original_title": "马斯克最大算力中心建成了：全球首个GW级超算集群，再创世界纪录",
       "source_url": "https://www.qbitai.com/2026/01/370077.html",
-      "id": 30,
+      "id": 31,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -400,7 +413,7 @@
       "original_language": "zh",
       "original_title": "机器人终于能用明白洗碗机了｜UC伯克利新研究",
       "source_url": "https://www.qbitai.com/2026/01/370136.html",
-      "id": 31,
+      "id": 32,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -413,7 +426,7 @@
       "original_language": "zh",
       "original_title": "真·开外挂！MIT新研究：架构0改动，让大模型解锁千万级上下文",
       "source_url": "https://www.qbitai.com/2026/01/370196.html",
-      "id": 32,
+      "id": 33,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -426,7 +439,7 @@
       "original_language": "zh",
       "original_title": "科大讯飞推出SuperAgent应用框架，驱动营销关系演进至B2A2C丨最前线",
       "source_url": "https://36kr.com/p/3642948995862405?f=rss",
-      "id": 33,
+      "id": 34,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -439,7 +452,7 @@
       "original_language": "zh",
       "original_title": "第二家2万亿AI独角兽即将诞生！微软英伟达红杉押注",
       "source_url": "https://zhidx.com/p/529430.html",
-      "id": 34,
+      "id": 35,
       "track": "rss",
       "original_source": "智东西"
     },
@@ -452,7 +465,7 @@
       "original_language": "zh",
       "original_title": "海信发布RGB-Mini LED旗舰电视！全自研RGB真彩背光，9999元起",
       "source_url": "https://zhidx.com/p/529554.html",
-      "id": 35,
+      "id": 36,
       "track": "rss",
       "original_source": "智东西"
     },
@@ -465,7 +478,7 @@
       "original_language": "zh",
       "original_title": "硅谷AI大佬迁徙图谱：32人易职，有人反复横跳，苹果最伤",
       "source_url": "https://zhidx.com/p/529518.html",
-      "id": 36,
+      "id": 37,
       "track": "rss",
       "original_source": "智东西"
     },
@@ -478,7 +491,7 @@
       "original_language": "zh",
       "original_title": "【数智周报】 谷歌DeepMind CEO：中国的AI模型仅落后美国几个月；DeepSeek开源相关记忆模块Engram；微软在人工智能上的支出将达到5亿美元；美国放宽对英伟达H200芯片出口中国的管制",
       "source_url": "https://www.tmtpost.com/7845741.html",
-      "id": 37,
+      "id": 38,
       "track": "rss",
       "original_source": "钛媒体"
     },
@@ -491,7 +504,7 @@
       "original_language": "zh",
       "original_title": "智谱1000亿 ,  清华赚翻了",
       "source_url": "https://36kr.com/p/3644717569625990?f=rss",
-      "id": 38,
+      "id": 39,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -504,7 +517,7 @@
       "original_language": "zh",
       "original_title": "氪星晚报｜西贝公关副总裁宋宣已离职；大麦娱乐宣布进军博物馆赛道；叮咚买菜江苏盐城开仓",
       "source_url": "https://36kr.com/p/3641990475140738?f=rss",
-      "id": 39,
+      "id": 40,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -517,7 +530,7 @@
       "original_language": "zh",
       "original_title": "一笔交易，市值涨了70亿",
       "source_url": "https://36kr.com/p/3644606458252930?f=rss",
-      "id": 40,
+      "id": 41,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -530,7 +543,7 @@
       "original_language": "zh",
       "original_title": "OpenAI正式进军脑机接口，投了自家CEO阿尔特曼的新公司",
       "source_url": "https://zhidx.com/p/529327.html",
-      "id": 41,
+      "id": 42,
       "track": "rss",
       "original_source": "智东西"
     },
@@ -543,7 +556,7 @@
       "original_language": "zh",
       "original_title": "iQOO中端机用上豆包手机同款“AI操控”，搭第五代骁龙8旗舰芯，2399元起",
       "source_url": "https://zhidx.com/p/529205.html",
-      "id": 42,
+      "id": 43,
       "track": "rss",
       "original_source": "智东西"
     },
@@ -556,7 +569,7 @@
       "original_language": "zh",
       "original_title": "谷歌Gemini重磅升级，上线”苹果智能“同款功能，手机个人信息全能读",
       "source_url": "https://zhidx.com/p/529157.html",
-      "id": 43,
+      "id": 44,
       "track": "rss",
       "original_source": "智东西"
     },
@@ -569,7 +582,7 @@
       "original_language": "zh",
       "original_title": "ChatGPT发了个“谷歌翻译”，但我只觉得多余...",
       "source_url": "https://zhidx.com/p/529124.html",
-      "id": 44,
+      "id": 45,
       "track": "rss",
       "original_source": "智东西"
     },
@@ -582,7 +595,7 @@
       "original_language": "zh",
       "original_title": "联发科再发双芯，3nm天玑9500s来了，小米、vivo、OPPO首批发布",
       "source_url": "https://zhidx.com/p/529107.html",
-      "id": 45,
+      "id": 46,
       "track": "rss",
       "original_source": "智东西"
     },
@@ -595,7 +608,7 @@
       "original_language": "zh",
       "original_title": "今天，阿里园区被AI点的奶茶包围了",
       "source_url": "https://zhidx.com/p/528993.html",
-      "id": 46,
+      "id": 47,
       "track": "rss",
       "original_source": "智东西"
     },
@@ -608,7 +621,7 @@
       "original_language": "zh",
       "original_title": "头部物流公司拿下浙江投资，要用AI完成中大件门到门履约｜36氪首发",
       "source_url": "https://36kr.com/p/3641918009937540?f=rss",
-      "id": 47,
+      "id": 48,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -621,7 +634,7 @@
       "original_language": "unknown",
       "original_title": "9点1氪丨贾国龙罗永浩微博被禁言，罗永浩朋友圈最新发声；李湘多平台账号被禁止关注；特朗普拿到诺贝尔和平奖奖章",
       "source_url": "https://36kr.com/p/3642816248172161?f=rss",
-      "id": 48,
+      "id": 49,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -634,7 +647,7 @@
       "original_language": "unknown",
       "original_title": "中国的AI应用创业者正在换道领跑 ｜ AI火花开放麦",
       "source_url": "https://36kr.com/p/3641730074300038?f=rss",
-      "id": 49,
+      "id": 50,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -647,7 +660,7 @@
       "original_language": "unknown",
       "original_title": "B站也推出了新的广告+AI工具，未来会从“开环”走向“闭环”",
       "source_url": "https://36kr.com/p/3640520932560006?f=rss",
-      "id": 50,
+      "id": 51,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -660,7 +673,7 @@
       "original_language": "unknown",
       "original_title": "两年市值翻了三倍，运动品牌最意外的赢家出现了",
       "source_url": "https://36kr.com/p/3640240794225793?f=rss",
-      "id": 51,
+      "id": 52,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -673,7 +686,7 @@
       "original_language": "unknown",
       "original_title": "千问诞生后，负责人吴嘉首次回应15个关键问题",
       "source_url": "https://36kr.com/p/3641479608881030?f=rss",
-      "id": 52,
+      "id": 53,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -686,7 +699,7 @@
       "original_language": "unknown",
       "original_title": "裁员50%后，他靠AI编程大逆袭！ARR破亿，估值直冲600亿",
       "source_url": "https://zhidx.com/p/529226.html",
-      "id": 53,
+      "id": 54,
       "track": "rss",
       "original_source": "智东西"
     },
@@ -699,7 +712,7 @@
       "original_language": "zh",
       "original_title": "或达3000万副！Meta猛增AI眼镜产能，苹果入局小扎有点怕？",
       "source_url": "https://zhidx.com/p/529070.html",
-      "id": 54,
+      "id": 55,
       "track": "rss",
       "original_source": "智东西"
     },
@@ -712,7 +725,7 @@
       "original_language": "zh",
       "original_title": "2026，AI音乐跃迁元年？",
       "source_url": "https://www.tmtpost.com/7846436.html",
-      "id": 55,
+      "id": 56,
       "track": "rss",
       "original_source": "钛媒体"
     },
@@ -725,7 +738,7 @@
       "original_language": "zh",
       "original_title": "仅用一周时间，谷歌就让OpenAI认清现实",
       "source_url": "https://www.tmtpost.com/7846324.html",
-      "id": 56,
+      "id": 57,
       "track": "rss",
       "original_source": "钛媒体"
     },
@@ -738,7 +751,7 @@
       "original_language": "unknown",
       "original_title": "猎头黄仁勋的2025：高管从巨头挖，干活钟爱华人创业团队",
       "source_url": "https://36kr.com/p/3644499135221632?f=rss",
-      "id": 57,
+      "id": 58,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -751,7 +764,7 @@
       "original_language": "unknown",
       "original_title": "80后最爱喝的啤酒 ,  要破产了？",
       "source_url": "https://36kr.com/p/3644485919395718?f=rss",
-      "id": 58,
+      "id": 59,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -764,7 +777,7 @@
       "original_language": "unknown",
       "original_title": "8300亿美金独角兽不得不试水“广告”，AI讲不出新故事？",
       "source_url": "https://36kr.com/p/3644462576995970?f=rss",
-      "id": 59,
+      "id": 60,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -777,7 +790,7 @@
       "original_language": "unknown",
       "original_title": "新能源车的“硬核”战事，2026年卷向何处？",
       "source_url": "https://36kr.com/p/3644455846514304?f=rss",
-      "id": 60,
+      "id": 61,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -790,7 +803,7 @@
       "original_language": "unknown",
       "original_title": "前第四范式总裁创业，用营销AI Agent解构内容社交平台的“营销玄学”，已获千万元融资",
       "source_url": "https://36kr.com/p/3644947937972103?f=rss",
-      "id": 61,
+      "id": 62,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -803,7 +816,7 @@
       "original_language": "zh",
       "original_title": "全球首个负载100斤的真实持续干活机器人，来自银河通用",
       "source_url": "https://www.qbitai.com/2026/01/370169.html",
-      "id": 62,
+      "id": 63,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -816,7 +829,7 @@
       "original_language": "zh",
       "original_title": "加速推进“Robot for AI”战略落地，动易科技完成亿元级天使++轮融资，天使轮累计融资额超2亿元",
       "source_url": "https://www.qbitai.com/2026/01/370277.html",
-      "id": 63,
+      "id": 64,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -829,7 +842,7 @@
       "original_language": "zh",
       "original_title": "从“买算力”到“买人”：Humans&获得4.8亿美元种子轮，英伟达、贝索斯联手投资",
       "source_url": "https://www.tmtpost.com/7850502.html",
-      "id": 64,
+      "id": 65,
       "track": "rss",
       "original_source": "钛媒体"
     },
@@ -842,7 +855,7 @@
       "original_language": "zh",
       "original_title": "高瓴、智元机器人联手投资，小米前高管王腾创立AI睡眠公司“今日宜休”",
       "source_url": "https://www.tmtpost.com/7850537.html",
-      "id": 65,
+      "id": 66,
       "track": "rss",
       "original_source": "钛媒体"
     },
@@ -855,7 +868,7 @@
       "original_language": "zh",
       "original_title": "大厂“卷”向录音笔：一场围绕AI与数据入口的生态暗战",
       "source_url": "https://www.tmtpost.com/7850118.html",
-      "id": 66,
+      "id": 67,
       "track": "rss",
       "original_source": "钛媒体"
     },
@@ -868,7 +881,7 @@
       "original_language": "zh",
       "original_title": "经历一轮火热的AI行情后，阿里巴巴股价下跌，投资者正被这两大担忧所困扰",
       "source_url": "https://www.tmtpost.com/7848696.html",
-      "id": 67,
+      "id": 68,
       "track": "rss",
       "original_source": "钛媒体"
     },
@@ -881,7 +894,7 @@
       "original_language": "zh",
       "original_title": "券商扶植的AI炒股，是新机遇还是“新陷阱”？",
       "source_url": "https://www.tmtpost.com/7847632.html",
-      "id": 68,
+      "id": 69,
       "track": "rss",
       "original_source": "钛媒体"
     },
@@ -894,7 +907,7 @@
       "original_language": "zh",
       "original_title": "2026年，AI由“狂热”转向“务实”",
       "source_url": "https://www.tmtpost.com/7847522.html",
-      "id": 69,
+      "id": 70,
       "track": "rss",
       "original_source": "钛媒体"
     },
@@ -907,7 +920,7 @@
       "original_language": "zh",
       "original_title": "苹果谷歌握手AI背后：国产手机为何不敢革自己的命？",
       "source_url": "https://www.tmtpost.com/7847723.html",
-      "id": 70,
+      "id": 71,
       "track": "rss",
       "original_source": "钛媒体"
     },
@@ -920,7 +933,7 @@
       "original_language": "zh",
       "original_title": "AI手机走到分岔口：巨头们正在重注Agent逻辑",
       "source_url": "https://www.tmtpost.com/7847824.html",
-      "id": 71,
+      "id": 72,
       "track": "rss",
       "original_source": "钛媒体"
     },
@@ -933,7 +946,7 @@
       "original_language": "zh",
       "original_title": "安克创新与飞书联合发布“安克 AI 录音豆” ,手指可握仅重10克",
       "source_url": "https://www.qbitai.com/2026/01/370245.html",
-      "id": 72,
+      "id": 73,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -946,7 +959,7 @@
       "original_language": "zh",
       "original_title": "AI加速普及，数据库为何成为新底座？",
       "source_url": "https://36kr.com/p/3646024739638914?f=rss",
-      "id": 73,
+      "id": 74,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -959,7 +972,7 @@
       "original_language": "zh",
       "original_title": "荣耀发布Magic8系列两款新机型，让Air机型不再“妥协”丨最前线",
       "source_url": "https://36kr.com/p/3646450668506758?f=rss",
-      "id": 74,
+      "id": 75,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -972,7 +985,7 @@
       "original_language": "unknown",
       "original_title": "日均停留近2小时，这个AI内容产品拿捏了县城青少年",
       "source_url": "https://36kr.com/p/3646033157984136?f=rss",
-      "id": 75,
+      "id": 76,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -985,7 +998,7 @@
       "original_language": "unknown",
       "original_title": "8点1氪丨贾国龙再发声：“西贝从来不存在两岁的西蓝花”；特朗普宣布将对欧洲8国加征关税；铁路12306平台推出旅客误购限时免费退票服务",
       "source_url": "https://36kr.com/p/3645586129964675?f=rss",
-      "id": 76,
+      "id": 77,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -998,7 +1011,7 @@
       "original_language": "unknown",
       "original_title": "8点1氪丨SK海力士向全体员工发放人均超64万元绩效奖金；深圳水贝市场推出投资铜条；茶颜悦色回应在北上深开店传闻",
       "source_url": "https://36kr.com/p/3647003519864708?f=rss",
-      "id": 77,
+      "id": 78,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -1011,7 +1024,7 @@
       "original_language": "zh",
       "original_title": "WAIC首次“南下”：沪港握手2026“WAIC UP!全球年终盛会”，共揭AI对话新篇",
       "source_url": "https://www.qbitai.com/2026/01/370402.html",
-      "id": 78,
+      "id": 79,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -1024,7 +1037,7 @@
       "original_language": "zh",
       "original_title": "纳德拉达沃斯发出警示：GDP增长将与“每美元每瓦特产生的算力”直接相关",
       "source_url": "https://www.tmtpost.com/7849618.html",
-      "id": 79,
+      "id": 80,
       "track": "rss",
       "original_source": "钛媒体"
     },
@@ -1037,7 +1050,7 @@
       "original_language": "zh",
       "original_title": "美团卡姐接管无人车，MIT博士离职创业具身智能",
       "source_url": "https://www.qbitai.com/2026/01/370599.html",
-      "id": 80,
+      "id": 81,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -1050,7 +1063,7 @@
       "original_language": "zh",
       "original_title": "智谱新模型也用DeepSeek的MLA，苹果M5就能跑",
       "source_url": "https://www.qbitai.com/2026/01/370652.html",
-      "id": 81,
+      "id": 82,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -1063,7 +1076,7 @@
       "original_language": "zh",
       "original_title": "豆包的新身份曝光：在国际艺术展当起了“AI讲解员”",
       "source_url": "https://www.qbitai.com/2026/01/370665.html",
-      "id": 82,
+      "id": 83,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -1076,7 +1089,7 @@
       "original_language": "zh",
       "original_title": "第28届高交会3E亚洲消费电子展招展工作今日正式启动",
       "source_url": "https://www.tmtpost.com/7849163.html",
-      "id": 83,
+      "id": 84,
       "track": "rss",
       "original_source": "钛媒体"
     },
@@ -1089,7 +1102,7 @@
       "original_language": "zh",
       "original_title": "最神秘的机器人公司，浮出水面",
       "source_url": "https://36kr.com/p/3647460169092745?f=rss",
-      "id": 84,
+      "id": 85,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -1102,7 +1115,7 @@
       "original_language": "zh",
       "original_title": "谷歌新发现：DeepSeek推理分裂出多重人格，左右脑互搏越来越聪明",
       "source_url": "https://www.qbitai.com/2026/01/370460.html",
-      "id": 85,
+      "id": 86,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -1115,7 +1128,7 @@
       "original_language": "zh",
       "original_title": "钉钉上线AI差旅：企业免垫资，员工免报销，AI帮比价",
       "source_url": "https://www.qbitai.com/2026/01/370463.html",
-      "id": 86,
+      "id": 87,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -1128,7 +1141,7 @@
       "original_language": "zh",
       "original_title": "从LED照明跨界PCB微钻，民爆光电AI风口上的战略急转｜并购一线",
       "source_url": "https://www.tmtpost.com/7848792.html",
-      "id": 87,
+      "id": 88,
       "track": "rss",
       "original_source": "钛媒体"
     },
@@ -1141,7 +1154,7 @@
       "original_language": "zh",
       "original_title": "警惕，“AI泔水”正在悄悄入侵我们的生活",
       "source_url": "https://www.tmtpost.com/7848859.html",
-      "id": 88,
+      "id": 89,
       "track": "rss",
       "original_source": "钛媒体"
     },
@@ -1154,7 +1167,7 @@
       "original_language": "zh",
       "original_title": "首个真正“能用”的LLM游戏Agent诞生！可实时高频决策，思维链还全程可见",
       "source_url": "https://www.qbitai.com/2026/01/370494.html",
-      "id": 89,
+      "id": 90,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -1167,7 +1180,7 @@
       "original_language": "zh",
       "original_title": "马斯克罕见低头：开源𝕏推荐算法，自嘲“很烂”不过未来月更",
       "source_url": "https://www.qbitai.com/2026/01/370760.html",
-      "id": 90,
+      "id": 91,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -1180,7 +1193,7 @@
       "original_language": "zh",
       "original_title": "中国团队首次在Nature子刊发布医疗AI标准，未来医生MedGPT摘得全球桂冠",
       "source_url": "https://www.qbitai.com/2026/01/370734.html",
-      "id": 91,
+      "id": 92,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -1193,7 +1206,7 @@
       "original_language": "zh",
       "original_title": "20天估值暴涨34亿！北京AI独角兽曝新融资",
       "source_url": "https://zhidx.com/p/529662.html",
-      "id": 92,
+      "id": 93,
       "track": "rss",
       "original_source": "智东西"
     },
@@ -1206,7 +1219,7 @@
       "original_language": "zh",
       "original_title": "4个月估值翻倍，AI语音独角兽冲击760亿市值",
       "source_url": "https://zhidx.com/p/529441.html",
-      "id": 93,
+      "id": 94,
       "track": "rss",
       "original_source": "智东西"
     },
@@ -1219,7 +1232,7 @@
       "original_language": "zh",
       "original_title": "超2亿！阿里蚂蚁联手投了一款“能给你点奶茶的AI 3D男友”",
       "source_url": "https://zhidx.com/p/529683.html",
-      "id": 94,
+      "id": 95,
       "track": "rss",
       "original_source": "智东西"
     },
@@ -1232,7 +1245,7 @@
       "original_language": "zh",
       "original_title": "如果护肤是门科学，那它迟早会被 AI 重做一遍 | 早期项目",
       "source_url": "https://36kr.com/p/3645771583672192?f=rss",
-      "id": 95,
+      "id": 96,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -1245,7 +1258,7 @@
       "original_language": "zh",
       "original_title": "“车载华为”冲刺IPO：供应5G，上汽奇瑞吉利东风都是客户",
       "source_url": "https://www.qbitai.com/2026/01/370618.html",
-      "id": 96,
+      "id": 97,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -1258,7 +1271,7 @@
       "original_language": "zh",
       "original_title": "在手订单超千吨，乌海一期千吨级中试基地已封顶，第三代生物可降解塑料研制商「中科可蓝」完成数千万元天使+轮融资｜36氪首发",
       "source_url": "https://36kr.com/p/3647515509706372?f=rss",
-      "id": 97,
+      "id": 98,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -1271,7 +1284,7 @@
       "original_language": "zh",
       "original_title": "33亿！“AI版微信”拿下天价种子轮，黄仁勋投了",
       "source_url": "https://zhidx.com/p/529858.html",
-      "id": 98,
+      "id": 99,
       "track": "rss",
       "original_source": "智东西"
     },
@@ -1284,7 +1297,7 @@
       "original_language": "zh",
       "original_title": "代码泄密！DeepSeek下一代“王炸”模型架构曝光",
       "source_url": "https://zhidx.com/p/529874.html",
-      "id": 99,
+      "id": 100,
       "track": "rss",
       "original_source": "智东西"
     },
@@ -1297,7 +1310,7 @@
       "original_language": "zh",
       "original_title": "开源新王炸！10B多模态小模型屠榜，性能媲美20倍巨无霸",
       "source_url": "https://zhidx.com/p/529821.html",
-      "id": 100,
+      "id": 101,
       "track": "rss",
       "original_source": "智东西"
     },
@@ -1310,7 +1323,7 @@
       "original_language": "zh",
       "original_title": "完全免费！国产3B激活参数碾压20B对手，编码创作全自动",
       "source_url": "https://zhidx.com/p/529666.html",
-      "id": 101,
+      "id": 102,
       "track": "rss",
       "original_source": "智东西"
     },
@@ -1323,7 +1336,7 @@
       "original_language": "zh",
       "original_title": "氪星晚报 ｜宜家计划在五年内将其在印度的投资增加一倍，至超过22亿美元；百度文心助手月活破2亿；王腾新公司“今日宜休”完成数千万种子轮融资",
       "source_url": "https://36kr.com/p/3647666989895304?f=rss",
-      "id": 102,
+      "id": 103,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -1336,7 +1349,7 @@
       "original_language": "unknown",
       "original_title": "让设计师成为“超级个体”，「iMuse.AI」想用虚拟研发破局服装行业的同质化困境 | 早期项目",
       "source_url": "https://36kr.com/p/3646630011031426?f=rss",
-      "id": 103,
+      "id": 104,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -1349,7 +1362,7 @@
       "original_language": "unknown",
       "original_title": "叮咚买菜开到盐城，“小城消费”有多大想象力？",
       "source_url": "https://36kr.com/p/3647173421272967?f=rss",
-      "id": 104,
+      "id": 105,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -1362,7 +1375,7 @@
       "original_language": "unknown",
       "original_title": "独家对话研极微创始人：80人做到近100亿营收后，要把AI摄像头插到田间地头",
       "source_url": "https://36kr.com/p/3648364385226626?f=rss",
-      "id": 105,
+      "id": 106,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -1375,7 +1388,7 @@
       "original_language": "unknown",
       "original_title": "8点1氪丨小米通报两起汽车起火事件；嫣然基金会已筹款超2300万；信用卡分期还款能享受财政贴息",
       "source_url": "https://36kr.com/p/3648415054270338?f=rss",
-      "id": 106,
+      "id": 107,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -1388,7 +1401,7 @@
       "original_language": "unknown",
       "original_title": "新一年B站百大UP主名单发布，其中有73个都不是第一次拿奖",
       "source_url": "https://36kr.com/p/3646435522121347?f=rss",
-      "id": 107,
+      "id": 108,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -1401,7 +1414,7 @@
       "original_language": "unknown",
       "original_title": "成立3年订单额破10亿，安高特电用“半导体思维”重塑固态电池 | 水下项目",
       "source_url": "https://36kr.com/p/3648784093404553?f=rss",
-      "id": 108,
+      "id": 109,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -1414,7 +1427,7 @@
       "original_language": "unknown",
       "original_title": "60多只南航流浪猫，从此有了「电子学籍」",
       "source_url": "https://36kr.com/p/3648936703942533?f=rss",
-      "id": 109,
+      "id": 110,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -1427,7 +1440,7 @@
       "original_language": "unknown",
       "original_title": "每日路演精选项目｜低空经济、商业航天、人工智能、可控核聚变等领域",
       "source_url": "https://36kr.com/p/3647487870799745?f=rss",
-      "id": 110,
+      "id": 111,
       "track": "rss",
       "original_source": "36氪"
     }
