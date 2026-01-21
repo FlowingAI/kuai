@@ -1,7 +1,7 @@
 {
   "category": "视频模型动态",
-  "last_update": "2026-01-22 02:09:30 (北京时间)",
-  "total_count": 73,
+  "last_update": "2026-01-22 05:42:26 (北京时间)",
+  "total_count": 75,
   "news": [
     {
       "title": "ChatGPT现在可以估算你的年龄，如果你未满18岁，将限制敏感内容",
@@ -947,6 +947,32 @@
       "id": 73,
       "track": "rss",
       "original_source": "量子位"
+    },
+    {
+      "title": "独家：ChatGPT正在推动Spotify上的播客发现，这是一个重大转变",
+      "summary": "对于数百万用户来说，Spotify的体验很大程度上是由算法驱动的发现。但得益于最近与ChatGPT的集成，越来越多的用户正在通过对话的方式来发现新的播客。\n\n该文章《独家：ChatGPT正在推动Spotify上的播客发现，这是一个重大转变》首先发布在Digital Trends。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-22 05:27:16",
+      "original_language": "en",
+      "original_title": "Exclusive: ChatGPT is driving podcast discovery on Spotify and it’s a big shift",
+      "source_url": "https://www.digitaltrends.com/home-theater/exclusive-chatgpt-is-driving-podcast-discovery-on-spotify-and-its-a-big-shift/",
+      "id": 74,
+      "track": "rss",
+      "original_source": "Digital Trends"
+    },
+    {
+      "title": "谷歌的Gemini现在可以帮助你通过免费模拟测试来练习考试",
+      "summary": "Gemini现在可以帮助学生使用逼真的模拟测试来准备SAT考试，超越了通用的AI问题，更接近实际标准化考试的形式和压力。\n\n该文章最初发布在Digital Trends。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-22 05:27:10",
+      "original_language": "en",
+      "original_title": "Google’s Gemini can now help you practice for exams with free mock tests",
+      "source_url": "https://www.digitaltrends.com/computing/googles-gemini-can-now-help-you-practice-for-exams-with-free-mock-tests/",
+      "id": 75,
+      "track": "rss",
+      "original_source": "Digital Trends"
     }
   ]
 }
