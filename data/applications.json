@@ -1,8 +1,86 @@
 {
   "category": "当前主流应用",
-  "last_update": "2026-01-21 13:45:00 (北京时间)",
-  "total_count": 154,
+  "last_update": "2026-01-21 17:46:48 (北京时间)",
+  "total_count": 163,
   "news": [
+    {
+      "title": "从“买算力”到“买人”：Humans&获得4.8亿美元种子轮，英伟达、贝索斯联手投资",
+      "summary": "Humans& 正在用 5 亿美金种子轮宣告：AI 的下半场，不仅是算力竞赛，更是人才主权的价格战。该轮融资由英伟达和亚马逊创始人杰夫·贝索斯共同投资，标志着对人才在人工智能领域重要性的认可。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-21 17:42:47",
+      "original_language": "zh",
+      "original_title": "从“买算力”到“买人”：Humans&获得4.8亿美元种子轮，英伟达、贝索斯联手投资",
+      "source_url": "https://www.tmtpost.com/7850502.html",
+      "id": 1,
+      "track": "rss",
+      "original_source": "钛媒体"
+    },
+    {
+      "title": "高瓴、智元机器人联手投资，小米前高管王腾创立AI睡眠公司“今日宜休”",
+      "summary": "睡眠赛道会是下一个爆品战场吗？高瓴资本和智元机器人宣布联合投资小米前高管王腾创立的AI睡眠公司“今日宜休”。该公司专注于利用人工智能技术改善人们的睡眠质量。据悉，此次投资将助力“今日宜休”在睡眠健康领域的发展。随着人们对健康生活方式的重视，睡眠健康市场正逐渐扩大，AI技术的应用有望推动这一领域的创新。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-21 17:42:28",
+      "original_language": "zh",
+      "original_title": "高瓴、智元机器人联手投资，小米前高管王腾创立AI睡眠公司“今日宜休”",
+      "source_url": "https://www.tmtpost.com/7850537.html",
+      "id": 2,
+      "track": "rss",
+      "original_source": "钛媒体"
+    },
+    {
+      "title": "大厂“卷”向录音笔：一场围绕AI与数据入口的生态暗战",
+      "summary": "当钉钉、飞书相继推出AI录音硬件，一场围绕企业办公数据入口的生态暗战悄然打响。这不仅是硬件赛道的竞争，更是大厂在AI时代争夺物理世界入口、重构企业知识生产流程的关键布局。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-21 17:42:17",
+      "original_language": "zh",
+      "original_title": "大厂“卷”向录音笔：一场围绕AI与数据入口的生态暗战",
+      "source_url": "https://www.tmtpost.com/7850118.html",
+      "id": 3,
+      "track": "rss",
+      "original_source": "钛媒体"
+    },
+    {
+      "title": "DeepMind与Anthropic达沃斯交锋：AGI逼近，5年内或有大规模失业",
+      "summary": "阿莫代坚持，今明两年会出现“在多领域达到诺贝尔奖水平、能完成人类所有认知任务”的模型。而哈萨比斯相对保守，认为到2030年代末有50%概率实现“展现人类全部认知能力”的AI。二者均认为，短期内（1-5年），AI会对初级白领工作，尤其是在编程、软件领域，造成冲击。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-21 17:42:11",
+      "original_language": "zh",
+      "original_title": "DeepMind与Anthropic达沃斯交锋：AGI逼近，5年内或有大规模失业",
+      "source_url": "https://www.tmtpost.com/7850149.html",
+      "id": 4,
+      "track": "rss",
+      "original_source": "钛媒体"
+    },
+    {
+      "title": "Congratulations! 2025 ECI年度创新人物揭晓：唯创新 以致远",
+      "summary": "创新是人类共同的语言，它跨越地理与文化的边界，将我们连接在一起，共同面对全球性挑战。从粤港澳大湾区到波罗的海沿岸，从传统制造业到前沿人工智能，这些创新者的故事汇聚成一幅多彩的全球创新图景。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-21 17:42:06",
+      "original_language": "zh",
+      "original_title": "Congratulations! 2025 ECI年度创新人物揭晓：唯创新 以致远",
+      "source_url": "https://www.tmtpost.com/7850429.html",
+      "id": 5,
+      "track": "rss",
+      "original_source": "钛媒体"
+    },
+    {
+      "title": "每日路演精选项目｜低空经济、商业航天、人工智能、可控核聚变等领域",
+      "summary": "36氪作为中国最大的新经济媒体平台，过去通过与投资机构、基金合伙人的深度合作，大幅提升企业融资机会。随着新经济不断发展的十年，36氪沉淀和积累了大量一级市场投资人资源。 \n「每日路演」是针对优质创业项目开放投资人社群、进行新型的线上闭门路演，持续为创业者与投资人两端提供深度运营服务。to 高潜创业者-高效输出公司价值亮点+与投资人进行深度交流；to 投资人与投资机构-多维度、低成本对话项目决策人+先一步看到未来，掌握一手资讯，以媒体资源与平台优势助力创投双端对接。\n本期我们精选汇总了三个社群精选路演项目信息。如果您对本文中的项目感兴趣，希望可以对接到项目方，或者如果您手中有好项目需要融资对接更多投资人，欢迎与我们联系（底部扫码添加运营官，备注项目对接）。\n对接项目请扫码添加文章底部专属运营官微信\n1.卓世航空\n【项目概要】\n融合感知、决策、控制三大系统，让无人机拥有\"眼睛\"、\"大脑\"和\"四肢\"。\n通过高性能边缘计算单元与轻量化AI模型深度融合，整套系统在机载端完成从感知到执行的全部逻辑，实现“离线可用、无人干预、自主作业\"。\n简单交互设计，傻瓜式操作：一键任务模式，语音/遥控器双控，自动归位，实现非专业人员一天内上手，真正解决消防应急场景痛点。\n【融资需求】\nPre-A 轮，3000万-5000万人民币\n【项目亮点】\n1）黄金赛道-消防应急蓝海市场：精准切入消防应急这一政策支持明确、付费能力强的刚需市场，凭借成熟产品矩阵和服务体系，已验证商业模式的有效性，展现出在应急消防领域的市场竞争力与发展潜力；\n2）15年行业深耕一线应用经验：15年无人机全流程研发及A类供应链管理经验，亿级用户系统架构能力形成强强联合，构建了\"硬件深度+软件高度\"的顶尖团队基础，为项目奠定坚实的技术与执行保障；\n3）AI赋能-具身智能实景应用：以AI智能决策系统为核心竞争力，实现火源自动识别与自主灭火，彻底改变传统消防无人机依赖飞手手动操作的落后模式，解决了行业操作复杂、效率低下的核心痛点；\n4）行业级战略布局增长路径清晰：纵向做深消防场景，横向复制至应急救援、光伏清洗等多元复杂场景，目标在三年内营收规模突破2亿元。本次融资将重点投入AI研发与订单交付，有力支撑战略目标。\n行业传统手段痛点\n卓世航空具身智能架构\n卓世航空产品矩阵\n2.觅熵科技\n【项目概要】\n觅熵科技（MizarVision）成立于2021年，总部位于杭州市。觅熵致力于变革传统的情报应用方式，用创新型的地理空间情报服务点亮“千行百业”。 觅熵对标行业情报界的“Bloomberg”，推动了中国商业航天应用与开源情报服务框架落地，其多模态传感器融合模型、情报挖掘服务已扎根于中国情报的顶尖客户体系，觅熵亦在国际崭露头角，成为中国开源情报与商业航天卫星应用的标杆品牌。\n【融资需求】\nPre-A轮，2000万人民币\n【历史股东】\n英诺天使基金、线性资本\n【项目亮点】\n1）新生蓝海市场中领先的民营情报提供商：十五五增量超数百亿的蓝海市场，觅熵作为商业航天卫星应用企业，解决方案落地直接服务国防核心客户，聚焦高价值战略目标，当前已完成多点布局，全面参与网信变革与建设过程。核心客户侧，已完成模式验证获超千万营收。\n2）实战验证的技术能力，非实验室指标：多次首发卫星情报，成功识别委内瑞拉马杜罗事件预警跟踪、实时发布佩洛西蹿台情况、监测俄乌前线阵地变化等，技术直连客户，经国防体系真实高对抗场景检验，非PPT式技术演示。\n3）技术壁垒高、技术生态独特，难以短期复制：超5年、十余种全球传感器数据输入，积累大量非公开标注数据，形成技术壁垒。已形成针对国防行业的目标情报库，构建“卫星+多源数据+AI+地缘感知”的四维融合框架。团队兼具通信、遥感、国际关系背景，技术+数据+认知的三位一体护城河，复制周期长。\n【产品简介】\n1）以“多模态数据融合 + 人工智能 + 地理空间情报”为基础，将各类多源数据进行有效整合（如卫星图像、AIS、ADS-B、GPS定位信号以及无线电数据、社交媒体动态、新闻文本等）。把这些多模态数据统一到共同时空基准之下，运用先进的AI算法和大语言模型，实现对全球开源信息的自动采集、噪声清洗以及关键点解析，最终生成易于理解的情报结果，并将结果直接推送至客户。\n2）基于多模态数据融合等先进技术，推出AirSpace开源信息数字底座、Frame地理空间情报线索服务以及Spark情报实时广播平台。这些产品能够为客户提供丰富的多类传感器数据、行业目标、和实时的地理空间情报，满足从数据融合到洞察输出的一站式需求，助力客户在众多重大事件中多次实现“快人一步”的情报发现能力，抢占情报决策先机。\n觅熵科技AirSpace开源信息数字底座\n觅熵科技Frame地理空间情报线索服务\n觅熵科技Spark情报实时广播平台\n3.瀚海聚能\n【项目概要】\n瀚海聚能是国内首家直线型场反位形可控核聚变商业公司，成立于2022年12月30日，聚焦场反位形装置及其配套的等离子体源与诊断系统软硬件研发，为未来商业聚变发电堆提供高性价比、高可靠性的核心组件和整体解决方案。同时通过聚变研发开发中子源中间产品，应用于医用同位素、BNCT、中子成像、核废料处理等领域，实现可控核聚变技术的早、中、长期商业化价值。\n【融资需求】\nPre-A轮，2亿元人民币\n【历史股东】\n华映资本、厚实资本、轻舟资本、奇绩创坛等\n【项目亮点】\n1）采用直线型场反位形（FRC）聚变技术路线，区别于传统的托卡马克装置，具有结构简单、模块化设计的优势，建造成本仅为托卡马克的1/5至1/10，磁体用量减少80%以上，装置体积缩小50%，能量效率更高，等离子体自组织特性减少能量损耗，相同磁场强度下聚变功率输出可达托卡马克的100至1000倍，且兼容氢-硼等先进燃料，燃料利用率更高。\n2）核心技术100%由国内团队自主原创，实现了从装置设计、制造到等离子体点亮的全流程国产化，打破了国外技术垄断，为我国可控核聚变技术发展奠定了基础；\n3）2025年7月成功实现中国首台商业化直线型场反位形聚变装置（HHMAX-901）等离子体点亮，标志着FRC技术从实验室迈向应用端，是目前国内该技术路线商业化应用的重大突破；\n4）制定清晰的“三步走”战略，计划2027-2028年建造第二代装置，建设10MW功率发电主机；2028-2030年建造第三代装置，建设50MW发电主机及示范电站。\n5）采用“边研发边转化”的“沿途下蛋”商业模式，利用核聚变过程中产生的中子开发癌症治疗（BNCT）、中子成像及核废料处理等技术应用，孵化沿途商业化产品，提前实现部分商业价值；\n6）成都作为项目所在地，拥有丰富的科研资源、完整的产业链以及政策支持，吸引了国内外顶尖人才加入。公司核心团队来自于中物院、海内外可控核聚变公司以及中科大、清华等国内高校院所的科学家与研发人员，具备深厚的行业经验和技术积累\n瀚海聚能HHMAX-901主机成功点亮\n欢迎对接优质在融项目\n对于创业者和投资人来说，行业洗牌也意味着新的机遇，每一次的“危机”都是高潜项目破局而立的重要节点。36氪将持续提供解决企业及投资人不同阶段需求的活动，为资本市场注入信心。\n如果您对本文中的项目感兴趣，希望可以对接到项目方，或者如果您手中有好项目需要融资对接更多投资人，欢迎与我们联系。\n扫码添加小助手，对接项目\n新闻链接：https://36kr.com/p/3647487870799745?f=rss",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-21 17:36:39",
+      "original_language": "zh",
+      "original_title": "每日路演精选项目｜低空经济、商业航天、人工智能、可控核聚变等领域",
+      "source_url": "https://36kr.com/p/3647487870799745?f=rss",
+      "id": 6,
+      "track": "rss",
+      "original_source": "36氪"
+    },
     {
       "title": "Translator",
       "summary": "Discussion\n            |\n            Link\n新闻链接：https://www.producthunt.com/products/translator-3",
@@ -12,7 +90,7 @@
       "original_language": "en",
       "original_title": "Translator",
       "source_url": "https://www.producthunt.com/products/translator-3",
-      "id": 1,
+      "id": 7,
       "track": "rss",
       "original_source": "Product Hunt"
     },
@@ -25,7 +103,7 @@
       "original_language": "zh",
       "original_title": "GDP增长将取决于Tokens数量？微软CEO纳德拉达沃斯对话信息量太大了……",
       "source_url": "https://www.tmtpost.com/7849912.html",
-      "id": 2,
+      "id": 8,
       "track": "rss",
       "original_source": "钛媒体"
     },
@@ -38,7 +116,7 @@
       "original_language": "zh",
       "original_title": "VCSEL芯片及解决方案提供商瑞识科技完成数亿元C轮融资 | 融资动态",
       "source_url": "https://www.tmtpost.com/7850362.html",
-      "id": 3,
+      "id": 9,
       "track": "rss",
       "original_source": "钛媒体"
     },
@@ -51,7 +129,7 @@
       "original_language": "en",
       "original_title": "Samsung announces the new avatar of Bixby with Perplexity power (and then deletes the post)",
       "source_url": "https://www.digitaltrends.com/cool-tech/samsung-announces-the-new-avatar-of-bixby-with-perplexity-power-and-then-deletes-the-post/",
-      "id": 4,
+      "id": 10,
       "track": "rss",
       "original_source": "Digital Trends"
     },
@@ -64,7 +142,7 @@
       "original_language": "en",
       "original_title": "AI is wreaking havoc with scams, and it’s raising the bills for buyers",
       "source_url": "https://www.digitaltrends.com/computing/ai-is-wreaking-havoc-with-scams-and-its-raising-the-bills-for-buyers/",
-      "id": 5,
+      "id": 11,
       "track": "rss",
       "original_source": "Digital Trends"
     },
@@ -77,7 +155,7 @@
       "original_language": "zh",
       "original_title": "关于我被AI硬件夺舍成为赛博改造人趁着大模型订阅到期逃跑却因无法使用微信乘车码导致迷路被抓这回事",
       "source_url": "https://www.ifanr.com/1652530?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "id": 6,
+      "id": 12,
       "track": "rss",
       "original_source": "爱范儿"
     },
@@ -90,7 +168,7 @@
       "original_language": "zh",
       "original_title": "英伟达及其他19只值得逢低买入的科技股",
       "source_url": "https://www.tmtpost.com/7850071.html",
-      "id": 7,
+      "id": 13,
       "track": "rss",
       "original_source": "钛媒体"
     },
@@ -103,7 +181,7 @@
       "original_language": "en",
       "original_title": "Spotify might soon let you sync audiobooks with real books",
       "source_url": "https://www.digitaltrends.com/home-theater/spotify-might-soon-let-you-sync-audiobooks-with-real-books/",
-      "id": 8,
+      "id": 14,
       "track": "rss",
       "original_source": "Digital Trends"
     },
@@ -116,7 +194,7 @@
       "original_language": "en",
       "original_title": "Samsung, Lenovo, and LG laptops are going to cost you more this year",
       "source_url": "https://www.digitaltrends.com/computing/samsung-lenovo-and-lg-laptops-are-going-to-cost-you-more-this-year/",
-      "id": 9,
+      "id": 15,
       "track": "rss",
       "original_source": "Digital Trends"
     },
@@ -129,7 +207,7 @@
       "original_language": "en",
       "original_title": "Evernote v11 rolls out with shiny new AI features to lure you back",
       "source_url": "https://www.digitaltrends.com/phones/evernote-v11-rolls-out-with-shiny-new-ai-features-to-lure-you-back/",
-      "id": 10,
+      "id": 16,
       "track": "rss",
       "original_source": "Digital Trends"
     },
@@ -142,7 +220,7 @@
       "original_language": "en",
       "original_title": "Daimon Robotics’ new data acquisition system brings haptic intelligence to robot teleoperation",
       "source_url": "https://www.digitaltrends.com/brc/daimon-robotics-new-data-acquisition-system-adds-tactile-smarts-to-your-robot-controls/",
-      "id": 11,
+      "id": 17,
       "track": "rss",
       "original_source": "Digital Trends"
     },
@@ -155,7 +233,7 @@
       "original_language": "zh",
       "original_title": "MiniMax把自家“实习生”放出来了！",
       "source_url": "https://www.qbitai.com/2026/01/370720.html",
-      "id": 12,
+      "id": 18,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -168,7 +246,7 @@
       "original_language": "en",
       "original_title": "AI resurrection can turn your grief into “spectral labor”",
       "source_url": "https://www.digitaltrends.com/computing/ai-resurrection-can-turn-your-grief-into-spectral-labor/",
-      "id": 13,
+      "id": 19,
       "track": "rss",
       "original_source": "Digital Trends"
     },
@@ -181,7 +259,7 @@
       "original_language": "en",
       "original_title": "OpenAI executive confirms first ChatGPT-powered device is coming your way in 2026",
       "source_url": "https://www.digitaltrends.com/computing/openai-executive-confirms-first-chatgpt-powered-device-is-coming-your-way-in-2026/",
-      "id": 14,
+      "id": 20,
       "track": "rss",
       "original_source": "Digital Trends"
     },
@@ -194,7 +272,7 @@
       "original_language": "en",
       "original_title": "Project Ava is an AI gaming coach that also runs your day",
       "source_url": "https://www.digitaltrends.com/computing/project-ava-is-an-ai-gaming-coach-that-also-runs-your-day/",
-      "id": 15,
+      "id": 21,
       "track": "rss",
       "original_source": "Digital Trends"
     },
@@ -207,7 +285,7 @@
       "original_language": "en",
       "original_title": "Thousands of Companies Are Driving China’s AI Boom. A Government Registry Tracks Them All",
       "source_url": "https://www.wired.com/story/china-ai-boom-algorithm-registry/",
-      "id": 16,
+      "id": 22,
       "track": "rss",
       "original_source": "Wired AI"
     },
@@ -220,7 +298,7 @@
       "original_language": "en",
       "original_title": "Your First Humanoid Robot Coworker Will Probably Be Chinese",
       "source_url": "https://www.wired.com/story/china-humanoid-robot-coworkers/",
-      "id": 17,
+      "id": 23,
       "track": "rss",
       "original_source": "Wired AI"
     },
@@ -233,7 +311,7 @@
       "original_language": "en",
       "original_title": "China’s AI Boyfriend Business Is Taking On a Life of Its Own",
       "source_url": "https://www.wired.com/story/china-ai-boyfriends/",
-      "id": 18,
+      "id": 24,
       "track": "rss",
       "original_source": "Wired AI"
     },
@@ -246,7 +324,7 @@
       "original_language": "zh",
       "original_title": "刚刚，马斯克开源 𝕏 平台推荐算法",
       "source_url": "https://www.ifanr.com/1652450?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "id": 19,
+      "id": 25,
       "track": "rss",
       "original_source": "爱范儿"
     },
@@ -259,7 +337,7 @@
       "original_language": "zh",
       "original_title": "开年的AI狂欢，是利好还是隐忧？",
       "source_url": "https://www.tmtpost.com/7849179.html",
-      "id": 20,
+      "id": 26,
       "track": "rss",
       "original_source": "钛媒体"
     },
@@ -272,7 +350,7 @@
       "original_language": "zh",
       "original_title": "纳德拉达沃斯发出警示：GDP增长将与“每美元每瓦特产生的算力”直接相关",
       "source_url": "https://www.tmtpost.com/7849618.html",
-      "id": 21,
+      "id": 27,
       "track": "rss",
       "original_source": "钛媒体"
     },
@@ -285,7 +363,7 @@
       "original_language": "zh",
       "original_title": "晶核能源融资数千万元，专攻固态电池“固固界面”难题丨36氪首发",
       "source_url": "https://36kr.com/p/3647590832508808?f=rss",
-      "id": 22,
+      "id": 28,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -298,7 +376,7 @@
       "original_language": "zh",
       "original_title": "美团卡姐接管无人车，MIT博士离职创业具身智能",
       "source_url": "https://www.qbitai.com/2026/01/370599.html",
-      "id": 23,
+      "id": 29,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -311,7 +389,7 @@
       "original_language": "zh",
       "original_title": "豆包的新身份曝光：在国际艺术展当起了“AI讲解员”",
       "source_url": "https://www.qbitai.com/2026/01/370665.html",
-      "id": 24,
+      "id": 30,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -324,7 +402,7 @@
       "original_language": "en",
       "original_title": "Your Ultrahuman smart ring now knows a migraine is coming before you do",
       "source_url": "https://www.digitaltrends.com/wearables/your-smart-ring-now-knows-a-migraine-is-coming-before-you-do/",
-      "id": 25,
+      "id": 31,
       "track": "rss",
       "original_source": "Digital Trends"
     },
@@ -337,7 +415,7 @@
       "original_language": "en",
       "original_title": "Laptops featuring Nvidia’s ARM-based chips may finally hit stores near you in Q1 2026",
       "source_url": "https://www.digitaltrends.com/computing/laptops-featuring-nvidias-arm-based-chips-may-finally-hit-stores-near-you-in-q1-2026/",
-      "id": 26,
+      "id": 32,
       "track": "rss",
       "original_source": "Digital Trends"
     },
@@ -350,7 +428,7 @@
       "original_language": "en",
       "original_title": "Figy.ai",
       "source_url": "https://www.producthunt.com/products/figy-ai",
-      "id": 27,
+      "id": 33,
       "track": "rss",
       "original_source": "Product Hunt"
     },
@@ -363,7 +441,7 @@
       "original_language": "zh",
       "original_title": "2026，物理AI的六大趋势：新物种大爆发，淘汰赛开启",
       "source_url": "https://www.tmtpost.com/7844541.html",
-      "id": 28,
+      "id": 34,
       "track": "rss",
       "original_source": "钛媒体"
     },
@@ -376,7 +454,7 @@
       "original_language": "zh",
       "original_title": "是别针还是耳机？OpenAI首款AI硬件形态成谜",
       "source_url": "https://www.tmtpost.com/7849159.html",
-      "id": 29,
+      "id": 35,
       "track": "rss",
       "original_source": "钛媒体"
     },
@@ -389,7 +467,7 @@
       "original_language": "zh",
       "original_title": "第28届高交会3E亚洲消费电子展招展工作今日正式启动",
       "source_url": "https://www.tmtpost.com/7849163.html",
-      "id": 30,
+      "id": 36,
       "track": "rss",
       "original_source": "钛媒体"
     },
@@ -402,7 +480,7 @@
       "original_language": "zh",
       "original_title": "最神秘的机器人公司，浮出水面",
       "source_url": "https://36kr.com/p/3647460169092745?f=rss",
-      "id": 31,
+      "id": 37,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -415,7 +493,7 @@
       "original_language": "en",
       "original_title": "Humans&, a ‘human-centric’ AI startup founded by Anthropic, xAI, Google alums, raised $480M seed round",
       "source_url": "https://techcrunch.com/2026/01/20/humans-a-human-centric-ai-startup-founded-by-anthropic-xai-google-alums-raised-480m-seed-round/",
-      "id": 32,
+      "id": 38,
       "track": "rss",
       "original_source": "TechCrunch AI"
     },
@@ -428,7 +506,7 @@
       "original_language": "en",
       "original_title": "Anthropic’s CEO stuns Davos with Nvidia criticism",
       "source_url": "https://techcrunch.com/2026/01/20/anthropics-ceo-stuns-davos-with-nvidia-criticism/",
-      "id": 33,
+      "id": 39,
       "track": "rss",
       "original_source": "TechCrunch AI"
     },
@@ -441,7 +519,7 @@
       "original_language": "en",
       "original_title": "In an effort to protect young users, ChatGPT will now predict how old you are",
       "source_url": "https://techcrunch.com/2026/01/20/in-an-effort-to-protect-young-users-chatgpt-will-now-predict-how-old-you-are/",
-      "id": 34,
+      "id": 40,
       "track": "rss",
       "original_source": "TechCrunch AI"
     },
@@ -454,7 +532,7 @@
       "original_language": "en",
       "original_title": "Elon Musk says Tesla’s restarted Dojo3 will be for ‘space-based AI compute’",
       "source_url": "https://techcrunch.com/2026/01/20/elon-musk-says-teslas-restarted-dojo3-will-be-for-space-based-ai-compute/",
-      "id": 35,
+      "id": 41,
       "track": "rss",
       "original_source": "TechCrunch AI"
     },
@@ -467,7 +545,7 @@
       "original_language": "en",
       "original_title": "Asus halts all smartphone releases for 2026, future of Zenfone and ROG Phone uncertain",
       "source_url": "https://www.digitaltrends.com/phones/asus-halts-all-smartphone-releases-for-2026-future-of-zenfone-and-rog-phone-uncertain/",
-      "id": 36,
+      "id": 42,
       "track": "rss",
       "original_source": "Digital Trends"
     },
@@ -480,7 +558,7 @@
       "original_language": "zh",
       "original_title": "滴滴 AI 叫车，用了几天我发现这才是打车该有的样子",
       "source_url": "https://www.ifanr.com/1651778?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "id": 37,
+      "id": 43,
       "track": "rss",
       "original_source": "爱范儿"
     },
@@ -493,7 +571,7 @@
       "original_language": "zh",
       "original_title": "警惕，“AI泔水”正在悄悄入侵我们的生活",
       "source_url": "https://www.tmtpost.com/7848859.html",
-      "id": 38,
+      "id": 44,
       "track": "rss",
       "original_source": "钛媒体"
     },
@@ -506,7 +584,7 @@
       "original_language": "zh",
       "original_title": "WAIC首次“南下”：沪港握手2026“WAIC UP!全球年终盛会”，共揭AI对话新篇",
       "source_url": "https://www.qbitai.com/2026/01/370402.html",
-      "id": 39,
+      "id": 45,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -519,7 +597,7 @@
       "original_language": "en",
       "original_title": "Humanoid robots to build aircraft? Airbus is exploring the idea",
       "source_url": "https://www.digitaltrends.com/computing/humanoid-robots-to-build-aircraft-airbus-is-exploring-the-idea/",
-      "id": 40,
+      "id": 46,
       "track": "rss",
       "original_source": "Digital Trends"
     },
@@ -532,7 +610,7 @@
       "original_language": "zh",
       "original_title": "早报｜寒武纪登顶中国AI企业50强/销量连续四年下滑，保时捷中国总裁回应/4999元起，荣耀Magic8 Pro Air正式发布",
       "source_url": "https://www.ifanr.com/1652342?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "id": 41,
+      "id": 47,
       "track": "rss",
       "original_source": "爱范儿"
     },
@@ -545,7 +623,7 @@
       "original_language": "zh",
       "original_title": "从LED照明跨界PCB微钻，民爆光电AI风口上的战略急转｜并购一线",
       "source_url": "https://www.tmtpost.com/7848792.html",
-      "id": 42,
+      "id": 48,
       "track": "rss",
       "original_source": "钛媒体"
     },
@@ -558,7 +636,7 @@
       "original_language": "en",
       "original_title": "Samsung Galaxy Z Fold 8 might adopt a unique display tech for a crease-free look",
       "source_url": "https://www.digitaltrends.com/phones/samsung-might-adopt-a-unique-display-tech-to-erase-the-display-crease-on-galaxy-z-fold-8/",
-      "id": 43,
+      "id": 49,
       "track": "rss",
       "original_source": "Digital Trends"
     },
@@ -571,7 +649,7 @@
       "original_language": "en",
       "original_title": "Microsoft may soon let you stream your Xbox games for free, with ads and playtime limits",
       "source_url": "https://www.digitaltrends.com/gaming/microsoft-may-soon-let-you-stream-your-xbox-games-for-free-with-ads-and-playtime-limits/",
-      "id": 44,
+      "id": 50,
       "track": "rss",
       "original_source": "Digital Trends"
     },
@@ -584,7 +662,7 @@
       "original_language": "en",
       "original_title": "A Windows 11 update broke shutdowns, here’s what you should do",
       "source_url": "https://www.digitaltrends.com/computing/a-windows-11-update-broke-shutdowns-heres-what-you-should-do/",
-      "id": 45,
+      "id": 51,
       "track": "rss",
       "original_source": "Digital Trends"
     },
@@ -597,7 +675,7 @@
       "original_language": "en",
       "original_title": "You can soon ask AI about any Chrome webpage with one right-click",
       "source_url": "https://www.digitaltrends.com/computing/you-can-soon-ask-ai-about-any-chrome-webpage-with-one-right-click/",
-      "id": 46,
+      "id": 52,
       "track": "rss",
       "original_source": "Digital Trends"
     },
@@ -610,7 +688,7 @@
       "original_language": "en",
       "original_title": "Gemini now lets you skip the wait and get quicker responses with a tap",
       "source_url": "https://www.digitaltrends.com/phones/gemini-now-lets-you-skip-the-wait-and-get-quicker-responses-with-a-tap/",
-      "id": 47,
+      "id": 53,
       "track": "rss",
       "original_source": "Digital Trends"
     },
@@ -623,7 +701,7 @@
       "original_language": "zh",
       "original_title": "90 后正在掌管中国 AI，凭实力活成了「爽文」主角",
       "source_url": "https://www.ifanr.com/1652256?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "id": 48,
+      "id": 54,
       "track": "rss",
       "original_source": "爱范儿"
     },
@@ -636,7 +714,7 @@
       "original_language": "zh",
       "original_title": "这款让丁磊都紧张的游戏，上新AI大模型玩法",
       "source_url": "https://www.tmtpost.com/7848091.html",
-      "id": 49,
+      "id": 55,
       "track": "rss",
       "original_source": "钛媒体"
     },
@@ -649,7 +727,7 @@
       "original_language": "zh",
       "original_title": "印度储能电池新增容量或增长十倍；谷歌宣布与沃尔玛提升Gemini AI购物功能；TikTok Shop东南亚跨境电商发布2026核心战略｜一周出海参考",
       "source_url": "https://www.tmtpost.com/7847973.html",
-      "id": 50,
+      "id": 56,
       "track": "rss",
       "original_source": "钛媒体"
     },
@@ -662,7 +740,7 @@
       "original_language": "zh",
       "original_title": "王小川“怼天怼地”，百川智能的“腰杆”够硬吗？",
       "source_url": "https://www.tmtpost.com/7848095.html",
-      "id": 51,
+      "id": 57,
       "track": "rss",
       "original_source": "钛媒体"
     },
@@ -675,7 +753,7 @@
       "original_language": "zh",
       "original_title": "氪星晚报 ｜飞书史上第一次硬件合作，和安克创新做了一款“AI录音豆”；良品铺子2025年预计净亏损1.2亿至1.6亿元；马斯克称AI5将是一款“性能非常强大”的芯片",
       "source_url": "https://36kr.com/p/3646220101701256?f=rss",
-      "id": 52,
+      "id": 58,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -688,7 +766,7 @@
       "original_language": "en",
       "original_title": "MSI’s AMD Claw A8 finally nears U.S. release after months of global delays",
       "source_url": "https://www.digitaltrends.com/gaming/msis-amd-claw-a8-finally-nears-u-s-release-after-months-of-global-delays/",
-      "id": 53,
+      "id": 59,
       "track": "rss",
       "original_source": "Digital Trends"
     },
@@ -701,7 +779,7 @@
       "original_language": "en",
       "original_title": "The Race to Build the DeepSeek of Europe Is On",
       "source_url": "https://www.wired.com/story/europe-race-us-deepseek-sovereign-ai/",
-      "id": 54,
+      "id": 60,
       "track": "rss",
       "original_source": "Wired AI"
     },
@@ -714,7 +792,7 @@
       "original_language": "zh",
       "original_title": "美敦力下场+20亿破纪录融资，脑机接口弹射起飞",
       "source_url": "https://www.tmtpost.com/7847966.html",
-      "id": 55,
+      "id": 61,
       "track": "rss",
       "original_source": "钛媒体"
     },
@@ -727,7 +805,7 @@
       "original_language": "zh",
       "original_title": "这项“黑科技”，正处于产业爆发前夜",
       "source_url": "https://www.tmtpost.com/7847151.html",
-      "id": 56,
+      "id": 62,
       "track": "rss",
       "original_source": "钛媒体"
     },
@@ -740,7 +818,7 @@
       "original_language": "zh",
       "original_title": "加速推进“Robot for AI”战略落地，动易科技完成亿元级天使++轮融资，天使轮累计融资额超2亿元",
       "source_url": "https://www.qbitai.com/2026/01/370277.html",
-      "id": 57,
+      "id": 63,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -753,7 +831,7 @@
       "original_language": "zh",
       "original_title": "ChatGPT强行上马广告，因为OpenAI真的很烧钱",
       "source_url": "https://www.qbitai.com/2026/01/370285.html",
-      "id": 58,
+      "id": 64,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -766,7 +844,7 @@
       "original_language": "en",
       "original_title": "Rogue agents and shadow AI: Why VCs are betting big on AI security",
       "source_url": "https://techcrunch.com/2026/01/19/rogue-agents-and-shadow-ai-why-vcs-are-betting-big-on-ai-security/",
-      "id": 59,
+      "id": 65,
       "track": "rss",
       "original_source": "TechCrunch AI"
     },
@@ -779,7 +857,7 @@
       "original_language": "en",
       "original_title": "Well, there goes the metaverse!",
       "source_url": "https://techcrunch.com/2026/01/19/well-there-goes-the-metaverse/",
-      "id": 60,
+      "id": 66,
       "track": "rss",
       "original_source": "TechCrunch AI"
     },
@@ -792,7 +870,7 @@
       "original_language": "en",
       "original_title": "Here are the 55 US AI startups that raised $100M or more in 2025",
       "source_url": "https://techcrunch.com/2026/01/19/here-are-the-49-us-ai-startups-that-have-raised-100m-or-more-in-2025/",
-      "id": 61,
+      "id": 67,
       "track": "rss",
       "original_source": "TechCrunch AI"
     },
@@ -805,7 +883,7 @@
       "original_language": "zh",
       "original_title": "从技术自信到产业爆发：2025十大趋势，见证中国产业的「破局与共生」",
       "source_url": "https://www.tmtpost.com/7847492.html",
-      "id": 62,
+      "id": 68,
       "track": "rss",
       "original_source": "钛媒体"
     },
@@ -818,7 +896,7 @@
       "original_language": "zh",
       "original_title": "AI手搓的Cowork“李鬼”版跟“李逵”一样能打，还免费？",
       "source_url": "https://www.tmtpost.com/7847558.html",
-      "id": 63,
+      "id": 69,
       "track": "rss",
       "original_source": "钛媒体"
     },
@@ -831,7 +909,7 @@
       "original_language": "zh",
       "original_title": "打造最低幻觉率医学AI助手 阿里健康上线“氢离子”",
       "source_url": "https://www.qbitai.com/2026/01/370192.html",
-      "id": 64,
+      "id": 70,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -844,7 +922,7 @@
       "original_language": "zh",
       "original_title": "李飞飞的World Labs联手光轮智能，具身智能进入评测驱动时代！",
       "source_url": "https://www.qbitai.com/2026/01/370217.html",
-      "id": 65,
+      "id": 71,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -857,7 +935,7 @@
       "original_language": "zh",
       "original_title": "4600万围观！Claude两周搓出「Manus」火到宕机：0行代码是人写，创业公司集体破防",
       "source_url": "https://www.ifanr.com/1652055?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "id": 66,
+      "id": 72,
       "track": "rss",
       "original_source": "爱范儿"
     },
@@ -870,7 +948,7 @@
       "original_language": "zh",
       "original_title": "飞书联手安克造了颗AI豆，你的「外脑」仅重 10 克",
       "source_url": "https://www.ifanr.com/1652210?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "id": 67,
+      "id": 73,
       "track": "rss",
       "original_source": "爱范儿"
     },
@@ -883,7 +961,7 @@
       "original_language": "zh",
       "original_title": "从\"实验室\"到\"生活间\"，具身智能的商业化破局与生态构建 | CES 2026",
       "source_url": "https://www.tmtpost.com/7846124.html",
-      "id": 68,
+      "id": 74,
       "track": "rss",
       "original_source": "钛媒体"
     },
@@ -896,7 +974,7 @@
       "original_language": "zh",
       "original_title": "飞书史上第一次硬件合作，和安克创新做了一款「AI录音豆」",
       "source_url": "https://36kr.com/p/3645215315267202?f=rss",
-      "id": 69,
+      "id": 75,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -909,7 +987,7 @@
       "original_language": "zh",
       "original_title": "全球首个负载100斤的真实持续干活机器人，来自银河通用",
       "source_url": "https://www.qbitai.com/2026/01/370169.html",
-      "id": 70,
+      "id": 76,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -922,7 +1000,7 @@
       "original_language": "zh",
       "original_title": "AI应用爆发前夜，大模型等待黎明",
       "source_url": "https://www.tmtpost.com/7846728.html",
-      "id": 71,
+      "id": 77,
       "track": "rss",
       "original_source": "钛媒体"
     },
@@ -935,7 +1013,7 @@
       "original_language": "zh",
       "original_title": "不学抖音学INS，OpenAI想站着把钱挣了",
       "source_url": "https://www.tmtpost.com/7846722.html",
-      "id": 72,
+      "id": 78,
       "track": "rss",
       "original_source": "钛媒体"
     },
@@ -948,7 +1026,7 @@
       "original_language": "en",
       "original_title": "AMD has new chips, but RAM prices are the real boss fight",
       "source_url": "https://www.digitaltrends.com/computing/amd-has-new-chips-but-ram-prices-are-the-real-boss-fight/",
-      "id": 73,
+      "id": 79,
       "track": "rss",
       "original_source": "Digital Trends"
     },
@@ -961,7 +1039,7 @@
       "original_language": "zh",
       "original_title": "机器人终于能用明白洗碗机了｜UC伯克利新研究",
       "source_url": "https://www.qbitai.com/2026/01/370136.html",
-      "id": 74,
+      "id": 80,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -974,7 +1052,7 @@
       "original_language": "en",
       "original_title": "Moxie Marlinspike has a privacy-conscious alternative to ChatGPT",
       "source_url": "https://techcrunch.com/2026/01/18/moxie-marlinspike-has-a-privacy-conscious-alternative-to-chatgpt/",
-      "id": 75,
+      "id": 81,
       "track": "rss",
       "original_source": "TechCrunch AI"
     },
@@ -987,7 +1065,7 @@
       "original_language": "en",
       "original_title": "Sequoia to invest in Anthropic, breaking VC taboo on backing rivals: FT",
       "source_url": "https://techcrunch.com/2026/01/18/sequoia-to-invest-in-anthropic-breaking-vc-taboo-on-backing-rivals-ft/",
-      "id": 76,
+      "id": 82,
       "track": "rss",
       "original_source": "TechCrunch AI"
     },
@@ -1000,7 +1078,7 @@
       "original_language": "zh",
       "original_title": "零克云发布AI托管平台破解“工程鸿沟”｜公司动态",
       "source_url": "https://www.tmtpost.com/7846680.html",
-      "id": 77,
+      "id": 83,
       "track": "rss",
       "original_source": "钛媒体"
     },
@@ -1013,7 +1091,7 @@
       "original_language": "zh",
       "original_title": "马斯克最大算力中心建成了：全球首个GW级超算集群，再创世界纪录",
       "source_url": "https://www.qbitai.com/2026/01/370077.html",
-      "id": 78,
+      "id": 84,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -1026,7 +1104,7 @@
       "original_language": "zh",
       "original_title": "大学无用？奥特曼辍学当了CEO，但名校生撑起了整个OpenAI！",
       "source_url": "https://36kr.com/p/3644311216344712?f=rss",
-      "id": 79,
+      "id": 85,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -1039,7 +1117,7 @@
       "original_language": "en",
       "original_title": "MediaTek launches Dimensity 9500s and 8500 to power next-gen flagship smartphones",
       "source_url": "https://www.digitaltrends.com/phones/mediatek-launches-dimensity-9500s-and-8500-to-power-next-gen-flagship-smartphones/",
-      "id": 80,
+      "id": 86,
       "track": "rss",
       "original_source": "Digital Trends"
     },
@@ -1052,7 +1130,7 @@
       "original_language": "en",
       "original_title": "Foldable iPhone to use Touch ID as Apple bets on AI-led growth in 2026",
       "source_url": "https://www.digitaltrends.com/phones/foldable-iphone-to-use-touch-id-as-apple-bets-on-ai-led-growth-in-2026/",
-      "id": 81,
+      "id": 87,
       "track": "rss",
       "original_source": "Digital Trends"
     },
@@ -1065,7 +1143,7 @@
       "original_language": "en",
       "original_title": "OLED MacBook Pro displays may already be in production ahead of rumored 2026 launch",
       "source_url": "https://www.digitaltrends.com/computing/oled-macbook-pro-displays-may-already-be-in-production-ahead-of-rumored-2026-launch/",
-      "id": 82,
+      "id": 88,
       "track": "rss",
       "original_source": "Digital Trends"
     },
@@ -1078,7 +1156,7 @@
       "original_language": "en",
       "original_title": "Microsoft Excel’s new import functions make handling numbers easier",
       "source_url": "https://www.digitaltrends.com/computing/microsoft-excels-new-import-functions-make-handling-numbers-easier/",
-      "id": 83,
+      "id": 89,
       "track": "rss",
       "original_source": "Digital Trends"
     },
@@ -1091,7 +1169,7 @@
       "original_language": "en",
       "original_title": "ChatGPT Go is now available in the U.S., but be prepared to see ads",
       "source_url": "https://www.digitaltrends.com/cool-tech/chatgpt-go-is-now-available-in-the-u-s-but-be-prepared-to-see-ads/",
-      "id": 84,
+      "id": 90,
       "track": "rss",
       "original_source": "Digital Trends"
     },
@@ -1104,7 +1182,7 @@
       "original_language": "en",
       "original_title": "Sled",
       "source_url": "https://www.producthunt.com/products/sled-voice-interface-for-claude-code",
-      "id": 85,
+      "id": 91,
       "track": "rss",
       "original_source": "Product Hunt"
     },
@@ -1117,7 +1195,7 @@
       "original_language": "en",
       "original_title": "Chessmaster AI",
       "source_url": "https://www.producthunt.com/products/chessmaster-ai",
-      "id": 86,
+      "id": 92,
       "track": "rss",
       "original_source": "Product Hunt"
     },
@@ -1130,7 +1208,7 @@
       "original_language": "en",
       "original_title": "Colloqio",
       "source_url": "https://www.producthunt.com/products/colloqio-offline-ai-chat-app",
-      "id": 87,
+      "id": 93,
       "track": "rss",
       "original_source": "Product Hunt"
     },
@@ -1143,7 +1221,7 @@
       "original_language": "en",
       "original_title": "Hands On With Anthropic’s Claude Cowork, an AI Agent That Actually Works",
       "source_url": "https://www.wired.com/story/anthropic-claude-cowork-agent/",
-      "id": 88,
+      "id": 94,
       "track": "rss",
       "original_source": "Wired AI"
     },
@@ -1156,7 +1234,7 @@
       "original_language": "en",
       "original_title": "OpenAI Invests in Sam Altman’s New Brain-Tech Startup Merge Labs",
       "source_url": "https://www.wired.com/story/openai-invests-in-sam-altmans-new-brain-tech-startup-merge-labs/",
-      "id": 89,
+      "id": 95,
       "track": "rss",
       "original_source": "Wired AI"
     },
@@ -1169,7 +1247,7 @@
       "original_language": "en",
       "original_title": "Elon Musk’s Grok ‘Undressing’ Problem Isn’t Fixed",
       "source_url": "https://www.wired.com/story/elon-musks-grok-undressing-problem-isnt-fixed/",
-      "id": 90,
+      "id": 96,
       "track": "rss",
       "original_source": "Wired AI"
     },
@@ -1182,7 +1260,7 @@
       "original_language": "en",
       "original_title": "Inside OpenAI’s Raid on Thinking Machines Lab",
       "source_url": "https://www.wired.com/story/inside-openai-raid-on-thinking-machines-lab/",
-      "id": 91,
+      "id": 97,
       "track": "rss",
       "original_source": "Wired AI"
     },
@@ -1195,7 +1273,7 @@
       "original_language": "en",
       "original_title": "Ads Are Coming to ChatGPT. Here’s How They’ll Work",
       "source_url": "https://www.wired.com/story/openai-testing-ads-us/",
-      "id": 92,
+      "id": 98,
       "track": "rss",
       "original_source": "Wired AI"
     },
@@ -1208,7 +1286,7 @@
       "original_language": "en",
       "original_title": "Thinking Machines Cofounder’s Office Relationship Preceded His Termination",
       "source_url": "https://www.wired.com/story/thinking-machines-lab-cofounder-office-relationship-firing-openai/",
-      "id": 93,
+      "id": 99,
       "track": "rss",
       "original_source": "Wired AI"
     },
@@ -1221,7 +1299,7 @@
       "original_language": "en",
       "original_title": "OpenAI and Anthropic are making their play for healthcare, and we’re not surprised",
       "source_url": "https://techcrunch.com/podcast/openai-and-anthropic-are-making-their-play-for-healthcare-and-were-not-surprised/",
-      "id": 94,
+      "id": 100,
       "track": "rss",
       "original_source": "TechCrunch AI"
     },
@@ -1234,7 +1312,7 @@
       "original_language": "en",
       "original_title": "The AI healthcare gold rush is here",
       "source_url": "https://techcrunch.com/video/the-ai-healthcare-gold-rush-is-here/",
-      "id": 95,
+      "id": 101,
       "track": "rss",
       "original_source": "TechCrunch AI"
     },
@@ -1247,7 +1325,7 @@
       "original_language": "zh",
       "original_title": "早报｜西贝闭店102家，贾国龙：自己不懂公关、不会诡辩/马斯克服软，Grok限制图像编辑能力/千问App上线AI购物功能",
       "source_url": "https://www.ifanr.com/1651977?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "id": 96,
+      "id": 102,
       "track": "rss",
       "original_source": "爱范儿"
     },
@@ -1260,7 +1338,7 @@
       "original_language": "zh",
       "original_title": "你的浏览器会主动提问了？夸克 AI 浏览器正在验证 AI Native 的「下半场」",
       "source_url": "https://www.ifanr.com/1651982?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "id": 97,
+      "id": 103,
       "track": "rss",
       "original_source": "爱范儿"
     },
@@ -1273,7 +1351,7 @@
       "original_language": "zh",
       "original_title": "早报｜贾国龙罗永浩恩怨复燃，双方账号被禁言/苹果上调iPhone、Mac以旧换新抵扣价/ChatGPT将开始测试广告",
       "source_url": "https://www.ifanr.com/1652187?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "id": 98,
+      "id": 104,
       "track": "rss",
       "original_source": "爱范儿"
     },
@@ -1286,7 +1364,7 @@
       "original_language": "zh",
       "original_title": "死磕8年，烧光400亿，中国芯片迎来最大IPO",
       "source_url": "https://www.tmtpost.com/7846009.html",
-      "id": 99,
+      "id": 105,
       "track": "rss",
       "original_source": "钛媒体"
     },
@@ -1299,7 +1377,7 @@
       "original_language": "zh",
       "original_title": "仅用一周时间，谷歌就让OpenAI认清现实",
       "source_url": "https://www.tmtpost.com/7846324.html",
-      "id": 100,
+      "id": 106,
       "track": "rss",
       "original_source": "钛媒体"
     },
@@ -1312,7 +1390,7 @@
       "original_language": "zh",
       "original_title": "2026，AI音乐跃迁元年？",
       "source_url": "https://www.tmtpost.com/7846436.html",
-      "id": 101,
+      "id": 107,
       "track": "rss",
       "original_source": "钛媒体"
     },
@@ -1325,7 +1403,7 @@
       "original_language": "zh",
       "original_title": "头部物流公司拿下浙江投资，要用AI完成中大件门到门履约｜36氪首发",
       "source_url": "https://36kr.com/p/3641918009937540?f=rss",
-      "id": 102,
+      "id": 108,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -1338,7 +1416,7 @@
       "original_language": "zh",
       "original_title": "腾讯云ADP国内首发AI原生Widget：一句话秒级生成交互组件，重塑Agent使用体验",
       "source_url": "https://www.qbitai.com/2026/01/370069.html",
-      "id": 103,
+      "id": 109,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -1351,7 +1429,7 @@
       "original_language": "en",
       "original_title": "Musk wants up to $134B in OpenAI lawsuit, despite $700B fortune",
       "source_url": "https://techcrunch.com/2026/01/17/musk-wants-up-to-134b-in-openai-lawsuit-despite-700b-fortune/",
-      "id": 104,
+      "id": 110,
       "track": "rss",
       "original_source": "TechCrunch AI"
     },
@@ -1364,7 +1442,7 @@
       "original_language": "zh",
       "original_title": "微软谷歌正在大力招「电工」",
       "source_url": "https://www.qbitai.com/2026/01/370026.html",
-      "id": 105,
+      "id": 111,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -1377,7 +1455,7 @@
       "original_language": "zh",
       "original_title": "不用拍的广告片？深度拆解美团闪购AIGC营销新案例",
       "source_url": "https://www.qbitai.com/2026/01/369884.html",
-      "id": 106,
+      "id": 112,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -1390,7 +1468,7 @@
       "original_language": "zh",
       "original_title": "支付宝携手千问App、淘宝闪购等发布中国首个AI商业协议ACT",
       "source_url": "https://www.qbitai.com/2026/01/369878.html",
-      "id": 107,
+      "id": 113,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -1403,7 +1481,7 @@
       "original_language": "zh",
       "original_title": "滴滴给我发了个赛博助理，专管出行的那种",
       "source_url": "https://www.qbitai.com/2026/01/369738.html",
-      "id": 108,
+      "id": 114,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -1416,7 +1494,7 @@
       "original_language": "en",
       "original_title": "AI cloud startup Runpod hits $120M in ARR — and it started with a Reddit post  ",
       "source_url": "https://techcrunch.com/2026/01/16/ai-cloud-startup-runpod-hits-120m-in-arr-and-it-started-with-a-reddit-post/",
-      "id": 109,
+      "id": 115,
       "track": "rss",
       "original_source": "TechCrunch AI"
     },
@@ -1429,7 +1507,7 @@
       "original_language": "en",
       "original_title": "California AG sends Musk’s xAI a cease-and-desist order over sexual deepfakes",
       "source_url": "https://techcrunch.com/2026/01/16/california-ag-sends-musks-xai-a-cease-and-desist-order-over-sexual-deepfakes/",
-      "id": 110,
+      "id": 116,
       "track": "rss",
       "original_source": "TechCrunch AI"
     },
@@ -1442,7 +1520,7 @@
       "original_language": "en",
       "original_title": "From OpenAI’s offices to a deal with Eli Lilly — how Chai Discovery became one of the flashiest names in AI drug development",
       "source_url": "https://techcrunch.com/2026/01/16/from-openais-offices-to-a-deal-with-eli-lilly-how-chai-discovery-became-one-of-the-flashiest-names-in-ai-drug-development/",
-      "id": 111,
+      "id": 117,
       "track": "rss",
       "original_source": "TechCrunch AI"
     },
@@ -1455,7 +1533,7 @@
       "original_language": "en",
       "original_title": "ChatGPT users are about to get hit with targeted ads",
       "source_url": "https://techcrunch.com/2026/01/16/chatgpt-users-are-about-to-get-hit-with-targeted-ads/",
-      "id": 112,
+      "id": 118,
       "track": "rss",
       "original_source": "TechCrunch AI"
     },
@@ -1468,7 +1546,7 @@
       "original_language": "zh",
       "original_title": "猎头黄仁勋的2025：高管从巨头挖，干活钟爱华人创业团队",
       "source_url": "https://www.qbitai.com/2026/01/370085.html",
-      "id": 113,
+      "id": 119,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -1481,7 +1559,7 @@
       "original_language": "zh",
       "original_title": "真·开外挂！MIT新研究：架构0改动，让大模型解锁千万级上下文",
       "source_url": "https://www.qbitai.com/2026/01/370196.html",
-      "id": 114,
+      "id": 120,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -1494,7 +1572,7 @@
       "original_language": "zh",
       "original_title": "45年数论猜想被GPT-5.2 Pro独立完成证明，陶哲轩：没犯任何错误",
       "source_url": "https://www.qbitai.com/2026/01/370328.html",
-      "id": 115,
+      "id": 121,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -1507,7 +1585,7 @@
       "original_language": "zh",
       "original_title": "安克创新与飞书联合发布“安克 AI 录音豆” ,手指可握仅重10克",
       "source_url": "https://www.qbitai.com/2026/01/370245.html",
-      "id": 116,
+      "id": 122,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -1520,7 +1598,7 @@
       "original_language": "zh",
       "original_title": "哈工大系闯出人形机器人黑马：成立不到一年，全栈开源3m/s原型机，小米商汤都投了",
       "source_url": "https://www.qbitai.com/2026/01/370355.html",
-      "id": 117,
+      "id": 123,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -1533,7 +1611,7 @@
       "original_language": "zh",
       "original_title": "算力越高收入越多！OpenAI率先验证AI商业Scaling Law",
       "source_url": "https://www.qbitai.com/2026/01/370375.html",
-      "id": 118,
+      "id": 124,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -1546,7 +1624,7 @@
       "original_language": "zh",
       "original_title": "谷歌新发现：DeepSeek推理分裂出多重人格，左右脑互搏越来越聪明",
       "source_url": "https://www.qbitai.com/2026/01/370460.html",
-      "id": 119,
+      "id": 125,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -1559,7 +1637,7 @@
       "original_language": "zh",
       "original_title": "智谱新模型也用DeepSeek的MLA，苹果M5就能跑",
       "source_url": "https://www.qbitai.com/2026/01/370652.html",
-      "id": 120,
+      "id": 126,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -1572,7 +1650,7 @@
       "original_language": "zh",
       "original_title": "首个真正“能用”的LLM游戏Agent诞生！可实时高频决策，思维链还全程可见",
       "source_url": "https://www.qbitai.com/2026/01/370494.html",
-      "id": 121,
+      "id": 127,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -1585,7 +1663,7 @@
       "original_language": "zh",
       "original_title": "科大讯飞推出SuperAgent应用框架，驱动营销关系演进至B2A2C丨最前线",
       "source_url": "https://36kr.com/p/3642948995862405?f=rss",
-      "id": 122,
+      "id": 128,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -1598,7 +1676,7 @@
       "original_language": "zh",
       "original_title": "钉钉上线AI差旅：企业免垫资，员工免报销，AI帮比价",
       "source_url": "https://www.qbitai.com/2026/01/370463.html",
-      "id": 123,
+      "id": 129,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -1611,7 +1689,7 @@
       "original_language": "en",
       "original_title": "AI models are starting to crack high-level math problems ",
       "source_url": "https://techcrunch.com/2026/01/14/ai-models-are-starting-to-crack-high-level-math-problems/",
-      "id": 124
+      "id": 130
     },
     {
       "title": "氪星晚报｜西贝公关副总裁宋宣已离职；大麦娱乐宣布进军博物馆赛道；叮咚买菜江苏盐城开仓",
@@ -1622,7 +1700,7 @@
       "original_language": "zh",
       "original_title": "氪星晚报｜西贝公关副总裁宋宣已离职；大麦娱乐宣布进军博物馆赛道；叮咚买菜江苏盐城开仓",
       "source_url": "https://36kr.com/p/3641990475140738?f=rss",
-      "id": 125,
+      "id": 131,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -1635,7 +1713,7 @@
       "original_language": "zh",
       "original_title": "智谱1000亿 ,  清华赚翻了",
       "source_url": "https://36kr.com/p/3644717569625990?f=rss",
-      "id": 126,
+      "id": 132,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -1648,7 +1726,7 @@
       "original_language": "zh",
       "original_title": "如果护肤是门科学，那它迟早会被 AI 重做一遍 | 早期项目",
       "source_url": "https://36kr.com/p/3645771583672192?f=rss",
-      "id": 127,
+      "id": 133,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -1661,7 +1739,7 @@
       "original_language": "zh",
       "original_title": "在手订单超千吨，乌海一期千吨级中试基地已封顶，第三代生物可降解塑料研制商「中科可蓝」完成数千万元天使+轮融资｜36氪首发",
       "source_url": "https://36kr.com/p/3647515509706372?f=rss",
-      "id": 128,
+      "id": 134,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -1674,7 +1752,7 @@
       "original_language": "zh",
       "original_title": "“车载华为”冲刺IPO：供应5G，上汽奇瑞吉利东风都是客户",
       "source_url": "https://www.qbitai.com/2026/01/370618.html",
-      "id": 129,
+      "id": 135,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -1687,7 +1765,7 @@
       "original_language": "zh",
       "original_title": "氪星晚报 ｜宜家计划在五年内将其在印度的投资增加一倍，至超过22亿美元；百度文心助手月活破2亿；王腾新公司“今日宜休”完成数千万种子轮融资",
       "source_url": "https://36kr.com/p/3647666989895304?f=rss",
-      "id": 130,
+      "id": 136,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -1700,7 +1778,7 @@
       "original_language": "zh",
       "original_title": "一笔交易，市值涨了70亿",
       "source_url": "https://36kr.com/p/3644606458252930?f=rss",
-      "id": 131,
+      "id": 137,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -1713,7 +1791,7 @@
       "original_language": "zh",
       "original_title": "荣耀发布Magic8系列两款新机型，让Air机型不再“妥协”丨最前线",
       "source_url": "https://36kr.com/p/3646450668506758?f=rss",
-      "id": 132,
+      "id": 138,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -1726,7 +1804,7 @@
       "original_language": "zh",
       "original_title": "AI加速普及，数据库为何成为新底座？",
       "source_url": "https://36kr.com/p/3646024739638914?f=rss",
-      "id": 133,
+      "id": 139,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -1739,7 +1817,7 @@
       "original_language": "zh",
       "original_title": "【数智周报】 谷歌DeepMind CEO：中国的AI模型仅落后美国几个月；DeepSeek开源相关记忆模块Engram；微软在人工智能上的支出将达到5亿美元；美国放宽对英伟达H200芯片出口中国的管制",
       "source_url": "https://www.tmtpost.com/7845741.html",
-      "id": 134,
+      "id": 140,
       "track": "rss",
       "original_source": "钛媒体"
     },
@@ -1752,7 +1830,7 @@
       "original_language": "en",
       "original_title": "Announcing OpenAI Grove Cohort 2",
       "source_url": "https://openai.com/index/openai-grove",
-      "id": 135
+      "id": 141
     },
     {
       "title": "学习者和教育者是AI的新“超级用户”",
@@ -1763,7 +1841,7 @@
       "original_language": "en",
       "original_title": "Learners and educators are AI’s new “super users”",
       "source_url": "https://blog.google/products-and-platforms/products/education/our-life-with-ai-2025/",
-      "id": 136
+      "id": 142
     },
     {
       "title": "企业不能忽视的数十亿美元AI安全问题",
@@ -1774,7 +1852,7 @@
       "original_language": "en",
       "original_title": "The multibillion-dollar AI security problem enterprises can’t ignore ",
       "source_url": "https://techcrunch.com/podcast/the-multi-billion-ai-security-problem-enterprises-cant-ignore/",
-      "id": 137
+      "id": 143
     },
     {
       "title": "9点1氪丨贾国龙罗永浩微博被禁言，罗永浩朋友圈最新发声；李湘多平台账号被禁止关注；特朗普拿到诺贝尔和平奖奖章",
@@ -1785,7 +1863,7 @@
       "original_language": "unknown",
       "original_title": "9点1氪丨贾国龙罗永浩微博被禁言，罗永浩朋友圈最新发声；李湘多平台账号被禁止关注；特朗普拿到诺贝尔和平奖奖章",
       "source_url": "https://36kr.com/p/3642816248172161?f=rss",
-      "id": 138,
+      "id": 144,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -1798,7 +1876,7 @@
       "original_language": "unknown",
       "original_title": "中国的AI应用创业者正在换道领跑 ｜ AI火花开放麦",
       "source_url": "https://36kr.com/p/3641730074300038?f=rss",
-      "id": 139,
+      "id": 145,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -1811,7 +1889,7 @@
       "original_language": "unknown",
       "original_title": "B站也推出了新的广告+AI工具，未来会从“开环”走向“闭环”",
       "source_url": "https://36kr.com/p/3640520932560006?f=rss",
-      "id": 140,
+      "id": 146,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -1824,7 +1902,7 @@
       "original_language": "unknown",
       "original_title": "两年市值翻了三倍，运动品牌最意外的赢家出现了",
       "source_url": "https://36kr.com/p/3640240794225793?f=rss",
-      "id": 141,
+      "id": 147,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -1837,7 +1915,7 @@
       "original_language": "unknown",
       "original_title": "千问诞生后，负责人吴嘉首次回应15个关键问题",
       "source_url": "https://36kr.com/p/3641479608881030?f=rss",
-      "id": 142,
+      "id": 148,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -1850,7 +1928,7 @@
       "original_language": "unknown",
       "original_title": "8300亿美金独角兽不得不试水“广告”，AI讲不出新故事？",
       "source_url": "https://36kr.com/p/3644462576995970?f=rss",
-      "id": 143,
+      "id": 149,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -1863,7 +1941,7 @@
       "original_language": "unknown",
       "original_title": "新能源车的“硬核”战事，2026年卷向何处？",
       "source_url": "https://36kr.com/p/3644455846514304?f=rss",
-      "id": 144,
+      "id": 150,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -1876,7 +1954,7 @@
       "original_language": "unknown",
       "original_title": "猎头黄仁勋的2025：高管从巨头挖，干活钟爱华人创业团队",
       "source_url": "https://36kr.com/p/3644499135221632?f=rss",
-      "id": 145,
+      "id": 151,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -1889,7 +1967,7 @@
       "original_language": "unknown",
       "original_title": "80后最爱喝的啤酒 ,  要破产了？",
       "source_url": "https://36kr.com/p/3644485919395718?f=rss",
-      "id": 146,
+      "id": 152,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -1902,7 +1980,7 @@
       "original_language": "unknown",
       "original_title": "前第四范式总裁创业，用营销AI Agent解构内容社交平台的“营销玄学”，已获千万元融资",
       "source_url": "https://36kr.com/p/3644947937972103?f=rss",
-      "id": 147,
+      "id": 153,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -1915,7 +1993,7 @@
       "original_language": "unknown",
       "original_title": "日均停留近2小时，这个AI内容产品拿捏了县城青少年",
       "source_url": "https://36kr.com/p/3646033157984136?f=rss",
-      "id": 148,
+      "id": 154,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -1928,7 +2006,7 @@
       "original_language": "unknown",
       "original_title": "8点1氪丨贾国龙再发声：“西贝从来不存在两岁的西蓝花”；特朗普宣布将对欧洲8国加征关税；铁路12306平台推出旅客误购限时免费退票服务",
       "source_url": "https://36kr.com/p/3645586129964675?f=rss",
-      "id": 149,
+      "id": 155,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -1941,7 +2019,7 @@
       "original_language": "unknown",
       "original_title": "让设计师成为“超级个体”，「iMuse.AI」想用虚拟研发破局服装行业的同质化困境 | 早期项目",
       "source_url": "https://36kr.com/p/3646630011031426?f=rss",
-      "id": 150,
+      "id": 156,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -1954,7 +2032,7 @@
       "original_language": "unknown",
       "original_title": "8点1氪丨SK海力士向全体员工发放人均超64万元绩效奖金；深圳水贝市场推出投资铜条；茶颜悦色回应在北上深开店传闻",
       "source_url": "https://36kr.com/p/3647003519864708?f=rss",
-      "id": 151,
+      "id": 157,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -1967,7 +2045,7 @@
       "original_language": "unknown",
       "original_title": "叮咚买菜开到盐城，“小城消费”有多大想象力？",
       "source_url": "https://36kr.com/p/3647173421272967?f=rss",
-      "id": 152,
+      "id": 158,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -1980,7 +2058,7 @@
       "original_language": "unknown",
       "original_title": "独家对话研极微创始人：80人做到近100亿营收后，要把AI摄像头插到田间地头",
       "source_url": "https://36kr.com/p/3648364385226626?f=rss",
-      "id": 153,
+      "id": 159,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -1993,7 +2071,46 @@
       "original_language": "unknown",
       "original_title": "8点1氪丨小米通报两起汽车起火事件；嫣然基金会已筹款超2300万；信用卡分期还款能享受财政贴息",
       "source_url": "https://36kr.com/p/3648415054270338?f=rss",
-      "id": 154,
+      "id": 160,
+      "track": "rss",
+      "original_source": "36氪"
+    },
+    {
+      "title": "60多只南航流浪猫，从此有了「电子学籍」",
+      "summary": "01. 南京航空航天大学猫猫协会的好梦\n1月21日，“后浪研究所”刷到“好梦一日游”的视频，作为专门帮人实现愿望的博主，游子这次收到的愿望，始于一个有些意外的场景。\n视频中，游子最初遇到两位“许愿者”时，她们正在街边的垃圾桶旁翻些什么，本以为她们在勤工俭学的游子，上前一问才得知她们是南京航空航天大学猫猫协会的同学，想找些保温材料带回学校，给猫咪们做御寒的猫窝。\n了解到南航校园里有60多只猫咪，游子决定和同学们去学校看看。\n路途中，提起小猫，两位同学的话匣子一下就打开了，“大黑，南航顶流”“这是大黑的儿子饺子”“大黑的前女友松果”……她们信手拈来地介绍着校园猫咪们的关系网，仿佛在聊一群老朋友。\n\n同学们给游子介绍校园里的猫咪\n这些猫咪作为校园里的“资深元老”，有些在学校的年头比同学们都长，日常扮演着大家上课、吃饭、回寝路上的通勤搭子。天气好的时候，猫咪们在教学楼门口晒太阳，也成了学校独特的风景。\n为了守护好这些小猫，学生们自发组织并加入了“南航猫猫协会”，日常关心着校园里猫咪的“吃喝拉撒”，也操持着猫咪的大事小事——不定期地在社交媒体上更新猫咪的状态，发布绝育通知、疫苗计划、领养信息，甚至为离世的猫咪写下用心的讣告。\n但这份温暖背后，其实隐藏着不小的压力。疫苗、绝育、治病，每一项都需要钱，每天巡查、投喂、观察状态，更需要投入大量时间。志愿者们不得不常常在公众号发起募捐，一点一点为猫咪们筹集生活费。\n听到这，游子决定为这群“为爱发电”的志愿者们做点什么，帮她们给校园里的小猫打疫苗。\n在这之前，游子也完成过不少与流浪猫狗相关的心愿，陪加了一天班的粉丝和流浪狗过生日，帮助粉丝领养小狗……但一次性带60多只猫打疫苗，难度系数可不小。\n考虑到运输和抓捕的双重挑战，游子和团队商量后，决定请医生到学校“上门”打疫苗。联系了一圈，终于找到一位既能上门、又有流浪动物救助经验的医生。\n于是游子和医生带着疫苗来到学校，打算用一下午的时间为猫咪们完成接种。但她很快发现，自己还是把给猫咪打疫苗这件事想简单了。\n光是诱捕猫咪就是一项持久战。游子和志愿者们一边摇晃猫粮袋发出声响，一边同时开了几个罐头，试图用声音和香味吸引这群小猫。但习惯了校园里的自由生活，猫咪们对“被陌生人抓着打针”这件事充满警觉。“它可能会一直躲着你，在你视线范围内，但是不靠近你。”游子说，甚至有一只猫猫因为应激，直接抓伤了协会的一位志愿者。\n\n医生到校园里给猫咪打疫苗\n那天游子和志愿者们在学校里从下午2点到6点，4个小时的时间都在诱捕猫咪，却还是只有9只猫咪成功打上了疫苗。\n02. 五分钟做好的流浪猫咪“电子学籍”\n虽然过程充满挑战，但在校园中，游子看到了很多暖心的细节——\n校园角落里，学生们用废品改造的五颜六色的猫窝，和给猫咪们喂食的小碗随处可见。为了多些救助猫咪的资金，志愿者们还会制作猫咪的周边进行售卖，“很明显能感觉到校园里对流浪猫的氛围非常包容。”游子说。\n最让她印象深刻的，还数志愿者们对猫咪们的情况了如指掌。哪只猫最常出现在哪个区域，谁该打疫苗了，谁有怎样的性格偏好……“真的很负责，几乎每一只猫长什么样，多大，什么状态，都是刻在他们脑子里的。”\n但这份靠着记忆与热爱的记录，也面临着一些挑战。\n目前，校园里的所有猫咪信息都被记录在一张Excel表格里，虽然做了分类，但还是会出现信息更新不同步、信息杂乱的情况。所有信息都依靠志愿者手动整理，一旦协会人员变动，光是信息对接就得费不少功夫，也容易出现偏差。\n\n游子决定帮志愿者们做一个猫咪信息的网页。大学时游子学过写网页代码相关的课程，那时她要花一周才能做出一个简单页面。这次，她打算试试更高效的办法——直接向千问求助。\n游子打开千问的任务助理，没敲代码也没翻教材，只输入了一段指令：“帮我做一个‘大学校园流浪猫图鉴’网页，即大学流浪猫信息整理的网页，要求如下：首页有全部猫咪的信息统计，每只猫拥有独立主页，包括昵称、照片、绝育状态、疫苗记录、常出没区域、饮食偏好、喂养记录登记与展示、社交关系等信息。 猫咪信息： 见附件表格。请交付一个html文件。”不到五分钟，千问的任务助理就生成了一个完整的“南京航空航天大学校园流浪猫图鉴”页面。\n\n页面干净、直观又充满温度，交互性也完全不输专业人士制作的。既包括猫咪的统计看板——如猫咪的数量、性别分布、常出没区域与绝育比例，还有详细的猫咪图鉴列表，每只猫都有独立的主页，展示着它们的昵称、照片、疫苗记录、饮食偏好，甚至是社交关系。更实用的是，任何人都可以在网页中添加喂养记录，让大家及时看到猫咪的一日三餐与进食时间，“每一个喂食点都记录的话，就不会出现可能两个人同时在喂食点进行投食的这种情况。”游子说。\n\n相较于人工汇总的excel，千问制作的“南京航空航天大学校园流浪猫图鉴”让猫咪的信息流动了起来。数据统计自动完成，猫咪状态实时可查，志愿者们就能从繁琐的信息整理中解放出来，将更多精力真正投入到照顾猫咪本身，并且网页还能对所有同学开放，数据也不会被轻易篡改。省时省事省钱，大大提升了流浪猫救助效率。\n\n照顾猫咪，从此不再是协会志愿者的“专属任务”，而成了每个路过者都能轻松参与的“公共事务”。轻轻一点，就能为校园“顶流”大黑添上一笔喂养记录，随手一翻，它的健康状况和活动轨迹便清晰可见。\n\n03. 用AI，实现心中微小而善良的愿望\n千问所做的，不仅仅是生成了一个网页。\n在过去提起AI，我们想到的都是简单的问答、找资料，以及娱乐性的陪聊。\n但在南航的流浪猫图鉴中，AI不再只是能陪聊、秒回的载体了，而是能真的帮每个使用者办实事。\n它为志愿者们搭建了一个轻量化的数字平台，节省了整理与分析信息的时间，提高了工作效率，也让每只小猫都有了自己的“电子身份证”，提供了一种流浪猫救助的新形式。\n\n有了千问，救助猫咪的门槛大大降低了。\n专业的科技产品变得人人可用，无论是在校学生、社会志愿者还是在职打工人，只要有想法，就可以让千问搭建一个网页。不需要高超的技术，也不必投入大量时间和金钱，哪怕是不懂代码的普通人，也能发起一项公益实践。\n而这，或许只是一个开始。\n随着千问的不断进化，“南京航空航天大学校园流浪猫图鉴”的功能版图还会继续迭代与扩张。\n也许未来，它能根据猫咪的年龄自动算出合适的绝育年龄与疫苗时间，并主动发出提醒，再也不需要人工手动计算；也许未来，每个点进网页的同学，都能成为“云养猫”合伙人，随手上传一张喂养照片，后台就能自动更新进食记录，分析饮食的合理性，并给予猫咪喂食建议；也许未来，通过照片识别，后台还能根据照片中猫咪的状态，初步判断猫咪的健康状态，及时提醒就医；甚至当某只猫咪长时间未被记录时，系统可以及时检测到，并发送一条“巡查提醒”，推送给附近的志愿者们……\n千问在公益领域的潜力，也不止于校园里流浪猫的救助。\n比如根据网上的信息，生成一个“流浪动物安全地图”，实时标记投毒高发区域、友好投喂点、24小时动物医院，降低流浪狗被投毒的频率；或是创建一个领养信息追踪平台，让被领养动物的后续生活有迹可循，打破领养后就失联的困局；甚至制作出一个公益筹款募捐网页，让每个人都能献出一点爱…… \n除了应用在公益活动中，课堂上的互动教学网页，品牌的产品展示页面，甚至是电子请柬、抽奖游戏，每个临时起意的奇思妙想，也可以交给它来完成。\n千问都能以一种极低的使用门槛，更快捷更高效地响应需求，节省时间提高效率，更能把零散的信息变成系统化的呈现。它并不是取代专业的开发，而是让“做一个应用”变成人人可实现的日常能力。它不是炫技，也不是只做表面功夫，而是让散落的资源与需求被看见、被记录、被传递。\n有了AI，有了千问，那些具体而微的想法，在被落实的过程中，照亮了许多原本被忽视的角落。每一个人都可能成为需求的发起者，每一个普通人，也都有了能力，实现心中微小而善良的愿望。\n（点击链接，浏览文中提到的“南京航空航天大学校园流浪猫图鉴”，欢迎大家get同款网页，加入流浪动物救助的公益行动中来吧～）",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": null,
+      "original_language": "unknown",
+      "original_title": "60多只南航流浪猫，从此有了「电子学籍」",
+      "source_url": "https://36kr.com/p/3648936703942533?f=rss",
+      "id": 161,
+      "track": "rss",
+      "original_source": "36氪"
+    },
+    {
+      "title": "新一年B站百大UP主名单发布，其中有73个都不是第一次拿奖",
+      "summary": "1月18日，哔哩哔哩（以下简称“B站”）发布了新一届百大UP主名单。与往年相比，今年的名单有以下几个明显特征：\n这是首次获奖者人数最少的一年，只有27人。也就是说，一百人中，有73个UP主都不是第一次拿奖；\n超60%的获奖者连续创作了5年以上。其中，18位UP主超过10年，创作时间最长的2名UP主达到了15年；\n创作时长在3年以下的获奖者仅有12人，其中有2人仅做了1年UP主，他们分别来自游戏区和知识区；\n4位超头部UP主连续蝉联了有史以来整整8年的榜单，分别是：泛式、老番茄、逍遥散人和木鱼水心；\n0个百万粉丝以下的UP主获奖，而去年有4个。\n获得“年度最佳新人奖”的是两个看起来“不太B站”的人——于谦和罗永浩。他们创作的内容都属于2025年B站的新兴内容品类“视频播客”。在榜单发布的同一周，B站宣布视频播客用户数已经突破6500万。这个分区的创作者除了“传统意义”上的UP主外，大多是名人、媒体人和意见领袖。\n“年度最佳作品奖”颁给了曾在2025年引发舆论争议的UP主“老师好我叫何同学”，他的获奖作品是一条帮助残障人士制作单手键盘的视频。\n与往年一样，今年的评选标准也是“专业性、影响力、创新性”三个维度。百大榜单颁布到第8年，呈现出一种明显的趋势，那就是平台的超级头部圈层越来越稳定。2022年，曾有多达60个UP主首次入选榜单，但自彼时之后该数据逐年递减。\n\n图片来自：段小草\n更加勤奋，更加专业，更加昂贵\nB站方面公布的数据显示，本届百大UP主最突出的特点之一，是“勤奋”。\n本届百大共创作了超过4.9万支视频，作品累计时长超过99万分钟。其中，“雨说体育徐静雨”以6334支视频的总量位居更新数量的榜首，而“一数”则以2025年更新1.8万分钟，约合300小时的视频，位列年度更新时长的首位。\n知乎大模型、Python 话题优秀答主@段小草统计了今年的榜单，结果显示，百大UP主年度投稿数的平均值为 69，中位数为 51。100人中，只有 2 位UP主没能做到月更（<12 个视频），大部分人都能做到月更、周更甚至周双更。\n从稿件的平均时长来看，百大UP主年度投稿平均时长的平均值为 28 分钟，中位数为 18 分钟。相比去年（平均值 18 分钟，中位数 13 分钟）明显拉长。\n按照 <3 分钟（短视频），3~10 分钟（中视频），10~30 分钟（中长视频），>30 分钟（长视频）的标准来划分，百大UP主们确实体现出了B站作为一个“中长视频平台”的显著特征。\n\n图片来自：段小草\n对商业社会来说，“百大”作为一个没有奖金只有荣誉，评选标准相对抽象，且数值难以量化的奖项，它更像是一份“风向标”，用于展示“谁才是现阶段最受平台认可的创作者”，以及，“谁才是平台最希望向广告主展示的创作者”。\n成为一个勤奋的中长视频创作者，比成为一个勤奋的短视频创作者要难得多——难度的增加不仅仅体现在时长上，还体现在选题的设计上和对用户有限注意力的争夺上。\n《中国网络视听发展研究报告（2025）》显示，短视频应用用户的人均单日使用时长已经达到了惊人的156分钟（约2.6小时），在所有互联网应用中排名首位。那么以每条短视频平均观看15秒计，一天下来，用户可能在不知不觉间会刷600多条短视频。\n而2025年，B站用户的日均使用时长是112分钟。若以相对保守的5分钟/条视频来计算，那么用户每天能刷23条视频。若以百大UP主的主力军所展示的10-30分钟每条视频的标准来算，那用户能看的视频就更少了。\n一个中长视频的创作者，要如何跟平台上的同类型创作者们抢用户的注意力？从百大UP主们目前的表现上来看，不少人都选择了“更专业+更昂贵”这条道路。\nUP主@杰克小兔是今年首次获奖的27个新人之一。他的视频弹幕区常常飘过“经费燃烧”四个字，这位UP主会随机带观众游历地球某处的生活与风情。他既踏上价格天花板的东方快车，也造访英国的贫民窟和顶级庄园，呈现经济参差下的真实社会图景。\n在颁奖典礼后台，@杰克小兔接受了包括36氪在内的数家媒体的采访。\n“我认为做内容账号就像开公司，我愿意把我商单利润的大部分投入到研发生产中。”杰克小兔说。“所以说，高投入其实是在投资自己。短期看，可能看不到很及时的经济效益反馈，但是对于IP未来的商业价值肯定有所助益。如果我不这么做，你们在这也见不到我。”\n杰克小兔对自己过去一年最满意的作品，是他播放量、涨粉率最高，也最昂贵的作品。在那条视频中，他登上了一晚7.4万元人民币的东方列车，体验了从巴黎到威尼斯的一段行程。杰克小兔认为这条视频成功的原因，正是它“够稀缺、拍摄的角度有意思，能够满足观众们的好奇心”。\n百大之中，在2025年获得了最多弹幕（237万条）和最多投币（905万枚）的，同样是一个以内容专业+昂贵著称的科技区UP主——@影视飓风。目前，影视飓风的内容制作团队已经膨胀到了上百人。\n即便不是产出科技、旅行这类有“黄金门槛”的内容，也有越来越专业、越来越昂贵的趋势。以产出幽默内容为主的生活区UP主“雨哥到处跑”时隔5年再次获得百大，就是凭借他共创的UP主团综《青春旅行团》和《下一个是谁》。\n“团综的成本主要包括场地租金、道具购买，以及所有UP主的时间成本。去年，我花了差不多200万。”雨哥说。“综艺前几期都是没有广告的，最新一期才接了商单。之前可以说是大亏，现在是小亏。 但整体还是亏的。”\nB站，自有它的特殊性\n高投入之后，收益从哪来？\nB站财报显示，2025年前三季度，UP主的人均收入同比增长22%。近250万UP主在B站通过广告、直播、充电、课堂、小店等渠道获得收入。\n今年，B站将面向广告主的AD TALK营销伙伴大会与百大UP主颁奖典礼安排在了同一周。考虑到高投入的创作趋势，好内容与好商单的相关性似乎也变得比往年更强。\n中长视频平台在广告业务上的收入量级一直被短视频平台压制，这似乎是一个时代的困局。几年前，B站也大力推动过Story-Mode竖屏视频，但事实证明，它的差异化优势仍然在“看家本领”的中长视频上——特别是一些“只适合在B站展示”的视频类型，比如科技类和知识类长内容。\n去年，科技类内容也是B站广告收入表现最好的内容之一。2025年Q3，AI行业给B站带来的广告收入增长近90%，数码家电、家居家装等领域广告增速超过60%，显示了广告主对B站科技类内容的偏好。该季度，B站广告收入同比增长23%，达到25.7亿元。\n今年再次获选为百大UP主的科技区UP主@极客湾在接受36氪采访时称，他们认为过去一年B站最大的变化，就是“商业化变得更好了”。“我认为这是支持UP主走下去的非常重要的动力。大家都想做好内容，但是好内容需要现实的支撑。”极客湾说。\n极客湾的投稿内容以评测全球数码产品的性能数值为主，两位UP主常常拆分主板、磨切芯片、探索电池续航极限，风格偏硬核科技。这类内容虽然听起来离商业化很近，但其中也会有“平衡商业价值”与“维护数据可信度”的矛盾存在。\n极客湾的两位UP主表示，他们在面对商单时非常谨慎，“只有在确认产品非常好的情况下，我们才会合作。”他们会把商业合作的内容与横向评测的内容区分开，以保证日常内容的客观。\n在被问及“B站是否是目前中文互联网上最适合展示您这类视频的平台”时，极客湾说：“是的。因为B站用户的认知相对更高。他们不会盲目追捧创作者，而是会与我们互动，形成思辨。尤其是对我们这种产出比较深的内容的创作者来说，这样的社区是很有必要的。”\n面对同一个问题时，知识区UP主@卢格杜努姆的奥古斯丁给出了更直白的回答——他认为B站是“唯一”适合他的平台。\n卢格杜努姆的奥古斯丁专攻中世纪史学专业，他在B站更新的视频时长大多在20分钟左右，内容主题大到盘根错节的教会分裂史，小到中世纪人类的打工体验和婚姻观念，内容也属于偏硬核的知识类内容。\n“考虑到我现在的视频题材和时长，B站就是唯一适合我的地方。”卢格杜努姆的奥古斯丁说：“虽然B站不是用户最多的平台，但我始终认为B站是一个最高质量以及最适合高质量内容的平台。这就是它的不可替代性。”\n但相比同样“离不开B站”的科技类内容，知识区尤其是历史知识类内容在商业化上就相对没那么有优势了。“我在百大颁奖典礼后台跟大家聊的时候，发现我的收入确实相对不算高，但现阶段已经足够让我快乐生活，我已经知足了。”卢格杜努姆的奥古斯丁说。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": null,
+      "original_language": "unknown",
+      "original_title": "新一年B站百大UP主名单发布，其中有73个都不是第一次拿奖",
+      "source_url": "https://36kr.com/p/3646435522121347?f=rss",
+      "id": 162,
+      "track": "rss",
+      "original_source": "36氪"
+    },
+    {
+      "title": "成立3年订单额破10亿，安高特电用“半导体思维”重塑固态电池 | 水下项目",
+      "summary": "从新能源车和无人机的普及，到具身智能与eVTOL等产业兴起，电池作为提供能源动力的核心部件，其技术突破始终是产业关注焦点。\n由于液态电池安全事故频发、能量密度见顶，固态电池被认为是下一代动力电池的核心技术方向。国家工信部在2026年工作计划中，已经明确将全固态电池作为提升产业链自主可控能力的核心任务。\n爱企查数据显示，截至2025年年底，我国已有1.44万项固态电池相关专利。固-固界面、量产成本等问题，是不同路线的固态电池技术在产业化进程中共同面临的挑战。\n针对行业难题，「安高特电」提出一条独特的技术解决方案——用半导体思维做全固态电池，研发出能量密度超过700Wh/ kg的高熵复合固态电池，最终目标是实现能量密度突破1000Wh/ kg的晶圆全固态电池。\n成立于2022年底的安高特电，为什么能实现这样的技术突破？\n安高特电CEO吴珠智告诉我们，公司研发团队长期从事安全、高能量密度的特种电池研发，这也是公司名称“安高特电”的由来。核心科学家团队由哈佛、斯坦福、伯克利、卡耐基梅隆等知名高校的高层次海外留学归国人才组成，曾任职英特尔、三星、华为、清华、北航、成电等知名机构，长期从事半导体、微电子、超分子、二维器件、材料基因等前沿技术研究。\n这种跨学科的研究视角，使安高特电团队得以跳出传统的电池研发框架，回归物理底层原理，设计出全新的固态电池形态。\n近期，安高特电宣布已完成A轮融资，由瀚海星云、惠新股权等基金投资，主要用于量产交付营运与固定资产投资。在订单推动与多方支持下，安高特电接下来将专注于突破产能瓶颈，2026年实现营收的阶越式增长。\n1.电池架构、材料体系与研究范式的创新\n动力电池行业长期面临安全性、能量密度与成本的“不可能三角”。传统的液态电池虽然成本低，但能量密度难以突破350Wh/ kg，并且由于电解液易燃，电池存在热失控风险。\n而当前主流的固态电池，在技术路线上聚焦固态电解质材料革新，正负极基本沿用液态电池的活性材料体系和粉体电极结构，电极内部缺陷多，固固界面接触差，活性材料颗粒在充放电过程中会产生膨胀收缩现象，破坏与固态电解质之间的界面，产生裂缝导致电池性能衰减。\n吴珠智介绍，从工程实践出发，固态电池一般需要少量电解液填充孔隙及界面，外部压力保持微观界面接触，因此呈现为半固态或准固态形式，性能指标和安全水平相比液态电池有所提高，但提升程度有限。\n“所以我们从第一性原理出发，重新思考固态电池的物理机制和传输原理应该是什么。”安高特点团队提出，借鉴晶圆半导体思路，将电池正负极设计为晶圆形态，设计出完全致密的器件结构以确保载流子在其中传输的连续性，电解质则采用原子级沉积（PVD/CVD）真空镀膜工艺制作的薄膜形态。\n换句话说，通过“晶圆电极+薄膜电解质”的全固态架构，安高特电的固态电池使锂离子能够在连续、无孔隙的固体中传输，从根本上解决粉体界面接触不良和循环中界面破坏��问题。\n“我们经过十多年的探索和技术积累，对这个方向逐步形成了比较清晰的技术路线。美国、日本学术界也有这方面研究，但目前还没有看到明确提出晶圆固态电池的概念。”吴珠智介绍，“当然，晶圆固态电池在规避传统技术路线问题的同时，也面临关键材料和工艺技术挑战。例如晶圆电极中的固相离子高效传输和晶格畸变调控。”\n为了实现晶圆电池架构，安高特电在材料层面完成了三项原创性技术突破：\n一是高熵电极材料，借鉴高熵合金的成功经验，引入电极材料高熵化设计思路，通过多元素组合，协同提升电极材料的晶格稳定性和电化学活性，实现高离子电导率的同时，解决电极材料在锂离子脱/嵌过程中的晶格畸变和体积膨胀难题，提升晶圆电极在充放电过程中的结构稳定性，确保正极不释氧，负极不析锂，支撑实现安全且高能的固态电池。\n二是离子超导材料。由于晶圆电极的厚度会影响离子在其中的传输速度，安高特电研发出离子电导率高达350mS/cm（毫西门子/厘米）的新型固态离子传导材料，远高于当前主流固态电解质，甚至比传统液态电解液加隔膜后的综合传导效率高出1-2个数量级，从而可以支撑厚电极制造，进一步提高电池能量。此外，该材料在零下60度的超低温环境下，仍能正常运行。\n三是超分子界面材料。这种材料如同特殊的“分子级胶水”，使晶圆电极之间能够实现分子级的紧密键合，形成完整、连续的固-固界面和离子传输通道，并且具有自适应和自修复的功能。\n新材料的研发往往需要耗费大量时间试错，因此安高特电团队在十多年前引入新的材料基因工程研究范式，通过高通量组合制备技术（如组合溅射），在一块“材料芯片”上一次性生成成千上万种不同成分的样品，再结合自动化表征和AI大数据分析，快速筛选出最优的材料配方，从而改变了传统材料研发“一个一个试错”的低效模式，大幅提升研发效率。\n基于在晶圆架构、高熵电极、离子超导及材料研究范式上的一系列创新，安高特电的固态电池技术，在一定程度上挑战了长期困扰动力电池发展的“不可能三角”。\n安全性方面，团队研发的多款高熵固态电池产品通过了针刺、枪击、热箱、过充等安全测试。团队研发的最新一代特种电池样品，能量密度在实验室条件下突破800Wh/kg。\n在成本方面，安高特电通过改良材料配方和核心工艺，与现有的液态电池产线合作，在固定资产方面的投资成本低于多数固态、半固态电池厂商。目前第一代高熵复合固态电池产品采用原位固化工艺，固化程度最高达到99%，可满足针刺安全测试要求，产线良率最高达到94%，与液态电池水平相当，可进一步降低实际生产成本。\n2.科学家创业的产业化与商业化进阶\n但是，拥有顶尖技术不等于商业成功。作为典型的“科学家创业”公司，安高特电与我们分享了团队从技术突破到产业化落地，再到实现商业化“不可避免的”的三个阶段。\n第一阶段是安高特电最擅长的“技术思维主导”，即通过独创性的技术突破，在实验室研发出高性能的安全高能特种电池，并通过各种渠道开展应用验证工作。\n进入产业化落地阶段后，团队发现实验室理想化的工艺条件在产线上无法达到，不得不转变为“产业化思维主导”，在产线上重新调整产品设计、改进材料配方、适应实际工艺，使产品的实际产率、良率和安全性能达到要求。\n“做出来好的产品还得有人买单。我们之前有个教训，因为拿到的客户需求尺寸信息不准确，做出来的产品客户用不了，也不可能要求客户改变他们的产品设计。后来我们要求研发骨干走向市场，跟客户面对面交流，共同定义产品。”吴珠智将这一阶段总结为“市场思维主导”。\n他说，“过去一年，我们的首席技术专家一直与研发人员在业务一线。公司内部组织向华为学习，形成一个个‘技术经理-产品经理-客户经理’的铁三角，以客户需求为原点重新进行产品设计，确保能精准匹配市场需求。经过严格测试评价，产品终于得到客户认可，去年底订单量已经开始稳定爬升。”\n目前，安高特电与某两轮车换电企业达成合作，首批3100组已投入生产并开始交付运行，未来三年采购规模达到数十万组；为某央企开发的无人装备专用电池产品已完成送样，预计订单总量约数十万组。\n此外，安高特电在某“一带一路”沿线国家的1.5GWh高安全储能电池订单即将落地，与电池行业多个头部企业探讨合作，为其提供关键材料和工艺解决方案，并与多家乘用车主机厂展开上车测试合作洽谈。\n吴珠智对安高特电2026年的发展比较乐观，预计各类订单总额将超过十亿元。“技术和产品已经得到市场验证，一旦交付能力突破，营收可以出现阶跃式增长。所以接下来的目标就是全力以赴签单和做交付。”\n为解决订单需求与有限产能的矛盾，安高特电制定“一代合作、二代共建”的产能拓展策略，目前已经与江西、浙江等多条产线合作，通过委托加工或产线承包等方式实现产品制造和交付。\n具体来说，一代高熵复合固态电池采用原位固化工艺，通过与现有液态电池产线合作，实现产品快速交付；二代干法层压固态电池采用辊压成形工艺，自建标杆中试线，并与地方政府或产业方共建产能，实现干法电池产品制造交付，进一步提升电池能量密度、降低成本。\n2025年8月，安高特电的二代固态电池中试产线在浙江桐庐举行开工仪式。在二代之上，安高特电正在进行三代晶圆固态电池的工程化样机开发，并联合半导体装备企业合作开发晶圆电池专用装备，核心是突破大尺寸晶圆电极的规模化制造。\n目前三代技术研发团队并行推进，期望确保技术代差持续领先的同时，以更快速度突破产能制约，将技术领先转化为商业优势。\n“掌握核心技术、整合行业资源、拥抱未来发展，是我们总结出的三条经验。”吴珠智表示，为了充分发挥自身技术和产品优势，安高特电前期倾向于寻找对电池安全性和品质要求高，订单规模不大，且价格接受度较高的客户合作。“未来也希望将合作范围拓展到对高安全高能量电池有旺盛需求的具身智能、低空经济等新兴场景。”\n安高特电团队的愿景并非仅仅成为一家电池制造商，而是以“第一性原理”为创新精神，研发出“能算一体”的新一代低功耗集成器件，解决未来算力需求激增带来的能耗瓶颈这一终极问题。\n“我们正在探索的新方向是，将超级计算机的功耗降低到人脑水平，从现在的20兆瓦降低到人脑的20瓦。”吴珠智表示。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": null,
+      "original_language": "unknown",
+      "original_title": "成立3年订单额破10亿，安高特电用“半导体思维”重塑固态电池 | 水下项目",
+      "source_url": "https://36kr.com/p/3648784093404553?f=rss",
+      "id": 163,
       "track": "rss",
       "original_source": "36氪"
     }
