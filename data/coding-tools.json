@@ -1,7 +1,7 @@
 {
   "category": "AI编程工具进化",
-  "last_update": "2026-01-21 05:31:55 (北京时间)",
-  "total_count": 77,
+  "last_update": "2026-01-21 11:16:49 (北京时间)",
+  "total_count": 82,
   "news": [
     {
       "title": "通过提高WebAssembly Text Format解析器性能350%",
@@ -806,6 +806,45 @@
       "original_source": "量子位"
     },
     {
+      "title": "通过执行轨迹可证明地揭露恶意行为",
+      "summary": "Comments\n",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-21 11:04:10",
+      "original_language": "en",
+      "original_title": "Provably unmasking malicious behavior through execution traces",
+      "source_url": "https://arxiv.org/abs/2512.13821",
+      "id": 63,
+      "track": "rss",
+      "original_source": "Hacker News"
+    },
+    {
+      "title": "Mastra 1.0，Gatsby 开发团队的开源 JavaScript 代理框架",
+      "summary": "Comments\n\n新闻链接：https://github.com/mastra-ai/mastra",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-21 11:04:07",
+      "original_language": "en",
+      "original_title": "Show HN: Mastra 1.0, open-source JavaScript agent framework from the Gatsby devs",
+      "source_url": "https://github.com/mastra-ai/mastra",
+      "id": 64,
+      "track": "rss",
+      "original_source": "Hacker News"
+    },
+    {
+      "title": "Claude Chill: 修复 Claude Code 在终端中的闪烁问题",
+      "summary": "Comments\n",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-21 11:03:26",
+      "original_language": "en",
+      "original_title": "Claude Chill: Fix Claude Code's Flickering in Terminal",
+      "source_url": "https://github.com/davidbeesley/claude-chill",
+      "id": 65,
+      "track": "rss",
+      "original_source": "Hacker News"
+    },
+    {
       "title": "Figy.ai",
       "summary": "Discussion\n            |\n            Link\n新闻链接：https://www.producthunt.com/products/figy-ai",
       "is_legal": true,
@@ -814,7 +853,7 @@
       "original_language": "en",
       "original_title": "Figy.ai",
       "source_url": "https://www.producthunt.com/products/figy-ai",
-      "id": 63,
+      "id": 66,
       "track": "rss",
       "original_source": "Product Hunt"
     },
@@ -827,7 +866,7 @@
       "original_language": "en",
       "original_title": "Show HN: wxpath – Declarative web crawling in XPath",
       "source_url": "https://github.com/rodricios/wxpath",
-      "id": 64,
+      "id": 67,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -840,7 +879,7 @@
       "original_language": "en",
       "original_title": "Unconventional PostgreSQL Optimizations",
       "source_url": "https://hakibenita.com/postgresql-unconventional-optimizations",
-      "id": 65,
+      "id": 68,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -853,7 +892,7 @@
       "original_language": "en",
       "original_title": "Without benchmarking LLMs, you're likely overpaying 5-10x",
       "source_url": "https://karllorey.com/posts/without-benchmarking-llms-youre-overpaying",
-      "id": 66,
+      "id": 69,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -866,7 +905,7 @@
       "original_language": "en",
       "original_title": "Linux kernel framework for PCIe device emulation, in userspace",
       "source_url": "https://github.com/cakehonolulu/pciem",
-      "id": 67,
+      "id": 70,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -879,7 +918,7 @@
       "original_language": "zh",
       "original_title": "豆包的新身份曝光：在国际艺术展当起了“AI讲解员”",
       "source_url": "https://www.qbitai.com/2026/01/370665.html",
-      "id": 68,
+      "id": 71,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -892,7 +931,7 @@
       "original_language": "zh",
       "original_title": "MiniMax把自家“实习生”放出来了！",
       "source_url": "https://www.qbitai.com/2026/01/370720.html",
-      "id": 69,
+      "id": 72,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -905,7 +944,7 @@
       "original_language": "en",
       "original_title": "x86 prefixes and escape opcodes flowchart",
       "source_url": "https://soc.me/interfaces/x86-prefixes-and-escape-opcodes-flowchart.html",
-      "id": 70,
+      "id": 73,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -918,7 +957,7 @@
       "original_language": "en",
       "original_title": "The Overcomplexity of the Shadcn Radio Button",
       "source_url": "https://paulmakeswebsites.com/writing/shadcn-radio-button/",
-      "id": 71,
+      "id": 74,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -931,7 +970,7 @@
       "original_language": "zh",
       "original_title": "美团卡姐接管无人车，MIT博士离职创业具身智能",
       "source_url": "https://www.qbitai.com/2026/01/370599.html",
-      "id": 72,
+      "id": 75,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -944,7 +983,7 @@
       "original_language": "en",
       "original_title": "Giving University Exams in the Age of Chatbots",
       "source_url": "https://ploum.net/2026-01-19-exam-with-chatbots.html",
-      "id": 73,
+      "id": 76,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -957,7 +996,7 @@
       "original_language": "zh",
       "original_title": "“车载华为”冲刺IPO：供应5G，上汽奇瑞吉利东风都是客户",
       "source_url": "https://www.qbitai.com/2026/01/370618.html",
-      "id": 74,
+      "id": 77,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -970,7 +1009,7 @@
       "original_language": "zh",
       "original_title": "首个真正“能用”的LLM游戏Agent诞生！可实时高频决策，思维链还全程可见",
       "source_url": "https://www.qbitai.com/2026/01/370494.html",
-      "id": 75,
+      "id": 78,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -983,7 +1022,7 @@
       "original_language": "zh",
       "original_title": "智谱新模型也用DeepSeek的MLA，苹果M5就能跑",
       "source_url": "https://www.qbitai.com/2026/01/370652.html",
-      "id": 76,
+      "id": 79,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -996,7 +1035,33 @@
       "original_language": "en",
       "original_title": "Running Claude Code dangerously (safely)",
       "source_url": "https://blog.emilburzo.com/2026/01/running-claude-code-dangerously-safely/",
-      "id": 77,
+      "id": 80,
+      "track": "rss",
+      "original_source": "Hacker News"
+    },
+    {
+      "title": "数组是函数吗？",
+      "summary": "Comments\n\n新闻链接：https://futhark-lang.org/blog/2026-01-16-are-arrays-functions.html",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-16 14:30:00",
+      "original_language": "en",
+      "original_title": "Are arrays functions?",
+      "source_url": "https://futhark-lang.org/blog/2026-01-16-are-arrays-functions.html",
+      "id": 81,
+      "track": "rss",
+      "original_source": "Hacker News"
+    },
+    {
+      "title": "A 26,000-year astronomical monument hidden in plain sight (2019)",
+      "summary": "Comments",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": null,
+      "original_language": "unknown",
+      "original_title": "A 26,000-year astronomical monument hidden in plain sight (2019)",
+      "source_url": "https://longnow.org/ideas/the-26000-year-astronomical-monument-hidden-in-plain-sight/",
+      "id": 82,
       "track": "rss",
       "original_source": "Hacker News"
     }
