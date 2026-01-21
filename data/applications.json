@@ -1,7 +1,7 @@
 {
   "category": "当前主流应用",
-  "last_update": "2026-01-21 17:46:48 (北京时间)",
-  "total_count": 163,
+  "last_update": "2026-01-21 21:58:33 (北京时间)",
+  "total_count": 176,
   "news": [
     {
       "title": "从“买算力”到“买人”：Humans&获得4.8亿美元种子轮，英伟达、贝索斯联手投资",
@@ -1655,6 +1655,162 @@
       "original_source": "量子位"
     },
     {
+      "title": "xAI工程师播客聊太嗨，马斯克解雇了他",
+      "summary": "「巨硬」项目首次公开",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-16 14:30:00",
+      "original_language": "zh",
+      "original_title": "xAI工程师播客聊太嗨，马斯克解雇了他",
+      "source_url": "https://www.qbitai.com/2026/01/371158.html",
+      "id": 128,
+      "track": "rss",
+      "original_source": "量子位"
+    },
+    {
+      "title": "突发！xAI联创杨格过劳病离职，给马斯克干活压力山大",
+      "summary": "新闻链接：https://www.qbitai.com/2026/01/370985.html\n\nxAI联创杨格因过劳病离职，这一消息引起了广泛关注。杨格在xAI的工作中承受了巨大的压力，据报道，他在给马斯克工作期间，由于工作强度过大，身体状况恶化，不得不选择离职。这一事件再次引发了人们对科技行业工作压力和员工健康的关注。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "null",
+      "original_language": "zh",
+      "original_title": "突发！xAI联创杨格过劳病离职，给马斯克干活压力山大",
+      "source_url": "https://www.qbitai.com/2026/01/370985.html",
+      "id": 129,
+      "track": "rss",
+      "original_source": "量子位"
+    },
+    {
+      "title": "ChatGPT现在可以估算你的年龄，如果你未满18岁，将限制敏感内容",
+      "summary": "OpenAI正在推出一个新的年龄预测模型，该模型允许ChatGPT识别未成年用户，并应用安全措施以限制对敏感内容的接触。\n\n原文链接：[ChatGPT can now estimate your age and restrict sensitive content if you’re under 18](https://www.digitaltrends.com/computing/chatgpt-can-now-estimate-your-age-and-restrict-sensitive-content-if-youre-under-18/)",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-21 21:57:57",
+      "original_language": "en",
+      "original_title": "ChatGPT can now estimate your age and restrict sensitive content if you’re under 18",
+      "source_url": "https://www.digitaltrends.com/computing/chatgpt-can-now-estimate-your-age-and-restrict-sensitive-content-if-youre-under-18/",
+      "id": 130,
+      "track": "rss",
+      "original_source": "Digital Trends"
+    },
+    {
+      "title": "Adobe Premiere推出新AI工具以简化您的编辑工作流程",
+      "summary": "Adobe 正在为 Premiere 推出重大更新，新增AI功能以加快视频编辑工作流程。\n\n原文链接：[Adobe Premiere introduces new AI tools to streamline your editing workflow](https://www.digitaltrends.com/computing/adobe-premiere-introduces-new-ai-tools-to-streamline-your-editing-workflow/)",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-21 21:57:52",
+      "original_language": "en",
+      "original_title": "Adobe Premiere introduces new AI tools to streamline your editing workflow",
+      "source_url": "https://www.digitaltrends.com/computing/adobe-premiere-introduces-new-ai-tools-to-streamline-your-editing-workflow/",
+      "id": 131,
+      "track": "rss",
+      "original_source": "Digital Trends"
+    },
+    {
+      "title": "AI超级政治行动委员会已经全力投入中期选举",
+      "summary": "硅谷对AI监管的抵制已经塑造了下一个美国选举周期。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-21 21:56:50",
+      "original_language": "en",
+      "original_title": "Pro-AI Super PACs Are Already All In on the Midterms",
+      "source_url": "https://www.wired.com/story/ai-super-pacs-trying-to-influence-midterms/",
+      "id": 132,
+      "track": "rss",
+      "original_source": "Wired AI"
+    },
+    {
+      "title": "全球算力产业，正在陪着OpenAI走钢丝",
+      "summary": "一边是增长狂欢，一边是商业现实。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-21 21:55:08",
+      "original_language": "zh",
+      "original_title": "全球算力产业，正在陪着OpenAI走钢丝",
+      "source_url": "https://www.tmtpost.com/7850676.html",
+      "id": 133,
+      "track": "rss",
+      "original_source": "钛媒体"
+    },
+    {
+      "title": "后视镜都不要了！特斯拉Robotaxi路测被拍，新增摄像头清洁装置",
+      "summary": "特斯拉的Robotaxi在路测中被拍摄到，其设计已经去除了传统的后视镜，转而使用更多的摄像头。此外，特斯拉还新增了一种摄像头清洁装置，以提高自动驾驶系统的准确性。同时，有关特斯拉新产线的报道指出，其生产效率已经达到每10秒下线一台车的水平。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-21 21:46:32",
+      "original_language": "zh",
+      "original_title": "后视镜都不要了！特斯拉Robotaxi路测被拍，新增摄像头清洁装置",
+      "source_url": "https://www.qbitai.com/2026/01/370859.html",
+      "id": 134,
+      "track": "rss",
+      "original_source": "量子位"
+    },
+    {
+      "title": "2025年消费者在移动应用上的支出超过游戏，AI应用采用率推动增长",
+      "summary": "消费者在2025年在移动应用上的支出超过了游戏，这一增长主要得益于AI应用的采用。具体细节和相关信息请参考原文。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-21 14:30:00",
+      "original_language": "en",
+      "original_title": "Consumers spent more on mobile apps than games in 2025, driven by AI app adoption",
+      "source_url": "https://techcrunch.com/2026/01/21/consumers-spent-more-on-mobile-apps-than-games-in-2025-driven-by-ai-app-adoption/",
+      "id": 135,
+      "track": "rss",
+      "original_source": "TechCrunch AI"
+    },
+    {
+      "title": "2026年OpenAI最看好的3个方向",
+      "summary": "算力与收入之间存在明显正相关",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-16 14:30:00",
+      "original_language": "zh",
+      "original_title": "2026年OpenAI最看好的3个方向",
+      "source_url": "https://www.qbitai.com/2026/01/370936.html",
+      "id": 136,
+      "track": "rss",
+      "original_source": "量子位"
+    },
+    {
+      "title": "微软打包收购OpenAI？就差一点！",
+      "summary": "资金、法律文书全到位，连名字都已想好",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-16 14:30:00",
+      "original_language": "zh",
+      "original_title": "微软打包收购OpenAI？就差一点！",
+      "source_url": "https://www.qbitai.com/2026/01/370907.html",
+      "id": 137,
+      "track": "rss",
+      "original_source": "量子位"
+    },
+    {
+      "title": "马斯克罕见低头：开源𝕏推荐算法，自嘲“很烂”不过未来月更",
+      "summary": "马斯克罕见地公开了他的推荐算法，并将其开源。他在介绍中自嘲这个算法“很烂”，但他承诺未来每月都会更新。这个纯AI驱动的推荐系统是如何运作的，让我们一起来了解。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-16 14:30:00",
+      "original_language": "zh",
+      "original_title": "马斯克罕见低头：开源𝕏推荐算法，自嘲“很烂”不过未来月更",
+      "source_url": "https://www.qbitai.com/2026/01/370760.html",
+      "id": 138,
+      "track": "rss",
+      "original_source": "量子位"
+    },
+    {
+      "title": "中国团队首次在Nature子刊发布医疗AI标准，未来医生MedGPT摘得全球桂冠",
+      "summary": "中国团队在Nature子刊上发布了首个临床级医疗AI标准，标志着医疗AI领域迈出了重要一步。该团队开发的未来医生MedGPT在多项国际比赛中获得冠军，展示了其在医疗AI领域的领先地位。这一成果对于推动医疗AI技术的发展和应用具有重要意义。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-16 14:30:00",
+      "original_language": "zh",
+      "original_title": "中国团队首次在Nature子刊发布医疗AI标准，未来医生MedGPT摘得全球桂冠",
+      "source_url": "https://www.qbitai.com/2026/01/370734.html",
+      "id": 139,
+      "track": "rss",
+      "original_source": "量子位"
+    },
+    {
       "title": "科大讯飞推出SuperAgent应用框架，驱动营销关系演进至B2A2C丨最前线",
       "summary": "作者丨欧雪\n编辑丨袁斯来\n随着AI与营销加速融合，单一功能的Agent已难以满足复杂营销场景需求。\n在1月15日于深圳举办的2026科大讯飞AIMC全球智能营销生态峰会上，科大讯飞AI营销（AIMarX）正式推出营销SuperAgent应用框架，并发布基于该框架构建的营销智能体平台，提出以“群体智能”驱动营销从“经验驱动”迈向“智能驱动”的行业新范式。\n“数据割裂正成为AI规模化落地的核心制约。”在会上，AppsFlyer亚太区总裁兼董事总经理Ronen Mense这样指出当前营销行业面临的深层困境。\n随着营销触点碎片化加剧，即使是头部品牌也发现，他们在不同平台间积累的数据无法打通，导致AI应用始终停留在单点优化阶段。“营销团队比其他职能更容易暴露数据基础的缺陷。”Ronen Mense指出，“数据既受到隐私法规制约，又需要支撑实时决策，这种双重压力使得构建可信、统一的数据基础变得尤为困难。”\n这种困境在全球化营销中表现得尤为突出。“全球营销的复杂性正呈指数级上升——市场层级多元、文化差异显著、触点高度分散，这些痛点靠人力堆叠已无法应对。”科大讯飞AI营销业务群副总裁、营销方案业务部总经理王云霞表示。\n“AI正从一个‘功能’进化为‘底层架构’。”科大讯飞高级副总裁、消费者BG总裁于继栋强调。这一转变要求技术必须更加务实，只有真正解决实际业务痛点，才能推动行业转型。\n在峰会讨论中，36氪发现，一个共识正在形成：单一技术突破已不足以解决系统性问题。行业需要的是生态级的重构。\n这种重构首先体现在协作方式的改变上。传统营销往往存在部门壁垒——数据分析、内容创意、媒介投放各自为政。而智能营销时代，需要的是跨职能的协同工作流。“优化师能快速定位策略问题，创意团队能知道哪个素材跑得好，这种统一视角正在改变传统的协作模式。”王云霞指出。\n更深层的变革在于价值衡量体系的重建。当62%的用户在获取AI答案后不再点击传统链接，传统的点击率、转化率等指标已无法全面反映营销效果。行业需要建立新的度量标准，能够衡量品牌与消费者之间建立的长期信任和价值连接。\n此外，科大讯飞副总裁、AI营销业务群总裁李平在峰会中提出了一个前瞻判断：SuperAgent将驱动营销关系从B2C（Brand to Consumer）演进至B2A2C（Brand to Agent to Consumer）。在此模式下，AI不再仅是品牌的提效工具，更成为连接品牌与消费者的智能桥梁。",
       "is_legal": true,
@@ -1663,7 +1819,7 @@
       "original_language": "zh",
       "original_title": "科大讯飞推出SuperAgent应用框架，驱动营销关系演进至B2A2C丨最前线",
       "source_url": "https://36kr.com/p/3642948995862405?f=rss",
-      "id": 128,
+      "id": 140,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -1676,7 +1832,7 @@
       "original_language": "zh",
       "original_title": "钉钉上线AI差旅：企业免垫资，员工免报销，AI帮比价",
       "source_url": "https://www.qbitai.com/2026/01/370463.html",
-      "id": 129,
+      "id": 141,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -1689,7 +1845,7 @@
       "original_language": "en",
       "original_title": "AI models are starting to crack high-level math problems ",
       "source_url": "https://techcrunch.com/2026/01/14/ai-models-are-starting-to-crack-high-level-math-problems/",
-      "id": 130
+      "id": 142
     },
     {
       "title": "氪星晚报｜西贝公关副总裁宋宣已离职；大麦娱乐宣布进军博物馆赛道；叮咚买菜江苏盐城开仓",
@@ -1700,7 +1856,7 @@
       "original_language": "zh",
       "original_title": "氪星晚报｜西贝公关副总裁宋宣已离职；大麦娱乐宣布进军博物馆赛道；叮咚买菜江苏盐城开仓",
       "source_url": "https://36kr.com/p/3641990475140738?f=rss",
-      "id": 131,
+      "id": 143,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -1713,7 +1869,7 @@
       "original_language": "zh",
       "original_title": "智谱1000亿 ,  清华赚翻了",
       "source_url": "https://36kr.com/p/3644717569625990?f=rss",
-      "id": 132,
+      "id": 144,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -1726,7 +1882,7 @@
       "original_language": "zh",
       "original_title": "如果护肤是门科学，那它迟早会被 AI 重做一遍 | 早期项目",
       "source_url": "https://36kr.com/p/3645771583672192?f=rss",
-      "id": 133,
+      "id": 145,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -1739,7 +1895,7 @@
       "original_language": "zh",
       "original_title": "在手订单超千吨，乌海一期千吨级中试基地已封顶，第三代生物可降解塑料研制商「中科可蓝」完成数千万元天使+轮融资｜36氪首发",
       "source_url": "https://36kr.com/p/3647515509706372?f=rss",
-      "id": 134,
+      "id": 146,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -1752,7 +1908,7 @@
       "original_language": "zh",
       "original_title": "“车载华为”冲刺IPO：供应5G，上汽奇瑞吉利东风都是客户",
       "source_url": "https://www.qbitai.com/2026/01/370618.html",
-      "id": 135,
+      "id": 147,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -1765,7 +1921,20 @@
       "original_language": "zh",
       "original_title": "氪星晚报 ｜宜家计划在五年内将其在印度的投资增加一倍，至超过22亿美元；百度文心助手月活破2亿；王腾新公司“今日宜休”完成数千万种子轮融资",
       "source_url": "https://36kr.com/p/3647666989895304?f=rss",
-      "id": 136,
+      "id": 148,
+      "track": "rss",
+      "original_source": "36氪"
+    },
+    {
+      "title": "氪星晚报｜联想集团与英伟达联合推出“联想人工智能云超级工厂”；OpenAI与盖茨基金会将向非洲医疗人工智能领域投资5000万美元；我国去年电影全产业链产值超8100亿元",
+      "summary": "大公司：日本最大核电站重启，当地时间1月21日，日本东京电力公司重启柏崎刈羽核电站6号机组。日本最大核电站——柏崎刈羽核电站由东京电力公司运营，2011年“3·11”东日本大地震后一直处于停运状态。此前，重启该核电站所需的地方同意手续已经完成，但由于发现设置错误，重启延期。（央视新闻）联想集团与英伟达联合推出“联想人工智能云超级工厂”，36氪获悉，联想集团与英伟达近日共同宣布，两家公司将进一步深化在人工智能基础设施领域的合作，联合推出“联想人工智能云超级工厂”。同时，联想中国正式发布了“联想AI工厂”整体解决方案，旨在帮助企业数据中心从传统“算力中心”向高效“AI工厂”的智能化转型，助力其全栈AI技术在中国的应用实践与全面落地。OpenAI：推出用户年龄预测功能，以保护未成年用户，美东时间周二，OpenAI表示，已在其ChatGPT消费者计划中推出一款年龄预测模型，以帮助该公司识别属于18岁以下用户的账户。近几个月来，OpenAI已推出多项新的安全功能，以应对有关其如何保护用户（尤其是未成年人用户）的日益严格的审查。OpenAI表示，如果其年龄预测模型显示用户未满18岁，ChatGPT将自动启用保护措施，减少展示“敏感内容”。如果已成年用户的年龄被错误判定为未满18岁，他们将能够使用身份验证服务Persona来恢复完全访问权限。（财联社）知情人士：价值5800亿美元的卡塔尔财富基金据悉将进行重大改革调整，据知情人士透露，规模达5800亿美元的卡塔尔投资局已考虑将其海外资产与国内投资组合分开，这为这家全球最大主权财富基金之一的重大重组奠定了基础。知情人士称，卡塔尔投资局的高管们已讨论设立一个新的机构，用于管理价值数百亿美元的国内资产，并将其发展成为全球领军企业。这些人士表示，此举将使卡塔尔投资局能够更好地统筹全球多领域投资布局，同时为该国天然气项目扩张带来的巨额收益做好准备。（新浪财经）智元机器人机器人动作重定向专利公布，可提升机器人在复杂场景下的交互能力，36氪获悉，爱企查App显示，近日，智元机器人关联公司智元创新(上海)科技股份有限公司“机器人动作重定向方法、存储介质、电子设备及产品”专利公布。专利摘要显示，该方法包括：将待模仿对象的运动数据映射为机器人的第一运动数据；对第一运动数据进行优化，生成满足机器人运动约束的第二运动数据；对第二运动数据进行碰撞检测与修复，得到第三运动数据；对第三运动数据进行安全验证，并基于安全验证结果对第三运动数据进行处理，以获得用于驱动机器人执行的第四运动数据。本申请能够有效规避因物理限制而致使运动不可行的情况，消除关节间的碰撞风险，以保障运动的安全性；并且，经过安全验证，进一步增强所获运动数据的可靠性与稳定性，确保机器人能够安全且准确地执行动作，提升机器人在复杂场景下的交互能力与运动适应性。数据堂与灵心巧手达成战略合作，近日，专注人工智能数据服务的提供商数据堂与专注灵巧手研发的科技企业灵心巧手正式签署战略合作协议，双方将携手整合优势能力，在具身智能领域开展全方位、深层次的协调合作，共同推动行业技术创新与产业应用的深度融合。双方的战略携手，旨在共同应对具身智能发展中对高质量训练数据与先进设备载体的双重需求，共同构建更具竞争力的产业生态。未来，双方将以此为契机，从“能力互补”迈向“系统化协同”，持续深化在具身智能产业链各关键环节的协同创新，共同推动产业技术升级与生态完善。永辉已申请多枚胖小辉商标，36氪获悉，爱企查App显示，2025年6月，永辉超市股份有限公司申请注册多枚“胖小辉”商标，国际分类涉及烟草烟具、餐饮住宿、食品、酒等，目前上述商标状态均为商标申请中。除此之外，2024年11月，永辉超市股份有限公司曾申请注册多枚“胖永辉”商标 ，国际分类涉及布料床单、化学原料、运输贮藏等，目前上述商标均成功注册。呷哺呷哺集团推出全新子品牌“呷牛排”，36氪获悉，近日，呷哺呷哺集团宣布跨界布局牛排赛道，推出全新子品牌“呷牛排”，首店将于2月6日在北京昌平龙德广场开门营业。投融资：OpenAI与盖茨基金会将向非洲医疗人工智能领域投资5000万美元，当地时间1月20日，OpenAI宣布启动与盖茨基金会合作的试点项目“Horizon 1000”计划，旨在支持非洲国家（首站卢旺达）的医疗领军者推进人工智能在健康领域的应用。盖茨基金会与OpenAI将共同投入5000万美元资金、技术及专业支持，力争在2028年前覆盖1000家基层医疗机构及其周边社区。（界面）今日观点：微软CEO纳德拉：AI时代的核心不是“单一模型”，而是“模型编排与算力工厂”，世界经济论坛期间，微软CEO Satya Nadella在参加“美国之家”活动时表示，在AI时代，真正的战略重心不在于是否拥有单一“基础模型”，而在于算力基础设施、模型编排能力以及企业知识的深度嵌入。纳德拉指出，微软当前最核心的AI战略之一，是将Azure打造成大规模的“Token工厂”。随着AI应用全面铺开，算力需求呈指数级增长，云服务商必须具备建设异构基础设施集群、并通过软件提升利用率和降低总体拥有成本的能力。（新浪财经）其他值得关注的新闻：广东：支持各地市稳妥有序开放自动驾驶多场景道路测试应用、扩大高级别自动驾驶应用区域，36氪获悉，广东省人民政府办公厅印发广东省人工智能赋能交通运输高质量发展若干政策措施，其中提到，加强智能网联汽车试点应用。鼓励企业开展端到端远程驾驶座舱、智能决策、精准预测与控制等核心技术攻关和创新产品研发，打造高质量数据集、工具链、算法库，推动自动驾驶大模型落地应用。鼓励有条件的地市探索建设自动驾驶监管平台，支持有条件的自贸区、行政区率先推动智能网联汽车示范应用试点互认，支持各地市稳妥有序开放自动驾驶多场景道路测试应用、扩大高级别自动驾驶应用区域。我国去年电影全产业链产值超8100亿元，国家电影局21日发布信息，据不完全统计，2025年中国电影全产业链产值达到8172.59亿元、票房拉动系数约为1:15.77，均位居全球前列。根据中国电影资料馆与中国社会科学院工业经济研究所共同组建的相关课题组审慎测算，结合第五次全国经济普查以及电影行业企业数量变化、票房规模变动、产业链外溢效应等因素，2025年中国电影全产业链产值达到8172.59亿元。（央视新闻）",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2025-01-16 14:30:00",
+      "original_language": "zh",
+      "original_title": "氪星晚报｜联想集团与英伟达联合推出“联想人工智能云超级工厂”；OpenAI与盖茨基金会将向非洲医疗人工智能领域投资5000万美元；我国去年电影全产业链产值超8100亿元",
+      "source_url": "https://36kr.com/p/3649059100843657?f=rss",
+      "id": 149,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -1778,7 +1947,7 @@
       "original_language": "zh",
       "original_title": "一笔交易，市值涨了70亿",
       "source_url": "https://36kr.com/p/3644606458252930?f=rss",
-      "id": 137,
+      "id": 150,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -1791,7 +1960,7 @@
       "original_language": "zh",
       "original_title": "荣耀发布Magic8系列两款新机型，让Air机型不再“妥协”丨最前线",
       "source_url": "https://36kr.com/p/3646450668506758?f=rss",
-      "id": 138,
+      "id": 151,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -1804,7 +1973,7 @@
       "original_language": "zh",
       "original_title": "AI加速普及，数据库为何成为新底座？",
       "source_url": "https://36kr.com/p/3646024739638914?f=rss",
-      "id": 139,
+      "id": 152,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -1817,7 +1986,7 @@
       "original_language": "zh",
       "original_title": "【数智周报】 谷歌DeepMind CEO：中国的AI模型仅落后美国几个月；DeepSeek开源相关记忆模块Engram；微软在人工智能上的支出将达到5亿美元；美国放宽对英伟达H200芯片出口中国的管制",
       "source_url": "https://www.tmtpost.com/7845741.html",
-      "id": 140,
+      "id": 153,
       "track": "rss",
       "original_source": "钛媒体"
     },
@@ -1830,7 +1999,7 @@
       "original_language": "en",
       "original_title": "Announcing OpenAI Grove Cohort 2",
       "source_url": "https://openai.com/index/openai-grove",
-      "id": 141
+      "id": 154
     },
     {
       "title": "学习者和教育者是AI的新“超级用户”",
@@ -1841,7 +2010,7 @@
       "original_language": "en",
       "original_title": "Learners and educators are AI’s new “super users”",
       "source_url": "https://blog.google/products-and-platforms/products/education/our-life-with-ai-2025/",
-      "id": 142
+      "id": 155
     },
     {
       "title": "企业不能忽视的数十亿美元AI安全问题",
@@ -1852,7 +2021,7 @@
       "original_language": "en",
       "original_title": "The multibillion-dollar AI security problem enterprises can’t ignore ",
       "source_url": "https://techcrunch.com/podcast/the-multi-billion-ai-security-problem-enterprises-cant-ignore/",
-      "id": 143
+      "id": 156
     },
     {
       "title": "9点1氪丨贾国龙罗永浩微博被禁言，罗永浩朋友圈最新发声；李湘多平台账号被禁止关注；特朗普拿到诺贝尔和平奖奖章",
@@ -1863,7 +2032,7 @@
       "original_language": "unknown",
       "original_title": "9点1氪丨贾国龙罗永浩微博被禁言，罗永浩朋友圈最新发声；李湘多平台账号被禁止关注；特朗普拿到诺贝尔和平奖奖章",
       "source_url": "https://36kr.com/p/3642816248172161?f=rss",
-      "id": 144,
+      "id": 157,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -1876,7 +2045,7 @@
       "original_language": "unknown",
       "original_title": "中国的AI应用创业者正在换道领跑 ｜ AI火花开放麦",
       "source_url": "https://36kr.com/p/3641730074300038?f=rss",
-      "id": 145,
+      "id": 158,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -1889,7 +2058,7 @@
       "original_language": "unknown",
       "original_title": "B站也推出了新的广告+AI工具，未来会从“开环”走向“闭环”",
       "source_url": "https://36kr.com/p/3640520932560006?f=rss",
-      "id": 146,
+      "id": 159,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -1902,7 +2071,7 @@
       "original_language": "unknown",
       "original_title": "两年市值翻了三倍，运动品牌最意外的赢家出现了",
       "source_url": "https://36kr.com/p/3640240794225793?f=rss",
-      "id": 147,
+      "id": 160,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -1915,7 +2084,7 @@
       "original_language": "unknown",
       "original_title": "千问诞生后，负责人吴嘉首次回应15个关键问题",
       "source_url": "https://36kr.com/p/3641479608881030?f=rss",
-      "id": 148,
+      "id": 161,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -1928,7 +2097,7 @@
       "original_language": "unknown",
       "original_title": "8300亿美金独角兽不得不试水“广告”，AI讲不出新故事？",
       "source_url": "https://36kr.com/p/3644462576995970?f=rss",
-      "id": 149,
+      "id": 162,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -1941,7 +2110,7 @@
       "original_language": "unknown",
       "original_title": "新能源车的“硬核”战事，2026年卷向何处？",
       "source_url": "https://36kr.com/p/3644455846514304?f=rss",
-      "id": 150,
+      "id": 163,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -1954,7 +2123,7 @@
       "original_language": "unknown",
       "original_title": "猎头黄仁勋的2025：高管从巨头挖，干活钟爱华人创业团队",
       "source_url": "https://36kr.com/p/3644499135221632?f=rss",
-      "id": 151,
+      "id": 164,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -1967,7 +2136,7 @@
       "original_language": "unknown",
       "original_title": "80后最爱喝的啤酒 ,  要破产了？",
       "source_url": "https://36kr.com/p/3644485919395718?f=rss",
-      "id": 152,
+      "id": 165,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -1980,7 +2149,7 @@
       "original_language": "unknown",
       "original_title": "前第四范式总裁创业，用营销AI Agent解构内容社交平台的“营销玄学”，已获千万元融资",
       "source_url": "https://36kr.com/p/3644947937972103?f=rss",
-      "id": 153,
+      "id": 166,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -1993,7 +2162,7 @@
       "original_language": "unknown",
       "original_title": "日均停留近2小时，这个AI内容产品拿捏了县城青少年",
       "source_url": "https://36kr.com/p/3646033157984136?f=rss",
-      "id": 154,
+      "id": 167,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -2006,7 +2175,7 @@
       "original_language": "unknown",
       "original_title": "8点1氪丨贾国龙再发声：“西贝从来不存在两岁的西蓝花”；特朗普宣布将对欧洲8国加征关税；铁路12306平台推出旅客误购限时免费退票服务",
       "source_url": "https://36kr.com/p/3645586129964675?f=rss",
-      "id": 155,
+      "id": 168,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -2019,7 +2188,7 @@
       "original_language": "unknown",
       "original_title": "让设计师成为“超级个体”，「iMuse.AI」想用虚拟研发破局服装行业的同质化困境 | 早期项目",
       "source_url": "https://36kr.com/p/3646630011031426?f=rss",
-      "id": 156,
+      "id": 169,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -2032,7 +2201,7 @@
       "original_language": "unknown",
       "original_title": "8点1氪丨SK海力士向全体员工发放人均超64万元绩效奖金；深圳水贝市场推出投资铜条；茶颜悦色回应在北上深开店传闻",
       "source_url": "https://36kr.com/p/3647003519864708?f=rss",
-      "id": 157,
+      "id": 170,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -2045,7 +2214,7 @@
       "original_language": "unknown",
       "original_title": "叮咚买菜开到盐城，“小城消费”有多大想象力？",
       "source_url": "https://36kr.com/p/3647173421272967?f=rss",
-      "id": 158,
+      "id": 171,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -2058,7 +2227,7 @@
       "original_language": "unknown",
       "original_title": "独家对话研极微创始人：80人做到近100亿营收后，要把AI摄像头插到田间地头",
       "source_url": "https://36kr.com/p/3648364385226626?f=rss",
-      "id": 159,
+      "id": 172,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -2071,7 +2240,7 @@
       "original_language": "unknown",
       "original_title": "8点1氪丨小米通报两起汽车起火事件；嫣然基金会已筹款超2300万；信用卡分期还款能享受财政贴息",
       "source_url": "https://36kr.com/p/3648415054270338?f=rss",
-      "id": 160,
+      "id": 173,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -2084,7 +2253,7 @@
       "original_language": "unknown",
       "original_title": "60多只南航流浪猫，从此有了「电子学籍」",
       "source_url": "https://36kr.com/p/3648936703942533?f=rss",
-      "id": 161,
+      "id": 174,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -2097,7 +2266,7 @@
       "original_language": "unknown",
       "original_title": "新一年B站百大UP主名单发布，其中有73个都不是第一次拿奖",
       "source_url": "https://36kr.com/p/3646435522121347?f=rss",
-      "id": 162,
+      "id": 175,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -2110,7 +2279,7 @@
       "original_language": "unknown",
       "original_title": "成立3年订单额破10亿，安高特电用“半导体思维”重塑固态电池 | 水下项目",
       "source_url": "https://36kr.com/p/3648784093404553?f=rss",
-      "id": 163,
+      "id": 176,
       "track": "rss",
       "original_source": "36氪"
     }
