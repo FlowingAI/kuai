@@ -1,7 +1,7 @@
 {
   "category": "大模型动态",
-  "last_update": "2026-01-21 13:15:43 (北京时间)",
-  "total_count": 159,
+  "last_update": "2026-01-21 17:02:37 (北京时间)",
+  "total_count": 163,
   "news": [
     {
       "title": "R1一周年，DeepSeek Model 1悄然现身",
@@ -1965,6 +1965,58 @@
       "id": 159,
       "track": "rss",
       "original_source": "arXiv AI"
+    },
+    {
+      "title": "AssetOpsBench：连接AI代理基准与工业现实的桥梁",
+      "summary": "AssetOpsBench是一个新的基准，旨在弥合AI代理基准与工业现实之间的差距。它由IBM Research和Hugging Face合作开发，旨在提供一个统一的平台，用于评估和比较不同AI代理在工业环境中的性能。AssetOpsBench提供了多种工业场景和任务，包括设备故障预测、维护优化和供应链管理。该基准使用Hugging Face Spaces平台进行部署，允许研究人员和开发者轻松地测试和比较他们的模型。新闻链接：https://huggingface.co/blog/ibm-research/assetopsbench-playground-on-hugging-face",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-21 17:00:11",
+      "original_language": "en",
+      "original_title": "AssetOpsBench: Bridging the Gap Between AI Agent Benchmarks and Industrial Reality",
+      "source_url": "https://huggingface.co/blog/ibm-research/assetopsbench-playground-on-hugging-face",
+      "id": 160,
+      "track": "rss",
+      "original_source": "Hugging Face"
+    },
+    {
+      "title": "AI5芯片搞定，马斯克的纯自研超算Dojo 3又回来了",
+      "summary": "AI5芯片搞定，马斯克的纯自研超算Dojo 3又回来了。据国外媒体报道，马斯克旗下的公司Neuralink已经完成了AI5芯片的研发，这款芯片将用于其自研的超算Dojo 3。Dojo 3是一款基于AI的超级计算机，旨在为Neuralink的脑机接口技术提供强大的计算支持。此前，Dojo 3的研发曾因芯片问题而暂停，现在AI5芯片的完成使得Dojo 3的研发得以继续。据悉，Dojo 3预计将在2026年推出。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-21 14:30:00",
+      "original_language": "zh",
+      "original_title": "AI5芯片搞定，马斯克的纯自研超算Dojo 3又回来了",
+      "source_url": "https://www.jiqizhixin.com/articles/2026-01-21-3",
+      "id": 161,
+      "track": "rss",
+      "original_source": "机器之心"
+    },
+    {
+      "title": "告别「手动画框」！Medical SAM3：首个真正「纯文本提示」驱动的医学全能分割模型",
+      "summary": "告别「手动画框」！Medical SAM3：首个真正「纯文本提示」驱动的医学全能分割模型\nMedical SAM3 是由清华大学和北京智源人工智能研究院共同研发的医学图像分割模型，它能够通过纯文本提示进行图像分割，无需人工绘制分割框。这一技术的突破，标志着医学图像分割领域迈出了重要一步。\nMedical SAM3 的核心是利用深度学习技术，通过分析大量的医学图像数据，学习到图像分割的规律。在分割过程中，用户只需输入相应的文本提示，模型就能自动识别并分割出目标区域。这种纯文本提示的方式，大大简化了分割过程，提高了分割效率和准确性。\nMedical SAM3 已经在多个医学图像分割任务中取得了优异的成绩，包括肝脏、肾脏、肺部的分割等。实验结果表明，Medical SAM3 的分割精度和效率都优于现有的方法。\n这一研究成果发表在《Nature Medicine》杂志上，引起了广泛关注。Medical SAM3 的出现，为医学图像分割领域带来了新的可能性，有望在未来为医疗诊断和治疗提供更精准、高效的支持。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-16 14:30:00",
+      "original_language": "zh",
+      "original_title": "告别「手动画框」！Medical SAM3：首个真正「纯文本提示」驱动的医学全能分割模型",
+      "source_url": "https://www.jiqizhixin.com/articles/2026-01-21-5",
+      "id": 162,
+      "track": "rss",
+      "original_source": "机器之心"
+    },
+    {
+      "title": "马斯克罕见低头：开源𝕏推荐算法，自嘲“很烂”不过未来月更",
+      "summary": "马斯克罕见地公开了他的推荐算法，并将其开源。他在介绍中自嘲这个算法“很烂”，但他承诺未来每月都会更新。这篇文章深入探讨了纯AI驱动的推荐系统是如何运作的。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-16 14:30:00",
+      "original_language": "zh",
+      "original_title": "马斯克罕见低头：开源𝕏推荐算法，自嘲“很烂”不过未来月更",
+      "source_url": "https://www.qbitai.com/2026/01/370760.html",
+      "id": 163,
+      "track": "rss",
+      "original_source": "量子位"
     }
   ]
 }
