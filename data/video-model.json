@@ -1,7 +1,7 @@
 {
   "category": "视频模型动态",
-  "last_update": "2026-01-21 21:58:33 (北京时间)",
-  "total_count": 67,
+  "last_update": "2026-01-22 02:09:30 (北京时间)",
+  "total_count": 73,
   "news": [
     {
       "title": "ChatGPT现在可以估算你的年龄，如果你未满18岁，将限制敏感内容",
@@ -767,6 +767,58 @@
       "original_source": "量子位"
     },
     {
+      "title": "准备好：Nvidia和AMD显卡价格可能上涨，顶级AIB调整成本",
+      "summary": "一项新的报告显示，随着NVIDIA和AMD的合作伙伴面临DDR6和DDR7成本的上升，GPU价格可能很快会上涨，消费者需要通过零售列表来观察价格变化。该文章首先发布在Digital Trends上。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-22 01:53:37",
+      "original_language": "en",
+      "original_title": "Brace yourself: Nvidia and AMD GPU prices may rise as top AIBs adjust costs",
+      "source_url": "https://www.digitaltrends.com/computing/brace-yourself-nvidia-and-amd-gpu-prices-may-rise-as-top-aibs-adjust-costs/",
+      "id": 60,
+      "track": "rss",
+      "original_source": "Digital Trends"
+    },
+    {
+      "title": "后视镜都不要了！特斯拉Robotaxi路测被拍，新增摄像头清洁装置",
+      "summary": "特斯拉的Robotaxi在路测中被捕捉到，其设计去除了传统的后视镜，转而使用更多的摄像头。此外，特斯拉还新增了一种摄像头清洁装置，以保持摄像头的清晰度。同时，有关特斯拉新产线的报道指出，该产线能够以每10秒一台车的速度生产。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-22 01:52:24",
+      "original_language": "zh",
+      "original_title": "后视镜都不要了！特斯拉Robotaxi路测被拍，新增摄像头清洁装置",
+      "source_url": "https://www.qbitai.com/2026/01/370859.html",
+      "id": 61,
+      "track": "rss",
+      "original_source": "量子位"
+    },
+    {
+      "title": "微软打包收购OpenAI？就差一点！",
+      "summary": "资金、法律文书全到位，连名字都已想好",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-22 01:52:19",
+      "original_language": "zh",
+      "original_title": "微软打包收购OpenAI？就差一点！",
+      "source_url": "https://www.qbitai.com/2026/01/370907.html",
+      "id": 62,
+      "track": "rss",
+      "original_source": "量子位"
+    },
+    {
+      "title": "突发！xAI联创杨格过劳病离职，给马斯克干活压力山大",
+      "summary": "新闻链接：https://www.qbitai.com/2026/01/370985.html\n\n新闻内容：\n\n新闻链接：https://www.qbitai.com/2026/01/370985.html",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-22 01:52:12",
+      "original_language": "zh",
+      "original_title": "突发！xAI联创杨格过劳病离职，给马斯克干活压力山大",
+      "source_url": "https://www.qbitai.com/2026/01/370985.html",
+      "id": 63,
+      "track": "rss",
+      "original_source": "量子位"
+    },
+    {
       "title": "Adobe Premiere推出新AI工具以简化您的编辑工作流程",
       "summary": "Adobe 正在为 Premiere 推出重大更新，新增AI功能以加快视频编辑工作流程。\n\n该文章首先发布在 Digital Trends。\n\n新闻链接：https://www.digitaltrends.com/computing/adobe-premiere-introduces-new-ai-tools-to-streamline-your-editing-workflow/",
       "is_legal": true,
@@ -775,7 +827,7 @@
       "original_language": "en",
       "original_title": "Adobe Premiere introduces new AI tools to streamline your editing workflow",
       "source_url": "https://www.digitaltrends.com/computing/adobe-premiere-introduces-new-ai-tools-to-streamline-your-editing-workflow/",
-      "id": 60,
+      "id": 64,
       "track": "rss",
       "original_source": "Digital Trends"
     },
@@ -788,7 +840,7 @@
       "original_language": "en",
       "original_title": "Asus halts all smartphone releases for 2026, future of Zenfone and ROG Phone uncertain",
       "source_url": "https://www.digitaltrends.com/phones/asus-halts-all-smartphone-releases-for-2026-future-of-zenfone-and-rog-phone-uncertain/",
-      "id": 61,
+      "id": 65,
       "track": "rss",
       "original_source": "Digital Trends"
     },
@@ -801,7 +853,7 @@
       "original_language": "zh",
       "original_title": "滴滴 AI 叫车，用了几天我发现这才是打车该有的样子",
       "source_url": "https://www.ifanr.com/1651778?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "id": 62,
+      "id": 66,
       "track": "rss",
       "original_source": "爱范儿"
     },
@@ -814,7 +866,7 @@
       "original_language": "zh",
       "original_title": "“车载华为”冲刺IPO：供应5G，上汽奇瑞吉利东风都是客户",
       "source_url": "https://www.qbitai.com/2026/01/370618.html",
-      "id": 63,
+      "id": 67,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -827,7 +879,7 @@
       "original_language": "zh",
       "original_title": "智谱新模型也用DeepSeek的MLA，苹果M5就能跑",
       "source_url": "https://www.qbitai.com/2026/01/370652.html",
-      "id": 64,
+      "id": 68,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -840,7 +892,7 @@
       "original_language": "zh",
       "original_title": "马斯克罕见低头：开源𝕏推荐算法，自嘲“很烂”不过未来月更",
       "source_url": "https://www.qbitai.com/2026/01/370760.html",
-      "id": 65,
+      "id": 69,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -853,7 +905,20 @@
       "original_language": "zh",
       "original_title": "中国团队首次在Nature子刊发布医疗AI标准，未来医生MedGPT摘得全球桂冠",
       "source_url": "https://www.qbitai.com/2026/01/370734.html",
-      "id": 66,
+      "id": 70,
+      "track": "rss",
+      "original_source": "量子位"
+    },
+    {
+      "title": "xAI工程师播客聊太嗨，马斯克解雇了他",
+      "summary": "「巨硬」项目首次公开",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-16 14:30:00",
+      "original_language": "zh",
+      "original_title": "xAI工程师播客聊太嗨，马斯克解雇了他",
+      "source_url": "https://www.qbitai.com/2026/01/371158.html",
+      "id": 71,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -866,7 +931,20 @@
       "original_language": "zh",
       "original_title": "钉钉上线AI差旅：企业免垫资，员工免报销，AI帮比价",
       "source_url": "https://www.qbitai.com/2026/01/370463.html",
-      "id": 67,
+      "id": 72,
+      "track": "rss",
+      "original_source": "量子位"
+    },
+    {
+      "title": "2026年OpenAI最看好的3个方向",
+      "summary": "算力与收入之间存在明显正相关。新闻链接：https://www.qbitai.com/2026/01/370936.html",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "null",
+      "original_language": "zh",
+      "original_title": "2026年OpenAI最看好的3个方向",
+      "source_url": "https://www.qbitai.com/2026/01/370936.html",
+      "id": 73,
       "track": "rss",
       "original_source": "量子位"
     }
