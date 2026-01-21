@@ -1,7 +1,7 @@
 {
   "category": "视频模型动态",
-  "last_update": "2026-01-21 11:16:49 (北京时间)",
-  "total_count": 63,
+  "last_update": "2026-01-21 13:45:00 (北京时间)",
+  "total_count": 65,
   "news": [
     {
       "title": "Spotify可能很快将允许您将有声书与实体书同步",
@@ -806,6 +806,32 @@
       "original_source": "量子位"
     },
     {
+      "title": "马斯克罕见低头：开源𝕏推荐算法，自嘲“很烂”不过未来月更",
+      "summary": "马斯克罕见地公开了他的推荐算法，并将其开源。他自嘲这个算法“很烂”，但表示未来会每月更新。原来纯AI驱动的推荐系统，是这样运作的！",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-16 14:30:00",
+      "original_language": "zh",
+      "original_title": "马斯克罕见低头：开源𝕏推荐算法，自嘲“很烂”不过未来月更",
+      "source_url": "https://www.qbitai.com/2026/01/370760.html",
+      "id": 63,
+      "track": "rss",
+      "original_source": "量子位"
+    },
+    {
+      "title": "中国团队首次在Nature子刊发布医疗AI标准，未来医生MedGPT摘得全球桂冠",
+      "summary": "中国团队首次在Nature子刊发布医疗AI标准，未来医生MedGPT摘得全球桂冠。该标准旨在为医疗AI提供临床级的新标尺，以推动医疗AI的发展和应用。MedGPT是一款基于人工智能的医疗辅助诊断系统，它通过深度学习技术，能够对患者的病历进行分析，提供诊断建议。该系统在多个国际医疗AI竞赛中取得了优异成绩，成为全球医疗AI领域的佼佼者。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-16 14:30:00",
+      "original_language": "zh",
+      "original_title": "中国团队首次在Nature子刊发布医疗AI标准，未来医生MedGPT摘得全球桂冠",
+      "source_url": "https://www.qbitai.com/2026/01/370734.html",
+      "id": 64,
+      "track": "rss",
+      "original_source": "量子位"
+    },
+    {
       "title": "钉钉上线AI差旅：企业免垫资，员工免报销，AI帮比价",
       "summary": "钉钉近日上线了一项新的AI差旅服务，旨在降低中小企业的差旅成本。这项服务允许企业免垫资，员工免报销，同时利用AI技术帮助用户进行比价。具体来说，企业可以通过钉钉的AI差旅服务预订机票、酒店等，系统会自动比价，确保用户获得最佳价格。对于员工来说，他们可以直接通过钉钉申请差旅，无需垫付资金，报销流程也更为简便。这一服务有望为中小企业带来显著的成本节约。",
       "is_legal": true,
@@ -814,7 +840,7 @@
       "original_language": "zh",
       "original_title": "钉钉上线AI差旅：企业免垫资，员工免报销，AI帮比价",
       "source_url": "https://www.qbitai.com/2026/01/370463.html",
-      "id": 63,
+      "id": 65,
       "track": "rss",
       "original_source": "量子位"
     }
