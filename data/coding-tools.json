@@ -1,7 +1,7 @@
 {
   "category": "AI编程工具进化",
-  "last_update": "2026-01-22 21:59:54 (北京时间)",
-  "total_count": 124,
+  "last_update": "2026-01-23 01:47:13 (北京时间)",
+  "total_count": 129,
   "news": [
     {
       "title": "ChartGen AI",
@@ -1404,6 +1404,45 @@
       "original_source": "量子位"
     },
     {
+      "title": "AnswerThis (YC F25) 正在招聘",
+      "summary": "AnswerThis，一家由Y Combinator F25孵化器支持的公司，正在招聘AI代理编排职位。具体职位信息和申请方式请访问以下链接：[AnswerThis 招聘链接](https://www.ycombinator.com/companies/answerthis/jobs/r5VHmSC-ai-agent-orchestration)",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-23 01:30:31",
+      "original_language": "en",
+      "original_title": "AnswerThis (YC F25) Is Hiring",
+      "source_url": "https://www.ycombinator.com/companies/answerthis/jobs/r5VHmSC-ai-agent-orchestration",
+      "id": 109,
+      "track": "rss",
+      "original_source": "Hacker News"
+    },
+    {
+      "title": "It looks like the status/need-triage label was removed",
+      "summary": "Comments\n",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-23 01:30:23",
+      "original_language": "en",
+      "original_title": "It looks like the status/need-triage label was removed",
+      "source_url": "https://github.com/google-gemini/gemini-cli/issues/16728",
+      "id": 110,
+      "track": "rss",
+      "original_source": "Hacker News"
+    },
+    {
+      "title": "GPTZero在NeurIPS 2025接受论文中发现了100个新的幻觉",
+      "summary": "GPTZero团队在分析NeurIPS 2025接受的论文时，发现了100个新的幻觉。这些幻觉是指论文中出现的与事实不符的内容。GPTZero是一个用于检测文本生成模型幻觉的工具，它可以帮助研究人员识别和纠正这些错误。新闻链接：https://gptzero.me/news/neurips/",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-23 01:29:49",
+      "original_language": "en",
+      "original_title": "GPTZero finds 100 new hallucinations in NeurIPS 2025 accepted papers",
+      "source_url": "https://gptzero.me/news/neurips/",
+      "id": 111,
+      "track": "rss",
+      "original_source": "Hacker News"
+    },
+    {
       "title": "Crustdata的Web搜索API",
       "summary": "Discussion\n            |\n            Link\n新闻链接：https://www.producthunt.com/products/crustdata-2",
       "is_legal": true,
@@ -1412,7 +1451,7 @@
       "original_language": "en",
       "original_title": "Web search API by Crustdata",
       "source_url": "https://www.producthunt.com/products/crustdata-2",
-      "id": 109,
+      "id": 112,
       "track": "rss",
       "original_source": "Product Hunt"
     },
@@ -1425,7 +1464,7 @@
       "original_language": "en",
       "original_title": "StoryChief AI Canvas",
       "source_url": "https://www.producthunt.com/products/storychief-io",
-      "id": 110,
+      "id": 113,
       "track": "rss",
       "original_source": "Product Hunt"
     },
@@ -1438,7 +1477,7 @@
       "original_language": "en",
       "original_title": "Your brain on ChatGPT: Accumulation of cognitive debt when using an AI assistant",
       "source_url": "https://www.media.mit.edu/publications/your-brain-on-chatgpt/",
-      "id": 111,
+      "id": 114,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -1451,7 +1490,7 @@
       "original_language": "en",
       "original_title": "Hands-On Introduction to Unikernels",
       "source_url": "https://labs.iximiuz.com/tutorials/unikernels-intro-93976514",
-      "id": 112,
+      "id": 115,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -1464,7 +1503,7 @@
       "original_language": "zh",
       "original_title": "57.1%的人分不清真假！Runway新视频模型太爆炸",
       "source_url": "https://www.qbitai.com/2026/01/371481.html",
-      "id": 113,
+      "id": 116,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -1477,7 +1516,7 @@
       "original_language": "zh",
       "original_title": "Node.js之父：手写代码已死",
       "source_url": "https://www.qbitai.com/2026/01/371389.html",
-      "id": 114,
+      "id": 117,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -1490,7 +1529,7 @@
       "original_language": "en",
       "original_title": "Show HN: Sweep, Open-weights 1.5B model for next-edit autocomplete",
       "source_url": "https://huggingface.co/sweepai/sweep-next-edit-1.5B",
-      "id": 115,
+      "id": 118,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -1503,7 +1542,7 @@
       "original_language": "en",
       "original_title": "Claude's new constitution",
       "source_url": "https://www.anthropic.com/news/claude-new-constitution",
-      "id": 116,
+      "id": 119,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -1516,7 +1555,7 @@
       "original_language": "en",
       "original_title": "Binary Fuse Filters: Fast and Smaller Than XOR Filters",
       "source_url": "https://arxiv.org/abs/2201.01174",
-      "id": 117,
+      "id": 120,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -1529,7 +1568,20 @@
       "original_language": "en",
       "original_title": "Take potentially dangerous PDFs, and convert them to safe PDFs",
       "source_url": "https://github.com/freedomofpress/dangerzone",
-      "id": 118,
+      "id": 121,
+      "track": "rss",
+      "original_source": "Hacker News"
+    },
+    {
+      "title": "Tree-sitter 与 Language Servers 对比",
+      "summary": "Comments\n\nTree-sitter 和 Language Servers 是两种流行的代码解析工具，它们在性能和功能上有所不同。Tree-sitter 是一个基于解析树的语言解析器，它能够快速地构建和查询语言解析树，适用于需要高性能解析的场景。而 Language Servers 则是基于语言服务器协议的代码解析工具，它们可以提供更丰富的语言特性和智能提示。本文将对比这两种工具的优缺点，并探讨它们在不同场景下的适用性。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-21 14:30:00",
+      "original_language": "en",
+      "original_title": "Tree-sitter vs. Language Servers",
+      "source_url": "https://lambdaland.org/posts/2026-01-21_tree-sitter_vs_lsp/",
+      "id": 122,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -1542,7 +1594,7 @@
       "original_language": "zh",
       "original_title": "马斯克下场抢人！xAI组建「人才狙击队」，极客版HR年薪168万",
       "source_url": "https://www.qbitai.com/2026/01/371286.html",
-      "id": 119,
+      "id": 123,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -1555,7 +1607,7 @@
       "original_language": "zh",
       "original_title": "2025最强AI产品一文看尽丨量子位智库年度AI 100",
       "source_url": "https://www.qbitai.com/2026/01/371559.html",
-      "id": 120,
+      "id": 124,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -1568,7 +1620,7 @@
       "original_language": "zh",
       "original_title": "大学开始用AI招生了",
       "source_url": "https://www.qbitai.com/2026/01/371510.html",
-      "id": 121,
+      "id": 125,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -1581,9 +1633,22 @@
       "original_language": "zh",
       "original_title": "成立两年半登顶全球AI创作社区，背后是中国团队在“卖情绪”？？",
       "source_url": "https://www.qbitai.com/2026/01/371570.html",
-      "id": 122,
+      "id": 126,
       "track": "rss",
       "original_source": "量子位"
+    },
+    {
+      "title": "Qwen3-TTS家族现已开源：语音设计、克隆和生成",
+      "summary": "Qwen3-TTS家族现已开源，包括语音设计、克隆和生成等功能。该开源项目旨在为开发者提供更灵活的语音解决方案。Qwen3-TTS是基于Qwen语音合成技术的最新版本，具有更高的语音质量和更丰富的语音表现力。通过开源，开发者可以自由地使用、修改和分发Qwen3-TTS，推动语音合成技术的发展。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2025-01-16 14:30:00",
+      "original_language": "en",
+      "original_title": "Qwen3-TTS Family Is Now Open Sourced: Voice Design, Clone, and Generation",
+      "source_url": "https://qwen.ai/blog?id=qwen3tts-0115",
+      "id": 127,
+      "track": "rss",
+      "original_source": "Hacker News"
     },
     {
       "title": "从隐形断电到白名单：伊朗断电内幕",
@@ -1594,7 +1659,7 @@
       "original_language": "en",
       "original_title": "From stealth blackout to whitelisting: Inside the Iranian shutdown",
       "source_url": "https://www.kentik.com/blog/from-stealth-blackout-to-whitelisting-inside-the-iranian-shutdown/",
-      "id": 123,
+      "id": 128,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -1607,7 +1672,7 @@
       "original_language": "unknown",
       "original_title": "Waiting for dawn in search: Search index, Google rulings and impact on Kagi",
       "source_url": "https://blog.kagi.com/waiting-dawn-search",
-      "id": 124,
+      "id": 129,
       "track": "rss",
       "original_source": "Hacker News"
     }
