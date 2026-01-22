@@ -1,7 +1,7 @@
 {
   "category": "AI编程工具进化",
-  "last_update": "2026-01-22 17:51:10 (北京时间)",
-  "total_count": 117,
+  "last_update": "2026-01-22 21:59:54 (北京时间)",
+  "total_count": 124,
   "news": [
     {
       "title": "ChartGen AI",
@@ -1001,6 +1001,58 @@
       "original_source": "量子位"
     },
     {
+      "title": "RenameClick",
+      "summary": "Discussion\n            |\n            Link\n新闻链接：https://www.producthunt.com/products/renameclick-offline-ai-file-renamer",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-22 21:47:02",
+      "original_language": "en",
+      "original_title": "RenameClick",
+      "source_url": "https://www.producthunt.com/products/renameclick-offline-ai-file-renamer",
+      "id": 78,
+      "track": "rss",
+      "original_source": "Product Hunt"
+    },
+    {
+      "title": "30年ReactOS回顾",
+      "summary": "30 Years of ReactOS\n\nComments\n\n新闻链接：https://reactos.org/blogs/30yrs-of-ros/\n\n请注意，以下内容为新闻摘要，具体详情请访问链接。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-22 21:46:55",
+      "original_language": "en",
+      "original_title": "30 Years of ReactOS",
+      "source_url": "https://reactos.org/blogs/30yrs-of-ros/",
+      "id": 79,
+      "track": "rss",
+      "original_source": "Hacker News"
+    },
+    {
+      "title": "金山云星流全面升级，以智算穿越云上AI新周期",
+      "summary": "金山云近日宣布，其星流产品线进行全面升级，旨在通过智能计算技术引领云上AI新周期。此次升级涵盖了性能、功能和安全性等多个方面，包括但不限于：\n- **性能提升**：通过优化算法和硬件资源，星流产品的计算性能得到显著提升，能够更好地满足复杂AI计算需求。\n- **功能增强**：新增了多种AI模型训练和推理功能，支持更多类型的AI应用。\n- **安全性加强**：引入了最新的安全机制，确保用户数据的安全性和隐私保护。\n金山云表示，此次升级将有助于推动云上AI技术的发展，为用户提供更加高效、安全的AI服务。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-22 21:46:00",
+      "original_language": "zh",
+      "original_title": "金山云星流全面升级，以智算穿越云上AI新周期",
+      "source_url": "https://www.qbitai.com/2026/01/371527.html",
+      "id": 80,
+      "track": "rss",
+      "original_source": "量子位"
+    },
+    {
+      "title": "昇腾云客户2663家，华为云稳居最大国产AI云服务提供商",
+      "summary": "昇腾云客户数量达到2663家，华为云继续保持国内最大的国产AI云服务提供商地位。该新闻链接为：https://www.qbitai.com/2026/01/371533.html",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-22 21:45:50",
+      "original_language": "zh",
+      "original_title": "昇腾云客户2663家，华为云稳居最大国产AI云服务提供商",
+      "source_url": "https://www.qbitai.com/2026/01/371533.html",
+      "id": 81,
+      "track": "rss",
+      "original_source": "量子位"
+    },
+    {
       "title": "通过执行轨迹可证明地揭露恶意行为",
       "summary": "Comments\n",
       "is_legal": true,
@@ -1009,7 +1061,7 @@
       "original_language": "en",
       "original_title": "Provably unmasking malicious behavior through execution traces",
       "source_url": "https://arxiv.org/abs/2512.13821",
-      "id": 78,
+      "id": 82,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -1022,7 +1074,7 @@
       "original_language": "en",
       "original_title": "Show HN: Mastra 1.0, open-source JavaScript agent framework from the Gatsby devs",
       "source_url": "https://github.com/mastra-ai/mastra",
-      "id": 79,
+      "id": 83,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -1035,7 +1087,7 @@
       "original_language": "en",
       "original_title": "Claude Chill: Fix Claude Code's Flickering in Terminal",
       "source_url": "https://github.com/davidbeesley/claude-chill",
-      "id": 80,
+      "id": 84,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -1048,7 +1100,7 @@
       "original_language": "en",
       "original_title": "Figy.ai",
       "source_url": "https://www.producthunt.com/products/figy-ai",
-      "id": 81,
+      "id": 85,
       "track": "rss",
       "original_source": "Product Hunt"
     },
@@ -1061,7 +1113,7 @@
       "original_language": "en",
       "original_title": "Show HN: wxpath – Declarative web crawling in XPath",
       "source_url": "https://github.com/rodricios/wxpath",
-      "id": 82,
+      "id": 86,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -1074,7 +1126,7 @@
       "original_language": "en",
       "original_title": "Unconventional PostgreSQL Optimizations",
       "source_url": "https://hakibenita.com/postgresql-unconventional-optimizations",
-      "id": 83,
+      "id": 87,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -1087,7 +1139,7 @@
       "original_language": "en",
       "original_title": "Without benchmarking LLMs, you're likely overpaying 5-10x",
       "source_url": "https://karllorey.com/posts/without-benchmarking-llms-youre-overpaying",
-      "id": 84,
+      "id": 88,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -1100,7 +1152,7 @@
       "original_language": "en",
       "original_title": "Linux kernel framework for PCIe device emulation, in userspace",
       "source_url": "https://github.com/cakehonolulu/pciem",
-      "id": 85,
+      "id": 89,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -1113,7 +1165,7 @@
       "original_language": "zh",
       "original_title": "豆包的新身份曝光：在国际艺术展当起了“AI讲解员”",
       "source_url": "https://www.qbitai.com/2026/01/370665.html",
-      "id": 86,
+      "id": 90,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -1126,7 +1178,7 @@
       "original_language": "zh",
       "original_title": "MiniMax把自家“实习生”放出来了！",
       "source_url": "https://www.qbitai.com/2026/01/370720.html",
-      "id": 87,
+      "id": 91,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -1139,7 +1191,7 @@
       "original_language": "en",
       "original_title": "x86 prefixes and escape opcodes flowchart",
       "source_url": "https://soc.me/interfaces/x86-prefixes-and-escape-opcodes-flowchart.html",
-      "id": 88,
+      "id": 92,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -1152,7 +1204,7 @@
       "original_language": "en",
       "original_title": "The Overcomplexity of the Shadcn Radio Button",
       "source_url": "https://paulmakeswebsites.com/writing/shadcn-radio-button/",
-      "id": 89,
+      "id": 93,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -1165,7 +1217,7 @@
       "original_language": "zh",
       "original_title": "美团卡姐接管无人车，MIT博士离职创业具身智能",
       "source_url": "https://www.qbitai.com/2026/01/370599.html",
-      "id": 90,
+      "id": 94,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -1178,7 +1230,7 @@
       "original_language": "en",
       "original_title": "Vibecoding #2",
       "source_url": "https://matklad.github.io/2026/01/20/vibecoding-2.html",
-      "id": 91,
+      "id": 95,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -1191,7 +1243,7 @@
       "original_language": "en",
       "original_title": "Giving University Exams in the Age of Chatbots",
       "source_url": "https://ploum.net/2026-01-19-exam-with-chatbots.html",
-      "id": 92,
+      "id": 96,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -1204,7 +1256,7 @@
       "original_language": "en",
       "original_title": "200 MB RAM FreeBSD Desktop",
       "source_url": "https://vermaden.wordpress.com/2026/01/18/200-mb-ram-freebsd-desktop/",
-      "id": 93,
+      "id": 97,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -1217,7 +1269,7 @@
       "original_language": "zh",
       "original_title": "“车载华为”冲刺IPO：供应5G，上汽奇瑞吉利东风都是客户",
       "source_url": "https://www.qbitai.com/2026/01/370618.html",
-      "id": 94,
+      "id": 98,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -1230,7 +1282,7 @@
       "original_language": "zh",
       "original_title": "首个真正“能用”的LLM游戏Agent诞生！可实时高频决策，思维链还全程可见",
       "source_url": "https://www.qbitai.com/2026/01/370494.html",
-      "id": 95,
+      "id": 99,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -1243,7 +1295,7 @@
       "original_language": "zh",
       "original_title": "智谱新模型也用DeepSeek的MLA，苹果M5就能跑",
       "source_url": "https://www.qbitai.com/2026/01/370652.html",
-      "id": 96,
+      "id": 100,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -1256,7 +1308,7 @@
       "original_language": "en",
       "original_title": "Running Claude Code dangerously (safely)",
       "source_url": "https://blog.emilburzo.com/2026/01/running-claude-code-dangerously-safely/",
-      "id": 97,
+      "id": 101,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -1269,7 +1321,7 @@
       "original_language": "en",
       "original_title": "Are arrays functions?",
       "source_url": "https://futhark-lang.org/blog/2026-01-16-are-arrays-functions.html",
-      "id": 98,
+      "id": 102,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -1282,7 +1334,7 @@
       "original_language": "zh",
       "original_title": "中国团队首次在Nature子刊发布医疗AI标准，未来医生MedGPT摘得全球桂冠",
       "source_url": "https://www.qbitai.com/2026/01/370734.html",
-      "id": 99,
+      "id": 103,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -1295,7 +1347,7 @@
       "original_language": "zh",
       "original_title": "马斯克罕见低头：开源𝕏推荐算法，自嘲“很烂”不过未来月更",
       "source_url": "https://www.qbitai.com/2026/01/370760.html",
-      "id": 100,
+      "id": 104,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -1308,7 +1360,7 @@
       "original_language": "zh",
       "original_title": "xAI工程师播客聊太嗨，马斯克解雇了他",
       "source_url": "https://www.qbitai.com/2026/01/371158.html",
-      "id": 101,
+      "id": 105,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -1321,7 +1373,7 @@
       "original_language": "zh",
       "original_title": "2026年OpenAI最看好的3个方向",
       "source_url": "https://www.qbitai.com/2026/01/370936.html",
-      "id": 102,
+      "id": 106,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -1334,7 +1386,7 @@
       "original_language": "unknown",
       "original_title": "A 26,000-year astronomical monument hidden in plain sight (2019)",
       "source_url": "https://longnow.org/ideas/the-26000-year-astronomical-monument-hidden-in-plain-sight/",
-      "id": 103,
+      "id": 107,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -1347,7 +1399,7 @@
       "original_language": "zh",
       "original_title": "后视镜都不要了！特斯拉Robotaxi路测被拍，新增摄像头清洁装置",
       "source_url": "https://www.qbitai.com/2026/01/370859.html",
-      "id": 104,
+      "id": 108,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -1360,7 +1412,7 @@
       "original_language": "en",
       "original_title": "Web search API by Crustdata",
       "source_url": "https://www.producthunt.com/products/crustdata-2",
-      "id": 105,
+      "id": 109,
       "track": "rss",
       "original_source": "Product Hunt"
     },
@@ -1373,7 +1425,7 @@
       "original_language": "en",
       "original_title": "StoryChief AI Canvas",
       "source_url": "https://www.producthunt.com/products/storychief-io",
-      "id": 106,
+      "id": 110,
       "track": "rss",
       "original_source": "Product Hunt"
     },
@@ -1386,7 +1438,7 @@
       "original_language": "en",
       "original_title": "Your brain on ChatGPT: Accumulation of cognitive debt when using an AI assistant",
       "source_url": "https://www.media.mit.edu/publications/your-brain-on-chatgpt/",
-      "id": 107,
+      "id": 111,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -1399,7 +1451,7 @@
       "original_language": "en",
       "original_title": "Hands-On Introduction to Unikernels",
       "source_url": "https://labs.iximiuz.com/tutorials/unikernels-intro-93976514",
-      "id": 108,
+      "id": 112,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -1412,7 +1464,7 @@
       "original_language": "zh",
       "original_title": "57.1%的人分不清真假！Runway新视频模型太爆炸",
       "source_url": "https://www.qbitai.com/2026/01/371481.html",
-      "id": 109,
+      "id": 113,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -1425,7 +1477,7 @@
       "original_language": "zh",
       "original_title": "Node.js之父：手写代码已死",
       "source_url": "https://www.qbitai.com/2026/01/371389.html",
-      "id": 110,
+      "id": 114,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -1438,7 +1490,7 @@
       "original_language": "en",
       "original_title": "Show HN: Sweep, Open-weights 1.5B model for next-edit autocomplete",
       "source_url": "https://huggingface.co/sweepai/sweep-next-edit-1.5B",
-      "id": 111,
+      "id": 115,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -1451,7 +1503,7 @@
       "original_language": "en",
       "original_title": "Claude's new constitution",
       "source_url": "https://www.anthropic.com/news/claude-new-constitution",
-      "id": 112,
+      "id": 116,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -1464,7 +1516,7 @@
       "original_language": "en",
       "original_title": "Binary Fuse Filters: Fast and Smaller Than XOR Filters",
       "source_url": "https://arxiv.org/abs/2201.01174",
-      "id": 113,
+      "id": 117,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -1477,7 +1529,7 @@
       "original_language": "en",
       "original_title": "Take potentially dangerous PDFs, and convert them to safe PDFs",
       "source_url": "https://github.com/freedomofpress/dangerzone",
-      "id": 114,
+      "id": 118,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -1490,7 +1542,46 @@
       "original_language": "zh",
       "original_title": "马斯克下场抢人！xAI组建「人才狙击队」，极客版HR年薪168万",
       "source_url": "https://www.qbitai.com/2026/01/371286.html",
-      "id": 115,
+      "id": 119,
+      "track": "rss",
+      "original_source": "量子位"
+    },
+    {
+      "title": "2025最强AI产品一文看尽丨量子位智库年度AI 100",
+      "summary": "AI应用元年过去了，哪些AI产品正成为新一代超级应用？",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-16 14:30:00",
+      "original_language": "zh",
+      "original_title": "2025最强AI产品一文看尽丨量子位智库年度AI 100",
+      "source_url": "https://www.qbitai.com/2026/01/371559.html",
+      "id": 120,
+      "track": "rss",
+      "original_source": "量子位"
+    },
+    {
+      "title": "大学开始用AI招生了",
+      "summary": "录取通知书提前一个月到手\n\n近日，某大学宣布开始使用人工智能技术进行招生工作。这一举措旨在提高招生效率和准确性，同时为学生提供更加个性化的服务。据悉，该大学已经与一家知名人工智能公司合作，利用AI技术对申请者的资料进行初步筛选，并预测其录取可能性。经过AI筛选后的申请者将进入人工审核环节。据悉，今年录取通知书将在3月份提前一个月发放，以便学生有更多时间准备入学事宜。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-16 14:30:00",
+      "original_language": "zh",
+      "original_title": "大学开始用AI招生了",
+      "source_url": "https://www.qbitai.com/2026/01/371510.html",
+      "id": 121,
+      "track": "rss",
+      "original_source": "量子位"
+    },
+    {
+      "title": "成立两年半登顶全球AI创作社区，背后是中国团队在“卖情绪”？？",
+      "summary": "应用/游戏/电影/音乐，一键高质量生成并发布",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-15 14:30:00",
+      "original_language": "zh",
+      "original_title": "成立两年半登顶全球AI创作社区，背后是中国团队在“卖情绪”？？",
+      "source_url": "https://www.qbitai.com/2026/01/371570.html",
+      "id": 122,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -1503,7 +1594,7 @@
       "original_language": "en",
       "original_title": "From stealth blackout to whitelisting: Inside the Iranian shutdown",
       "source_url": "https://www.kentik.com/blog/from-stealth-blackout-to-whitelisting-inside-the-iranian-shutdown/",
-      "id": 116,
+      "id": 123,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -1516,7 +1607,7 @@
       "original_language": "unknown",
       "original_title": "Waiting for dawn in search: Search index, Google rulings and impact on Kagi",
       "source_url": "https://blog.kagi.com/waiting-dawn-search",
-      "id": 117,
+      "id": 124,
       "track": "rss",
       "original_source": "Hacker News"
     }
