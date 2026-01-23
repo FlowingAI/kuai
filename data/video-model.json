@@ -1,7 +1,7 @@
 {
   "category": "视频模型动态",
-  "last_update": "2026-01-23 13:43:31 (北京时间)",
-  "total_count": 105,
+  "last_update": "2026-01-23 17:41:38 (北京时间)",
+  "total_count": 108,
   "news": [
     {
       "title": "1Password帮助防止您的密码进入诈骗网站",
@@ -1352,6 +1352,45 @@
       "original_source": "量子位"
     },
     {
+      "title": "LeCun创业产品估值247亿，回应谢赛宁入伙",
+      "summary": "LeCun创业公司产品估值达到247亿，对于Meta的决策失误进行了炮轰，并表示自己不会做产品。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-16 14:30:00",
+      "original_language": "zh",
+      "original_title": "LeCun创业0产品估值247亿，回应谢赛宁入伙",
+      "source_url": "https://www.qbitai.com/2026/01/371949.html",
+      "id": 105,
+      "track": "rss",
+      "original_source": "量子位"
+    },
+    {
+      "title": "腾讯重仓的AI芯片公司要上市了！燧原科技IPO获受理，拟募资60亿",
+      "summary": "腾讯重仓的AI芯片公司燧原科技IPO获受理，计划募集资金60亿元人民币。据相关消息，燧原科技是一家专注于人工智能芯片研发的公司，其产品广泛应用于云计算、大数据、人工智能等领域。此次IPO的受理，标志着燧原科技正式进入资本市场。据悉，燧原科技此次IPO的保荐机构为某证券公司，预计将在不久的将来完成上市。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "null",
+      "original_language": "zh",
+      "original_title": "腾讯重仓的AI芯片公司要上市了！燧原科技IPO获受理，拟募资60亿",
+      "source_url": "https://www.qbitai.com/2026/01/371924.html",
+      "id": 106,
+      "track": "rss",
+      "original_source": "量子位"
+    },
+    {
+      "title": "Waze在全球范围内扩展减速带、收费和紧急车辆警报",
+      "summary": "Waze已经开始更广泛地推出之前宣布的道路警报、导航改进和个性化路线规划，这些改进增强了驾驶员的意识和安全性，这些改进自2024年以来一直存在延误。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-23 17:29:06",
+      "original_language": "en",
+      "original_title": "Waze expands speed bump, toll, and emergency vehicle alerts worldwide",
+      "source_url": "https://www.digitaltrends.com/cars/waze-expands-speed-bump-toll-and-emergency-vehicle-alerts-worldwide/",
+      "id": 107,
+      "track": "rss",
+      "original_source": "Digital Trends"
+    },
+    {
       "title": "AMD Ryzen 7 9850X3D发布日期及售价公布",
       "summary": "AMD的Ryzen 7 9850X3D CPU将于1月29日上市，售价为499美元，提供更高的时钟速度和3D V-Cache游戏性能。\n\n原文链接：[Here’s when you can buy AMD’s Ryzen 7 9850X3D and how much it’ll cost](https://www.digitaltrends.com/computing/amd-ryzen-7-9850x3d-gets-price-and-release-date/)",
       "is_legal": true,
@@ -1360,7 +1399,7 @@
       "original_language": "en",
       "original_title": "Here’s when you can buy AMD’s Ryzen 7 9850X3D and how much it’ll cost",
       "source_url": "https://www.digitaltrends.com/computing/amd-ryzen-7-9850x3d-gets-price-and-release-date/",
-      "id": 105,
+      "id": 108,
       "track": "rss",
       "original_source": "Digital Trends"
     }
