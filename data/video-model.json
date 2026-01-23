@@ -1,7 +1,7 @@
 {
   "category": "视频模型动态",
-  "last_update": "2026-01-24 01:38:59 (北京时间)",
-  "total_count": 117,
+  "last_update": "2026-01-24 05:36:00 (北京时间)",
+  "total_count": 119,
   "news": [
     {
       "title": "购买新特斯拉？您可能需要确认是否包含自动转向功能",
@@ -1517,6 +1517,32 @@
       "original_title": "Here’s when you can buy AMD’s Ryzen 7 9850X3D and how much it’ll cost",
       "source_url": "https://www.digitaltrends.com/computing/amd-ryzen-7-9850x3d-gets-price-and-release-date/",
       "id": 117,
+      "track": "rss",
+      "original_source": "Digital Trends"
+    },
+    {
+      "title": "2.4万亿参数“最强文科生”，文心5.0正式版，你挺懂山东人啊？",
+      "summary": "原生全模态+商用落地双buff拉满\n新闻链接：https://www.qbitai.com/2026/01/372108.html",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "null",
+      "original_language": "zh",
+      "original_title": "2.4万亿参数“最强文科生”，文心5.0正式版，你挺懂山东人啊？",
+      "source_url": "https://www.qbitai.com/2026/01/372108.html",
+      "id": 118,
+      "track": "rss",
+      "original_source": "量子位"
+    },
+    {
+      "title": "You could see faster AMD Ryzen AI Max chips soon",
+      "summary": "Leaked specs suggest AMD’s Ryzen AI MAX 400 \"Gorgon Halo\" refresh will bring higher CPU and GPU clocks with faster memory support. \nThe post You could see faster AMD Ryzen AI Max chips soon appeared first on Digital Trends.",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": null,
+      "original_language": "unknown",
+      "original_title": "You could see faster AMD Ryzen AI Max chips soon",
+      "source_url": "https://www.digitaltrends.com/computing/you-could-see-faster-amd-ryzen-ai-max-chips-soon/",
+      "id": 119,
       "track": "rss",
       "original_source": "Digital Trends"
     }
