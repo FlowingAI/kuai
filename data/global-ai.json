@@ -1,7 +1,7 @@
 {
   "category": "全球AI动态",
-  "last_update": "2026-01-24 01:04:03 (北京时间)",
-  "total_count": 215,
+  "last_update": "2026-01-24 04:58:56 (北京时间)",
+  "total_count": 222,
   "news": [
     {
       "title": "人工智能代理的数学问题：注定失败？行业不这么认为",
@@ -2596,6 +2596,58 @@
       "original_source": "量子位"
     },
     {
+      "title": "达沃斯如何变成了一场科技会议？",
+      "summary": "世界经济论坛在达沃斯的年度会议今年感觉不同，不仅仅是因为Meta和Salesforce占据了主街道的店面。人工智能以一种掩盖了传统主题如气候变化和全球贫困的方式主导了对话，并且CEO们并没有保留。对贸易政策的公开批评，对人工智能的警告……",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-24 04:31:50",
+      "original_language": "en",
+      "original_title": "How did Davos turn into a tech conference?",
+      "source_url": "https://techcrunch.com/video/how-did-davos-turn-into-a-tech-conference/",
+      "id": 201,
+      "track": "rss",
+      "original_source": "TechCrunch AI"
+    },
+    {
+      "title": "使用eBPF/XDP方法杀死ISP设备：分布式BNG的解决方案",
+      "summary": "Comments\n\n新闻链接：https://markgascoyne.co.uk/posts/ebpf-bng/\n\n请注意，该新闻内容为英文，以下为翻译内容：\n\nThis post discusses an approach to solving the problem of ISP appliances using eBPF and XDP. The author explains how these technologies can be used to create a distributed BNG (Border Network Gateway) solution. The post includes comments from readers discussing the feasibility and potential benefits of this approach.\n\n（本篇博客讨论了使用eBPF和XDP解决ISP设备问题的方法。作者解释了如何使用这些技术来创建一个分布式BNG（边界网络网关）解决方案。文章中包含了读者对这种方法可行性和潜在益处的讨论。）",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-24 04:31:44",
+      "original_language": "en",
+      "original_title": "Killing the ISP Appliance: An eBPF/XDP Approach to Distributed BNG",
+      "source_url": "https://markgascoyne.co.uk/posts/ebpf-bng/",
+      "id": 202,
+      "track": "rss",
+      "original_source": "Hacker News"
+    },
+    {
+      "title": "Radicle: The Sovereign Forge",
+      "summary": "Comments",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-24 04:31:30",
+      "original_language": "en",
+      "original_title": "Radicle: The Sovereign Forge",
+      "source_url": "https://radicle.xyz",
+      "id": 203,
+      "track": "rss",
+      "original_source": "Hacker News"
+    },
+    {
+      "title": "Claude.ai自1月14日起默默失败，官方未予承认",
+      "summary": "Comments\n新闻链接：https://github.com/anthropics/claude-code/issues/18866",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-24 04:31:00",
+      "original_language": "en",
+      "original_title": "Claude.ai silently failing since Jan 14, no official acknowledgment",
+      "source_url": "https://github.com/anthropics/claude-code/issues/18866",
+      "id": 204,
+      "track": "rss",
+      "original_source": "Hacker News"
+    },
+    {
       "title": "AI CEO们将达沃斯变成了一个科技会议",
       "summary": "世界经济论坛在达沃斯的年度会议今年感觉不同，不仅仅是因为Meta和Salesforce占据了主街道的店面。AI以一种掩盖了传统主题如气候变化和全球贫困的方式主导了对话，而CEO们并没有保留。公开批评了贸易政策，对AI发出了警告...",
       "is_legal": true,
@@ -2604,7 +2656,7 @@
       "original_language": "en",
       "original_title": "AI CEOs transformed Davos into a tech conference",
       "source_url": "https://techcrunch.com/podcast/ai-ceos-transformed-davos-into-a-tech-conference/",
-      "id": 201,
+      "id": 205,
       "track": "rss",
       "original_source": "TechCrunch AI"
     },
@@ -2617,7 +2669,7 @@
       "original_language": "en",
       "original_title": "I built a light that reacts to radio waves [video]",
       "source_url": "https://www.youtube.com/watch?v=moBCOEiqiPs",
-      "id": 202,
+      "id": 206,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -2630,7 +2682,7 @@
       "original_language": "en",
       "original_title": "Ghostty's AI Policy",
       "source_url": "https://github.com/ghostty-org/ghostty/blob/main/AI_POLICY.md",
-      "id": 203,
+      "id": 207,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -2643,7 +2695,7 @@
       "original_language": "zh",
       "original_title": "轻舟智航重回高端局： L2+量产超百万，城市NOA量产下放10万级",
       "source_url": "https://www.qbitai.com/2026/01/372001.html",
-      "id": 204,
+      "id": 208,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -2656,7 +2708,7 @@
       "original_language": "zh",
       "original_title": "陈天奇、贾扬清点赞：Vibe Coding版PyTorch，连论文都是AI写的",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-23-9",
-      "id": 205,
+      "id": 209,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -2669,7 +2721,7 @@
       "original_language": "zh",
       "original_title": "思维链太长拖慢推理？把它「画」进隐空间！新框架RoT探索大模型隐空间推理新范式",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-23-8",
-      "id": 206,
+      "id": 210,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -2682,7 +2734,33 @@
       "original_language": "en",
       "original_title": "OpenAI chief Sam Altman plans India visit as AI leaders converge in New Delhi: sources",
       "source_url": "https://techcrunch.com/2026/01/23/openai-chief-sam-altman-plans-india-visit-as-ai-leaders-converge-in-new-delhi-sources/",
-      "id": 207,
+      "id": 211,
+      "track": "rss",
+      "original_source": "TechCrunch AI"
+    },
+    {
+      "title": "Meta暂停青少年对AI角色的访问，以备新版本推出",
+      "summary": "Meta今天表示，它将暂停全球所有其应用程序中青少年对AI角色的访问。公司提到，它并没有放弃其努力，而是希望为青少年开发一个更新的AI角色版本。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-23 14:30:00",
+      "original_language": "en",
+      "original_title": "Meta pauses teen access to AI characters ahead of new version",
+      "source_url": "https://techcrunch.com/2026/01/23/meta-pauses-teen-access-to-ai-characters-ahead-of-new-version/",
+      "id": 212,
+      "track": "rss",
+      "original_source": "TechCrunch AI"
+    },
+    {
+      "title": "Google Photos最新功能让您自己成为表情包",
+      "summary": "Google Photos推出了一项新功能，允许用户将自己插入到表情包中。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-23 14:30:00",
+      "original_language": "en",
+      "original_title": "Google Photos’ latest feature lets you meme yourself",
+      "source_url": "https://techcrunch.com/2026/01/23/google-photos-latest-feature-lets-you-meme-yourself/",
+      "id": 213,
       "track": "rss",
       "original_source": "TechCrunch AI"
     },
@@ -2695,7 +2773,7 @@
       "original_language": "zh",
       "original_title": "OpenAI：以后大家用AI赚的钱，我可能要抽成",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-23-10",
-      "id": 208,
+      "id": 214,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -2708,7 +2786,7 @@
       "original_language": "en",
       "original_title": "Former Sequoia partner’s new startup uses AI to negotiate your calendar for you",
       "source_url": "https://techcrunch.com/2026/01/22/former-sequoia-partners-new-startup-uses-ai-to-negotiate-your-calendar-for-you/",
-      "id": 209,
+      "id": 215,
       "track": "rss",
       "original_source": "TechCrunch AI"
     },
@@ -2721,7 +2799,7 @@
       "original_language": "en",
       "original_title": "Inference startup Inferact lands $150M to commercialize vLLM",
       "source_url": "https://techcrunch.com/2026/01/22/inference-startup-inferact-lands-150m-to-commercialize-vllm/",
-      "id": 210,
+      "id": 216,
       "track": "rss",
       "original_source": "TechCrunch AI"
     },
@@ -2734,7 +2812,7 @@
       "original_language": "en",
       "original_title": "Google now offers free SAT practice exams, powered by Gemini",
       "source_url": "https://techcrunch.com/2026/01/22/google-now-offers-free-sat-practice-exams-powered-by-gemini/",
-      "id": 211,
+      "id": 217,
       "track": "rss",
       "original_source": "TechCrunch AI"
     },
@@ -2747,7 +2825,7 @@
       "original_language": "zh",
       "original_title": "大学开始用AI招生了",
       "source_url": "https://www.qbitai.com/2026/01/371510.html",
-      "id": 212,
+      "id": 218,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -2760,7 +2838,20 @@
       "original_language": "en",
       "original_title": "Updates to our web search products and  Programmable Search Engine capabilities",
       "source_url": "https://programmablesearchengine.googleblog.com/2026/01/updates-to-our-web-search-products.html",
-      "id": 213,
+      "id": 219,
+      "track": "rss",
+      "original_source": "Hacker News"
+    },
+    {
+      "title": "特斯拉取消Autopilot功能，将车道保持功能锁定在每月99美元的订阅费用之后",
+      "summary": "特斯拉宣布将取消Autopilot功能，并将车道保持功能锁定在每月99美元的订阅费用之后。这一变化意味着，用户如果想要使用车道保持功能，需要支付额外的费用。特斯拉表示，这一举措是为了实现持续的收入流。特斯拉在2026年1月1日宣布了这一变化，并将在接下来的几个月内逐步实施。特斯拉的Autopilot功能原本是免费提供的，但公司表示，随着自动驾驶技术的不断发展，需要更多的资金来支持研发。特斯拉的CEO埃隆·马斯克在社交媒体上表示，这一变化是为了确保特斯拉能够继续投资于自动驾驶技术的研发。新闻链接：[特斯拉取消Autopilot功能，将车道保持功能锁定在每月99美元的订阅费用之后](https://arstechnica.com/cars/2026/01/tesla-wants-recurring-revenue-discontinues-autopilot-in-favor-of-fsd/)",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-16 14:30:00",
+      "original_language": "en",
+      "original_title": "Tesla kills Autopilot, locks lane-keeping behind $99/month fee",
+      "source_url": "https://arstechnica.com/cars/2026/01/tesla-wants-recurring-revenue-discontinues-autopilot-in-favor-of-fsd/",
+      "id": 220,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -2773,7 +2864,7 @@
       "original_language": "zh",
       "original_title": "LeCun创业0产品估值247亿，回应谢赛宁入伙",
       "source_url": "https://www.qbitai.com/2026/01/371949.html",
-      "id": 214,
+      "id": 221,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -2786,7 +2877,7 @@
       "original_language": "en",
       "original_title": "AI Is a Horse (2024)",
       "source_url": "https://kconner.com/2024/08/02/ai-is-a-horse.html",
-      "id": 215,
+      "id": 222,
       "track": "rss",
       "original_source": "Hacker News"
     }
