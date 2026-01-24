@@ -1,7 +1,7 @@
 {
   "category": "视频模型动态",
-  "last_update": "2026-01-25 01:17:26 (北京时间)",
-  "total_count": 127,
+  "last_update": "2026-01-25 05:17:51 (北京时间)",
+  "total_count": 128,
   "news": [
     {
       "title": "微软建议您卸载最新的Windows 11更新",
@@ -1625,6 +1625,19 @@
       "original_source": "量子位"
     },
     {
+      "title": "江苏具身新贵魔法原子联创将登央视春晚，今年冲击IPO！披露一堆新信息",
+      "summary": "新产品也箭在弦上\n\n江苏具身新贵魔法原子联创即将亮相央视春晚，同时宣布今年将冲击IPO。公司近日披露了一系列新信息，包括新产品研发进展、市场策略等。据悉，魔法原子联创在人工智能领域取得了显著成果，其产品已广泛应用于教育、医疗、金融等多个行业。此次春晚亮相，将进一步扩大公司品牌影响力，助力其IPO进程。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-16 14:30:00",
+      "original_language": "zh",
+      "original_title": "将登央视春晚，今年冲击IPO！江苏具身新贵魔法原子联创披露一堆新信息",
+      "source_url": "https://www.qbitai.com/2026/01/372322.html",
+      "id": 126,
+      "track": "rss",
+      "original_source": "量子位"
+    },
+    {
       "title": "You could see faster AMD Ryzen AI Max chips soon",
       "summary": "Leaked specs suggest AMD’s Ryzen AI MAX 400 \"Gorgon Halo\" refresh will bring higher CPU and GPU clocks with faster memory support. \nThe post You could see faster AMD Ryzen AI Max chips soon appeared first on Digital Trends.",
       "is_legal": true,
@@ -1633,7 +1646,7 @@
       "original_language": "unknown",
       "original_title": "You could see faster AMD Ryzen AI Max chips soon",
       "source_url": "https://www.digitaltrends.com/computing/you-could-see-faster-amd-ryzen-ai-max-chips-soon/",
-      "id": 126,
+      "id": 127,
       "track": "rss",
       "original_source": "Digital Trends"
     },
@@ -1646,7 +1659,7 @@
       "original_language": "unknown",
       "original_title": "Your cheap Chevrolet EV might not be cheap for Long",
       "source_url": "https://www.digitaltrends.com/cars/your-cheap-chevrolet-ev-might-not-be-cheap-for-long/",
-      "id": 127,
+      "id": 128,
       "track": "rss",
       "original_source": "Digital Trends"
     }
