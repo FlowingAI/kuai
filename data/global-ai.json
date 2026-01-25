@@ -1,7 +1,7 @@
 {
   "category": "全球AI动态",
-  "last_update": "2026-01-25 10:33:36 (北京时间)",
-  "total_count": 253,
+  "last_update": "2026-01-25 13:22:35 (北京时间)",
+  "total_count": 256,
   "news": [
     {
       "title": "SQLite中许多小查询效率高",
@@ -3281,6 +3281,45 @@
       "original_title": "High-bandwidth flash progress and future",
       "source_url": "https://blocksandfiles.com/2026/01/19/a-window-into-hbf-progress/",
       "id": 253,
+      "track": "rss",
+      "original_source": "Hacker News"
+    },
+    {
+      "title": "David Patterson：LLM推理硬件的挑战和研究方向",
+      "summary": "Comments\n\n新闻链接：https://arxiv.org/abs/2601.05047",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-25 12:56:46",
+      "original_language": "en",
+      "original_title": "David Patterson: Challenges and Research Directions for LLM Inference Hardware",
+      "source_url": "https://arxiv.org/abs/2601.05047",
+      "id": 254,
+      "track": "rss",
+      "original_source": "Hacker News"
+    },
+    {
+      "title": "NVIDIA-smi无限期挂起后的处理方法",
+      "summary": "问题描述：在NVIDIA的GPU驱动程序中，使用nvidia-smi命令后，系统在约66天后会无限期挂起。解决方案：检查系统日志，查找相关错误信息，更新驱动程序或重新安装系统。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-25 12:55:24",
+      "original_language": "en",
+      "original_title": "nvidia-smi hangs indefinitely after ~66 days",
+      "source_url": "https://github.com/NVIDIA/open-gpu-kernel-modules/issues/971",
+      "id": 255,
+      "track": "rss",
+      "original_source": "Hacker News"
+    },
+    {
+      "title": "The Responsibility of Intellectuals",
+      "summary": "Comments",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": null,
+      "original_language": "unknown",
+      "original_title": "The Responsibility of Intellectuals",
+      "source_url": "https://www.nybooks.com/articles/1967/02/23/a-special-supplement-the-responsibility-of-intelle/",
+      "id": 256,
       "track": "rss",
       "original_source": "Hacker News"
     }
