@@ -1,7 +1,7 @@
 {
   "category": "AI编程工具进化",
-  "last_update": "2026-01-25 11:15:16 (北京时间)",
-  "total_count": 169,
+  "last_update": "2026-01-25 13:45:04 (北京时间)",
+  "total_count": 174,
   "news": [
     {
       "title": "Claude Code的新隐藏功能：集群",
@@ -2002,6 +2002,58 @@
       "original_source": "Hacker News"
     },
     {
+      "title": "我们用X射线检测了可疑的FTDI USB线缆",
+      "summary": "我们使用X射线技术对一款可疑的FTDI USB线缆进行了检测，发现其内部结构存在问题。这款线缆可能被用于恶意目的，例如窃取数据或执行恶意软件。本文将详细介绍我们的检测过程和发现的问题。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-25 13:31:04",
+      "original_language": "en",
+      "original_title": "We X-Rayed a Suspicious FTDI USB Cable",
+      "source_url": "https://eclypsium.com/blog/xray-counterfeit-usb-cable/",
+      "id": 155,
+      "track": "rss",
+      "original_source": "Hacker News"
+    },
+    {
+      "title": "Palantir在英国公共服务中无立足之地",
+      "summary": "评论\n\nPalantir Technologies，一家总部位于美国的数据分析公司，因其涉嫌侵犯隐私和滥用权力而受到批评。英国国防部和内政部都曾考虑使用Palantir的技术，但公众和专家对此表示担忧。英国下议院国防委员会的报告指出，Palantir的合同存在风险，因为它可能损害英国的国家安全。此外，Palantir的商业模式也引发了对其独立性和中立性的质疑。英国政府需要重新考虑其与Palantir的关系，并确保其公共服务不受潜在的商业利益影响。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-25 13:29:42",
+      "original_language": "en",
+      "original_title": "Palantir has no place in UK public services",
+      "source_url": "https://www.opendemocracy.net/en/zarah-sutlana-palantir-no-place-uk-public-services-ministry-of-defence/",
+      "id": 156,
+      "track": "rss",
+      "original_source": "Hacker News"
+    },
+    {
+      "title": "David Patterson：LLM推理硬件的挑战和研究方向",
+      "summary": "新闻内容：Comments\n新闻链接：https://arxiv.org/abs/2601.05047",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-25 13:29:35",
+      "original_language": "en",
+      "original_title": "David Patterson: Challenges and Research Directions for LLM Inference Hardware",
+      "source_url": "https://arxiv.org/abs/2601.05047",
+      "id": 157,
+      "track": "rss",
+      "original_source": "Hacker News"
+    },
+    {
+      "title": "NVIDIA-smi无限期挂起后约66天",
+      "summary": "Comments\n",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-25 13:29:11",
+      "original_language": "en",
+      "original_title": "nvidia-smi hangs indefinitely after ~66 days",
+      "source_url": "https://github.com/NVIDIA/open-gpu-kernel-modules/issues/971",
+      "id": 158,
+      "track": "rss",
+      "original_source": "Hacker News"
+    },
+    {
       "title": "树莓派拉力赛：从Pi 1到Pi 5的性能比较",
       "summary": "Comments\n\nThis article is a performance comparison of Raspberry Pi models from Pi 1 to Pi 5. The author discusses the differences in performance and capabilities between these models, providing insights into how the Raspberry Pi has evolved over the years. The article includes comments from readers sharing their experiences and opinions on the various models.\n\n[Read more](https://the-diy-life.com/raspberry-pi-drag-race-pi-1-to-pi-5-performance-comparison/)",
       "is_legal": true,
@@ -2010,7 +2062,7 @@
       "original_language": "en",
       "original_title": "Raspberry Pi Drag Race: Pi 1 to Pi 5 – Performance Comparison",
       "source_url": "https://the-diy-life.com/raspberry-pi-drag-race-pi-1-to-pi-5-performance-comparison/",
-      "id": 155,
+      "id": 159,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -2023,7 +2075,7 @@
       "original_language": "en",
       "original_title": "Memory layout in Zig with formulas",
       "source_url": "https://raymondtana.github.io/math/programming/2026/01/23/zig-alignment-and-sizing.html",
-      "id": 156,
+      "id": 160,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -2036,7 +2088,7 @@
       "original_language": "en",
       "original_title": "Internet Archive's Storage",
       "source_url": "https://blog.dshr.org/2026/01/internet-archives-storage.html",
-      "id": 157,
+      "id": 161,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -2049,7 +2101,7 @@
       "original_language": "zh",
       "original_title": "将登央视春晚，今年冲击IPO！江苏具身新贵魔法原子联创披露一堆新信息",
       "source_url": "https://www.qbitai.com/2026/01/372322.html",
-      "id": 158,
+      "id": 162,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -2062,7 +2114,7 @@
       "original_language": "zh",
       "original_title": "成立两年半登顶全球AI创作社区，背后是中国团队在“卖情绪”？？",
       "source_url": "https://www.qbitai.com/2026/01/371570.html",
-      "id": 159,
+      "id": 163,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -2075,7 +2127,7 @@
       "original_language": "en",
       "original_title": "Losing 1½ Million Lines of Go",
       "source_url": "https://www.tbray.org/ongoing/When/202x/2026/01/14/Unicode-Properties",
-      "id": 160,
+      "id": 164,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -2088,7 +2140,7 @@
       "original_language": "en",
       "original_title": "Tech Is Fun Again: The Tech Monoculture Is Finally Breaking",
       "source_url": "http://www.jasonwillems.com/technology/2025/12/17/Tech-Is-Fun-Again/",
-      "id": 161,
+      "id": 165,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -2101,7 +2153,7 @@
       "original_language": "en",
       "original_title": "Qwen3-TTS Family Is Now Open Sourced: Voice Design, Clone, and Generation",
       "source_url": "https://qwen.ai/blog?id=qwen3tts-0115",
-      "id": 162,
+      "id": 166,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -2114,7 +2166,7 @@
       "original_language": "en",
       "original_title": "AI is a horse (2024)",
       "source_url": "https://kconner.com/2024/08/02/ai-is-a-horse.html",
-      "id": 163,
+      "id": 167,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -2127,7 +2179,7 @@
       "original_language": "en",
       "original_title": "From stealth blackout to whitelisting: Inside the Iranian shutdown",
       "source_url": "https://www.kentik.com/blog/from-stealth-blackout-to-whitelisting-inside-the-iranian-shutdown/",
-      "id": 164,
+      "id": 168,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -2140,7 +2192,7 @@
       "original_language": "unknown",
       "original_title": "Waiting for dawn in search: Search index, Google rulings and impact on Kagi",
       "source_url": "https://blog.kagi.com/waiting-dawn-search",
-      "id": 165,
+      "id": 169,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -2153,7 +2205,7 @@
       "original_language": "unknown",
       "original_title": "Gold Fever Cold and the True Adventures of Jack London in the Wild",
       "source_url": "https://www.smithsonianmag.com/history/gold-fever-deadly-cold-and-amazing-true-adventures-jack-london-wild-180973316/",
-      "id": 166,
+      "id": 170,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -2166,7 +2218,7 @@
       "original_language": "unknown",
       "original_title": "If You Think This Instrument Is Hard to Play, Try Building One",
       "source_url": "https://www.nytimes.com/2026/01/14/arts/music/oboe-laubin-jim-phelan.html",
-      "id": 167,
+      "id": 171,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -2179,7 +2231,7 @@
       "original_language": "unknown",
       "original_title": "After two years of vibecoding, I'm back to writing by hand [video]",
       "source_url": "https://www.youtube.com/watch?v=SKTsNV41DYg",
-      "id": 168,
+      "id": 172,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -2192,7 +2244,20 @@
       "original_language": "unknown",
       "original_title": "Postmortem: Our first VLEO satellite mission (with imagery and flight data)",
       "source_url": "https://albedo.com/post/clarity-1-what-worked-and-where-we-go-next",
-      "id": 169,
+      "id": 173,
+      "track": "rss",
+      "original_source": "Hacker News"
+    },
+    {
+      "title": "The Responsibility of Intellectuals (1967)",
+      "summary": "Comments",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": null,
+      "original_language": "unknown",
+      "original_title": "The Responsibility of Intellectuals (1967)",
+      "source_url": "https://www.nybooks.com/articles/1967/02/23/a-special-supplement-the-responsibility-of-intelle/",
+      "id": 174,
       "track": "rss",
       "original_source": "Hacker News"
     }
