@@ -1,7 +1,7 @@
 {
   "category": "大模型动态",
-  "last_update": "2026-01-25 16:55:14 (北京时间)",
-  "total_count": 226,
+  "last_update": "2026-01-25 21:16:12 (北京时间)",
+  "total_count": 229,
   "news": [
     {
       "title": "1月28日，直播预约！来聊聊具身评测中的科学与乱象",
@@ -17,6 +17,45 @@
       "original_source": "机器之心"
     },
     {
+      "title": "达沃斯聚焦技术新前沿，梅卡曼德创始人邵天兰受邀分享具身智能落地实践",
+      "summary": "梅卡曼德创始人邵天兰在达沃斯论坛上分享了具身智能的落地实践。邵天兰在演讲中强调了具身智能在工业、医疗和教育等领域的应用潜力，并介绍了梅卡曼德在具身智能技术方面的最新进展。她指出，具身智能技术能够使机器人更加灵活和智能，从而在复杂环境中提供更高效的服务。邵天兰的分享引起了与会者的广泛关注。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-25 21:08:16",
+      "original_language": "zh",
+      "original_title": "达沃斯聚焦技术新前沿，梅卡曼德创始人邵天兰受邀分享具身智能落地实践",
+      "source_url": "https://www.qbitai.com/2026/01/372351.html",
+      "id": 2,
+      "track": "rss",
+      "original_source": "量子位"
+    },
+    {
+      "title": "谷歌用一堆不赚钱的AI小玩意，给科技圈上了一课",
+      "summary": "谷歌用一堆不赚钱的AI小玩意，给科技圈上了一课。这些小玩意包括但不限于：AI艺术创作工具、AI音乐生成器、AI编程助手等。虽然这些项目在商业上可能没有带来直接的经济效益，但它们却在技术研究和创新方面取得了显著的成果。谷歌的这一做法，不仅展示了其对AI技术的长期投入和信心，也为其他科技公司提供了借鉴。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-25 14:30:00",
+      "original_language": "zh",
+      "original_title": "谷歌用一堆不赚钱的AI小玩意，给科技圈上了一课",
+      "source_url": "https://www.jiqizhixin.com/articles/2026-01-25-2",
+      "id": 3,
+      "track": "rss",
+      "original_source": "机器之心"
+    },
+    {
+      "title": "拒绝Reward Hacking！港科联合快手可灵提出高效强化学习后训练扩散模型新范式",
+      "summary": "拒绝Reward Hacking！香港科技大学与快手可灵联合提出了一种高效强化学习后训练扩散模型的新范式。该研究旨在解决强化学习中的Reward Hacking问题，通过改进扩散模型，提高了模型的稳定性和泛化能力。研究团队利用快手平台的大规模数据集，通过强化学习算法训练扩散模型，实现了在复杂环境下的高效决策。该成果对于人工智能在复杂场景中的应用具有重要意义。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-25 00:00:00",
+      "original_language": "zh",
+      "original_title": "拒绝Reward Hacking！港科联合快手可灵提出高效强化学习后训练扩散模型新范式",
+      "source_url": "https://www.jiqizhixin.com/articles/2026-01-25",
+      "id": 4,
+      "track": "rss",
+      "original_source": "机器之心"
+    },
+    {
       "title": "音频-视觉全模态的未来预测，FutureOmni给出了首份答卷",
       "summary": "音频-视觉全模态的未来预测，FutureOmni给出了首份答卷\n\n原文内容缺失，无法提供翻译。",
       "is_legal": true,
@@ -25,7 +64,7 @@
       "original_language": "zh",
       "original_title": "音频-视觉全模态的未来预测，FutureOmni给出了首份答卷",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-24",
-      "id": 2,
+      "id": 5,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -38,7 +77,7 @@
       "original_language": "zh",
       "original_title": "LeCun、谢赛宁团队重磅论文：RAE能大规模文生图了，且比VAE更好",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-24-2",
-      "id": 3,
+      "id": 6,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -51,7 +90,7 @@
       "original_language": "zh",
       "original_title": "估值35亿美元，LeCun创业公司官宣核心方向，掀起对Next-token范式的「叛变」",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-24-6",
-      "id": 4,
+      "id": 7,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -64,7 +103,7 @@
       "original_language": "zh",
       "original_title": "挑战Claude Code？OpenAI Codex发布月将至，今先揭秘智能体循环",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-24-5",
-      "id": 5,
+      "id": 8,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -77,7 +116,7 @@
       "original_language": "zh",
       "original_title": "不止于Prompt：揭秘「神经网络可重编程性」",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-24-4",
-      "id": 6,
+      "id": 9,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -90,7 +129,7 @@
       "original_language": "zh",
       "original_title": "2.4万亿参数“最强文科生”，文心5.0正式版，你挺懂山东人啊？",
       "source_url": "https://www.qbitai.com/2026/01/372108.html",
-      "id": 7,
+      "id": 10,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -103,7 +142,7 @@
       "original_language": "zh",
       "original_title": "R1一周年，DeepSeek Model 1悄然现身",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-21-2",
-      "id": 8,
+      "id": 11,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -116,7 +155,7 @@
       "original_language": "zh",
       "original_title": "京东「再造」京东",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-21-8",
-      "id": 9,
+      "id": 12,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -129,7 +168,7 @@
       "original_language": "en",
       "original_title": "Multi-agent DRL-based Lane Change Decision Model for Cooperative Planning in Mixed Traffic",
       "source_url": "https://arxiv.org/abs/2601.11809",
-      "id": 10,
+      "id": 13,
       "track": "rss",
       "original_source": "arXiv AI"
     },
@@ -142,7 +181,7 @@
       "original_language": "en",
       "original_title": "Risk-Aware Human-in-the-Loop Framework with Adaptive Intrusion Response for Autonomous Vehicles",
       "source_url": "https://arxiv.org/abs/2601.11781",
-      "id": 11,
+      "id": 14,
       "track": "rss",
       "original_source": "arXiv AI"
     },
@@ -155,7 +194,7 @@
       "original_language": "en",
       "original_title": "PRISM: Learning Design Knowledge from Data for Stylistic Design Improvement",
       "source_url": "https://arxiv.org/abs/2601.11747",
-      "id": 12,
+      "id": 15,
       "track": "rss",
       "original_source": "arXiv AI"
     },
@@ -168,7 +207,7 @@
       "original_language": "en",
       "original_title": "Reasoning Stabilization Point: A Training-Time Signal for Stable Evidence and Shortcut Reliance",
       "source_url": "https://arxiv.org/abs/2601.11625",
-      "id": 13,
+      "id": 16,
       "track": "rss",
       "original_source": "arXiv AI"
     },
@@ -181,7 +220,7 @@
       "original_language": "en",
       "original_title": "Dynamical Systems Analysis Reveals Functional Regimes in Large Language Models",
       "source_url": "https://arxiv.org/abs/2601.11622",
-      "id": 14,
+      "id": 17,
       "track": "rss",
       "original_source": "arXiv AI"
     },
@@ -194,7 +233,7 @@
       "original_language": "en",
       "original_title": "MIMIC-RD: Can LLMs differentially diagnose rare diseases in real-world clinical settings?",
       "source_url": "https://arxiv.org/abs/2601.11559",
-      "id": 15,
+      "id": 18,
       "track": "rss",
       "original_source": "arXiv AI"
     },
@@ -207,7 +246,7 @@
       "original_language": "en",
       "original_title": "Introducing Waypoint-1: Real-time interactive video diffusion from Overworld",
       "source_url": "https://huggingface.co/blog/waypoint-1",
-      "id": 16,
+      "id": 19,
       "track": "rss",
       "original_source": "Hugging Face"
     },
@@ -220,7 +259,7 @@
       "original_language": "zh",
       "original_title": "美团卡姐接管无人车，MIT博士离职创业具身智能",
       "source_url": "https://www.qbitai.com/2026/01/370599.html",
-      "id": 17,
+      "id": 20,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -233,7 +272,7 @@
       "original_language": "zh",
       "original_title": "AAAI 2026 Oral | 告别注意力与热传导！北大清华提出WaveFormer，首创波动方程建模视觉",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-21",
-      "id": 18,
+      "id": 21,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -246,7 +285,7 @@
       "original_language": "zh",
       "original_title": "击败GPT、Gemini，复旦×创智孵化创业团队「模思智能」，语音模型上新了",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-20-12",
-      "id": 19,
+      "id": 22,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -259,7 +298,7 @@
       "original_language": "zh",
       "original_title": "钉钉上线AI差旅：企业免垫资，员工免报销，AI帮比价",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-20-4",
-      "id": 20,
+      "id": 23,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -272,7 +311,7 @@
       "original_language": "zh",
       "original_title": "具身基座模型的曙光初现？35000小时训练数据，打造全球最强跨本体VLA",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-20-9",
-      "id": 21,
+      "id": 24,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -285,7 +324,7 @@
       "original_language": "zh",
       "original_title": "评审用不用AI，作者说了算？ICML 2026全新评审政策出炉",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-19-7",
-      "id": 22,
+      "id": 25,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -298,7 +337,7 @@
       "original_language": "zh",
       "original_title": "加速推进“Robot for AI”战略落地，动易科技完成亿元级天使++轮融资，天使轮累计融资额超2亿元",
       "source_url": "https://www.qbitai.com/2026/01/370277.html",
-      "id": 23,
+      "id": 26,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -311,7 +350,7 @@
       "original_language": "zh",
       "original_title": "马斯克最大算力中心建成了：全球首个GW级超算集群，再创世界纪录",
       "source_url": "https://www.qbitai.com/2026/01/370077.html",
-      "id": 24,
+      "id": 27,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -324,7 +363,7 @@
       "original_language": "zh",
       "original_title": "AI 视频生成时代，留给人类的只有演技？",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-17-4",
-      "id": 25,
+      "id": 28,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -337,7 +376,7 @@
       "original_language": "zh",
       "original_title": "贴广告的ChatGPT，一夜之间让全球网友破了防",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-17-3",
-      "id": 26,
+      "id": 29,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -350,7 +389,7 @@
       "original_language": "zh",
       "original_title": "开源8300小时标注数据，新一代实时通用游戏AI Pixel2Play发布",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-17-2",
-      "id": 27,
+      "id": 30,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -363,7 +402,7 @@
       "original_language": "zh",
       "original_title": "大模型听懂语音却反而变笨？港中深与微软联合解决语音大模型降智问题",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-17",
-      "id": 28,
+      "id": 31,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -376,7 +415,7 @@
       "original_language": "zh",
       "original_title": "算力越高收入越多！OpenAI率先验证AI商业Scaling Law",
       "source_url": "https://www.qbitai.com/2026/01/370375.html",
-      "id": 29,
+      "id": 32,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -389,7 +428,7 @@
       "original_language": "zh",
       "original_title": "“车载华为”冲刺IPO：供应5G，上汽奇瑞吉利东风都是客户",
       "source_url": "https://www.qbitai.com/2026/01/370618.html",
-      "id": 30,
+      "id": 33,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -402,7 +441,7 @@
       "original_language": "zh",
       "original_title": "轻舟智航重回高端局： L2+量产超百万，城市NOA量产下放10万级",
       "source_url": "https://www.qbitai.com/2026/01/372001.html",
-      "id": 31,
+      "id": 34,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -415,7 +454,7 @@
       "original_language": "zh",
       "original_title": "微软发布医疗时序基座模型：4540亿数据预训练，解决不规则采样",
       "source_url": "https://www.qbitai.com/2026/01/372307.html",
-      "id": 32,
+      "id": 35,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -428,7 +467,7 @@
       "original_language": "zh",
       "original_title": "将登央视春晚，今年冲击IPO！江苏具身新贵魔法原子联创披露一堆新信息",
       "source_url": "https://www.qbitai.com/2026/01/372322.html",
-      "id": 33,
+      "id": 36,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -441,7 +480,7 @@
       "original_language": "zh",
       "original_title": "神同步OpenAI！中国团队Deep Principle领衔发布LLMs for Science评测，引爆外网",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-16-9",
-      "id": 34
+      "id": 37
     },
     {
       "title": "腾讯AngelSlim升级，首个集LLM、VLM及语音多模态为一体的投机采样训练框架，推理速度飙升1.8倍",
@@ -452,7 +491,7 @@
       "original_language": "zh",
       "original_title": "腾讯AngelSlim升级，首个集LLM、VLM及语音多模态为一体的投机采样训练框架，推理速度飙升1.8倍",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-16-3",
-      "id": 35
+      "id": 38
     },
     {
       "title": "DeepSeek连发两篇论文背后，原来藏着一场学术接力",
@@ -463,7 +502,7 @@
       "original_language": "zh",
       "original_title": "DeepSeek连发两篇论文背后，原来藏着一场学术接力",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-16-2",
-      "id": 36
+      "id": 39
     },
     {
       "title": "从OpenAI的办公室到与礼来达成交易——Chai Discovery如何成为AI药物开发中最耀眼的名称之一",
@@ -474,7 +513,7 @@
       "original_language": "en",
       "original_title": "From OpenAI’s offices to a deal with Eli Lilly — how Chai Discovery became one of the flashiest names in AI drug development",
       "source_url": "https://techcrunch.com/2026/01/16/from-openais-offices-to-a-deal-with-eli-lilly-how-chai-discovery-became-one-of-the-flashiest-names-in-ai-drug-development/",
-      "id": 37
+      "id": 40
     },
     {
       "title": "ChatGPT用户即将面临定向广告",
@@ -485,7 +524,7 @@
       "original_language": "en",
       "original_title": "ChatGPT users are about to get hit with targeted ads",
       "source_url": "https://techcrunch.com/2026/01/16/chatgpt-users-are-about-to-get-hit-with-targeted-ads/",
-      "id": 38
+      "id": 41
     },
     {
       "title": "OpenAI将在ChatGPT中测试广告，因为它烧掉了数十亿美元",
@@ -496,7 +535,7 @@
       "original_language": "en",
       "original_title": "OpenAI to test ads in ChatGPT as it burns through billions",
       "source_url": "https://arstechnica.com/information-technology/2026/01/openai-to-test-ads-in-chatgpt-as-it-burns-through-billions/",
-      "id": 39
+      "id": 42
     },
     {
       "title": "ChatGPT Health允许您将医疗记录连接到虚构事物的AI",
@@ -507,7 +546,7 @@
       "original_language": "en",
       "original_title": "ChatGPT Health lets you connect medical records to an AI that makes things up",
       "source_url": "https://arstechnica.com/ai/2026/01/chatgpt-health-lets-you-connect-medical-records-to-an-ai-that-makes-things-up/",
-      "id": 40
+      "id": 43
     },
     {
       "title": "ChatGPT遭受新的数据窃取攻击，AI恶性循环持续",
@@ -518,7 +557,7 @@
       "original_language": "en",
       "original_title": "ChatGPT falls to new data-pilfering attack as a vicious cycle in AI continues",
       "source_url": "https://arstechnica.com/security/2026/01/chatgpt-falls-to-new-data-pilfering-attack-as-a-vicious-cycle-in-ai-continues/",
-      "id": 41
+      "id": 44
     },
     {
       "title": "面向临床的心电图AI，上智院、复旦等提出CLEAR-HUG框架实现诊断性能与可解释性双突破",
@@ -529,7 +568,7 @@
       "original_language": "zh",
       "original_title": "面向临床的心电图AI，上智院、复旦等提出CLEAR-HUG框架实现诊断性能与可解释性双突破",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-16-10",
-      "id": 42,
+      "id": 45,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -542,7 +581,7 @@
       "original_language": "zh",
       "original_title": "美团又上新模型，8个Thinker齐开工，能顶个诸葛亮？",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-16-8",
-      "id": 43,
+      "id": 46,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -555,7 +594,7 @@
       "original_language": "en",
       "original_title": "Anthropic taps former Microsoft India MD to lead Bengaluru expansion",
       "source_url": "https://techcrunch.com/2026/01/15/anthropic-taps-former-microsoft-india-md-to-lead-bengaluru-expansion/",
-      "id": 44
+      "id": 47
     },
     {
       "title": "硅谷最混乱的分手案肯定将走向法庭",
@@ -566,7 +605,7 @@
       "original_language": "en",
       "original_title": "Silicon Valley’s messiest breakup is definitely headed to court",
       "source_url": "https://techcrunch.com/2026/01/15/silicon-valleys-messiest-breakout-is-definitely-headed-to-court/",
-      "id": 45
+      "id": 48
     },
     {
       "title": "OpenAI投资Sam Altman的脑机接口初创公司Merge Labs",
@@ -577,7 +616,7 @@
       "original_language": "en",
       "original_title": "OpenAI invests in Sam Altman’s brain computer interface startup Merge Labs",
       "source_url": "https://techcrunch.com/2026/01/15/openai-invests-in-sam-altmans-brain-computer-interface-startup-merge-labs/",
-      "id": 46
+      "id": 49
     },
     {
       "title": "不用拍的广告片？深度拆解美团闪购AIGC营销新案例",
@@ -588,7 +627,7 @@
       "original_language": "zh",
       "original_title": "不用拍的广告片？深度拆解美团闪购AIGC营销新案例",
       "source_url": "https://www.qbitai.com/2026/01/369884.html",
-      "id": 47,
+      "id": 50,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -601,7 +640,7 @@
       "original_language": "en",
       "original_title": "Mira Murati’s startup, Thinking Machines Lab, is losing two of its co-founders to OpenAI",
       "source_url": "https://techcrunch.com/2026/01/14/mira-muratis-startup-thinking-machines-lab-is-losing-two-of-its-co-founders-to-openai/",
-      "id": 48
+      "id": 51
     },
     {
       "title": "OpenAI 与 Cerebras 签署价值 100 亿美元的计算服务协议",
@@ -612,7 +651,7 @@
       "original_language": "en",
       "original_title": "OpenAI signs deal, worth $10B, for compute from Cerebras",
       "source_url": "https://techcrunch.com/2026/01/14/openai-signs-deal-reportedly-worth-10-billion-for-compute-from-cerebras/",
-      "id": 49
+      "id": 52
     },
     {
       "title": "AI模型开始破解高级数学问题",
@@ -623,7 +662,7 @@
       "original_language": "en",
       "original_title": "AI models are starting to crack high-level math problems ",
       "source_url": "https://techcrunch.com/2026/01/14/ai-models-are-starting-to-crack-high-level-math-problems/",
-      "id": 50
+      "id": 53
     },
     {
       "title": "谷歌趋势探索页面新增Gemini功能",
@@ -634,7 +673,7 @@
       "original_language": "en",
       "original_title": "Google’s Trends Explore page gets new Gemini capabilities ",
       "source_url": "https://techcrunch.com/2026/01/14/googles-trends-explore-page-gets-new-gemini-capabilities/",
-      "id": 51
+      "id": 54
     },
     {
       "title": "OpenAI的新ChatGPT图像生成器让伪造照片变得容易",
@@ -645,7 +684,7 @@
       "original_language": "en",
       "original_title": "OpenAI’s new ChatGPT image generator makes faking photos easy",
       "source_url": "https://arstechnica.com/ai/2025/12/openais-new-chatgpt-image-generator-makes-faking-photos-easy/",
-      "id": 52
+      "id": 55
     },
     {
       "title": "又一大模型企业冲刺港股IPO！估值23亿，现金流为负，3年研发投入仅1亿",
@@ -656,7 +695,7 @@
       "original_language": "zh",
       "original_title": "又一大模型企业冲刺港股IPO！估值23亿，现金流为负，3年研发投入仅1亿",
       "source_url": "https://zhidx.com/p/530004.html",
-      "id": 53,
+      "id": 56,
       "track": "rss",
       "original_source": "智东西"
     },
@@ -669,7 +708,7 @@
       "original_language": "zh",
       "original_title": "硅谷AI大佬迁徙图谱：32人易职，有人反复横跳，苹果最伤",
       "source_url": "https://zhidx.com/p/529518.html",
-      "id": 54,
+      "id": 57,
       "track": "rss",
       "original_source": "智东西"
     },
@@ -682,7 +721,7 @@
       "original_language": "zh",
       "original_title": "文心5.0正式版发布，霸榜LMArena的“最强文科生”到底强在哪？",
       "source_url": "https://zhidx.com/p/530762.html",
-      "id": 55,
+      "id": 58,
       "track": "rss",
       "original_source": "智东西"
     },
@@ -695,7 +734,7 @@
       "original_language": "zh",
       "original_title": "OpenAI正式进军脑机接口，投了自家CEO阿尔特曼的新公司",
       "source_url": "https://zhidx.com/p/529327.html",
-      "id": 56,
+      "id": 59,
       "track": "rss",
       "original_source": "智东西"
     },
@@ -708,7 +747,7 @@
       "original_language": "zh",
       "original_title": "今天，阿里园区被AI点的奶茶包围了",
       "source_url": "https://zhidx.com/p/528993.html",
-      "id": 57,
+      "id": 60,
       "track": "rss",
       "original_source": "智东西"
     },
@@ -721,7 +760,7 @@
       "original_language": "zh",
       "original_title": "iQOO中端机用上豆包手机同款“AI操控”，搭第五代骁龙8旗舰芯，2399元起",
       "source_url": "https://zhidx.com/p/529205.html",
-      "id": 58,
+      "id": 61,
       "track": "rss",
       "original_source": "智东西"
     },
@@ -734,7 +773,7 @@
       "original_language": "zh",
       "original_title": "谷歌Gemini重磅升级，上线”苹果智能“同款功能，手机个人信息全能读",
       "source_url": "https://zhidx.com/p/529157.html",
-      "id": 59,
+      "id": 62,
       "track": "rss",
       "original_source": "智东西"
     },
@@ -747,7 +786,7 @@
       "original_language": "zh",
       "original_title": "ChatGPT发了个“谷歌翻译”，但我只觉得多余...",
       "source_url": "https://zhidx.com/p/529124.html",
-      "id": 60,
+      "id": 63,
       "track": "rss",
       "original_source": "智东西"
     },
@@ -760,7 +799,7 @@
       "original_language": "zh",
       "original_title": "联发科再发双芯，3nm天玑9500s来了，小米、vivo、OPPO首批发布",
       "source_url": "https://zhidx.com/p/529107.html",
-      "id": 61,
+      "id": 64,
       "track": "rss",
       "original_source": "智东西"
     },
@@ -773,7 +812,7 @@
       "original_language": "en",
       "original_title": "The AI healthcare gold rush is here",
       "source_url": "https://techcrunch.com/video/the-ai-healthcare-gold-rush-is-here/",
-      "id": 62
+      "id": 65
     },
     {
       "title": "OpenAI和Anthropic正在进军医疗保健领域，我们并不感到惊讶",
@@ -784,7 +823,7 @@
       "original_language": "en",
       "original_title": "OpenAI and Anthropic are making their play for healthcare, and we’re not surprised",
       "source_url": "https://techcrunch.com/podcast/openai-and-anthropic-are-making-their-play-for-healthcare-and-were-not-surprised/",
-      "id": 63
+      "id": 66
     },
     {
       "title": "ChatGPT 将很快开始展示广告，首先是购物链接",
@@ -795,7 +834,7 @@
       "original_language": "en",
       "original_title": "Ads are coming soon to ChatGPT, starting with shopping links",
       "source_url": "https://www.theverge.com/news/863428/openai-chatgpt-shopping-ads-test",
-      "id": 64
+      "id": 67
     },
     {
       "title": "OpenAI发布更便宜的ChatGPT订阅服务",
@@ -806,7 +845,7 @@
       "original_language": "en",
       "original_title": "OpenAI releases a cheaper ChatGPT subscription",
       "source_url": "https://www.theverge.com/news/863466/openai-chatgpt-go-global-release",
-      "id": 65
+      "id": 68
     },
     {
       "title": "我看到了零售的未来，那就是人工智能",
@@ -817,7 +856,7 @@
       "original_language": "en",
       "original_title": "I saw the future of retail, and it’s all AI",
       "source_url": "https://www.theverge.com/tech/863365/national-retail-federation-show-shopping-commerce-ai",
-      "id": 66
+      "id": 69
     },
     {
       "title": "Siri is a Gemini",
@@ -828,7 +867,7 @@
       "original_language": "en",
       "original_title": "Siri is a Gemini",
       "source_url": "https://www.theverge.com/podcast/863340/siri-is-a-gemini",
-      "id": 67
+      "id": 70
     },
     {
       "title": "埃隆·马斯克对OpenAI提起诉讼：我从这场诉讼中学到了什么",
@@ -839,7 +878,7 @@
       "original_language": "en",
       "original_title": "‘Sideshow’ concerns and billionaire dreams: What I learned from Elon Musk’s lawsuit against OpenAI",
       "source_url": "https://www.theverge.com/column/863319/highlights-musk-v-altman-openai",
-      "id": 68
+      "id": 71
     },
     {
       "title": "苹果在人工智能竞赛中失利——真正的挑战才刚刚开始",
@@ -850,7 +889,7 @@
       "original_language": "en",
       "original_title": "Apple lost the AI race — now the real challenge starts",
       "source_url": "https://www.theverge.com/tech/861957/google-apple-ai-deal-iphone-gemini",
-      "id": 69
+      "id": 72
     },
     {
       "title": "ChatGPT Go全球发布",
@@ -861,7 +900,7 @@
       "original_language": "en",
       "original_title": "Introducing ChatGPT Go, now available worldwide",
       "source_url": "https://openai.com/index/introducing-chatgpt-go",
-      "id": 70
+      "id": 73
     },
     {
       "title": "我们的广告策略和扩大ChatGPT访问权限的方法",
@@ -872,7 +911,7 @@
       "original_language": "en",
       "original_title": "Our approach to advertising and expanding access to ChatGPT",
       "source_url": "https://openai.com/index/our-approach-to-advertising-and-expanding-access",
-      "id": 71
+      "id": 74
     },
     {
       "title": "OpenAI投资Merge Labs以支持新的脑机接口",
@@ -883,7 +922,7 @@
       "original_language": "en",
       "original_title": "Investing in Merge Labs",
       "source_url": "https://openai.com/index/investing-in-merge-labs",
-      "id": 72
+      "id": 75
     },
     {
       "title": "通过国内制造加强美国人工智能供应链",
@@ -894,7 +933,7 @@
       "original_language": "en",
       "original_title": "Strengthening the U.S. AI supply chain through domestic manufacturing",
       "source_url": "https://openai.com/index/strengthening-the-us-ai-supply-chain",
-      "id": 73
+      "id": 76
     },
     {
       "title": "OpenAI与Cerebras合作，增加750MW的高速AI计算能力，降低推理延迟并使ChatGPT在实时AI工作负载中更快",
@@ -905,7 +944,7 @@
       "original_language": "en",
       "original_title": "OpenAI partners with Cerebras  ",
       "source_url": "https://openai.com/index/cerebras-partnership",
-      "id": 74
+      "id": 77
     },
     {
       "title": "Zenken通过ChatGPT Enterprise提升精简销售团队",
@@ -916,7 +955,7 @@
       "original_language": "en",
       "original_title": "Zenken boosts a lean sales team with ChatGPT Enterprise",
       "source_url": "https://openai.com/index/zenken",
-      "id": 75
+      "id": 78
     },
     {
       "title": "OpenAI与软银集团与SB Energy合作",
@@ -927,7 +966,7 @@
       "original_language": "en",
       "original_title": "OpenAI and SoftBank Group partner with SB Energy",
       "source_url": "https://openai.com/index/stargate-sb-energy-partnership",
-      "id": 76
+      "id": 79
     },
     {
       "title": "Datadog使用Codex进行系统级代码审查",
@@ -938,7 +977,7 @@
       "original_language": "en",
       "original_title": "Datadog uses Codex for system-level code review",
       "source_url": "https://openai.com/index/datadog",
-      "id": 77
+      "id": 80
     },
     {
       "title": "Netomi的企业级智能代理系统扩展经验",
@@ -949,7 +988,7 @@
       "original_language": "en",
       "original_title": "Netomi’s lessons for scaling agentic systems into the enterprise",
       "source_url": "https://openai.com/index/netomi",
-      "id": 78
+      "id": 81
     },
     {
       "title": "OpenAI for Healthcare",
@@ -960,7 +999,7 @@
       "original_language": "en",
       "original_title": "OpenAI for Healthcare",
       "source_url": "https://openai.com/index/openai-for-healthcare",
-      "id": 79
+      "id": 82
     },
     {
       "title": "如何使用GPT-5.1构建语音优先AI",
@@ -971,7 +1010,7 @@
       "original_language": "en",
       "original_title": "How Tolan builds voice-first AI with GPT-5.1",
       "source_url": "https://openai.com/index/tolan",
-      "id": 80
+      "id": 83
     },
     {
       "title": "介绍ChatGPT Health",
@@ -982,7 +1021,7 @@
       "original_language": "en",
       "original_title": "Introducing ChatGPT Health ",
       "source_url": "https://openai.com/index/introducing-chatgpt-health",
-      "id": 81
+      "id": 84
     },
     {
       "title": "宣布OpenAI Grove Cohort 2开放申请",
@@ -993,7 +1032,7 @@
       "original_language": "en",
       "original_title": "Announcing OpenAI Grove Cohort 2",
       "source_url": "https://openai.com/index/openai-grove",
-      "id": 82
+      "id": 85
     },
     {
       "title": "持续强化ChatGPT Atlas抵御提示注入攻击",
@@ -1004,7 +1043,7 @@
       "original_language": "en",
       "original_title": "Continuously hardening ChatGPT Atlas against prompt injection",
       "source_url": "https://openai.com/index/hardening-atlas-against-prompt-injection",
-      "id": 83
+      "id": 86
     },
     {
       "title": "庆祝塑造人工智能未来的百万客户",
@@ -1015,7 +1054,7 @@
       "original_language": "en",
       "original_title": "One in a million: celebrating the customers shaping AI’s future",
       "source_url": "https://openai.com/index/one-in-a-million-customers",
-      "id": 84
+      "id": 87
     },
     {
       "title": "评估思维链的可监控性",
@@ -1026,7 +1065,7 @@
       "original_language": "en",
       "original_title": "Evaluating chain-of-thought monitorability",
       "source_url": "https://openai.com/index/evaluating-chain-of-thought-monitorability",
-      "id": 85
+      "id": 88
     },
     {
       "title": "更新我们的模型规范以加入青少年保护措施",
@@ -1037,7 +1076,7 @@
       "original_language": "en",
       "original_title": "Updating our Model Spec with teen protections",
       "source_url": "https://openai.com/index/updating-model-spec-with-teen-protections",
-      "id": 86
+      "id": 89
     },
     {
       "title": "青少年和家长的人工智能素养资源",
@@ -1048,7 +1087,7 @@
       "original_language": "en",
       "original_title": "AI literacy resources for teens and parents",
       "source_url": "https://openai.com/index/ai-literacy-resources-for-teens-and-parents",
-      "id": 87
+      "id": 90
     },
     {
       "title": "深化与美国能源部的合作",
@@ -1059,7 +1098,7 @@
       "original_language": "en",
       "original_title": "Deepening our collaboration with the U.S. Department of Energy",
       "source_url": "https://openai.com/index/us-department-of-energy-collaboration",
-      "id": 88
+      "id": 91
     },
     {
       "title": "谷歌假日助手指南",
@@ -1070,7 +1109,7 @@
       "original_language": "en",
       "original_title": "The Google guide for holiday help",
       "source_url": "https://blog.google/innovation-and-ai/technology/ai/holiday-planning-ai-gemini-tips/",
-      "id": 89
+      "id": 92
     },
     {
       "title": "了解Gemini，我们最强大的AI模型",
@@ -1081,7 +1120,7 @@
       "original_language": "en",
       "original_title": "Learn more about Gemini, our most capable AI model",
       "source_url": "https://blog.google/innovation-and-ai/technology/ai/gemini-collection/",
-      "id": 90
+      "id": 93
     },
     {
       "title": "OpenAI安全研究负责人安德烈亚·瓦隆离职加入Anthropic",
@@ -1092,7 +1131,7 @@
       "original_language": "en",
       "original_title": "An OpenAI safety research lead departed for Anthropic",
       "source_url": "https://www.theverge.com/ai-artificial-intelligence/862402/openai-safety-lead-model-policy-departs-for-anthropic-alignment-andrea-vallone",
-      "id": 91
+      "id": 94
     },
     {
       "title": "介绍 GPT-5.2-Codex",
@@ -1103,7 +1142,7 @@
       "original_language": "en",
       "original_title": "Introducing GPT-5.2-Codex",
       "source_url": "https://openai.com/index/introducing-gpt-5-2-codex",
-      "id": 92
+      "id": 95
     },
     {
       "title": "全球内存短缺：RAM价格上涨的最新消息",
@@ -1114,7 +1153,7 @@
       "original_language": "en",
       "original_title": "RAM price hikes: the latest on the global memory shortage",
       "source_url": "https://www.theverge.com/news/839353/pc-ram-shortage-pricing-spike-news",
-      "id": 93
+      "id": 96
     },
     {
       "title": "GPT-5.2-Codex系统卡片的补充：GPT-5.2-Codex",
@@ -1125,7 +1164,7 @@
       "original_language": "en",
       "original_title": "Addendum to GPT-5.2 System Card: GPT-5.2-Codex",
       "source_url": "https://openai.com/index/gpt-5-2-codex-system-card",
-      "id": 94
+      "id": 97
     },
     {
       "title": "OpenAI的ChatGPT翻译器挑战谷歌翻译",
@@ -1136,7 +1175,7 @@
       "original_language": "en",
       "original_title": "OpenAI’s ChatGPT translator challenges Google Translate",
       "source_url": "https://www.theverge.com/news/862448/openai-chatgpt-translate-tool-launch-website",
-      "id": 95
+      "id": 98
     },
     {
       "title": "姚班传奇陈立杰入职OpenAI！16岁保送清华，30岁拿下UC伯克利助理教授",
@@ -1147,7 +1186,7 @@
       "original_language": "zh",
       "original_title": "姚班传奇陈立杰入职OpenAI！16岁保送清华，30岁拿下UC伯克利助理教授",
       "source_url": "https://www.qbitai.com/2026/01/369684.html",
-      "id": 96
+      "id": 99
     },
     {
       "title": "Gemini胜出",
@@ -1158,7 +1197,7 @@
       "original_language": "en",
       "original_title": "Gemini is winning",
       "source_url": "https://www.theverge.com/ai-artificial-intelligence/861863/google-gemini-ai-race-winner",
-      "id": 97
+      "id": 100
     },
     {
       "title": "腾讯云ADP国内首发AI原生Widget：一句话秒级生成交互组件，重塑Agent使用体验",
@@ -1169,7 +1208,7 @@
       "original_language": "zh",
       "original_title": "腾讯云ADP国内首发AI原生Widget：一句话秒级生成交互组件，重塑Agent使用体验",
       "source_url": "https://www.qbitai.com/2026/01/370069.html",
-      "id": 98,
+      "id": 101,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -1182,7 +1221,7 @@
       "original_language": "zh",
       "original_title": "支付宝携手千问App、淘宝闪购等发布中国首个AI商业协议ACT",
       "source_url": "https://www.qbitai.com/2026/01/369878.html",
-      "id": 99,
+      "id": 102,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -1195,7 +1234,7 @@
       "original_language": "zh",
       "original_title": "滴滴给我发了个赛博助理，专管出行的那种",
       "source_url": "https://www.qbitai.com/2026/01/369738.html",
-      "id": 100,
+      "id": 103,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -1208,7 +1247,7 @@
       "original_language": "zh",
       "original_title": "租了8张H100，他成功复现了DeepSeek的mHC，结果比官方报告更炸裂",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-19-8",
-      "id": 101,
+      "id": 104,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -1221,7 +1260,7 @@
       "original_language": "zh",
       "original_title": "ChatGPT强行上马广告，因为OpenAI真的很烧钱",
       "source_url": "https://www.qbitai.com/2026/01/370285.html",
-      "id": 102,
+      "id": 105,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -1234,7 +1273,7 @@
       "original_language": "zh",
       "original_title": "你的论文有novelty吗？复旦搞了个顶会论文查新系统",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-19-4",
-      "id": 103,
+      "id": 106,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -1247,7 +1286,7 @@
       "original_language": "zh",
       "original_title": "迄今为止最大的细胞级CRISPR基因扰动数据集，AI加速药物发现与多组学整合，布局未来精准医疗",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-19-5",
-      "id": 104,
+      "id": 107,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -1260,7 +1299,7 @@
       "original_language": "zh",
       "original_title": "最适合科研工作的模型是什么？Anthropic：斯坦福、MIT用Claude加速科研进程",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-19-9",
-      "id": 105,
+      "id": 108,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -1273,7 +1312,7 @@
       "original_language": "zh",
       "original_title": "机器人终于「懂」家务了！伯克利MomaGraph让机器人像人一样做家务",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-19-6",
-      "id": 106,
+      "id": 109,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -1286,7 +1325,7 @@
       "original_language": "en",
       "original_title": "ARC Prize 2025: Technical Report",
       "source_url": "https://arxiv.org/abs/2601.10904",
-      "id": 107,
+      "id": 110,
       "track": "rss",
       "original_source": "arXiv AI"
     },
@@ -1299,7 +1338,7 @@
       "original_language": "en",
       "original_title": "Optimisation of complex product innovation processes based on trend models with three-valued logic",
       "source_url": "https://arxiv.org/abs/2601.10768",
-      "id": 108,
+      "id": 111,
       "track": "rss",
       "original_source": "arXiv AI"
     },
@@ -1312,7 +1351,7 @@
       "original_language": "en",
       "original_title": "Explore with Long-term Memory: A Benchmark and Multimodal LLM-based Reinforcement Learning Framework for Embodied Exploration",
       "source_url": "https://arxiv.org/abs/2601.10744",
-      "id": 109,
+      "id": 112,
       "track": "rss",
       "original_source": "arXiv AI"
     },
@@ -1325,7 +1364,7 @@
       "original_language": "en",
       "original_title": "CTHA: Constrained Temporal Hierarchical Architecture for Stable Multi-Agent LLM Systems",
       "source_url": "https://arxiv.org/abs/2601.10738",
-      "id": 110,
+      "id": 113,
       "track": "rss",
       "original_source": "arXiv AI"
     },
@@ -1338,7 +1377,7 @@
       "original_language": "en",
       "original_title": "ORBITFLOW: SLO-Aware Long-Context LLM Serving with Fine-Grained KV Cache Reconfiguration",
       "source_url": "https://arxiv.org/abs/2601.10729",
-      "id": 111,
+      "id": 114,
       "track": "rss",
       "original_source": "arXiv AI"
     },
@@ -1351,7 +1390,7 @@
       "original_language": "en",
       "original_title": "Building AI Agents to Improve Job Referral Requests to Strangers",
       "source_url": "https://arxiv.org/abs/2601.10726",
-      "id": 112,
+      "id": 115,
       "track": "rss",
       "original_source": "arXiv AI"
     },
@@ -1364,7 +1403,7 @@
       "original_language": "en",
       "original_title": "Do You Trust Me? Cognitive-Affective Signatures of Trustworthiness in Large Language Models",
       "source_url": "https://arxiv.org/abs/2601.10719",
-      "id": 113,
+      "id": 116,
       "track": "rss",
       "original_source": "arXiv AI"
     },
@@ -1377,7 +1416,7 @@
       "original_language": "en",
       "original_title": "Japanese AI Agent System on Human Papillomavirus Vaccination: System Design",
       "source_url": "https://arxiv.org/abs/2601.10718",
-      "id": 114,
+      "id": 117,
       "track": "rss",
       "original_source": "arXiv AI"
     },
@@ -1390,7 +1429,7 @@
       "original_language": "zh",
       "original_title": "打造最低幻觉率医学AI助手 阿里健康上线“氢离子”",
       "source_url": "https://www.qbitai.com/2026/01/370192.html",
-      "id": 115,
+      "id": 118,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -1403,7 +1442,7 @@
       "original_language": "zh",
       "original_title": "李飞飞的World Labs联手光轮智能，具身智能进入评测驱动时代！",
       "source_url": "https://www.qbitai.com/2026/01/370217.html",
-      "id": 116,
+      "id": 119,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -1416,7 +1455,7 @@
       "original_language": "zh",
       "original_title": "CES 2026趋势照进现实：算力引擎RK182X重塑千行百业，瑞芯微AI生态大会共建落地生态",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-19-2",
-      "id": 117,
+      "id": 120,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -1429,7 +1468,7 @@
       "original_language": "zh",
       "original_title": "让机器人看视频学操作技能，清华等全新发布的CLAP框架做到了",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-19-3",
-      "id": 118,
+      "id": 121,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -1442,7 +1481,7 @@
       "original_language": "zh",
       "original_title": "效果、性能双突破，快手OneSug端到端生成式框架入选AAAI 2026",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-19",
-      "id": 119,
+      "id": 122,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -1455,7 +1494,7 @@
       "original_language": "zh",
       "original_title": "机器人终于能用明白洗碗机了｜UC伯克利新研究",
       "source_url": "https://www.qbitai.com/2026/01/370136.html",
-      "id": 120,
+      "id": 123,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -1468,7 +1507,7 @@
       "original_language": "zh",
       "original_title": "咖啡机变聪明后，我连咖啡都喝不上了",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-18-5",
-      "id": 121,
+      "id": 124,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -1481,7 +1520,7 @@
       "original_language": "zh",
       "original_title": "谷歌工程师抛出5个残酷问题：未来两年，软件工程还剩下什么？",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-18-3",
-      "id": 122,
+      "id": 125,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -1494,7 +1533,7 @@
       "original_language": "zh",
       "original_title": "AAAI 2026｜相聚新加坡，探讨AI时代最核心难题",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-18-4",
-      "id": 123,
+      "id": 126,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -1507,7 +1546,7 @@
       "original_language": "zh",
       "original_title": "红杉合伙人：2026，AGI已经来了",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-18-2",
-      "id": 124,
+      "id": 127,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -1520,7 +1559,7 @@
       "original_language": "zh",
       "original_title": "VerseCrafter：给视频世界模型装上4D方向盘，精准运镜控物",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-18",
-      "id": 125,
+      "id": 128,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -1533,7 +1572,7 @@
       "original_language": "zh",
       "original_title": "微软谷歌正在大力招「电工」",
       "source_url": "https://www.qbitai.com/2026/01/370026.html",
-      "id": 126,
+      "id": 129,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -1546,7 +1585,7 @@
       "original_language": "zh",
       "original_title": "真·开外挂！MIT新研究：架构0改动，让大模型解锁千万级上下文",
       "source_url": "https://www.qbitai.com/2026/01/370196.html",
-      "id": 127,
+      "id": 130,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -1559,7 +1598,7 @@
       "original_language": "zh",
       "original_title": "全球首个负载100斤的真实持续干活机器人，来自银河通用",
       "source_url": "https://www.qbitai.com/2026/01/370169.html",
-      "id": 128,
+      "id": 131,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -1572,7 +1611,7 @@
       "original_language": "zh",
       "original_title": "安克创新与飞书联合发布“安克 AI 录音豆” ,手指可握仅重10克",
       "source_url": "https://www.qbitai.com/2026/01/370245.html",
-      "id": 129,
+      "id": 132,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -1585,7 +1624,7 @@
       "original_language": "zh",
       "original_title": "哈工大系闯出人形机器人黑马：成立不到一年，全栈开源3m/s原型机，小米商汤都投了",
       "source_url": "https://www.qbitai.com/2026/01/370355.html",
-      "id": 130,
+      "id": 133,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -1598,7 +1637,7 @@
       "original_language": "zh",
       "original_title": "EmbodiChain开源，用100%生成式数据自动训练具身智能模型",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-20-8",
-      "id": 131,
+      "id": 134,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -1611,7 +1650,7 @@
       "original_language": "zh",
       "original_title": "一周对战2500万局，这些「AI假人」让人类游戏玩家破防了",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-20-7",
-      "id": 132,
+      "id": 135,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -1624,7 +1663,7 @@
       "original_language": "zh",
       "original_title": "豆包的新身份曝光：在国际艺术展当起了“AI讲解员”",
       "source_url": "https://www.qbitai.com/2026/01/370665.html",
-      "id": 133,
+      "id": 136,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -1637,7 +1676,7 @@
       "original_language": "zh",
       "original_title": "MiniMax把自家“实习生”放出来了！",
       "source_url": "https://www.qbitai.com/2026/01/370720.html",
-      "id": 134,
+      "id": 137,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -1650,7 +1689,7 @@
       "original_language": "zh",
       "original_title": "谷歌新发现：DeepSeek推理分裂出多重人格，左右脑互搏越来越聪明",
       "source_url": "https://www.qbitai.com/2026/01/370460.html",
-      "id": 135,
+      "id": 138,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -1663,7 +1702,7 @@
       "original_language": "zh",
       "original_title": "TPAMI | DC-SAM：打破SAM交互限制，基于循环一致性的图像与视频上下文分割方法",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-20-6",
-      "id": 136,
+      "id": 139,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -1676,7 +1715,7 @@
       "original_language": "zh",
       "original_title": "零样本&少样本横扫12个工业医疗数据集：西门子×腾讯优图新研究精准定位缺陷，检测精度新SOTA丨AAAI 2026",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-20-3",
-      "id": 137,
+      "id": 140,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -1689,7 +1728,7 @@
       "original_language": "zh",
       "original_title": "马斯克刚刚真把 𝕏 平台推荐算法给开源了，核心也是Transformer",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-20-13",
-      "id": 138,
+      "id": 141,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -1702,7 +1741,7 @@
       "original_language": "zh",
       "original_title": "当黄仁勋将存储定义为「AI运行内存」，基础设施该如何实现物种进化？",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-20-11",
-      "id": 139,
+      "id": 142,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -1715,7 +1754,7 @@
       "original_language": "zh",
       "original_title": "刚刚，MiniMax来承包你的桌面了",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-20-14",
-      "id": 140,
+      "id": 143,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -1728,7 +1767,7 @@
       "original_language": "en",
       "original_title": "Differential Transformer V2",
       "source_url": "https://huggingface.co/blog/microsoft/diff-attn-v2",
-      "id": 141,
+      "id": 144,
       "track": "rss",
       "original_source": "Hugging Face"
     },
@@ -1741,7 +1780,7 @@
       "original_language": "zh",
       "original_title": "从平面几何出发：形式化验证如何驱动MLLM的推理能力跃迁",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-20-10",
-      "id": 142,
+      "id": 145,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -1754,7 +1793,7 @@
       "original_language": "zh",
       "original_title": "“扣子”官宣2.0品牌升级：AI办公、AI创作全面更新，新增视频创作能力",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-20",
-      "id": 143,
+      "id": 146,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -1767,7 +1806,7 @@
       "original_language": "zh",
       "original_title": "智谱新模型也用DeepSeek的MLA，苹果M5就能跑",
       "source_url": "https://www.qbitai.com/2026/01/370652.html",
-      "id": 144,
+      "id": 147,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -1780,7 +1819,7 @@
       "original_language": "zh",
       "original_title": "首个真正“能用”的LLM游戏Agent诞生！可实时高频决策，思维链还全程可见",
       "source_url": "https://www.qbitai.com/2026/01/370494.html",
-      "id": 145,
+      "id": 148,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -1793,7 +1832,7 @@
       "original_language": "zh",
       "original_title": "钉钉上线AI差旅：企业免垫资，员工免报销，AI帮比价",
       "source_url": "https://www.qbitai.com/2026/01/370463.html",
-      "id": 146,
+      "id": 149,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -1806,7 +1845,7 @@
       "original_language": "zh",
       "original_title": "中国团队首次在Nature子刊发布医疗AI标准，未来医生MedGPT摘得全球桂冠",
       "source_url": "https://www.qbitai.com/2026/01/370734.html",
-      "id": 147,
+      "id": 150,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -1819,7 +1858,7 @@
       "original_language": "zh",
       "original_title": "45年数论猜想被GPT-5.2 Pro独立完成证明，陶哲轩：没犯任何错误",
       "source_url": "https://www.qbitai.com/2026/01/370328.html",
-      "id": 148,
+      "id": 151,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -1832,7 +1871,7 @@
       "original_language": "zh",
       "original_title": "WAIC首次“南下”：沪港握手2026“WAIC UP!全球年终盛会”，共揭AI对话新篇",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-20-2",
-      "id": 149,
+      "id": 152,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -1845,7 +1884,7 @@
       "original_language": "zh",
       "original_title": "20天估值暴涨34亿！北京AI独角兽曝新融资",
       "source_url": "https://zhidx.com/p/529662.html",
-      "id": 150,
+      "id": 153,
       "track": "rss",
       "original_source": "智东西"
     },
@@ -1858,7 +1897,7 @@
       "original_language": "zh",
       "original_title": "4个月估值翻倍，AI语音独角兽冲击760亿市值",
       "source_url": "https://zhidx.com/p/529441.html",
-      "id": 151,
+      "id": 154,
       "track": "rss",
       "original_source": "智东西"
     },
@@ -1871,7 +1910,7 @@
       "original_language": "zh",
       "original_title": "超2亿！阿里蚂蚁联手投了一款“能给你点奶茶的AI 3D男友”",
       "source_url": "https://zhidx.com/p/529683.html",
-      "id": 152,
+      "id": 155,
       "track": "rss",
       "original_source": "智东西"
     },
@@ -1884,7 +1923,7 @@
       "original_language": "zh",
       "original_title": "第二家2万亿AI独角兽即将诞生！微软英伟达红杉押注",
       "source_url": "https://zhidx.com/p/529430.html",
-      "id": 153,
+      "id": 156,
       "track": "rss",
       "original_source": "智东西"
     },
@@ -1897,7 +1936,7 @@
       "original_language": "zh",
       "original_title": "海信发布RGB-Mini LED旗舰电视！全自研RGB真彩背光，9999元起",
       "source_url": "https://zhidx.com/p/529554.html",
-      "id": 154,
+      "id": 157,
       "track": "rss",
       "original_source": "智东西"
     },
@@ -1910,7 +1949,7 @@
       "original_language": "zh",
       "original_title": "核心成员都跑了，OpenAI前CTO办的公司，要被OpenAI“挖”空了",
       "source_url": "https://zhidx.com/p/529671.html",
-      "id": 155,
+      "id": 158,
       "track": "rss",
       "original_source": "智东西"
     },
@@ -1923,7 +1962,7 @@
       "original_language": "zh",
       "original_title": "33亿！“AI版微信”拿下天价种子轮，黄仁勋投了",
       "source_url": "https://zhidx.com/p/529858.html",
-      "id": 156,
+      "id": 159,
       "track": "rss",
       "original_source": "智东西"
     },
@@ -1936,7 +1975,7 @@
       "original_language": "zh",
       "original_title": "代码泄密！DeepSeek下一代“王炸”模型架构曝光",
       "source_url": "https://zhidx.com/p/529874.html",
-      "id": 157,
+      "id": 160,
       "track": "rss",
       "original_source": "智东西"
     },
@@ -1949,7 +1988,7 @@
       "original_language": "zh",
       "original_title": "开源新王炸！10B多模态小模型屠榜，性能媲美20倍巨无霸",
       "source_url": "https://zhidx.com/p/529821.html",
-      "id": 158,
+      "id": 161,
       "track": "rss",
       "original_source": "智东西"
     },
@@ -1962,7 +2001,7 @@
       "original_language": "zh",
       "original_title": "完全免费！国产3B激活参数碾压20B对手，编码创作全自动",
       "source_url": "https://zhidx.com/p/529666.html",
-      "id": 159,
+      "id": 162,
       "track": "rss",
       "original_source": "智东西"
     },
@@ -1975,7 +2014,7 @@
       "original_language": "unknown",
       "original_title": "裁员50%后，他靠AI编程大逆袭！ARR破亿，估值直冲600亿",
       "source_url": "https://zhidx.com/p/529226.html",
-      "id": 160,
+      "id": 163,
       "track": "rss",
       "original_source": "智东西"
     },
@@ -1988,7 +2027,7 @@
       "original_language": "zh",
       "original_title": "或达3000万副！Meta猛增AI眼镜产能，苹果入局小扎有点怕？",
       "source_url": "https://zhidx.com/p/529070.html",
-      "id": 161,
+      "id": 164,
       "track": "rss",
       "original_source": "智东西"
     },
@@ -2001,7 +2040,7 @@
       "original_language": "en",
       "original_title": "Introducing OptiMind, a research model designed for optimization",
       "source_url": "https://huggingface.co/blog/microsoft/optimind",
-      "id": 162,
+      "id": 165,
       "track": "rss",
       "original_source": "Hugging Face"
     },
@@ -2014,7 +2053,7 @@
       "original_language": "en",
       "original_title": "Open Responses: What you need to know",
       "source_url": "https://huggingface.co/blog/open-responses",
-      "id": 163,
+      "id": 166,
       "track": "rss",
       "original_source": "Hugging Face"
     },
@@ -2027,7 +2066,7 @@
       "original_language": "en",
       "original_title": "NVIDIA Cosmos Reason 2 Brings Advanced Reasoning To Physical AI",
       "source_url": "https://huggingface.co/blog/nvidia/nvidia-cosmos-reason-2-brings-advanced-reasoning",
-      "id": 164,
+      "id": 167,
       "track": "rss",
       "original_source": "Hugging Face"
     },
@@ -2040,7 +2079,7 @@
       "original_language": "en",
       "original_title": "Introducing Falcon-H1-Arabic: Pushing the Boundaries of Arabic Language AI with Hybrid Architecture",
       "source_url": "https://huggingface.co/blog/tiiuae/falcon-h1-arabic",
-      "id": 165,
+      "id": 168,
       "track": "rss",
       "original_source": "Hugging Face"
     },
@@ -2053,7 +2092,7 @@
       "original_language": "en",
       "original_title": "NVIDIA brings agents to life with DGX Spark and Reachy Mini",
       "source_url": "https://huggingface.co/blog/nvidia-reachy-mini",
-      "id": 166,
+      "id": 169,
       "track": "rss",
       "original_source": "Hugging Face"
     },
@@ -2066,7 +2105,7 @@
       "original_language": "en",
       "original_title": "AprielGuard: A Guardrail for Safety and Adversarial Robustness in Modern LLM Systems",
       "source_url": "https://huggingface.co/blog/ServiceNow-AI/aprielguard",
-      "id": 167,
+      "id": 170,
       "track": "rss",
       "original_source": "Hugging Face"
     },
@@ -2079,7 +2118,7 @@
       "original_language": "en",
       "original_title": "Tokenization in Transformers v5: Simpler, Clearer, and More Modular",
       "source_url": "https://huggingface.co/blog/tokenizers",
-      "id": 168,
+      "id": 171,
       "track": "rss",
       "original_source": "Hugging Face"
     },
@@ -2092,7 +2131,7 @@
       "original_language": "en",
       "original_title": "The Open Evaluation Standard: Benchmarking NVIDIA Nemotron 3 Nano with NeMo Evaluator",
       "source_url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-evaluation-recipe",
-      "id": 169,
+      "id": 172,
       "track": "rss",
       "original_source": "Hugging Face"
     },
@@ -2105,7 +2144,7 @@
       "original_language": "unknown",
       "original_title": "拒绝DeepSeek的清华学霸，如何拿捏OpenAI的最新大模型？",
       "source_url": "https://zhidx.com/p/529808.html",
-      "id": 170,
+      "id": 173,
       "track": "rss",
       "original_source": "智东西"
     },
@@ -2118,7 +2157,7 @@
       "original_language": "unknown",
       "original_title": "A Mind Cannot Be Smeared Across Time",
       "source_url": "https://arxiv.org/abs/2601.11620",
-      "id": 171,
+      "id": 174,
       "track": "rss",
       "original_source": "arXiv AI"
     },
@@ -2131,7 +2170,7 @@
       "original_language": "en",
       "original_title": "A self-evolving multi-role collaborative framework with fine-grained difficulty guidance for innovative mathematical problem generation",
       "source_url": "https://arxiv.org/abs/2601.11792",
-      "id": 172,
+      "id": 175,
       "track": "rss",
       "original_source": "arXiv AI"
     },
@@ -2144,7 +2183,7 @@
       "original_language": "zh",
       "original_title": "非Transformer架构的新突破，液态神经网络的推理小模型只用900M内存",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-21-7",
-      "id": 173,
+      "id": 176,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -2157,7 +2196,7 @@
       "original_language": "zh",
       "original_title": "后视镜都不要了！特斯拉Robotaxi路测被拍，新增摄像头清洁装置",
       "source_url": "https://www.qbitai.com/2026/01/370859.html",
-      "id": 174,
+      "id": 177,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -2170,7 +2209,7 @@
       "original_language": "en",
       "original_title": "AssetOpsBench: Bridging the Gap Between AI Agent Benchmarks and Industrial Reality",
       "source_url": "https://huggingface.co/blog/ibm-research/assetopsbench-playground-on-hugging-face",
-      "id": 175,
+      "id": 178,
       "track": "rss",
       "original_source": "Hugging Face"
     },
@@ -2183,7 +2222,7 @@
       "original_language": "zh",
       "original_title": "AI5芯片搞定，马斯克的纯自研超算Dojo 3又回来了",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-21-3",
-      "id": 176,
+      "id": 179,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -2196,7 +2235,7 @@
       "original_language": "zh",
       "original_title": "AI for Science开年新突破：中科大实现多尺度结构逆向设计128倍加速，登上Nature子刊",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-21-6",
-      "id": 177,
+      "id": 180,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -2209,7 +2248,7 @@
       "original_language": "zh",
       "original_title": "告别「手动画框」！Medical SAM3：首个真正「纯文本提示」驱动的医学全能分割模型",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-21-5",
-      "id": 178,
+      "id": 181,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -2222,7 +2261,7 @@
       "original_language": "zh",
       "original_title": "马斯克罕见低头：开源𝕏推荐算法，自嘲“很烂”不过未来月更",
       "source_url": "https://www.qbitai.com/2026/01/370760.html",
-      "id": 179,
+      "id": 182,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -2235,7 +2274,7 @@
       "original_language": "zh",
       "original_title": "xAI工程师播客聊太嗨，马斯克解雇了他",
       "source_url": "https://www.qbitai.com/2026/01/371158.html",
-      "id": 180,
+      "id": 183,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -2248,7 +2287,7 @@
       "original_language": "zh",
       "original_title": "突发！xAI联创杨格过劳病离职，给马斯克干活压力山大",
       "source_url": "https://www.qbitai.com/2026/01/370985.html",
-      "id": 181,
+      "id": 184,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -2261,7 +2300,7 @@
       "original_language": "zh",
       "original_title": "2026年OpenAI最看好的3个方向",
       "source_url": "https://www.qbitai.com/2026/01/370936.html",
-      "id": 182,
+      "id": 185,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -2274,7 +2313,7 @@
       "original_language": "zh",
       "original_title": "微软打包收购OpenAI？就差一点！",
       "source_url": "https://www.qbitai.com/2026/01/370907.html",
-      "id": 183,
+      "id": 186,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -2287,7 +2326,7 @@
       "original_language": "zh",
       "original_title": "金山云星流全面升级，以智算穿越云上AI新周期",
       "source_url": "https://www.qbitai.com/2026/01/371527.html",
-      "id": 184,
+      "id": 187,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -2300,7 +2339,7 @@
       "original_language": "zh",
       "original_title": "腾讯重仓的AI芯片公司要上市了！燧原科技IPO获受理，拟募资60亿",
       "source_url": "https://www.qbitai.com/2026/01/371924.html",
-      "id": 185,
+      "id": 188,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -2313,7 +2352,7 @@
       "original_language": "en",
       "original_title": "LeCun创业0产品估值247亿，回应谢赛宁入伙",
       "source_url": "https://www.qbitai.com/2026/01/371949.html",
-      "id": 186,
+      "id": 189,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -2326,7 +2365,7 @@
       "original_language": "zh",
       "original_title": "Nature子刊｜上智院、复旦、无限光年发布MAPLE框架，破解甲基化衰老与疾病风险预测的泛化难题",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-23-5",
-      "id": 187,
+      "id": 190,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -2339,7 +2378,7 @@
       "original_language": "zh",
       "original_title": "陈天奇、贾扬清点赞：Vibe Coding版PyTorch，连论文都是AI写的",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-23-9",
-      "id": 188,
+      "id": 191,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -2352,7 +2391,7 @@
       "original_language": "zh",
       "original_title": "思维链太长拖慢推理？把它「画」进隐空间！新框架RoT探索大模型隐空间推理新范式",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-23-8",
-      "id": 189,
+      "id": 192,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -2365,7 +2404,7 @@
       "original_language": "zh",
       "original_title": "三星爆火递归模型TRM唯一作者被迫离职，内部不认可？",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-23-6",
-      "id": 190,
+      "id": 193,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -2378,7 +2417,7 @@
       "original_language": "zh",
       "original_title": "百万围观、HuggingFace多模态登顶，华人团队开源语音版「DeepSeek」海外爆火",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-23-4",
-      "id": 191,
+      "id": 194,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -2391,7 +2430,7 @@
       "original_language": "zh",
       "original_title": "OpenAI：以后大家用AI赚的钱，我可能要抽成",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-23-10",
-      "id": 192,
+      "id": 195,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -2404,7 +2443,7 @@
       "original_language": "zh",
       "original_title": "启动经费550万起！全球顶级AI人才看过来",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-23-7",
-      "id": 193,
+      "id": 196,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -2417,7 +2456,7 @@
       "original_language": "zh",
       "original_title": "刚刚， 2025 ACM Fellow公布！陈宝权、贾佳亚、梅涛、朱军等多位华人入选",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-22-2",
-      "id": 194,
+      "id": 197,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -2430,7 +2469,7 @@
       "original_language": "en",
       "original_title": "MAS-Orchestra: Understanding and Improving Multi-Agent Reasoning Through Holistic Orchestration and Controlled Benchmarks",
       "source_url": "https://arxiv.org/abs/2601.14652",
-      "id": 195,
+      "id": 198,
       "track": "rss",
       "original_source": "arXiv AI"
     },
@@ -2443,7 +2482,7 @@
       "original_language": "en",
       "original_title": "Large Language Model-Powered Evolutionary Code Optimization on a Phylogenetic Tree",
       "source_url": "https://arxiv.org/abs/2601.14523",
-      "id": 196,
+      "id": 199,
       "track": "rss",
       "original_source": "arXiv AI"
     },
@@ -2456,7 +2495,7 @@
       "original_language": "en",
       "original_title": "\"Just in Time\" World Modeling Supports Human Planning and Reasoning",
       "source_url": "https://arxiv.org/abs/2601.14514",
-      "id": 197,
+      "id": 200,
       "track": "rss",
       "original_source": "arXiv AI"
     },
@@ -2469,7 +2508,7 @@
       "original_language": "en",
       "original_title": "Scalable Knee-Point Guided Activity Group Selection in Multi-Tree Genetic Programming for Dynamic Multi-Mode Project Scheduling",
       "source_url": "https://arxiv.org/abs/2601.14485",
-      "id": 198,
+      "id": 201,
       "track": "rss",
       "original_source": "arXiv AI"
     },
@@ -2482,7 +2521,7 @@
       "original_language": "en",
       "original_title": "On the Generalization Gap in LLM Planning: Tests and Verifier-Reward RL",
       "source_url": "https://arxiv.org/abs/2601.14456",
-      "id": 199,
+      "id": 202,
       "track": "rss",
       "original_source": "arXiv AI"
     },
@@ -2495,7 +2534,7 @@
       "original_language": "en",
       "original_title": "VisTIRA: Closing the Image-Text Modality Gap in Visual Math Reasoning via Structured Tool Integration",
       "source_url": "https://arxiv.org/abs/2601.14440",
-      "id": 200,
+      "id": 203,
       "track": "rss",
       "original_source": "arXiv AI"
     },
@@ -2508,7 +2547,7 @@
       "original_language": "en",
       "original_title": "Epistemic Constitutionalism Or: how to avoid coherence bias",
       "source_url": "https://arxiv.org/abs/2601.14295",
-      "id": 201,
+      "id": 204,
       "track": "rss",
       "original_source": "arXiv AI"
     },
@@ -2521,7 +2560,7 @@
       "original_language": "en",
       "original_title": "The Ontological Neutrality Theorem: Why Neutral Ontological Substrates Must Be Pre-Causal and Pre-Normative",
       "source_url": "https://arxiv.org/abs/2601.14271",
-      "id": 202,
+      "id": 205,
       "track": "rss",
       "original_source": "arXiv AI"
     },
@@ -2534,7 +2573,7 @@
       "original_language": "zh",
       "original_title": "第一梯队的大模型安全吗？复旦、上海创智学院等发布前沿大模型安全报告，覆盖六大领先模型",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-22-3",
-      "id": 203,
+      "id": 206,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -2547,7 +2586,7 @@
       "original_language": "zh",
       "original_title": "第二届CVPR 2026 CV4CHL Workshop征稿启动，用AI大模型守护儿童未来",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-22",
-      "id": 204,
+      "id": 207,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -2560,7 +2599,7 @@
       "original_language": "zh",
       "original_title": "拒绝成为落后的开发者：用TRAE Skills构建你的10倍效能工具箱",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-22-4",
-      "id": 205,
+      "id": 208,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -2573,7 +2612,7 @@
       "original_language": "zh",
       "original_title": "具身启元，智创未来——上海国际具身智能产业博览会新闻发布会在京隆重召开",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-23-3",
-      "id": 206,
+      "id": 209,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -2586,7 +2625,7 @@
       "original_language": "zh",
       "original_title": "Mobileye势头强劲，2025财年全年营收同比增长15%",
       "source_url": "https://www.qbitai.com/2026/01/371922.html",
-      "id": 207,
+      "id": 210,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -2599,7 +2638,7 @@
       "original_language": "zh",
       "original_title": "2025最强AI产品一文看尽丨量子位智库年度AI 100",
       "source_url": "https://www.qbitai.com/2026/01/371559.html",
-      "id": 208,
+      "id": 211,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -2612,7 +2651,7 @@
       "original_language": "zh",
       "original_title": "成立两年半登顶全球AI创作社区，背后是中国团队在“卖情绪”？？",
       "source_url": "https://www.qbitai.com/2026/01/371570.html",
-      "id": 209,
+      "id": 212,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -2625,7 +2664,7 @@
       "original_language": "zh",
       "original_title": "昇腾云客户2663家，华为云稳居最大国产AI云服务提供商",
       "source_url": "https://www.qbitai.com/2026/01/371533.html",
-      "id": 210,
+      "id": 213,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -2638,7 +2677,7 @@
       "original_language": "zh",
       "original_title": "把医疗AI禁锢在严肃区间：百川M3 Plus首创“证据锚定”，幻觉率2.6%刷新全球纪录",
       "source_url": "https://www.qbitai.com/2026/01/372099.html",
-      "id": 211,
+      "id": 214,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -2651,7 +2690,7 @@
       "original_language": "zh",
       "original_title": "Meta开年猛投算力，小扎亲征筹建数十GW",
       "source_url": "https://www.qbitai.com/2026/01/372282.html",
-      "id": 212,
+      "id": 215,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -2664,7 +2703,7 @@
       "original_language": "zh",
       "original_title": "4600万AI大单！火山引擎中",
       "source_url": "https://zhidx.com/p/530514.html",
-      "id": 213,
+      "id": 216,
       "track": "rss",
       "original_source": "智东西"
     },
@@ -2677,7 +2716,7 @@
       "original_language": "zh",
       "original_title": "阿里投的语音AI“小巨人”重启IPO！创业14年未脱亏损",
       "source_url": "https://zhidx.com/p/530518.html",
-      "id": 214,
+      "id": 217,
       "track": "rss",
       "original_source": "智东西"
     },
@@ -2690,7 +2729,7 @@
       "original_language": "zh",
       "original_title": "马斯克发文送别，xAI华人联创、Grok主架构师杨格因病退出",
       "source_url": "https://zhidx.com/p/529993.html",
-      "id": 215,
+      "id": 218,
       "track": "rss",
       "original_source": "智东西"
     },
@@ -2703,7 +2742,7 @@
       "original_language": "zh",
       "original_title": "超10亿！AI Infra开年最大种子轮诞生，清华特奖得主任首席科学家",
       "source_url": "https://zhidx.com/p/530664.html",
-      "id": 216,
+      "id": 219,
       "track": "rss",
       "original_source": "智东西"
     },
@@ -2716,7 +2755,7 @@
       "original_language": "zh",
       "original_title": "融资5.6亿的AI语音新星被谷歌盯上，核心团队入职DeepMind",
       "source_url": "https://zhidx.com/p/530565.html",
-      "id": 217,
+      "id": 220,
       "track": "rss",
       "original_source": "智东西"
     },
@@ -2729,7 +2768,7 @@
       "original_language": "zh",
       "original_title": "在OpenAI“创新已经变得困难”！离职高管深喉爆料",
       "source_url": "https://zhidx.com/p/530492.html",
-      "id": 218,
+      "id": 221,
       "track": "rss",
       "original_source": "智东西"
     },
@@ -2742,7 +2781,7 @@
       "original_language": "zh",
       "original_title": "黄仁勋一句话，全球芯片股集体涨停",
       "source_url": "https://zhidx.com/p/530684.html",
-      "id": 219,
+      "id": 222,
       "track": "rss",
       "original_source": "智东西"
     },
@@ -2755,7 +2794,7 @@
       "original_language": "zh",
       "original_title": "这款爆火CES的中国AI眼镜，为什么长得跟别人都不一样？",
       "source_url": "https://zhidx.com/p/530545.html",
-      "id": 220,
+      "id": 223,
       "track": "rss",
       "original_source": "智东西"
     },
@@ -2768,7 +2807,7 @@
       "original_language": "zh",
       "original_title": "真我realme回归OPPO后的首款新机：全球首发三星新屏幕，还把PC掌机饭碗抢了",
       "source_url": "https://zhidx.com/p/530410.html",
-      "id": 221,
+      "id": 224,
       "track": "rss",
       "original_source": "智东西"
     },
@@ -2781,7 +2820,7 @@
       "original_language": "zh",
       "original_title": "微软CEO纳德拉：AI别只让大厂赚钱，不然早晚玩完",
       "source_url": "https://zhidx.com/p/530294.html",
-      "id": 222,
+      "id": 225,
       "track": "rss",
       "original_source": "智东西"
     },
@@ -2794,7 +2833,7 @@
       "original_language": "unknown",
       "original_title": "华人AI创企ARR破亿！从挖矿转卖AI算力，连OpenAI都下单了",
       "source_url": "https://zhidx.com/p/529484.html",
-      "id": 223,
+      "id": 226,
       "track": "rss",
       "original_source": "智东西"
     },
@@ -2807,7 +2846,7 @@
       "original_language": "unknown",
       "original_title": "开盘涨超12%！全球最大手机ODM龙头上市，小米三星是客户",
       "source_url": "https://zhidx.com/p/529942.html",
-      "id": 224,
+      "id": 227,
       "track": "rss",
       "original_source": "智东西"
     },
@@ -2820,7 +2859,7 @@
       "original_language": "unknown",
       "original_title": "SaaS旧王陨落，RaaS新王加冕，企业软件的下一场范式更替",
       "source_url": "https://zhidx.com/p/529755.html",
-      "id": 225,
+      "id": 228,
       "track": "rss",
       "original_source": "智东西"
     },
@@ -2833,7 +2872,7 @@
       "original_language": "unknown",
       "original_title": "华为登顶，吃了谁的蛋糕？",
       "source_url": "https://zhidx.com/p/530120.html",
-      "id": 226,
+      "id": 229,
       "track": "rss",
       "original_source": "智东西"
     }
