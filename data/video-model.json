@@ -1,7 +1,7 @@
 {
   "category": "视频模型动态",
-  "last_update": "2026-01-26 17:52:33 (北京时间)",
-  "total_count": 141,
+  "last_update": "2026-01-26 22:00:03 (北京时间)",
+  "total_count": 147,
   "news": [
     {
       "title": "腾讯发力社交AI赛道，元宝开启“元宝派”内测",
@@ -1638,6 +1638,84 @@
       "original_source": "量子位"
     },
     {
+      "title": "复旦中山医院联合阿里达摩院用AI检测喉癌、下咽癌转移，准确性远超人类专家",
+      "summary": "复旦中山医院与阿里达摩院合作，利用人工智能技术进行喉癌和下咽癌转移的检测。相关研究成果已发表在国际顶级医学影像杂志《放射学》（Radiology）上。该技术检测的准确性远超人类专家，为癌症的早期诊断和治疗提供了新的可能性。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-26 21:42:04",
+      "original_language": "zh",
+      "original_title": "复旦中山医院联合阿里达摩院用AI检测喉癌、下咽癌转移，准确性远超人类专家",
+      "source_url": "https://www.qbitai.com/2026/01/372685.html",
+      "id": 127,
+      "track": "rss",
+      "original_source": "量子位"
+    },
+    {
+      "title": "香港科学园独家战略合作“WAIC UP!全球年终盛会”，携手开启AI全球协作新篇章",
+      "summary": "在香港，AI正在走向世界。香港科学园与“WAIC UP!全球年终盛会”达成独家战略合作，共同开启AI全球协作新篇章。此次合作旨在推动人工智能技术的发展和应用，促进全球AI领域的交流与合作。香港科学园作为香港科技创新的重要基地，一直致力于为企业和创业者提供优质的服务和支持。此次合作将有助于香港科学园在全球AI领域发挥更大的影响力。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-26 21:41:58",
+      "original_language": "zh",
+      "original_title": "香港科学园独家战略合作“WAIC UP!全球年终盛会”，携手开启AI全球协作新篇章",
+      "source_url": "https://www.qbitai.com/2026/01/372700.html",
+      "id": 128,
+      "track": "rss",
+      "original_source": "量子位"
+    },
+    {
+      "title": "周鸿祎剧透360将发布“短剧智能体” 用户输入剧本即可生成漫剧大片",
+      "summary": "周鸿祎在近日的一次公开活动中透露，360公司即将发布一款名为“短剧智能体”的产品。这款产品允许用户输入剧本，然后自动生成高质量的漫剧大片。他预测，2026年将迎来“百亿智能体”时代，人工智能将在各个领域发挥越来越重要的作用。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "null",
+      "original_language": "zh",
+      "original_title": "周鸿祎剧透360将发布“短剧智能体” 用户输入剧本即可生成漫剧大片",
+      "source_url": "https://www.qbitai.com/2026/01/372680.html",
+      "id": 129,
+      "track": "rss",
+      "original_source": "量子位"
+    },
+    {
+      "title": "如果你使用谷歌AI来查询症状，要知道它引用了YouTube很多",
+      "summary": "一项对50,807次德国健康搜索的研究发现，谷歌AI概述引用YouTube的次数超过任何其他网站。AI还抽取了超出顶级结果之外的链接，因此快速症状答案可能会依赖于较低标准的来源。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-26 21:44:00",
+      "original_language": "en",
+      "original_title": "If you use Google AI for symptoms, know it cites YouTube a lot",
+      "source_url": "https://www.digitaltrends.com/computing/if-you-use-google-ai-for-symptoms-know-it-cites-youtube-a-lot/",
+      "id": 130,
+      "track": "rss",
+      "original_source": "Digital Trends"
+    },
+    {
+      "title": "这款18克VR触觉戒指让你的手指感受虚拟物体",
+      "summary": "一款名为OriRing的折纸风格VR触觉戒指重18克，可以提供高达6.5N的反推力。它能够感知按压和滑动力量，以呈现大小和刚度，但目前仍处于原型阶段。\n\n原文链接：[This 18-gram haptic ring for VR lets your finger feel virtual objects](https://www.digitaltrends.com/wearables/this-18-gram-haptic-ring-for-vr-lets-your-finger-feel-virtual-objects/)",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-26 21:43:55",
+      "original_language": "en",
+      "original_title": "This 18-gram haptic ring for VR lets your finger feel virtual objects",
+      "source_url": "https://www.digitaltrends.com/wearables/this-18-gram-haptic-ring-for-vr-lets-your-finger-feel-virtual-objects/",
+      "id": 131,
+      "track": "rss",
+      "original_source": "Digital Trends"
+    },
+    {
+      "title": "您的iPhone的Siri升级可能与iOS 26.4有关",
+      "summary": "苹果公司计划在2月底演示重新构建的Siri，这将在下个月的iOS 26.4测试版之前。这次升级依赖于Gemini，在私有云计算上运行，并计划在春季推出。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-26 21:43:43",
+      "original_language": "en",
+      "original_title": "Your iPhone’s Siri upgrade may be tied to iOS 26.4",
+      "source_url": "https://www.digitaltrends.com/computing/your-iphones-siri-upgrade-may-be-tied-to-ios-26-4/",
+      "id": 132,
+      "track": "rss",
+      "original_source": "Digital Trends"
+    },
+    {
       "title": "重检心理：Claritycheck对数字信任的看法",
       "summary": "ClarityCheck是一个数字安全平台和在线验证工具，帮助人们在数字领域中主动了解谁值得信任。人们越来越多地被要求信任那些联系他们进行配送、工作机会、约会等的人，而这些人的说法往往缺乏大量信息支持。通过验证确切是谁在联系他们，ClarityCheck帮助人们建立对数字世界的信任。该平台旨在解决数字时代信任危机的问题，通过提供详细的个人和公司信息，帮助用户做出更明智的决策。文章指出，随着在线活动的增加，人们对数字信任的需求也在增长，而ClarityCheck正是为了满足这一需求而设计的。文章还讨论了人们在面对不确定性和不信任时的心理反应，以及如何通过验证和透明度来增强信任感。",
       "is_legal": true,
@@ -1646,7 +1724,7 @@
       "original_language": "en",
       "original_title": "The psychology of the re-check: What Claritycheck says about digital trust",
       "source_url": "https://www.digitaltrends.com/contributor-content/the-psychology-of-the-re-check-what-claritycheck-says-about-digital-trust/",
-      "id": 127,
+      "id": 133,
       "track": "rss",
       "original_source": "Digital Trends"
     },
@@ -1659,7 +1737,7 @@
       "original_language": "en",
       "original_title": "Joobie: Your interactive, trendy AI companion for every moment",
       "source_url": "https://www.digitaltrends.com/contributor-content/joobie-your-interactive-trendy-ai-companion-for-every-moment/",
-      "id": 128,
+      "id": 134,
       "track": "rss",
       "original_source": "Digital Trends"
     },
@@ -1672,7 +1750,7 @@
       "original_language": "zh",
       "original_title": "让 Mac mini 一夜爆单的 Clawdbot，就是苹果 AI Siri 眼中的自己",
       "source_url": "https://www.ifanr.com/1652952?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "id": 129,
+      "id": 135,
       "track": "rss",
       "original_source": "爱范儿"
     },
@@ -1685,7 +1763,7 @@
       "original_language": "zh",
       "original_title": "“DeepSeek-V3基于我们的架构打造”，欧版OpenAI CEO逆天发言被喷了",
       "source_url": "https://www.qbitai.com/2026/01/372555.html",
-      "id": 130,
+      "id": 136,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -1698,7 +1776,7 @@
       "original_language": "en",
       "original_title": "Your WhatsApp voice notes could help screen for early signs of depression",
       "source_url": "https://www.digitaltrends.com/cool-tech/your-whatsapp-voice-notes-could-help-screen-for-early-signs-of-depression/",
-      "id": 131,
+      "id": 137,
       "track": "rss",
       "original_source": "Digital Trends"
     },
@@ -1711,7 +1789,7 @@
       "original_language": "zh",
       "original_title": "达沃斯聚焦技术新前沿，梅卡曼德创始人邵天兰受邀分享具身智能落地实践",
       "source_url": "https://www.qbitai.com/2026/01/372351.html",
-      "id": 132,
+      "id": 138,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -1724,7 +1802,7 @@
       "original_language": "zh",
       "original_title": "早报｜华强北给iPhone Air「爆改」实体卡槽/小米新SU7预售15天小定近10万/宜家首次上线即时零售",
       "source_url": "https://www.ifanr.com/1652883?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "id": 133,
+      "id": 139,
       "track": "rss",
       "original_source": "爱范儿"
     },
@@ -1737,7 +1815,7 @@
       "original_language": "zh",
       "original_title": "微软发布医疗时序基座模型：4540亿数据预训练，解决不规则采样",
       "source_url": "https://www.qbitai.com/2026/01/372307.html",
-      "id": 134,
+      "id": 140,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -1750,7 +1828,7 @@
       "original_language": "zh",
       "original_title": "Meta开年猛投算力，小扎亲征筹建数十GW",
       "source_url": "https://www.qbitai.com/2026/01/372282.html",
-      "id": 135,
+      "id": 141,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -1763,7 +1841,7 @@
       "original_language": "zh",
       "original_title": "将登央视春晚，今年冲击IPO！江苏具身新贵魔法原子联创披露一堆新信息",
       "source_url": "https://www.qbitai.com/2026/01/372322.html",
-      "id": 136,
+      "id": 142,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -1776,7 +1854,7 @@
       "original_language": "zh",
       "original_title": "清华女博士造芯7年，冲刺106亿港股IPO，华为海思17年老将加盟",
       "source_url": "https://www.qbitai.com/2026/01/372633.html",
-      "id": 137,
+      "id": 143,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -1789,7 +1867,7 @@
       "original_language": "zh",
       "original_title": "“开源版贾维斯”一夜席卷硅谷！Mac mini因它卖爆",
       "source_url": "https://www.qbitai.com/2026/01/372592.html",
-      "id": 138,
+      "id": 144,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -1802,7 +1880,7 @@
       "original_language": "zh",
       "original_title": "具身智能迎来“统考卷”：上海交通大学发布大规模开源测评集GM-100，致力推动行业标准化",
       "source_url": "https://www.qbitai.com/2026/01/372589.html",
-      "id": 139,
+      "id": 145,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -1815,7 +1893,7 @@
       "original_language": "unknown",
       "original_title": "You could see faster AMD Ryzen AI Max chips soon",
       "source_url": "https://www.digitaltrends.com/computing/you-could-see-faster-amd-ryzen-ai-max-chips-soon/",
-      "id": 140,
+      "id": 146,
       "track": "rss",
       "original_source": "Digital Trends"
     },
@@ -1828,7 +1906,7 @@
       "original_language": "unknown",
       "original_title": "Your cheap Chevrolet EV might not be cheap for Long",
       "source_url": "https://www.digitaltrends.com/cars/your-cheap-chevrolet-ev-might-not-be-cheap-for-long/",
-      "id": 141,
+      "id": 147,
       "track": "rss",
       "original_source": "Digital Trends"
     }
