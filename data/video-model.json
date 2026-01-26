@@ -1,7 +1,7 @@
 {
   "category": "视频模型动态",
-  "last_update": "2026-01-26 22:00:03 (北京时间)",
-  "total_count": 147,
+  "last_update": "2026-01-27 01:45:22 (北京时间)",
+  "total_count": 154,
   "news": [
     {
       "title": "腾讯发力社交AI赛道，元宝开启“元宝派”内测",
@@ -1907,6 +1907,97 @@
       "original_title": "Your cheap Chevrolet EV might not be cheap for Long",
       "source_url": "https://www.digitaltrends.com/cars/your-cheap-chevrolet-ev-might-not-be-cheap-for-long/",
       "id": 147,
+      "track": "rss",
+      "original_source": "Digital Trends"
+    },
+    {
+      "title": "那个用半成品刷爆SOTA的Qwen3超大杯推理版，现在正式上线",
+      "summary": "那个用半成品刷爆SOTA的Qwen3超大杯推理版，现在正式上线。新闻链接：https://www.qbitai.com/2026/01/372824.html",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "null",
+      "original_language": "zh",
+      "original_title": "那个用半成品刷爆SOTA的Qwen3超大杯推理版，现在正式上线",
+      "source_url": "https://www.qbitai.com/2026/01/372824.html",
+      "id": 148,
+      "track": "rss",
+      "original_source": "量子位"
+    },
+    {
+      "title": "Skills刚火，就有零Skill的Agent来了…",
+      "summary": "会自己进化的Agent",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-16 14:30:00",
+      "original_language": "zh",
+      "original_title": "Skills刚火，就有零Skill的Agent来了…",
+      "source_url": "https://www.qbitai.com/2026/01/372751.html",
+      "id": 149,
+      "track": "rss",
+      "original_source": "量子位"
+    },
+    {
+      "title": "讯飞星辰智能体平台发布升级，打通“感知”到“执行”全链路",
+      "summary": "讯飞星辰智能体平台近日发布升级，推出智能体多模交互全栈方案。该方案旨在打通从“感知”到“执行”的全链路，提供更加智能和便捷的用户体验。具体升级内容包括：1. 支持多种感知方式，如语音、图像、文本等；2. 提供丰富的执行能力，包括控制设备、处理任务等；3. 支持多模态交互，实现更加自然的人机交互体验。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "null",
+      "original_language": "zh",
+      "original_title": "讯飞星辰智能体平台发布升级，打通“感知”到“执行”全链路",
+      "source_url": "https://www.qbitai.com/2026/01/372747.html",
+      "id": 150,
+      "track": "rss",
+      "original_source": "量子位"
+    },
+    {
+      "title": "瑞幸背后的芯片，藏不住了",
+      "summary": "天数智芯发布彤央系列产品\n\n天数智芯，一家专注于芯片研发的公司，近日发布了彤央系列产品。这一系列芯片被广泛应用于瑞幸咖啡的智能设备中，为瑞幸咖啡的智能化升级提供了技术支持。\n\n彤央系列产品包括彤央处理器、彤央存储器等，具有高性能、低功耗、高可靠性等特点。此次发布，标志着天数智芯在芯片领域的技术实力得到了进一步提升。\n\n瑞幸咖啡作为国内领先的咖啡品牌，一直致力于通过技术创新提升用户体验。此次与天数智芯的合作，将进一步推动瑞幸咖啡在智能化领域的布局。\n\n新闻链接：https://www.qbitai.com/2026/01/372724.html",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "null",
+      "original_language": "zh",
+      "original_title": "瑞幸背后的芯片，藏不住了",
+      "source_url": "https://www.qbitai.com/2026/01/372724.html",
+      "id": 151,
+      "track": "rss",
+      "original_source": "量子位"
+    },
+    {
+      "title": "高通骁龙8 Elite Gen 6 Pro可能采用三星散热技术达到5.0GHz",
+      "summary": "据最新泄露消息，高通的骁龙8 Elite Gen 6 Pro可能会通过采用三星的Heat Pass Block技术达到5.0GHz。该消息首先在Digital Trends上发表。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-27 01:29:15",
+      "original_language": "en",
+      "original_title": "Qualcomm’s Snapdragon 8 Elite Gen 6 Pro may reach 5.0GHz with Samsung heat tech",
+      "source_url": "https://www.digitaltrends.com/phones/qualcomms-snapdragon-8-elite-gen-6-pro-may-reach-5-0ghz-with-samsung-heat-tech/",
+      "id": 152,
+      "track": "rss",
+      "original_source": "Digital Trends"
+    },
+    {
+      "title": "Waymo因自动驾驶出租车违规绕行停驶校车再次引发调查",
+      "summary": "美国国家运输安全委员会（NTSB）对Waymo展开调查，原因是其在奥斯汀市多次被报告自动驾驶出租车绕过停驶的校车。该报道首先出现在Digital Trends上。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-27 01:28:57",
+      "original_language": "en",
+      "original_title": "Waymo triggers another probe over its robotaxis passing stopped school buses",
+      "source_url": "https://www.digitaltrends.com/cars/waymo-triggers-another-probe-over-its-robotaxis-passing-stopped-school-buses/",
+      "id": 153,
+      "track": "rss",
+      "original_source": "Digital Trends"
+    },
+    {
+      "title": "微软发布紧急Windows 11更新以修复崩溃的应用程序",
+      "summary": "微软在1月份的补丁引发广泛的应用程序崩溃、Outlook故障和云同步问题后，又发布了另一项紧急Windows 11更新。这次更新是为了解决应用程序崩溃的问题。Digital Trends的报道指出，微软被迫进行罕见的连续修复。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-27 01:28:35",
+      "original_language": "en",
+      "original_title": "Microsoft has released an emergency Windows 11 update to fix crashing apps",
+      "source_url": "https://www.digitaltrends.com/computing/microsoft-has-released-an-emergency-windows-11-update-to-fix-crashing-apps/",
+      "id": 154,
       "track": "rss",
       "original_source": "Digital Trends"
     }
