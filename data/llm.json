@@ -1,7 +1,7 @@
 {
   "category": "大模型动态",
-  "last_update": "2026-01-26 04:52:26 (北京时间)",
-  "total_count": 235,
+  "last_update": "2026-01-26 10:35:31 (北京时间)",
+  "total_count": 236,
   "news": [
     {
       "title": "1月28日，直播预约！来聊聊具身评测中的科学与乱象",
@@ -2953,6 +2953,19 @@
       "id": 235,
       "track": "rss",
       "original_source": "量子位"
+    },
+    {
+      "title": "流动匹配重塑分子生成：PropMolFlow 实现性质引导下的高保真三维分子设计",
+      "summary": "流动匹配重塑分子生成：PropMolFlow 实现性质引导下的高保真三维分子设计\n\n近日，中国科学院自动化研究所的研究团队提出了一种名为PropMolFlow的新方法，该方法通过流动匹配技术，实现了在性质引导下的高保真三维分子设计。该研究发表在《自然·通讯》杂志上。\n\n传统的分子设计方法通常依赖于经验规则和启发式算法，而PropMolFlow则通过深度学习技术，能够自动学习分子的结构和性质之间的关系，从而实现更加精确和高效的分子设计。\n\n研究人员表示，PropMolFlow在多个分子设计任务中均取得了优异的性能，包括药物设计、材料设计等。此外，该方法还具有较好的泛化能力，能够应用于不同的分子设计场景。\n\n该研究为分子设计领域带来了新的思路和方法，有望推动相关领域的发展。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-26 00:00:00",
+      "original_language": "zh",
+      "original_title": "流动匹配重塑分子生成：PropMolFlow 实现性质引导下的高保真三维分子设计",
+      "source_url": "https://www.jiqizhixin.com/articles/2026-01-26",
+      "id": 236,
+      "track": "rss",
+      "original_source": "机器之心"
     }
   ]
 }
