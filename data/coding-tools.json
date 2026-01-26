@@ -1,7 +1,7 @@
 {
   "category": "AI编程工具进化",
-  "last_update": "2026-01-26 22:00:03 (北京时间)",
-  "total_count": 199,
+  "last_update": "2026-01-27 01:45:22 (北京时间)",
+  "total_count": 204,
   "news": [
     {
       "title": "使用gRPC传输文件",
@@ -2184,6 +2184,45 @@
       "original_source": "量子位"
     },
     {
+      "title": "Qwen3-Max-Thinking",
+      "summary": "Comments",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-27 01:30:21",
+      "original_language": "en",
+      "original_title": "Qwen3-Max-Thinking",
+      "source_url": "https://qwen.ai/blog?id=qwen3-max-thinking",
+      "id": 169,
+      "track": "rss",
+      "original_source": "Hacker News"
+    },
+    {
+      "title": "瑞幸背后的芯片，藏不住了",
+      "summary": "天数智芯发布彤央系列产品\n\n天数智芯，一家专注于芯片研发的公司，近日发布了其彤央系列产品。这一系列芯片旨在为各种智能设备提供高性能的计算能力，包括但不限于智能手机、智能家居、物联网设备等。据悉，彤央系列芯片采用了先进的制程工艺，具有高性能、低功耗的特点。此次发布，标志着天数智芯在芯片领域又迈出了重要一步。\n\n新闻链接：https://www.qbitai.com/2026/01/372724.html",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-27 01:29:50",
+      "original_language": "zh",
+      "original_title": "瑞幸背后的芯片，藏不住了",
+      "source_url": "https://www.qbitai.com/2026/01/372724.html",
+      "id": 170,
+      "track": "rss",
+      "original_source": "量子位"
+    },
+    {
+      "title": "那个用半成品刷爆SOTA的Qwen3超大杯推理版，现在正式上线",
+      "summary": "那个用半成品刷爆SOTA的Qwen3超大杯推理版，现在正式上线。新闻链接：https://www.qbitai.com/2026/01/372824.html",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-27 01:29:33",
+      "original_language": "zh",
+      "original_title": "那个用半成品刷爆SOTA的Qwen3超大杯推理版，现在正式上线",
+      "source_url": "https://www.qbitai.com/2026/01/372824.html",
+      "id": 171,
+      "track": "rss",
+      "original_source": "量子位"
+    },
+    {
       "title": "文本为王",
       "summary": "Comments\n\nThis article discusses the importance of text in the digital age. It highlights the role of text in communication, information sharing, and the development of technology. The author argues that text is the foundation of all digital content and that its quality and accessibility are crucial for the success of any digital product or service. The article also touches upon the challenges of text processing and the need for advanced technologies to handle large volumes of text data effectively.\n\n",
       "is_legal": true,
@@ -2192,7 +2231,7 @@
       "original_language": "en",
       "original_title": "Text Is King",
       "source_url": "https://www.experimental-history.com/p/text-is-king",
-      "id": 169,
+      "id": 172,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -2205,7 +2244,7 @@
       "original_language": "en",
       "original_title": "Minara",
       "source_url": "https://www.producthunt.com/products/minara-ai",
-      "id": 170,
+      "id": 173,
       "track": "rss",
       "original_source": "Product Hunt"
     },
@@ -2218,7 +2257,7 @@
       "original_language": "en",
       "original_title": "The Holy Grail of Linux Binary Compatibility: Musl and Dlopen",
       "source_url": "https://github.com/quaadgras/graphics.gd/discussions/242",
-      "id": 171,
+      "id": 174,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -2231,7 +2270,7 @@
       "original_language": "zh",
       "original_title": "腾讯发力社交AI赛道，元宝开启“元宝派”内测",
       "source_url": "https://www.qbitai.com/2026/01/372540.html",
-      "id": 172,
+      "id": 175,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -2244,7 +2283,7 @@
       "original_language": "en",
       "original_title": "The browser is the sandbox",
       "source_url": "https://simonwillison.net/2026/Jan/25/the-browser-is-the-sandbox/",
-      "id": 173,
+      "id": 176,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -2257,7 +2296,7 @@
       "original_language": "en",
       "original_title": "We X-Rayed a Suspicious FTDI USB Cable",
       "source_url": "https://eclypsium.com/blog/xray-counterfeit-usb-cable/",
-      "id": 174,
+      "id": 177,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -2270,7 +2309,7 @@
       "original_language": "en",
       "original_title": "Palantir has no place in UK public services",
       "source_url": "https://www.opendemocracy.net/en/zarah-sutlana-palantir-no-place-uk-public-services-ministry-of-defence/",
-      "id": 175,
+      "id": 178,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -2283,7 +2322,7 @@
       "original_language": "en",
       "original_title": "David Patterson: Challenges and Research Directions for LLM Inference Hardware",
       "source_url": "https://arxiv.org/abs/2601.05047",
-      "id": 176,
+      "id": 179,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -2296,7 +2335,7 @@
       "original_language": "en",
       "original_title": "nvidia-smi hangs indefinitely after ~66 days",
       "source_url": "https://github.com/NVIDIA/open-gpu-kernel-modules/issues/971",
-      "id": 177,
+      "id": 180,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -2309,7 +2348,20 @@
       "original_language": "en",
       "original_title": "Raspberry Pi Drag Race: Pi 1 to Pi 5 – Performance Comparison",
       "source_url": "https://the-diy-life.com/raspberry-pi-drag-race-pi-1-to-pi-5-performance-comparison/",
-      "id": 178,
+      "id": 181,
+      "track": "rss",
+      "original_source": "Hacker News"
+    },
+    {
+      "title": "谷歌AI概述在健康查询中引用YouTube多于任何医学网站",
+      "summary": "评论\n\n根据一项新的研究，谷歌AI概述在健康查询中引用YouTube多于任何医学网站。这项研究调查了谷歌AI在提供健康信息方面的表现，发现它经常引用YouTube视频作为健康查询的来源，而不是专业的医学网站。研究作者表示，这表明用户在寻求健康信息时可能面临误导的风险，因为YouTube上的内容可能未经验证且质量参差不齐。该研究还发现，谷歌AI在提供健康信息时存在偏见，倾向于推荐某些类型的视频，而不是基于证据的医学建议。研究人员呼吁谷歌改进其算法，以确保用户获得准确、可靠的健康信息。\n\n新闻链接：[https://www.theguardian.com/technology/2026/jan/24/google-ai-overviews-youtube-medical-citations-study](https://www.theguardian.com/technology/2026/jan/24/google-ai-overviews-youtube-medical-citations-study)",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-24 14:30:00",
+      "original_language": "en",
+      "original_title": "Google AI Overviews cite YouTube more than any medical site for health queries",
+      "source_url": "https://www.theguardian.com/technology/2026/jan/24/google-ai-overviews-youtube-medical-citations-study",
+      "id": 182,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -2322,7 +2374,7 @@
       "original_language": "en",
       "original_title": "Memory layout in Zig with formulas",
       "source_url": "https://raymondtana.github.io/math/programming/2026/01/23/zig-alignment-and-sizing.html",
-      "id": 179,
+      "id": 183,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -2335,7 +2387,7 @@
       "original_language": "en",
       "original_title": "MapLibre Tile: a modern and efficient vector tile format",
       "source_url": "https://maplibre.org/news/2026-01-23-mlt-release/",
-      "id": 180,
+      "id": 184,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -2348,7 +2400,7 @@
       "original_language": "en",
       "original_title": "Internet Archive's Storage",
       "source_url": "https://blog.dshr.org/2026/01/internet-archives-storage.html",
-      "id": 181,
+      "id": 185,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -2361,7 +2413,7 @@
       "original_language": "zh",
       "original_title": "将登央视春晚，今年冲击IPO！江苏具身新贵魔法原子联创披露一堆新信息",
       "source_url": "https://www.qbitai.com/2026/01/372322.html",
-      "id": 182,
+      "id": 186,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -2374,7 +2426,7 @@
       "original_language": "zh",
       "original_title": "“开源版贾维斯”一夜席卷硅谷！Mac mini因它卖爆",
       "source_url": "https://www.qbitai.com/2026/01/372592.html",
-      "id": 183,
+      "id": 187,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -2387,7 +2439,7 @@
       "original_language": "zh",
       "original_title": "具身智能迎来“统考卷”：上海交通大学发布大规模开源测评集GM-100，致力推动行业标准化",
       "source_url": "https://www.qbitai.com/2026/01/372589.html",
-      "id": 184,
+      "id": 188,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -2400,7 +2452,20 @@
       "original_language": "zh",
       "original_title": "“DeepSeek-V3基于我们的架构打造”，欧版OpenAI CEO逆天发言被喷了",
       "source_url": "https://www.qbitai.com/2026/01/372555.html",
-      "id": 185,
+      "id": 189,
+      "track": "rss",
+      "original_source": "量子位"
+    },
+    {
+      "title": "Skills刚火，就有零Skill的Agent来了…",
+      "summary": "会自己进化的Agent",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-16 14:30:00",
+      "original_language": "zh",
+      "original_title": "Skills刚火，就有零Skill的Agent来了…",
+      "source_url": "https://www.qbitai.com/2026/01/372751.html",
+      "id": 190,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -2413,7 +2478,7 @@
       "original_language": "zh",
       "original_title": "成立两年半登顶全球AI创作社区，背后是中国团队在“卖情绪”？？",
       "source_url": "https://www.qbitai.com/2026/01/371570.html",
-      "id": 186,
+      "id": 191,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -2426,7 +2491,7 @@
       "original_language": "en",
       "original_title": "Losing 1½ Million Lines of Go",
       "source_url": "https://www.tbray.org/ongoing/When/202x/2026/01/14/Unicode-Properties",
-      "id": 187,
+      "id": 192,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -2439,7 +2504,7 @@
       "original_language": "en",
       "original_title": "Tech Is Fun Again: The Tech Monoculture Is Finally Breaking",
       "source_url": "http://www.jasonwillems.com/technology/2025/12/17/Tech-Is-Fun-Again/",
-      "id": 188,
+      "id": 193,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -2452,7 +2517,7 @@
       "original_language": "en",
       "original_title": "Qwen3-TTS Family Is Now Open Sourced: Voice Design, Clone, and Generation",
       "source_url": "https://qwen.ai/blog?id=qwen3tts-0115",
-      "id": 189,
+      "id": 194,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -2465,7 +2530,7 @@
       "original_language": "en",
       "original_title": "AI is a horse (2024)",
       "source_url": "https://kconner.com/2024/08/02/ai-is-a-horse.html",
-      "id": 190,
+      "id": 195,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -2478,7 +2543,7 @@
       "original_language": "en",
       "original_title": "From stealth blackout to whitelisting: Inside the Iranian shutdown",
       "source_url": "https://www.kentik.com/blog/from-stealth-blackout-to-whitelisting-inside-the-iranian-shutdown/",
-      "id": 191,
+      "id": 196,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -2491,7 +2556,7 @@
       "original_language": "unknown",
       "original_title": "Waiting for dawn in search: Search index, Google rulings and impact on Kagi",
       "source_url": "https://blog.kagi.com/waiting-dawn-search",
-      "id": 192,
+      "id": 197,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -2504,7 +2569,7 @@
       "original_language": "unknown",
       "original_title": "Gold Fever Cold and the True Adventures of Jack London in the Wild",
       "source_url": "https://www.smithsonianmag.com/history/gold-fever-deadly-cold-and-amazing-true-adventures-jack-london-wild-180973316/",
-      "id": 193,
+      "id": 198,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -2517,7 +2582,7 @@
       "original_language": "unknown",
       "original_title": "If You Think This Instrument Is Hard to Play, Try Building One",
       "source_url": "https://www.nytimes.com/2026/01/14/arts/music/oboe-laubin-jim-phelan.html",
-      "id": 194,
+      "id": 199,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -2530,7 +2595,7 @@
       "original_language": "unknown",
       "original_title": "After two years of vibecoding, I'm back to writing by hand [video]",
       "source_url": "https://www.youtube.com/watch?v=SKTsNV41DYg",
-      "id": 195,
+      "id": 200,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -2543,7 +2608,7 @@
       "original_language": "unknown",
       "original_title": "Postmortem: Our first VLEO satellite mission (with imagery and flight data)",
       "source_url": "https://albedo.com/post/clarity-1-what-worked-and-where-we-go-next",
-      "id": 196,
+      "id": 201,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -2556,7 +2621,7 @@
       "original_language": "unknown",
       "original_title": "The Responsibility of Intellectuals (1967)",
       "source_url": "https://www.nybooks.com/articles/1967/02/23/a-special-supplement-the-responsibility-of-intelle/",
-      "id": 197,
+      "id": 202,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -2569,7 +2634,7 @@
       "original_language": "unknown",
       "original_title": "Liquid Timer v2",
       "source_url": "https://www.producthunt.com/products/liquidtimers",
-      "id": 198,
+      "id": 203,
       "track": "rss",
       "original_source": "Product Hunt"
     },
@@ -2582,7 +2647,7 @@
       "original_language": "unknown",
       "original_title": "Video Games as Art",
       "source_url": "https://gwern.net/video-game-art",
-      "id": 199,
+      "id": 204,
       "track": "rss",
       "original_source": "Hacker News"
     }
