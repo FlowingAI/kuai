@@ -1,7 +1,7 @@
 {
   "category": "AI编程工具进化",
-  "last_update": "2026-01-27 22:01:48 (北京时间)",
-  "total_count": 226,
+  "last_update": "2026-01-28 01:44:37 (北京时间)",
+  "total_count": 229,
   "news": [
     {
       "title": "让机器人“看清”三维世界，蚂蚁灵波开源LingBot-Depth模型",
@@ -2934,6 +2934,45 @@
       "original_title": "People who know the formula for WD-40",
       "source_url": "https://www.wsj.com/business/the-secret-society-of-people-who-know-the-formula-for-wd-40-e9c0ff54",
       "id": 226,
+      "track": "rss",
+      "original_source": "Hacker News"
+    },
+    {
+      "title": "曦望发布推理GPU S3：All-in推理的国产GPU，开始算单位Token成本",
+      "summary": "曦望科技近日发布了其最新的推理GPU产品S3。这款GPU被设计为适用于所有推理场景，旨在降低单位Token的成本。随着推理成为人工智能领域的主战场，S3的发布标志着国产GPU在推理领域的又一重要进展。\n\n新闻链接：https://www.qbitai.com/2026/01/373113.html",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "null",
+      "original_language": "zh",
+      "original_title": "曦望发布推理GPU S3：All-in推理的国产GPU，开始算单位Token成本",
+      "source_url": "https://www.qbitai.com/2026/01/373113.html",
+      "id": 227,
+      "track": "rss",
+      "original_source": "量子位"
+    },
+    {
+      "title": "OpenSSL: CMS AuthEnvelopedData解析中的堆栈缓冲区溢出",
+      "summary": "OpenSSL库中存在一个堆栈缓冲区溢出漏洞，该漏洞存在于CMS AuthEnvelopedData解析过程中。该漏洞可能导致远程攻击者通过特制的CMS AuthEnvelopedData数据包执行任意代码。OpenSSL团队已经发布了修复补丁，建议用户尽快更新到最新版本。详情请访问以下链接：[OpenSSL漏洞详情](https://openssl-library.org/news/vulnerabilities/#CVE-2025-15467)",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-28 01:29:17",
+      "original_language": "en",
+      "original_title": "OpenSSL: Stack buffer overflow in CMS AuthEnvelopedData parsing",
+      "source_url": "https://openssl-library.org/news/vulnerabilities/#CVE-2025-15467",
+      "id": 228,
+      "track": "rss",
+      "original_source": "Hacker News"
+    },
+    {
+      "title": "管理作为AI超级力量：在代理AI的世界中蓬勃发展",
+      "summary": "Comments\n\n在这个充满代理AI的世界中，管理正成为一项超级力量。随着人工智能技术的发展，管理者和领导者需要适应新的工作环境，并利用AI来提高效率和决策质量。本文将探讨管理在AI时代的重要性，以及如何利用AI来提升组织绩效。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-28 01:29:08",
+      "original_language": "en",
+      "original_title": "Management as AI superpower: Thriving in a world of agentic AI",
+      "source_url": "https://www.oneusefulthing.org/p/management-as-ai-superpower",
+      "id": 229,
       "track": "rss",
       "original_source": "Hacker News"
     }

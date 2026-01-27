@@ -1,7 +1,7 @@
 {
   "category": "视频模型动态",
-  "last_update": "2026-01-27 22:01:48 (北京时间)",
-  "total_count": 172,
+  "last_update": "2026-01-28 01:44:37 (北京时间)",
+  "total_count": 173,
   "news": [
     {
       "title": "这份 2025 年度回忆，属于你和 AI 小电拼",
@@ -2232,6 +2232,19 @@
       "original_title": "阶跃星辰不再低调：巨额融资，印奇加入，“1+3”核心决策层浮出水面",
       "source_url": "https://www.qbitai.com/2026/01/373038.html",
       "id": 172,
+      "track": "rss",
+      "original_source": "量子位"
+    },
+    {
+      "title": "曦望发布推理GPU S3：All-in推理的国产GPU，开始算单位Token成本",
+      "summary": "曦望科技近日发布了其最新的推理GPU产品S3，这是一款专为推理任务设计的国产GPU。S3旨在为用户提供全栈推理解决方案，从数据预处理到模型推理，覆盖了整个推理流程。该产品标志着国产GPU在推理领域的又一重要进展。据悉，S3的推出将有助于降低单位Token成本，提高推理效率。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-16 14:30:00",
+      "original_language": "zh",
+      "original_title": "曦望发布推理GPU S3：All-in推理的国产GPU，开始算单位Token成本",
+      "source_url": "https://www.qbitai.com/2026/01/373113.html",
+      "id": 173,
       "track": "rss",
       "original_source": "量子位"
     }
