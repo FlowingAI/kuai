@@ -1,7 +1,7 @@
 {
   "category": "视频模型动态",
-  "last_update": "2026-01-27 17:49:16 (北京时间)",
-  "total_count": 165,
+  "last_update": "2026-01-27 22:01:48 (北京时间)",
+  "total_count": 172,
   "news": [
     {
       "title": "这份 2025 年度回忆，属于你和 AI 小电拼",
@@ -2141,6 +2141,97 @@
       "original_title": "11.77亿资本押注卡车新势力一哥，L2升维路线率先在商用车跑通！",
       "source_url": "https://www.qbitai.com/2026/01/372848.html",
       "id": 165,
+      "track": "rss",
+      "original_source": "量子位"
+    },
+    {
+      "title": "让机器人“看清”三维世界，蚂蚁灵波开源LingBot-Depth模型",
+      "summary": "攻克视觉难题\n蚂蚁灵波近日开源了LingBot-Depth模型，这是一个用于机器人视觉的深度学习模型。该模型旨在帮助机器人更好地理解三维世界，通过深度学习技术实现更精确的视觉感知。LingBot-Depth模型基于蚂蚁灵波自主研发的深度学习框架，经过大量实验验证，在多个视觉任务上取得了优异的性能。此次开源，蚂蚁灵波希望与更多开发者共同推动机器人视觉技术的发展。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-16 14:30:00",
+      "original_language": "zh",
+      "original_title": "让机器人“看清”三维世界，蚂蚁灵波开源LingBot-Depth模型",
+      "source_url": "https://www.qbitai.com/2026/01/373105.html",
+      "id": 166,
+      "track": "rss",
+      "original_source": "量子位"
+    },
+    {
+      "title": "姚欣获聘“光谷全球产业合伙人”，PPIO以普惠算力助力武汉AI创新",
+      "summary": "AI发展“奇点”已至，以AI coding为代表的突破标志着关键拐点的到来。姚欣获聘“光谷全球产业合伙人”，PPIO以普惠算力助力武汉AI创新。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "null",
+      "original_language": "zh",
+      "original_title": "姚欣获聘“光谷全球产业合伙人”，PPIO以普惠算力助力武汉AI创新",
+      "source_url": "https://www.qbitai.com/2026/01/373101.html",
+      "id": 167,
+      "track": "rss",
+      "original_source": "量子位"
+    },
+    {
+      "title": "Meta即将推出高级订阅服务，以下是您实际需要支付的费用",
+      "summary": "Meta正在测试Instagram、Facebook和WhatsApp的高级订阅服务。定价和推出市场尚未公开，但早期的Instagram特权表明，高级用户工具和可能被付费层级锁定的AI功能可能会被引入。该文章《Meta即将推出高级订阅服务，以下是您实际需要支付的费用》首先出现在Digital Trends上。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-27 21:46:15",
+      "original_language": "en",
+      "original_title": "Meta premium subscriptions are coming, here’s what you’ll actually pay for",
+      "source_url": "https://www.digitaltrends.com/social-media/meta-premium-subscriptions-are-coming-heres-what-youll-actually-pay-for/",
+      "id": 168,
+      "track": "rss",
+      "original_source": "Digital Trends"
+    },
+    {
+      "title": "ChatGPT Health对健身数据的评估可能引起不必要的恐慌的早期测试表明",
+      "summary": "一位记者允许ChatGPT Health访问了十年的健身数据，但其评估不仅不准确，而且在不同的聊天中也不一致。\n\n该文章《Early tests suggest ChatGPT Health’s assessment of your fitness data may cause unnecessary panic》最初发表在Digital Trends上。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-27 21:45:58",
+      "original_language": "en",
+      "original_title": "Early tests suggest ChatGPT Health’s assessment of your fitness data may cause unnecessary panic",
+      "source_url": "https://www.digitaltrends.com/computing/early-tests-suggest-chatgpt-healths-assessment-of-your-fitness-data-may-cause-unnecessary-panic/",
+      "id": 169,
+      "track": "rss",
+      "original_source": "Digital Trends"
+    },
+    {
+      "title": "谷歌照片的图片转视频功能现在可以添加声音",
+      "summary": "谷歌照片正在升级其图片转视频功能，新增了基于文本的AI提示、可编辑的建议以及可以自动添加的音频。您可以在瞬间生成一段短视频，保存后分享。该帖子《谷歌照片的图片转视频功能现在可以添加声音》首先出现在Digital Trends上。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-27 21:45:48",
+      "original_language": "en",
+      "original_title": "Your Google Photos photo to video clips can now include sound",
+      "source_url": "https://www.digitaltrends.com/computing/your-google-photos-photo-to-video-clips-can-now-include-sound/",
+      "id": 170,
+      "track": "rss",
+      "original_source": "Digital Trends"
+    },
+    {
+      "title": "聊天框装不下的野心，被百度文心 APP 塞进了 AI 群聊里",
+      "summary": "人类的群聊，为什么需要一群 AI ？\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n\n爱范儿 |\n原文链接 ·\n查看评论 ·\n新浪微博\n新闻链接：https://www.ifanr.com/1653209?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-27 21:45:00",
+      "original_language": "zh",
+      "original_title": "聊天框装不下的野心，被百度文心 APP 塞进了 AI 群聊里",
+      "source_url": "https://www.ifanr.com/1653209?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "id": 171,
+      "track": "rss",
+      "original_source": "爱范儿"
+    },
+    {
+      "title": "阶跃星辰不再低调：巨额融资，印奇加入，“1+3”核心决策层浮出水面",
+      "summary": "起底阶跃核心团队\n\n近日，阶跃星辰宣布完成巨额融资，并宣布印奇加入公司。随着融资的完成，阶跃星辰的核心决策层“1+3”模式也浮出水面。据悉，印奇将担任公司首席技术官，负责公司的技术战略和研发工作。此外，公司还宣布了三位新的高级管理人员，分别是首席运营官、首席市场官和首席财务官。这一系列的动作标志着阶跃星辰在人工智能领域的进一步扩张和布局。\n\n阶跃星辰成立于2016年，是一家专注于人工智能领域的初创公司。公司致力于利用人工智能技术解决实际问题，推动人工智能技术的应用和发展。此次融资的具体金额并未透露，但据知情人士透露，融资额超过亿元。此次融资将用于公司的产品研发、市场拓展和团队建设。\n\n随着印奇的加入，阶跃星辰的核心团队实力得到了进一步提升。印奇曾在谷歌担任工程师，并在人工智能领域有着丰富的经验。他的加入将为公司带来新的技术视野和管理经验。\n\n阶跃星辰的“1+3”核心决策层模式，即由一位CEO和三位高级管理人员组成的决策团队，旨在提高公司的决策效率和执行力。这一模式在业界较为罕见，但也体现了阶跃星辰对高效决策的重视。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-16 14:30:00",
+      "original_language": "zh",
+      "original_title": "阶跃星辰不再低调：巨额融资，印奇加入，“1+3”核心决策层浮出水面",
+      "source_url": "https://www.qbitai.com/2026/01/373038.html",
+      "id": 172,
       "track": "rss",
       "original_source": "量子位"
     }

@@ -1,7 +1,7 @@
 {
   "category": "当前主流应用",
-  "last_update": "2026-01-27 17:49:16 (北京时间)",
-  "total_count": 411,
+  "last_update": "2026-01-27 22:01:48 (北京时间)",
+  "total_count": 424,
   "news": [
     {
       "title": "这份 2025 年度回忆，属于你和 AI 小电拼",
@@ -5118,6 +5118,149 @@
       "original_source": "量子位"
     },
     {
+      "title": "下一代iPhone Air可能带来更薄的Face ID",
+      "summary": "一项新的泄露信息表明，苹果公司正在为下一代iPhone Air瘦身Face ID，这可能有助于重塑动态岛，并帮助将新硬件集成到超薄设计中。\n\n该文章《下一代iPhone Air可能带来更薄的Face ID》首先出现在Digital Trends上。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-27 22:01:42",
+      "original_language": "en",
+      "original_title": "The next-gen iPhone Air could bring a thinner Face ID",
+      "source_url": "https://www.digitaltrends.com/phones/the-next-gen-iphone-air-could-bring-a-thinner-face-id/",
+      "id": 395,
+      "track": "rss",
+      "original_source": "Digital Trends"
+    },
+    {
+      "title": "Meta即将推出高级订阅服务，以下是您实际需要支付的费用",
+      "summary": "Meta正在测试Instagram、Facebook和WhatsApp的高级订阅服务。定价和推出市场尚未公开，但早期的Instagram优惠表明，高级用户工具和可能被付费层级锁定的AI功能可能会出现。该文章《Meta即将推出高级订阅服务，以下是您实际需要支付的费用》首先出现在Digital Trends上。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-27 22:01:36",
+      "original_language": "en",
+      "original_title": "Meta premium subscriptions are coming, here’s what you’ll actually pay for",
+      "source_url": "https://www.digitaltrends.com/social-media/meta-premium-subscriptions-are-coming-heres-what-youll-actually-pay-for/",
+      "id": 396,
+      "track": "rss",
+      "original_source": "Digital Trends"
+    },
+    {
+      "title": "ChatGPT Health对您的健身数据评估可能引起不必要的恐慌的早期测试表明",
+      "summary": "一名记者向ChatGPT Health提供了十年的健身数据，其评估不仅不正确，而且在聊天中也不一致。\n\n该文章《Early tests suggest ChatGPT Health’s assessment of your fitness data may cause unnecessary panic》首先出现在Digital Trends。\n\n新闻链接：https://www.digitaltrends.com/computing/early-tests-suggest-chatgpt-healths-assessment-of-your-fitness-data-may-cause-unnecessary-panic/",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-27 22:01:23",
+      "original_language": "en",
+      "original_title": "Early tests suggest ChatGPT Health’s assessment of your fitness data may cause unnecessary panic",
+      "source_url": "https://www.digitaltrends.com/computing/early-tests-suggest-chatgpt-healths-assessment-of-your-fitness-data-may-cause-unnecessary-panic/",
+      "id": 397,
+      "track": "rss",
+      "original_source": "Digital Trends"
+    },
+    {
+      "title": "谷歌照片的图片转视频功能现在可以添加声音",
+      "summary": "谷歌照片正在升级其图片转视频功能，新增了基于文本的AI提示、可编辑的建议以及可以自动添加的音频。您可以在瞬间生成一段短视频，保存后分享。该文章《谷歌照片的图片转视频功能现在可以添加声音》首先出现在Digital Trends上。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-27 22:01:08",
+      "original_language": "en",
+      "original_title": "Your Google Photos photo to video clips can now include sound",
+      "source_url": "https://www.digitaltrends.com/computing/your-google-photos-photo-to-video-clips-can-now-include-sound/",
+      "id": 398,
+      "track": "rss",
+      "original_source": "Digital Trends"
+    },
+    {
+      "title": "GameCutAI",
+      "summary": "Discussion\n            |\n            Link\n新闻链接：https://www.producthunt.com/products/gamecutai",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-27 22:00:54",
+      "original_language": "en",
+      "original_title": "GameCutAI",
+      "source_url": "https://www.producthunt.com/products/gamecutai",
+      "id": 399,
+      "track": "rss",
+      "original_source": "Product Hunt"
+    },
+    {
+      "title": "Jotform AI Chatbot for Canva",
+      "summary": "Discussion\n            |\n            Link\n新闻链接：https://www.producthunt.com/products/jotform",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-27 22:00:50",
+      "original_language": "en",
+      "original_title": "Jotform AI Chatbot for Canva",
+      "source_url": "https://www.producthunt.com/products/jotform",
+      "id": 400,
+      "track": "rss",
+      "original_source": "Product Hunt"
+    },
+    {
+      "title": "科技领袖和学生们真正认为人工智能将走向何方",
+      "summary": "我们询问了科技CEO、记者、娱乐人士、学生等关于人工智能的承诺和风险。以下是他们的看法。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-27 21:59:40",
+      "original_language": "en",
+      "original_title": "Where Tech Leaders and Students Really Think AI Is Going",
+      "source_url": "https://www.wired.com/story/for-future-reference-ai-technology/",
+      "id": 401,
+      "track": "rss",
+      "original_source": "Wired AI"
+    },
+    {
+      "title": "这款人形机器人准备为你提供牙刷服务",
+      "summary": "Fauna，一家新成立的公司，相信人形机器人在酒店服务、研究助理和娱乐领域将取得成功。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-27 21:59:34",
+      "original_language": "en",
+      "original_title": "This Humanoid Is Ready to Bring You a Toothbrush",
+      "source_url": "https://www.wired.com/story/humanoid-robot-butler-sprout-fauna/",
+      "id": 402,
+      "track": "rss",
+      "original_source": "Wired AI"
+    },
+    {
+      "title": "聊天框装不下的野心，被百度文心APP塞进了AI群聊里",
+      "summary": "人类的群聊，为什么需要一群AI？\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n\n爱范儿 |\n原文链接 ·\n查看评论 ·\n新浪微博\n新闻链接：https://www.ifanr.com/1653209?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-27 21:58:04",
+      "original_language": "zh",
+      "original_title": "聊天框装不下的野心，被百度文心 APP 塞进了 AI 群聊里",
+      "source_url": "https://www.ifanr.com/1653209?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "id": 403,
+      "track": "rss",
+      "original_source": "爱范儿"
+    },
+    {
+      "title": "2026年半导体投资方向与策略：在AI重塑的产业格局中寻找确定性",
+      "summary": "全球半导体产业在轰鸣的AI浪潮中，抵达了一个历史性的里程碑。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-27 21:57:36",
+      "original_language": "zh",
+      "original_title": "2026年半导体投资方向与策略：在AI重塑的产业格局中寻找确定性",
+      "source_url": "https://www.tmtpost.com/7857802.html",
+      "id": 404,
+      "track": "rss",
+      "original_source": "钛媒体"
+    },
+    {
+      "title": "腾讯元宝，AI版微信？",
+      "summary": "到了AI时代，打造一个超级且独立的APP，已经成为唯一答案。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-27 21:57:19",
+      "original_language": "zh",
+      "original_title": "腾讯元宝，AI版微信？",
+      "source_url": "https://www.tmtpost.com/7856864.html",
+      "id": 405,
+      "track": "rss",
+      "original_source": "钛媒体"
+    },
+    {
       "title": "苹果可能对其原始的Siri人工智能功能进行了缩减",
       "summary": "苹果下一代Siri的推出不会一次性完成。据报道，该公司正在将其对人工智能的雄心壮志分散到多个iOS版本和活动中进行展示。文章《苹果可能对其原始的Siri人工智能功能进行了缩减》首先出现在Digital Trends上。",
       "is_legal": true,
@@ -5126,7 +5269,7 @@
       "original_language": "en",
       "original_title": "Apple may have scaled back a few of its original AI features for Siri",
       "source_url": "https://www.digitaltrends.com/cool-tech/apple-may-have-scaled-back-a-few-of-its-original-ai-features-for-siri/",
-      "id": 395,
+      "id": 406,
       "track": "rss",
       "original_source": "Digital Trends"
     },
@@ -5139,9 +5282,35 @@
       "original_language": "zh",
       "original_title": "家电消费新主张，要大美好，更要“真智能”｜世研消费指数品牌榜Vol.100",
       "source_url": "https://36kr.com/p/3657388456338057?f=rss",
-      "id": 396,
+      "id": 407,
       "track": "rss",
       "original_source": "36氪"
+    },
+    {
+      "title": "氪星晚报｜德国军工巨头要为德军打造本土版“星链”；OpenAI首席信息安全官奈特将卸任职务；金饰克价涨至1585元",
+      "summary": "大公司：阿迪达斯成为2026江苏省城市足球联赛官方战略合作伙伴，36氪获悉，1月27日，阿迪达斯宣布成为2026江苏省城市足球联赛官方战略合作伙伴。数据显示，联赛自2025年创立以来，整个赛季现场观赛人次累计突破243万，场均2.8万人的上座率创省级联赛纪录。线上直播观看人次超22亿，社交平台相关话题播放量突破1000亿。三星、SK海力士据悉大幅提高iPhone所用LPDDR价格，1月27日，据报道，三星电子和SK海力士已决定通过与苹果公司的谈判，大幅提高iPhone所用LPDDR的价格。三星电子和SK海力士透露，他们向苹果公司供应的LPDDR价格较上一季度几乎翻了一番。越南车企将与中国比亚迪合建1.3亿美元电动汽车电池工厂，越南汽车制造商金龙汽车（Kim Long Motor）于本周二表示，将与中国比亚迪合作，在越南北中部地区投建一座投资额达1.3亿美元的工厂，专门生产商用电动机动车电池。金龙汽车在一份声明中称，根据合作协议，该工厂的建设资金将由金龙汽车承担，比亚迪则会提供全方位的技术支持。德国军工巨头要为德军打造本土版“星链”，德国最大军工企业莱茵金属公司和德国卫星制造商不来梅轨道高科技公司有意联合竞标，为德国联邦国防军提供类似美国“星链”的卫星互联网服务。三名知情人士26日向英国《金融时报》披露上述消息。据报道，这项合同的金额可能达数十亿欧元，旨在为德军在近地轨道打造安全的军用级卫星通信网络，成为德军版“星链”。OpenAI首席信息安全官奈特将卸任职务，据报道，OpenAI首席信息安全官奈特将卸任职务。网传北交所“未能按时发布相关新股申购公告”？官方辟谣：系假消息，1月27日，一则网传北交所“致歉通知”受到不少投资者关注。该“通知”声称：北交所原计划于2026年1月26日晚间披露相关新股发行申购公告。因发行承销环节系统优化及合规核查流程调整，导致该公告未能按既定时间发布，相关新股发行申购公告将于1月27日12:00前发布。对此，北交所方面回应称，该网传“通知”为假消息。另外，今日12:00过后，北交所官网也未发布相关新股的发行申购公告。北京永辉超市就鸿坤广场店暂停营业发布情况说明，36氪获悉，北京永辉超市就鸿坤广场店暂停营业一事发布声明称，该店此次暂停营业，系因物业方在未与公司进行有效沟通及达成一致的情况下，自2026年1月15日起，物业方单方面多次采取断水、断暖等措施，阻碍门店正常营业。1月23日，公司通过水源车运水至收货口、水桶搬运至门店来恢复生产营业，物业方则采取封闭扶梯、直梯、铁马阻拦等方式关闭所有顾客能进入门店的通道，最终致使门店被迫闭店。物业方声称“擅自闭店”的说法与上述事实严重不符。耐克将裁员775人以加速美国配送中心的“自动化”进程，据报道，耐克公司正裁员775人，此举旨在提升盈利水平并加快在运营中采用“自动化”技术。知情人士表示，此次裁员是在去年夏天宣布裁减1，000个公司岗位的基础上进一步实施的，主要影响位于田纳西州和密西西比州的配送中心岗位——这两个州设有这家运动鞋巨头的大型仓库。新产品：DeepSeek发布DeepSeek-OCR 2模型，DeepSeek团队发布《DeepSeek-OCR 2: Visual Causal Flow》论文，并开源DeepSeek-OCR 2模型，采用创新的DeepEncoder V2方法，让AI能够根据图像的含义动态重排图像的各个部分，更接近人类的视觉编码逻辑。氢离子上线“动态证据定位”新功能，36氪获悉，1月26日，阿里健康旗下医学AI应用“氢离子”迎来更新，上线“动态证据定位”新功能。该功能可精准定位原文中直接支撑观点的具体语句，并同步校验时效性、权威性与逻辑一致性。投融资：“虚之实”完成A+轮超5000万元投资，36氪获悉，AI医疗创新企业“虚之实”宣布，已于2025年底完成A+轮融资，融资金额超过5000万元。本轮融资由浙商资本、相泰资本和梅花创投三家机构联合投资，将重点用于脑部专病AI算法体系建设、多模态神经数据建模、物理AI训练数据积累以及XR类脑机接口硬件研发。虚之实进一步表示，公司B轮融资目前已在积极准备过程中，预计春节后将正式启动。其他值得关注的新闻：全国市场监管部门共查处充电宝相关违法案件1169件，从市场监管总局召开的2025年综合整治“内卷式”竞争十大重大案件发布会上了解到，针对充电宝安全事件多发、频发，严重威胁人民群众生命财产安全和社会公共安全情况，市场监管总局部署开展了充电宝质量安全集中整治行动。全国市场监管部门共查处充电宝相关违法案件1169件，守牢产品质量安全底线。其中，深圳罗马仕科技有限公司违反强制性认证规定及虚假宣传较为典型。金饰克价涨至1585元，1月27日，国内黄金饰品价格对比显示，多家黄金珠宝品牌公布的境内足金首饰价格有所上调，周生生报价1577元/克，周大福报价1585元/克，六福珠宝报价1583元/克，老凤祥报价1576元/克，老庙黄金报价1575元/克。我国将出台应对人工智能影响促就业文件，据人力资源社会保障部，我国将实施稳岗扩容提质行动，推出重点行业就业支持举措，出台应对人工智能影响促就业文件。强化重点群体就业支持，印发高校毕业生等青年就业文件，出台统筹城乡就业体系意见，建立常态化防止返贫致贫就业帮扶机制。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-27 14:30:00",
+      "original_language": "zh",
+      "original_title": "氪星晚报｜德国军工巨头要为德军打造本土版“星链”；OpenAI首席信息安全官奈特将卸任职务；金饰克价涨至1585元",
+      "source_url": "https://36kr.com/p/3657497474999172?f=rss",
+      "id": 408,
+      "track": "rss",
+      "original_source": "36氪"
+    },
+    {
+      "title": "报告抨击xAI的Grok：儿童安全失败令人担忧",
+      "summary": "我们评估了Common Sense Media的大量AI聊天机器人，它们都有风险，但Grok是我们见过的最糟糕的之一，”Common Sense Media的Robbie Torney说。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-27 14:30:00",
+      "original_language": "en",
+      "original_title": "‘Among the worst we’ve seen’: report slams xAI’s Grok over child safety failures",
+      "source_url": "https://techcrunch.com/2026/01/27/among-the-worst-weve-seen-report-slams-xais-grok-over-child-safety-failures/",
+      "id": 409,
+      "track": "rss",
+      "original_source": "TechCrunch AI"
     },
     {
       "title": "Google Calendar中的Gemini功能现在可以帮助您为所有参会者找到最佳会议时间",
@@ -5152,7 +5321,7 @@
       "original_language": "en",
       "original_title": "Gemini in Google Calendar now helps you find the best meeting time for all attendees",
       "source_url": "https://www.digitaltrends.com/computing/gemini-in-google-calendar-now-helps-you-find-the-best-meeting-time-for-all-attendees/",
-      "id": 397,
+      "id": 410,
       "track": "rss",
       "original_source": "Digital Trends"
     },
@@ -5165,7 +5334,7 @@
       "original_language": "en",
       "original_title": "Qualcomm’s Snapdragon 8 Elite Gen 6 Pro may reach 5.0GHz with Samsung heat tech",
       "source_url": "https://www.digitaltrends.com/phones/qualcomms-snapdragon-8-elite-gen-6-pro-may-reach-5-0ghz-with-samsung-heat-tech/",
-      "id": 398,
+      "id": 411,
       "track": "rss",
       "original_source": "Digital Trends"
     },
@@ -5178,7 +5347,7 @@
       "original_language": "en",
       "original_title": "Waymo triggers another probe over its robotaxis passing stopped school buses",
       "source_url": "https://www.digitaltrends.com/cars/waymo-triggers-another-probe-over-its-robotaxis-passing-stopped-school-buses/",
-      "id": 399,
+      "id": 412,
       "track": "rss",
       "original_source": "Digital Trends"
     },
@@ -5191,7 +5360,7 @@
       "original_language": "zh",
       "original_title": "讯飞星辰智能体平台发布升级，打通“感知”到“执行”全链路",
       "source_url": "https://www.qbitai.com/2026/01/372747.html",
-      "id": 400,
+      "id": 413,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -5204,7 +5373,7 @@
       "original_language": "en",
       "original_title": "Synthesia hits $4B valuation, lets employees cash out",
       "source_url": "https://techcrunch.com/2026/01/26/synthesia-hits-4b-valuation-lets-employees-cash-in/",
-      "id": 401,
+      "id": 414,
       "track": "rss",
       "original_source": "TechCrunch AI"
     },
@@ -5217,7 +5386,7 @@
       "original_language": "en",
       "original_title": "Nvidia invests $2B to help debt-ridden CoreWeave add 5GW of AI compute",
       "source_url": "https://techcrunch.com/2026/01/26/nvidia-invests-2b-to-help-debt-ridden-coreweave-add-5gw-of-ai-compute/",
-      "id": 402,
+      "id": 415,
       "track": "rss",
       "original_source": "TechCrunch AI"
     },
@@ -5230,7 +5399,7 @@
       "original_language": "en",
       "original_title": "Nvidia’s new AI weather models probably saw this storm coming weeks ago",
       "source_url": "https://techcrunch.com/2026/01/26/nvidias-new-ai-weather-models-probably-saw-this-storm-coming-weeks-ago/",
-      "id": 403,
+      "id": 416,
       "track": "rss",
       "original_source": "TechCrunch AI"
     },
@@ -5243,7 +5412,7 @@
       "original_language": "en",
       "original_title": "AI startup CVector raises $5M for its industrial ‘nervous system’",
       "source_url": "https://techcrunch.com/2026/01/26/ai-startup-cvector-raises-5m-for-its-industrial-nervous-system/",
-      "id": 404,
+      "id": 417,
       "track": "rss",
       "original_source": "TechCrunch AI"
     },
@@ -5256,7 +5425,7 @@
       "original_language": "en",
       "original_title": "Anthropic launches interactive Claude apps, including Slack and other workplace tools",
       "source_url": "https://techcrunch.com/2026/01/26/anthropic-launches-interactive-claude-apps-including-slack-and-other-workplace-tools/",
-      "id": 405,
+      "id": 418,
       "track": "rss",
       "original_source": "TechCrunch AI"
     },
@@ -5269,7 +5438,7 @@
       "original_language": "en",
       "original_title": "Qualcomm backs SpotDraft to scale on-device contract AI with valuation doubling toward $400M",
       "source_url": "https://techcrunch.com/2026/01/26/qualcomm-backs-spotdraft-to-scale-on-device-contract-ai-with-valuation-doubling-toward-400m/",
-      "id": 406,
+      "id": 419,
       "track": "rss",
       "original_source": "TechCrunch AI"
     },
@@ -5282,7 +5451,7 @@
       "original_language": "en",
       "original_title": "YouTubers sue Snap for alleged copyright infringement in training its AI models",
       "source_url": "https://techcrunch.com/2026/01/26/youtubers-sue-snap-for-alleged-copyright-infringement-in-training-its-ai-models/",
-      "id": 407,
+      "id": 420,
       "track": "rss",
       "original_source": "TechCrunch AI"
     },
@@ -5295,7 +5464,7 @@
       "original_language": "zh",
       "original_title": "Skills刚火，就有零Skill的Agent来了…",
       "source_url": "https://www.qbitai.com/2026/01/372751.html",
-      "id": 408,
+      "id": 421,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -5308,7 +5477,7 @@
       "original_language": "zh",
       "original_title": "3D版Nano Banana来了！AI修模成为现实，3D生成进入可编辑时代",
       "source_url": "https://www.qbitai.com/2026/01/372934.html",
-      "id": 409,
+      "id": 422,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -5321,7 +5490,7 @@
       "original_language": "unknown",
       "original_title": "年收入飙涨10倍，一家医疗公司接住了AGI",
       "source_url": "https://36kr.com/p/3647401456078465?f=rss",
-      "id": 410,
+      "id": 423,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -5334,7 +5503,7 @@
       "original_language": "unknown",
       "original_title": "8点1氪丨958g坚果礼盒仅33g坚果，百草味客服回应；49条中日航线取消全部航班；肯德基外卖涨价，堂食价格维持不变",
       "source_url": "https://36kr.com/p/3656915993337986?f=rss",
-      "id": 411,
+      "id": 424,
       "track": "rss",
       "original_source": "36氪"
     }
