@@ -1,7 +1,7 @@
 {
   "category": "当前主流应用",
-  "last_update": "2026-01-27 13:44:52 (北京时间)",
-  "total_count": 402,
+  "last_update": "2026-01-27 17:49:16 (北京时间)",
+  "total_count": 411,
   "news": [
     {
       "title": "这份 2025 年度回忆，属于你和 AI 小电拼",
@@ -5027,6 +5027,123 @@
       "original_source": "量子位"
     },
     {
+      "title": "Android 17将引入类似苹果Liquid Glass风格的模糊效果",
+      "summary": "早期的Android 17视觉显示，谷歌正在尝试使用受苹果Liquid Glass设计启发的模糊和透明度，暗示着一种更柔和、更分层的界面，这可能会改变系统菜单和叠加层的外观。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-27 17:48:47",
+      "original_language": "en",
+      "original_title": "Early look shows Apple’s Liquid Glass-style blur effects coming to Android 17",
+      "source_url": "https://www.digitaltrends.com/phones/early-look-shows-apples-liquid-glass-style-blur-effects-coming-to-android-17/",
+      "id": 388,
+      "track": "rss",
+      "original_source": "Digital Trends"
+    },
+    {
+      "title": "AI浪潮将掀起存储芯片“失控式上涨”，超级周期仍在延续？",
+      "summary": "AI需求大爆发。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-27 17:45:05",
+      "original_language": "zh",
+      "original_title": "AI浪潮将掀起存储芯片“失控式上涨”，超级周期仍在延续？",
+      "source_url": "https://www.tmtpost.com/7856022.html",
+      "id": 389,
+      "track": "rss",
+      "original_source": "钛媒体"
+    },
+    {
+      "title": "腾讯重构AI的1000天",
+      "summary": "砸钱、挖人、调整组织架构，现在的腾讯能靠AI打个翻身仗吗？",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-27 17:45:01",
+      "original_language": "zh",
+      "original_title": "发红包、加社交，腾讯重构AI的1000天",
+      "source_url": "https://www.tmtpost.com/7856196.html",
+      "id": 390,
+      "track": "rss",
+      "original_source": "钛媒体"
+    },
+    {
+      "title": "重走微信路，腾讯试图为元宝“补一课”",
+      "summary": "AI社交加红包拉开用户争夺战。\n\n腾讯正在尝试通过引入AI社交功能和红包功能来吸引用户，这一策略与微信的早期发展路径相似。据报道，腾讯的这款新应用名为“元宝”，旨在通过提供社交互动和红包功能来增加用户粘性。这一举措反映了腾讯在社交领域的竞争策略，同时也表明了公司在人工智能技术上的应用尝试。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-27 17:44:52",
+      "original_language": "zh",
+      "original_title": "重走微信路，腾讯试图为元宝“补一课”",
+      "source_url": "https://www.tmtpost.com/7857147.html",
+      "id": 391,
+      "track": "rss",
+      "original_source": "钛媒体"
+    },
+    {
+      "title": "阶跃星辰不再低调：巨额融资，印奇加入，“1+3”核心决策层浮出水面",
+      "summary": "起底阶跃核心团队",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-16 14:30:00",
+      "original_language": "zh",
+      "original_title": "阶跃星辰不再低调：巨额融资，印奇加入，“1+3”核心决策层浮出水面",
+      "source_url": "https://www.qbitai.com/2026/01/373038.html",
+      "id": 392,
+      "track": "rss",
+      "original_source": "量子位"
+    },
+    {
+      "title": "机器人看不清，蚂蚁给治好了",
+      "summary": "这是目前看得最清楚的深度视觉模型",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-16 14:30:00",
+      "original_language": "zh",
+      "original_title": "机器人看不清，蚂蚁给治好了",
+      "source_url": "https://www.qbitai.com/2026/01/372970.html",
+      "id": 393,
+      "track": "rss",
+      "original_source": "量子位"
+    },
+    {
+      "title": "阿里健康AI产品氢离子新功能上线：动态证据定位 让医学结论可验、可信、可用",
+      "summary": "阿里健康AI产品氢离子推出了新功能“动态证据定位”，该功能旨在为医学答案提供“追踪器”，使得医学结论更加可验证、可信和可用。具体来说，该功能能够帮助用户追踪医学证据的来源和变化，从而提高医学结论的可靠性和实用性。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "null",
+      "original_language": "zh",
+      "original_title": "阿里健康AI产品氢离子新功能上线：动态证据定位 让医学结论可验、可信、可用",
+      "source_url": "https://www.qbitai.com/2026/01/373020.html",
+      "id": 394,
+      "track": "rss",
+      "original_source": "量子位"
+    },
+    {
+      "title": "苹果可能对其原始的Siri人工智能功能进行了缩减",
+      "summary": "苹果下一代Siri的推出不会一次性完成。据报道，该公司正在将其对人工智能的雄心壮志分散到多个iOS版本和活动中进行展示。文章《苹果可能对其原始的Siri人工智能功能进行了缩减》首先出现在Digital Trends上。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-27 17:48:33",
+      "original_language": "en",
+      "original_title": "Apple may have scaled back a few of its original AI features for Siri",
+      "source_url": "https://www.digitaltrends.com/cool-tech/apple-may-have-scaled-back-a-few-of-its-original-ai-features-for-siri/",
+      "id": 395,
+      "track": "rss",
+      "original_source": "Digital Trends"
+    },
+    {
+      "title": "家电消费新主张，要大美好，更要“真智能”｜世研消费指数品牌榜Vol.100",
+      "summary": "当市场增速放缓、消费趋于理性，传统“以价换量”的增长逻辑已难以为继，头部品牌纷纷将目光投向技术深耕与战略转型的深水区。AI赋能、健康理念、高端化布局、跨界融合……这些关键词正重塑着家用电器行业的竞争格局。本期世研指数榜单聚焦家用电器行业，透过热度指数，带你洞察这场由技术驱动、战略引领的产业变革浪潮。美的、格力和松下分别以1.92、1.71和1.68的综合热度指数位列榜单Top3。AI+健康探索真智能，驱动品牌向出风形态和节能算法等技术革新。从细分赛道来看，面对家用空调市场“以价换量”趋势，主流品牌正通过产品创新和技术突破，构建新的增长引擎。其中，居于榜首的美的在近期推出2025年家用战略新品双出风中央空调，以颠覆性的出风形态革新和场景化技术突破，为用户带来了全新舒适体验。新品上市便迅速引爆市场。排名上升六位的格力则于包头举办新品品鉴会，重点推出光伏家用空调和AI冷静王系列空调，主打“AI+节能”双轮驱动，顺应了低碳生活和智能控制的双重趋势。海尔则更注重全屋空气解决方案的构建，在郑州召开年度空气产业开盘大会，发布了云溪空调、聪明风系列和洗空气系列三大产品，分别强调“强冷强热强能效”“AI人感技术避直吹”以及“离子洗空气科技”。同时率先发布行业首个 AI空调团体标准，定义“真智能”边界，为全屋空气方案的智能化奠定基础。显示出“智能”与“健康”已成为产品定位的关键词。主流品牌纷纷布局AI人感技术、空气净化功能、能源管理系统，甚至跨界整合光伏、物联网等技术，构建差异化竞争力。行业增速放缓背景下，高端化与跨界战略转型驱动品牌逆势增长。从上榜品牌热度及同期发布的财务数据来看，反映了企业战略转型和业务调整的深层动向。以排名上涨五位的创维品牌为例，本月发布2025年中期业绩报告，整体营收362.64亿元，较同期增长20.3%。值得关注的是，增长主要动力并非来自传统家电业务，而是得益于新能源业务的亮眼表现，标志着品牌战略转型效果显著。反映出一类家电企业的共同选择：在主业增长放缓的背景下，通过跨界布局寻找第二增长曲线。另一方面，高端化成为头部企业抵御行业周期、提升盈利能力的核心战略。海尔智家半年报和Gfk中怡康数据显示，卡萨帝是上半年唯一实现全品类正增长的高端品牌，这一成绩在行业整体增速放缓的背景下尤为突出，凸显以原创科技和场景解决方案构建的差异化竞争力。以及海信中期业绩披露，2025前8月TCLMini LED TV全球出货量同比+124%，75\"及以上大屏+138%，高端化同样成效明显。榜单说明世研消费指南针系列指数报告是由世研指数独家研发的消费指数评价系统。本系列包括《品牌消费热门指数榜》、《行业消费热力指数榜》、《产品消费热浪指数榜》、《消费热门事件榜》等主要榜单，以及对应范围的延伸性榜单报告。旨在通过指数评价的方式，客观、真实地呈现消费世界的趋势特点，帮助行业与品牌主持续追踪消费市场趋势、为企业经营提供参考，提升商业综合竞争力。世研消费指南针系列指数榜单持续监测行业如下：3C数码、鞋服配饰、食品生鲜、家用电器、运动户外、美妆清洁、母婴用品、家居家装、汽车消费、玩模乐器、宠物用品，医疗健康共计12大行业。免责声明本榜单由世研指数独家编制，榜单观点、结论和建议仅供参考之用，并不代表任何具体的投资建议或决策依据。榜单数据计算结合主流平台公开数据与值得买科技旗下世研大消费平台数据沉淀，我们已采取合理措施，以尽量确保所提供数据的可靠性和准确性，但无法排除数据本身的局限性导致部分误差或偏差。此外，本报告中的部分数据未经独立第三方审计机构的正式审计，因此可能存在未被识别的错误或遗漏。特别提醒，市场情况随时可能发生改变，因此报告中的预测、分析和结论可能与实际情况有所不同。报告中提到的任何第三方名称、品牌或产品仅供说明之用，并不构成对其的认可或推荐。任何对这些第三方的提及不应被视为任何形式的背书或推荐。报告的版权属于值得买科技集团和世研指数所有，未经许可不得复制或分发。对于因使用本报告中的信息而导致的任何损失或损害，值得买科技集团与世研指数不承担任何法律责任。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-27 17:36:24",
+      "original_language": "zh",
+      "original_title": "家电消费新主张，要大美好，更要“真智能”｜世研消费指数品牌榜Vol.100",
+      "source_url": "https://36kr.com/p/3657388456338057?f=rss",
+      "id": 396,
+      "track": "rss",
+      "original_source": "36氪"
+    },
+    {
       "title": "Google Calendar中的Gemini功能现在可以帮助您为所有参会者找到最佳会议时间",
       "summary": "Google Calendar获得了新的Gemini驱动的建议时间功能，以帮助用户为所有参与者找到最合适的会议时间。\n\n原文链接：[Digital Trends](https://www.digitaltrends.com/computing/gemini-in-google-calendar-now-helps-you-find-the-best-meeting-time-for-all-attendees/)",
       "is_legal": true,
@@ -5035,7 +5152,7 @@
       "original_language": "en",
       "original_title": "Gemini in Google Calendar now helps you find the best meeting time for all attendees",
       "source_url": "https://www.digitaltrends.com/computing/gemini-in-google-calendar-now-helps-you-find-the-best-meeting-time-for-all-attendees/",
-      "id": 388,
+      "id": 397,
       "track": "rss",
       "original_source": "Digital Trends"
     },
@@ -5048,7 +5165,7 @@
       "original_language": "en",
       "original_title": "Qualcomm’s Snapdragon 8 Elite Gen 6 Pro may reach 5.0GHz with Samsung heat tech",
       "source_url": "https://www.digitaltrends.com/phones/qualcomms-snapdragon-8-elite-gen-6-pro-may-reach-5-0ghz-with-samsung-heat-tech/",
-      "id": 389,
+      "id": 398,
       "track": "rss",
       "original_source": "Digital Trends"
     },
@@ -5061,7 +5178,7 @@
       "original_language": "en",
       "original_title": "Waymo triggers another probe over its robotaxis passing stopped school buses",
       "source_url": "https://www.digitaltrends.com/cars/waymo-triggers-another-probe-over-its-robotaxis-passing-stopped-school-buses/",
-      "id": 390,
+      "id": 399,
       "track": "rss",
       "original_source": "Digital Trends"
     },
@@ -5074,7 +5191,7 @@
       "original_language": "zh",
       "original_title": "讯飞星辰智能体平台发布升级，打通“感知”到“执行”全链路",
       "source_url": "https://www.qbitai.com/2026/01/372747.html",
-      "id": 391,
+      "id": 400,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -5087,7 +5204,7 @@
       "original_language": "en",
       "original_title": "Synthesia hits $4B valuation, lets employees cash out",
       "source_url": "https://techcrunch.com/2026/01/26/synthesia-hits-4b-valuation-lets-employees-cash-in/",
-      "id": 392,
+      "id": 401,
       "track": "rss",
       "original_source": "TechCrunch AI"
     },
@@ -5100,7 +5217,7 @@
       "original_language": "en",
       "original_title": "Nvidia invests $2B to help debt-ridden CoreWeave add 5GW of AI compute",
       "source_url": "https://techcrunch.com/2026/01/26/nvidia-invests-2b-to-help-debt-ridden-coreweave-add-5gw-of-ai-compute/",
-      "id": 393,
+      "id": 402,
       "track": "rss",
       "original_source": "TechCrunch AI"
     },
@@ -5113,7 +5230,7 @@
       "original_language": "en",
       "original_title": "Nvidia’s new AI weather models probably saw this storm coming weeks ago",
       "source_url": "https://techcrunch.com/2026/01/26/nvidias-new-ai-weather-models-probably-saw-this-storm-coming-weeks-ago/",
-      "id": 394,
+      "id": 403,
       "track": "rss",
       "original_source": "TechCrunch AI"
     },
@@ -5126,7 +5243,7 @@
       "original_language": "en",
       "original_title": "AI startup CVector raises $5M for its industrial ‘nervous system’",
       "source_url": "https://techcrunch.com/2026/01/26/ai-startup-cvector-raises-5m-for-its-industrial-nervous-system/",
-      "id": 395,
+      "id": 404,
       "track": "rss",
       "original_source": "TechCrunch AI"
     },
@@ -5139,7 +5256,7 @@
       "original_language": "en",
       "original_title": "Anthropic launches interactive Claude apps, including Slack and other workplace tools",
       "source_url": "https://techcrunch.com/2026/01/26/anthropic-launches-interactive-claude-apps-including-slack-and-other-workplace-tools/",
-      "id": 396,
+      "id": 405,
       "track": "rss",
       "original_source": "TechCrunch AI"
     },
@@ -5152,7 +5269,7 @@
       "original_language": "en",
       "original_title": "Qualcomm backs SpotDraft to scale on-device contract AI with valuation doubling toward $400M",
       "source_url": "https://techcrunch.com/2026/01/26/qualcomm-backs-spotdraft-to-scale-on-device-contract-ai-with-valuation-doubling-toward-400m/",
-      "id": 397,
+      "id": 406,
       "track": "rss",
       "original_source": "TechCrunch AI"
     },
@@ -5165,7 +5282,7 @@
       "original_language": "en",
       "original_title": "YouTubers sue Snap for alleged copyright infringement in training its AI models",
       "source_url": "https://techcrunch.com/2026/01/26/youtubers-sue-snap-for-alleged-copyright-infringement-in-training-its-ai-models/",
-      "id": 398,
+      "id": 407,
       "track": "rss",
       "original_source": "TechCrunch AI"
     },
@@ -5178,7 +5295,7 @@
       "original_language": "zh",
       "original_title": "Skills刚火，就有零Skill的Agent来了…",
       "source_url": "https://www.qbitai.com/2026/01/372751.html",
-      "id": 399,
+      "id": 408,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -5191,7 +5308,7 @@
       "original_language": "zh",
       "original_title": "3D版Nano Banana来了！AI修模成为现实，3D生成进入可编辑时代",
       "source_url": "https://www.qbitai.com/2026/01/372934.html",
-      "id": 400,
+      "id": 409,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -5204,7 +5321,7 @@
       "original_language": "unknown",
       "original_title": "年收入飙涨10倍，一家医疗公司接住了AGI",
       "source_url": "https://36kr.com/p/3647401456078465?f=rss",
-      "id": 401,
+      "id": 410,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -5217,7 +5334,7 @@
       "original_language": "unknown",
       "original_title": "8点1氪丨958g坚果礼盒仅33g坚果，百草味客服回应；49条中日航线取消全部航班；肯德基外卖涨价，堂食价格维持不变",
       "source_url": "https://36kr.com/p/3656915993337986?f=rss",
-      "id": 402,
+      "id": 411,
       "track": "rss",
       "original_source": "36氪"
     }
