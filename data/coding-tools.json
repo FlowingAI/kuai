@@ -1,7 +1,7 @@
 {
   "category": "AI编程工具进化",
-  "last_update": "2026-01-27 11:23:22 (北京时间)",
-  "total_count": 213,
+  "last_update": "2026-01-27 13:44:52 (北京时间)",
+  "total_count": 216,
   "news": [
     {
       "title": "AI代码审查泡沫",
@@ -2574,6 +2574,32 @@
       "original_source": "量子位"
     },
     {
+      "title": "3D版Nano Banana来了！AI修模成为现实，3D生成进入可编辑时代",
+      "summary": "中国团队率先交卷\n\n近日，一款名为Nano Banana的3D模型通过AI技术进行了修模，成为首个由AI进行修改的3D模型。这一突破标志着3D生成技术进入了一个新的时代，即可编辑时代。据悉，这一技术由我国某研究团队研发，他们利用AI算法对原始的3D模型进行了优化和修改，使其更加符合人类审美。这一成果在3D打印、游戏设计、影视制作等领域具有广泛的应用前景。\n\n新闻链接：https://www.qbitai.com/2026/01/372934.html",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-16 14:30:00",
+      "original_language": "zh",
+      "original_title": "3D版Nano Banana来了！AI修模成为现实，3D生成进入可编辑时代",
+      "source_url": "https://www.qbitai.com/2026/01/372934.html",
+      "id": 199,
+      "track": "rss",
+      "original_source": "量子位"
+    },
+    {
+      "title": "苹果推出新款AirTag，范围更广，查找性提升",
+      "summary": "苹果公司今日宣布推出新款AirTag，该设备具有更长的范围和改进的查找功能。新款AirTag采用了新的技术，使得用户可以更容易地追踪丢失的物品。苹果表示，新的AirTag具有更远的信号传输距离，并且与iPhone的兼容性得到了增强。此外，苹果还改进了AirTag的查找功能，使得用户可以通过iPhone的“查找我的”应用更快速地定位物品。新款AirTag将于2026年1月16日开始在全球范围内上市。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-16 14:30:00",
+      "original_language": "en",
+      "original_title": "Apple introduces new AirTag with longer range and improved findability",
+      "source_url": "https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/",
+      "id": 200,
+      "track": "rss",
+      "original_source": "Hacker News"
+    },
+    {
       "title": "成立两年半登顶全球AI创作社区，背后是中国团队在“卖情绪”？？",
       "summary": "应用/游戏/电影/音乐，一键高质量生成并发布",
       "is_legal": true,
@@ -2582,7 +2608,7 @@
       "original_language": "zh",
       "original_title": "成立两年半登顶全球AI创作社区，背后是中国团队在“卖情绪”？？",
       "source_url": "https://www.qbitai.com/2026/01/371570.html",
-      "id": 199,
+      "id": 201,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -2595,7 +2621,7 @@
       "original_language": "en",
       "original_title": "Losing 1½ Million Lines of Go",
       "source_url": "https://www.tbray.org/ongoing/When/202x/2026/01/14/Unicode-Properties",
-      "id": 200,
+      "id": 202,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -2608,7 +2634,7 @@
       "original_language": "en",
       "original_title": "Tech Is Fun Again: The Tech Monoculture Is Finally Breaking",
       "source_url": "http://www.jasonwillems.com/technology/2025/12/17/Tech-Is-Fun-Again/",
-      "id": 201,
+      "id": 203,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -2621,7 +2647,7 @@
       "original_language": "en",
       "original_title": "Qwen3-TTS Family Is Now Open Sourced: Voice Design, Clone, and Generation",
       "source_url": "https://qwen.ai/blog?id=qwen3tts-0115",
-      "id": 202,
+      "id": 204,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -2634,7 +2660,7 @@
       "original_language": "en",
       "original_title": "AI is a horse (2024)",
       "source_url": "https://kconner.com/2024/08/02/ai-is-a-horse.html",
-      "id": 203,
+      "id": 205,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -2647,7 +2673,7 @@
       "original_language": "en",
       "original_title": "From stealth blackout to whitelisting: Inside the Iranian shutdown",
       "source_url": "https://www.kentik.com/blog/from-stealth-blackout-to-whitelisting-inside-the-iranian-shutdown/",
-      "id": 204,
+      "id": 206,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -2660,7 +2686,7 @@
       "original_language": "unknown",
       "original_title": "Waiting for dawn in search: Search index, Google rulings and impact on Kagi",
       "source_url": "https://blog.kagi.com/waiting-dawn-search",
-      "id": 205,
+      "id": 207,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -2673,7 +2699,7 @@
       "original_language": "unknown",
       "original_title": "Gold Fever Cold and the True Adventures of Jack London in the Wild",
       "source_url": "https://www.smithsonianmag.com/history/gold-fever-deadly-cold-and-amazing-true-adventures-jack-london-wild-180973316/",
-      "id": 206,
+      "id": 208,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -2686,7 +2712,7 @@
       "original_language": "unknown",
       "original_title": "If You Think This Instrument Is Hard to Play, Try Building One",
       "source_url": "https://www.nytimes.com/2026/01/14/arts/music/oboe-laubin-jim-phelan.html",
-      "id": 207,
+      "id": 209,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -2699,7 +2725,7 @@
       "original_language": "unknown",
       "original_title": "After two years of vibecoding, I'm back to writing by hand [video]",
       "source_url": "https://www.youtube.com/watch?v=SKTsNV41DYg",
-      "id": 208,
+      "id": 210,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -2712,7 +2738,7 @@
       "original_language": "unknown",
       "original_title": "Postmortem: Our first VLEO satellite mission (with imagery and flight data)",
       "source_url": "https://albedo.com/post/clarity-1-what-worked-and-where-we-go-next",
-      "id": 209,
+      "id": 211,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -2725,7 +2751,7 @@
       "original_language": "unknown",
       "original_title": "The Responsibility of Intellectuals (1967)",
       "source_url": "https://www.nybooks.com/articles/1967/02/23/a-special-supplement-the-responsibility-of-intelle/",
-      "id": 210,
+      "id": 212,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -2738,7 +2764,7 @@
       "original_language": "unknown",
       "original_title": "Liquid Timer v2",
       "source_url": "https://www.producthunt.com/products/liquidtimers",
-      "id": 211,
+      "id": 213,
       "track": "rss",
       "original_source": "Product Hunt"
     },
@@ -2751,7 +2777,7 @@
       "original_language": "unknown",
       "original_title": "Video Games as Art",
       "source_url": "https://gwern.net/video-game-art",
-      "id": 212,
+      "id": 214,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -2764,7 +2790,20 @@
       "original_language": "unknown",
       "original_title": "The Hidden Engineering of Runways",
       "source_url": "https://practical.engineering/blog/2026/1/20/the-hidden-engineering-of-runways",
-      "id": 213,
+      "id": 215,
+      "track": "rss",
+      "original_source": "Hacker News"
+    },
+    {
+      "title": "People who know the formula for WD-40",
+      "summary": "Comments",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": null,
+      "original_language": "unknown",
+      "original_title": "People who know the formula for WD-40",
+      "source_url": "https://www.wsj.com/business/the-secret-society-of-people-who-know-the-formula-for-wd-40-e9c0ff54",
+      "id": 216,
       "track": "rss",
       "original_source": "Hacker News"
     }
