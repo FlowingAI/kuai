@@ -1,7 +1,7 @@
 {
   "category": "视频模型动态",
-  "last_update": "2026-01-27 13:44:52 (北京时间)",
-  "total_count": 161,
+  "last_update": "2026-01-27 17:49:16 (北京时间)",
+  "total_count": 165,
   "news": [
     {
       "title": "这份 2025 年度回忆，属于你和 AI 小电拼",
@@ -2089,6 +2089,58 @@
       "original_title": "3D版Nano Banana来了！AI修模成为现实，3D生成进入可编辑时代",
       "source_url": "https://www.qbitai.com/2026/01/372934.html",
       "id": 161,
+      "track": "rss",
+      "original_source": "量子位"
+    },
+    {
+      "title": "机器人看不清，蚂蚁给治好了",
+      "summary": "这是目前看得最清楚的深度视觉模型",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-16 14:30:00",
+      "original_language": "zh",
+      "original_title": "机器人看不清，蚂蚁给治好了",
+      "source_url": "https://www.qbitai.com/2026/01/372970.html",
+      "id": 162,
+      "track": "rss",
+      "original_source": "量子位"
+    },
+    {
+      "title": "阿里健康AI产品氢离子新功能上线：动态证据定位 让医学结论可验、可信、可用",
+      "summary": "阿里健康AI产品氢离子推出了新的功能——动态证据定位。这一功能旨在为医学答案提供“追踪器”，使得医学结论更加可验证、可信和可用。通过这一功能，用户可以追踪证据的来源和变化，从而提高医学决策的透明度和准确性。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "null",
+      "original_language": "zh",
+      "original_title": "阿里健康AI产品氢离子新功能上线：动态证据定位 让医学结论可验、可信、可用",
+      "source_url": "https://www.qbitai.com/2026/01/373020.html",
+      "id": 163,
+      "track": "rss",
+      "original_source": "量子位"
+    },
+    {
+      "title": "苹果可能对其原始的Siri人工智能功能进行了缩减",
+      "summary": "苹果下一代Siri的推出不会一次性完成。据报道，该公司正在将其对人工智能的雄心分阶段地贯穿于多个iOS版本和活动中。\n\n原文链接：[Apple may have scaled back a few of its original AI features for Siri](https://www.digitaltrends.com/cool-tech/apple-may-have-scaled-back-a-few-of-its-original-ai-features-for-siri/)",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-27 17:31:36",
+      "original_language": "en",
+      "original_title": "Apple may have scaled back a few of its original AI features for Siri",
+      "source_url": "https://www.digitaltrends.com/cool-tech/apple-may-have-scaled-back-a-few-of-its-original-ai-features-for-siri/",
+      "id": 164,
+      "track": "rss",
+      "original_source": "Digital Trends"
+    },
+    {
+      "title": "11.77亿资本押注卡车新势力一哥，L2升维路线率先在商用车跑通！",
+      "summary": "卖车年入数十亿\n\n原文链接：https://www.qbitai.com/2026/01/372848.html",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-27 17:30:15",
+      "original_language": "zh",
+      "original_title": "11.77亿资本押注卡车新势力一哥，L2升维路线率先在商用车跑通！",
+      "source_url": "https://www.qbitai.com/2026/01/372848.html",
+      "id": 165,
       "track": "rss",
       "original_source": "量子位"
     }
