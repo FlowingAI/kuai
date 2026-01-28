@@ -1,7 +1,7 @@
 {
   "category": "当前主流应用",
-  "last_update": "2026-01-28 22:02:45 (北京时间)",
-  "total_count": 492,
+  "last_update": "2026-01-29 01:46:27 (北京时间)",
+  "total_count": 495,
   "news": [
     {
       "title": "Yahoo Scout是一个想要挑战Perplexity和谷歌AI模式的AI‘答案引擎’",
@@ -6223,6 +6223,45 @@
       "original_source": "TechCrunch AI"
     },
     {
+      "title": "小型初创公司Arcee AI从头开始构建了400B的开源LLM，以超越Meta的Llama",
+      "summary": "由30人组成的初创公司Arcee AI发布了名为Trinity的400B模型，称这是美国公司中最大的开源基础模型之一。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-28 14:30:00",
+      "original_language": "en",
+      "original_title": "Tiny startup Arcee AI built a 400B open source LLM from scratch to best Meta’s Llama",
+      "source_url": "https://techcrunch.com/2026/01/28/tiny-startup-arcee-ai-built-a-400b-open-source-llm-from-scratch-to-best-metas-llama/",
+      "id": 480,
+      "track": "rss",
+      "original_source": "TechCrunch AI"
+    },
+    {
+      "title": "苹果新推出的Creator Studio Pro：AI是辅助创作工具，而非替代品",
+      "summary": "苹果的Creator Studio Pro利用人工智能来帮助创作者完成繁琐的任务，例如寻找剪辑或构建幻灯片，而不是试图为他们完成工作。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-28 14:30:00",
+      "original_language": "en",
+      "original_title": "With Apple’s new Creator Studio Pro, AI is a tool to aid creation, not replace it",
+      "source_url": "https://techcrunch.com/2026/01/28/with-apples-new-creator-studio-pro-ai-is-a-tool-to-aid-creation-not-replace-it/",
+      "id": 481,
+      "track": "rss",
+      "original_source": "TechCrunch AI"
+    },
+    {
+      "title": "人工智能基础设施热潮未见放缓迹象",
+      "summary": "ASML的创纪录订单显示，芯片制造商仍在大力押注人工智能数据中心。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-28 14:30:00",
+      "original_language": "en",
+      "original_title": "The AI infrastructure boom shows no sign of slowing down",
+      "source_url": "https://techcrunch.com/2026/01/28/the-ai-infrastructure-boom-shows-no-sign-of-slowing-down/",
+      "id": 482,
+      "track": "rss",
+      "original_source": "TechCrunch AI"
+    },
+    {
       "title": "奥特曼亲口承认 GPT-5.2 搞砸了，这是 OpenAI CEO 最特别的一次直播",
       "summary": "ChatGPT 掉队是不争的事实了吗？\n\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n\n爱范儿 |\n原文链接 ·\n查看评论 ·\n新浪微博\n\n新闻链接：https://www.ifanr.com/1653116?utm_source=rss&utm_medium=rss&utm_campaign=\n",
       "is_legal": true,
@@ -6231,7 +6270,7 @@
       "original_language": "zh",
       "original_title": "奥特曼亲口承认 GPT-5.2 搞砸了，这是 OpenAI CEO 最特别的一次直播",
       "source_url": "https://www.ifanr.com/1653116?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "id": 480,
+      "id": 483,
       "track": "rss",
       "original_source": "爱范儿"
     },
@@ -6244,7 +6283,7 @@
       "original_language": "zh",
       "original_title": "小马智行VS文远知行：既分高下也决生死",
       "source_url": "https://www.tmtpost.com/7858023.html",
-      "id": 481,
+      "id": 484,
       "track": "rss",
       "original_source": "钛媒体"
     },
@@ -6257,7 +6296,7 @@
       "original_language": "zh",
       "original_title": "朋友，给你的创业项目整点“AI+”？",
       "source_url": "https://www.tmtpost.com/7858106.html",
-      "id": 482,
+      "id": 485,
       "track": "rss",
       "original_source": "钛媒体"
     },
@@ -6270,7 +6309,7 @@
       "original_language": "zh",
       "original_title": "2026年，巨头疯抢这个赛道",
       "source_url": "https://www.tmtpost.com/7858339.html",
-      "id": 483,
+      "id": 486,
       "track": "rss",
       "original_source": "钛媒体"
     },
@@ -6283,7 +6322,7 @@
       "original_language": "zh",
       "original_title": "具身智能：在狂热中沉淀，在落地中破局",
       "source_url": "https://www.tmtpost.com/7858364.html",
-      "id": 484,
+      "id": 487,
       "track": "rss",
       "original_source": "钛媒体"
     },
@@ -6296,7 +6335,7 @@
       "original_language": "zh",
       "original_title": "蚂蚁灵波开源具身大模型LingBot-VLA，让机器人“看的更清楚 做的更明白”",
       "source_url": "https://www.qbitai.com/2026/01/373396.html",
-      "id": 485,
+      "id": 488,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -6309,7 +6348,7 @@
       "original_language": "zh",
       "original_title": "重塑海上出行：当船舶装上 “电动心脏” 与 “AI 大脑”｜OpenTalk直播预告",
       "source_url": "https://36kr.com/p/3658516751197060?f=rss",
-      "id": 486,
+      "id": 489,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -6322,7 +6361,7 @@
       "original_language": "zh",
       "original_title": "黄仁勋预言落地，物理AI开年第一枪竟是中国公司打响",
       "source_url": "https://www.qbitai.com/2026/01/373591.html",
-      "id": 487,
+      "id": 490,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -6335,7 +6374,7 @@
       "original_language": "zh",
       "original_title": "腾讯混元图像3.0图生图开源，LMArena跻身全球第一梯队，开源最强",
       "source_url": "https://www.qbitai.com/2026/01/373580.html",
-      "id": 488,
+      "id": 491,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -6348,7 +6387,7 @@
       "original_language": "zh",
       "original_title": "中国团队引领太空算力：首次太空在轨部署通用大模型，发2800颗卫星服务数亿硅基智能体",
       "source_url": "https://www.qbitai.com/2026/01/373666.html",
-      "id": 489,
+      "id": 492,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -6361,7 +6400,7 @@
       "original_language": "zh",
       "original_title": "推出具身智能脑机解决方案，傅利叶探索机器人的康养场景落地丨最前线",
       "source_url": "https://36kr.com/p/3658914633228933?f=rss",
-      "id": 490,
+      "id": 493,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -6373,7 +6412,7 @@
       "publish_time": "2025-01-16 14:30:00",
       "original_title": "英特尔的「特斯拉困境」",
       "source_url": "https://36kr.com/p/3658743480804230?f=rss",
-      "id": 491,
+      "id": 494,
       "track": "rss",
       "original_source": "36氪"
     },
@@ -6386,7 +6425,7 @@
       "original_language": "unknown",
       "original_title": "为什么卡牌公司上市难？",
       "source_url": "https://36kr.com/p/3658744522711944?f=rss",
-      "id": 492,
+      "id": 495,
       "track": "rss",
       "original_source": "36氪"
     }
