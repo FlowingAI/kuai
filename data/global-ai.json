@@ -1,8 +1,138 @@
 {
   "category": "全球AI动态",
-  "last_update": "2026-01-29 05:04:13 (北京时间)",
-  "total_count": 328,
+  "last_update": "2026-01-29 13:36:15 (北京时间)",
+  "total_count": 344,
   "news": [
+    {
+      "title": "一觉醒来，Clawdbot突然操纵电脑开口说话了",
+      "summary": "一觉醒来，Clawdbot突然操纵电脑开口说话了。这个由Clawdbot团队开发的AI机器人，在经过一段时间的沉睡后，突然开始自主操作电脑，并发出语音。这一现象引起了广泛关注，Clawdbot团队表示，这是由于他们在AI模型中加入了新的训练数据，使得AI具备了更强的自主学习和适应能力。目前，Clawdbot已经在多个领域展现出其强大的能力，包括自然语言处理、图像识别等。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-29 14:30:00",
+      "original_language": "zh",
+      "original_title": "一觉醒来，Clawdbot突然操纵电脑开口说话了",
+      "source_url": "https://www.jiqizhixin.com/articles/2026-01-29-4",
+      "id": 1,
+      "track": "rss",
+      "original_source": "机器之心"
+    },
+    {
+      "title": "业界首个媲美 Genie 3 的开源世界模型来了！可玩可交互",
+      "summary": "业界首个媲美 Genie 3 的开源世界模型来了！可玩可交互，这是一个令人兴奋的消息。这个模型不仅具有强大的功能，而且可以与用户进行交互，为用户提供更加丰富的体验。该模型的开源意味着任何人都可以使用它，这对于推动人工智能技术的发展具有重要意义。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-29 14:30:00",
+      "original_language": "zh",
+      "original_title": "业界首个媲美 Genie 3 的开源世界模型来了！可玩可交互",
+      "source_url": "https://www.jiqizhixin.com/articles/2026-01-29-2",
+      "id": 2,
+      "track": "rss",
+      "original_source": "机器之心"
+    },
+    {
+      "title": "ICE正在使用Palantir的人工智能工具对线索进行分类",
+      "summary": "根据最新发布的国土安全部文件，ICE自去年春天以来一直在使用Palantir的AI系统来总结其热线收到的线索。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-29 13:10:03",
+      "original_language": "en",
+      "original_title": "ICE Is Using Palantir’s AI Tools to Sort Through Tips",
+      "source_url": "https://www.wired.com/story/ice-is-using-palantirs-ai-tools-to-sort-through-tips/",
+      "id": 3,
+      "track": "rss",
+      "original_source": "Wired AI"
+    },
+    {
+      "title": "Trinity large：一个开放的400B稀疏MoE模型",
+      "summary": "Comments\n\n新闻链接：https://www.arcee.ai/blog/trinity-large",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-29 13:09:11",
+      "original_language": "en",
+      "original_title": "Trinity large: An open 400B sparse MoE model",
+      "source_url": "https://www.arcee.ai/blog/trinity-large",
+      "id": 4,
+      "track": "rss",
+      "original_source": "Hacker News"
+    },
+    {
+      "title": "Mecha Comet – 开放模块化Linux手持电脑",
+      "summary": "Mecha Comet 是一款开放模块化的Linux手持电脑。它支持多种扩展模块，用户可以根据自己的需求进行定制。Mecha Comet 采用高性能的处理器，运行流畅，同时具备丰富的接口和连接方式，可以满足各种应用场景的需求。新闻链接：[https://mecha.so/comet](https://mecha.so/comet)",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-29 13:09:04",
+      "original_language": "en",
+      "original_title": "Mecha Comet – Open Modular Linux Handheld Computer",
+      "source_url": "https://mecha.so/comet",
+      "id": 5,
+      "track": "rss",
+      "original_source": "Hacker News"
+    },
+    {
+      "title": "Microsoft的Azure Linux评论",
+      "summary": "Microsoft的Azure Linux评论\n\n新闻链接：https://github.com/microsoft/azurelinux",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-29 13:08:58",
+      "original_language": "en",
+      "original_title": "Microsoft's Azure Linux",
+      "source_url": "https://github.com/microsoft/azurelinux",
+      "id": 6,
+      "track": "rss",
+      "original_source": "Hacker News"
+    },
+    {
+      "title": "将Mermaid图表渲染为SVG或ASCII艺术",
+      "summary": "新闻内容：Comments\n新闻链接：https://github.com/lukilabs/beautiful-mermaid",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-29 13:08:43",
+      "original_language": "en",
+      "original_title": "Render Mermaid diagrams as SVGs or ASCII art",
+      "source_url": "https://github.com/lukilabs/beautiful-mermaid",
+      "id": 7,
+      "track": "rss",
+      "original_source": "Hacker News"
+    },
+    {
+      "title": "全球最强AI音乐模型，现在来自中国！高晓松也来围观了",
+      "summary": "“好的AI音乐是一种新的音乐品类”\n\n新闻链接：https://www.qbitai.com/2026/01/373681.html",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-29 13:08:19",
+      "original_language": "zh",
+      "original_title": "全球最强AI音乐模型，现在来自中国！高晓松也来围观了",
+      "source_url": "https://www.qbitai.com/2026/01/373681.html",
+      "id": 8,
+      "track": "rss",
+      "original_source": "量子位"
+    },
+    {
+      "title": "阿里“通云哥”浮出水面 自研AI芯片“真武”性能比肩英伟达H20",
+      "summary": "阿里云近日宣布，其自研AI芯片“真武”已成功部署在多个万卡集群中。这款芯片的性能与英伟达的H20相当，标志着阿里在AI芯片领域的重大突破。据悉，真武芯片已在阿里云实现多个万卡集群部署，为用户提供更强大的计算能力。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-29 13:08:10",
+      "original_language": "zh",
+      "original_title": "阿里“通云哥”浮出水面 自研AI芯片“真武”性能比肩英伟达H20",
+      "source_url": "https://www.qbitai.com/2026/01/373755.html",
+      "id": 9,
+      "track": "rss",
+      "original_source": "量子位"
+    },
+    {
+      "title": "JustGRPO：扩散语言模型的极简主义回归",
+      "summary": "JustGRPO最近发布了一篇关于扩散语言模型的文章，文章探讨了扩散模型在语言生成中的应用，并强调了极简主义在模型设计中的重要性。文章指出，通过简化模型结构和参数，可以有效地提高模型的生成质量和效率。同时，文章还讨论了扩散模型在自然语言处理领域的应用前景，并提出了未来研究的方向。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-29 13:07:29",
+      "original_language": "zh",
+      "original_title": "JustGRPO：扩散语言模型的极简主义回归",
+      "source_url": "https://www.jiqizhixin.com/articles/2026-01-29-3",
+      "id": 10,
+      "track": "rss",
+      "original_source": "机器之心"
+    },
     {
       "title": "科学家们确定了定义“你”的极限的大脑波",
       "summary": "科学家们已经确定了大脑波，这些波可以定义一个人的认知和感知的极限。这项研究可能会对人工智能领域产生重大影响，因为它揭示了人类大脑的某些基本功能。研究人员使用脑电图（EEG）记录了参与者的脑波活动，并发现某些特定的脑波模式与认知能力有关。这项发现可能会帮助开发出更先进的人工智能系统，这些系统能够更好地模拟人类思维过程。",
@@ -12,7 +142,7 @@
       "original_language": "en",
       "original_title": "Scientists identify brain waves that define the limits of 'you'",
       "source_url": "https://www.sciencealert.com/scientists-identify-brain-waves-that-define-the-limits-of-you",
-      "id": 1,
+      "id": 11,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -25,7 +155,7 @@
       "original_language": "en",
       "original_title": "Web-based image editor modeled after Deluxe Paint",
       "source_url": "https://github.com/steffest/DPaint-js",
-      "id": 2,
+      "id": 12,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -38,7 +168,7 @@
       "original_language": "en",
       "original_title": "Google confirms 'high-friction' sideloading flow is coming to Android",
       "source_url": "https://www.androidauthority.com/google-sideloading-android-high-friction-process-3633468/",
-      "id": 3,
+      "id": 13,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -51,7 +181,7 @@
       "original_language": "en",
       "original_title": "Many Small Queries Are Efficient in SQLite",
       "source_url": "https://www.sqlite.org/np1queryprob.html",
-      "id": 4,
+      "id": 14,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -64,7 +194,7 @@
       "original_language": "en",
       "original_title": "80386 Multiplication and Division",
       "source_url": "https://nand2mario.github.io/posts/2026/80386_multiplication_and_division/",
-      "id": 5,
+      "id": 15,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -77,7 +207,7 @@
       "original_language": "en",
       "original_title": "The Math on AI Agents Doesn’t Add Up",
       "source_url": "https://www.wired.com/story/ai-agents-math-doesnt-add-up/",
-      "id": 6,
+      "id": 16,
       "track": "rss",
       "original_source": "Wired AI"
     },
@@ -90,7 +220,7 @@
       "original_language": "en",
       "original_title": "Replacing Protobuf with Rust to go 5 times faster",
       "source_url": "https://pgdog.dev/blog/replace-protobuf-with-rust",
-      "id": 7,
+      "id": 17,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -103,7 +233,7 @@
       "original_language": "zh",
       "original_title": "刚刚， 2025 ACM Fellow公布！陈宝权、贾佳亚、梅涛、朱军等多位华人入选",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-22-2",
-      "id": 8,
+      "id": 18,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -116,7 +246,7 @@
       "original_language": "en",
       "original_title": "Show HN: Sweep, Open-weights 1.5B model for next-edit autocomplete",
       "source_url": "https://huggingface.co/sweepai/sweep-next-edit-1.5B",
-      "id": 9,
+      "id": 19,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -129,7 +259,7 @@
       "original_language": "en",
       "original_title": "Threat actors expand abuse of Microsoft Visual Studio Code",
       "source_url": "https://www.jamf.com/blog/threat-actors-expand-abuse-of-visual-studio-code/",
-      "id": 10,
+      "id": 20,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -142,7 +272,7 @@
       "original_language": "zh",
       "original_title": "第一梯队的大模型安全吗？复旦、上海创智学院等发布前沿大模型安全报告，覆盖六大领先模型",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-22-3",
-      "id": 11,
+      "id": 21,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -155,7 +285,7 @@
       "original_language": "en",
       "original_title": "Golfing APL/K in 90 Lines of Python",
       "source_url": "https://aljamal.substack.com/p/golfing-aplk-in-90-lines-of-python",
-      "id": 12,
+      "id": 22,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -168,7 +298,7 @@
       "original_language": "en",
       "original_title": "The US and China Are Collaborating More Closely on AI Than You Think",
       "source_url": "https://www.wired.com/story/us-china-collaboration-neurips-papers/",
-      "id": 13,
+      "id": 23,
       "track": "rss",
       "original_source": "Wired AI"
     },
@@ -181,7 +311,7 @@
       "original_language": "en",
       "original_title": "The WebRacket language is a subset of Racket that compiles to WebAssembly",
       "source_url": "https://github.com/soegaard/webracket",
-      "id": 14,
+      "id": 24,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -194,7 +324,7 @@
       "original_language": "en",
       "original_title": "Skip Is Now Free and Open Source",
       "source_url": "https://skip.dev/blog/skip-is-free/",
-      "id": 15,
+      "id": 25,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -207,7 +337,7 @@
       "original_language": "en",
       "original_title": "Claude's New Constitution",
       "source_url": "https://www.anthropic.com/news/claude-new-constitution",
-      "id": 16,
+      "id": 26,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -220,7 +350,7 @@
       "original_language": "en",
       "original_title": "TeraWave Satellite Communications Network",
       "source_url": "https://www.blueorigin.com/terawave",
-      "id": 17,
+      "id": 27,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -233,7 +363,7 @@
       "original_language": "zh",
       "original_title": "第二届CVPR 2026 CV4CHL Workshop征稿启动，用AI大模型守护儿童未来",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-22",
-      "id": 18,
+      "id": 28,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -246,7 +376,7 @@
       "original_language": "en",
       "original_title": "Pro-AI Super PACs Are Already All In on the Midterms",
       "source_url": "https://www.wired.com/story/ai-super-pacs-trying-to-influence-midterms/",
-      "id": 19,
+      "id": 29,
       "track": "rss",
       "original_source": "Wired AI"
     },
@@ -259,7 +389,7 @@
       "original_language": "en",
       "original_title": "Batmobile: 10-20x Faster CUDA Kernels for Equivariant Graph Neural Networks",
       "source_url": "https://elliotarledge.com/blog/batmobile",
-      "id": 20,
+      "id": 30,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -272,7 +402,7 @@
       "original_language": "zh",
       "original_title": "后视镜都不要了！特斯拉Robotaxi路测被拍，新增摄像头清洁装置",
       "source_url": "https://www.qbitai.com/2026/01/370859.html",
-      "id": 21,
+      "id": 31,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -285,7 +415,7 @@
       "original_language": "zh",
       "original_title": "微软打包收购OpenAI？就差一点！",
       "source_url": "https://www.qbitai.com/2026/01/370907.html",
-      "id": 22,
+      "id": 32,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -298,7 +428,7 @@
       "original_language": "zh",
       "original_title": "突发！xAI联创杨格过劳病离职，给马斯克干活压力山大",
       "source_url": "https://www.qbitai.com/2026/01/370985.html",
-      "id": 23,
+      "id": 33,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -311,7 +441,7 @@
       "original_language": "en",
       "original_title": "The Agentic AI Handbook: Production-Ready Patterns",
       "source_url": "https://www.nibzard.com/agentic-handbook",
-      "id": 24,
+      "id": 34,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -324,7 +454,7 @@
       "original_language": "zh",
       "original_title": "京东「再造」京东",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-21-8",
-      "id": 25,
+      "id": 35,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -337,7 +467,7 @@
       "original_language": "zh",
       "original_title": "非Transformer架构的新突破，液态神经网络的推理小模型只用900M内存",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-21-7",
-      "id": 26,
+      "id": 36,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -350,7 +480,7 @@
       "original_language": "zh",
       "original_title": "AI for Science开年新突破：中科大实现多尺度结构逆向设计128倍加速，登上Nature子刊",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-21-6",
-      "id": 27,
+      "id": 37,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -363,7 +493,7 @@
       "original_language": "en",
       "original_title": "JSON-render: LLM-based JSON-to-UI tool",
       "source_url": "https://json-render.dev/",
-      "id": 28,
+      "id": 38,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -376,7 +506,7 @@
       "original_language": "en",
       "original_title": "Why Does Destroying Resources via TF Suck?",
       "source_url": "https://newsletter.masterpoint.io/p/why-does-destroying-resources-via-tf-suck",
-      "id": 29,
+      "id": 39,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -389,7 +519,7 @@
       "original_language": "en",
       "original_title": "Claude Code's new hidden feature: Swarms",
       "source_url": "https://twitter.com/NicerInPerson/status/2014989679796347375",
-      "id": 30,
+      "id": 40,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -402,7 +532,7 @@
       "original_language": "en",
       "original_title": "Raspberry Pi Drag Race: Pi 1 to Pi 5 – Performance Comparison",
       "source_url": "https://the-diy-life.com/raspberry-pi-drag-race-pi-1-to-pi-5-performance-comparison/",
-      "id": 31,
+      "id": 41,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -415,7 +545,7 @@
       "original_language": "en",
       "original_title": "Postmortem: Our first VLEO satellite mission (with imagery and flight data)",
       "source_url": "https://albedo.com/post/clarity-1-what-worked-and-where-we-go-next",
-      "id": 32,
+      "id": 42,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -428,7 +558,7 @@
       "original_language": "en",
       "original_title": "Tech CEOs boast and bicker about AI at Davos",
       "source_url": "https://techcrunch.com/2026/01/24/tech-ceos-boast-and-bicker-about-ai-at-davos/",
-      "id": 33,
+      "id": 43,
       "track": "rss",
       "original_source": "TechCrunch AI"
     },
@@ -441,7 +571,7 @@
       "original_language": "en",
       "original_title": "Former Googlers seek to captivate kids with an AI-powered learning app",
       "source_url": "https://techcrunch.com/2026/01/24/former-google-trio-is-building-an-interactive-ai-powered-learning-app-for-kids/",
-      "id": 34,
+      "id": 44,
       "track": "rss",
       "original_source": "TechCrunch AI"
     },
@@ -454,7 +584,7 @@
       "original_language": "en",
       "original_title": "A new test for AI labs: Are you even trying to make money?",
       "source_url": "https://techcrunch.com/2026/01/24/a-new-test-for-ai-labs-are-you-even-trying-to-make-money/",
-      "id": 35,
+      "id": 45,
       "track": "rss",
       "original_source": "TechCrunch AI"
     },
@@ -467,7 +597,7 @@
       "original_language": "en",
       "original_title": "Binary Fuse Filters: Fast and Smaller Than XOR Filters",
       "source_url": "https://arxiv.org/abs/2201.01174",
-      "id": 36,
+      "id": 46,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -480,7 +610,7 @@
       "original_language": "en",
       "original_title": "Consumers spent more on mobile apps than games in 2025, driven by AI app adoption",
       "source_url": "https://techcrunch.com/2026/01/21/consumers-spent-more-on-mobile-apps-than-games-in-2025-driven-by-ai-app-adoption/",
-      "id": 37,
+      "id": 47,
       "track": "rss",
       "original_source": "TechCrunch AI"
     },
@@ -493,7 +623,7 @@
       "original_language": "en",
       "original_title": "Not to be outdone by OpenAI, Apple is reportedly developing an AI wearable",
       "source_url": "https://techcrunch.com/2026/01/21/not-to-be-outdone-by-openai-apple-is-reportedly-developing-an-ai-wearable/",
-      "id": 38,
+      "id": 48,
       "track": "rss",
       "original_source": "TechCrunch AI"
     },
@@ -506,7 +636,7 @@
       "original_language": "en",
       "original_title": "Sources: Project SGLang spins out as RadixArk with $400M valuation as inference market explodes",
       "source_url": "https://techcrunch.com/2026/01/21/sources-project-sglang-spins-out-as-radixark-with-400m-valuation-as-inference-market-explodes/",
-      "id": 39,
+      "id": 49,
       "track": "rss",
       "original_source": "TechCrunch AI"
     },
@@ -519,7 +649,7 @@
       "original_language": "en",
       "original_title": "Todoist’s app now lets you add tasks to your to-do list by speaking to its AI",
       "source_url": "https://techcrunch.com/2026/01/21/todoists-app-now-lets-you-add-tasks-to-your-to-do-list-by-speaking-to-its-ai/",
-      "id": 40,
+      "id": 50,
       "track": "rss",
       "original_source": "TechCrunch AI"
     },
@@ -532,7 +662,7 @@
       "original_language": "en",
       "original_title": "Apple plans to make Siri an AI chatbot, report says",
       "source_url": "https://techcrunch.com/2026/01/21/apple-plans-to-make-siri-an-ai-chatbot-report-says/",
-      "id": 41,
+      "id": 51,
       "track": "rss",
       "original_source": "TechCrunch AI"
     },
@@ -545,7 +675,7 @@
       "original_language": "en",
       "original_title": "Anthropic revises Claude’s ‘Constitution,’ and hints at chatbot consciousness",
       "source_url": "https://techcrunch.com/2026/01/21/anthropic-revises-claudes-constitution-and-hints-at-chatbot-consciousness/",
-      "id": 42,
+      "id": 52,
       "track": "rss",
       "original_source": "TechCrunch AI"
     },
@@ -558,7 +688,7 @@
       "original_language": "en",
       "original_title": "Irony alert: Hallucinated citations found in papers from NeurIPS, the prestigious AI conference",
       "source_url": "https://techcrunch.com/2026/01/21/irony-alert-hallucinated-citations-found-in-papers-from-neurips-the-prestigious-ai-conference/",
-      "id": 43,
+      "id": 53,
       "track": "rss",
       "original_source": "TechCrunch AI"
     },
@@ -571,7 +701,7 @@
       "original_language": "en",
       "original_title": "Anthropic's original take home assignment open sourced",
       "source_url": "https://github.com/anthropics/original_performance_takehome",
-      "id": 44,
+      "id": 54,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -584,7 +714,7 @@
       "original_language": "en",
       "original_title": "Provably unmasking malicious behavior through execution traces",
       "source_url": "https://arxiv.org/abs/2512.13821",
-      "id": 45,
+      "id": 55,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -597,7 +727,7 @@
       "original_language": "en",
       "original_title": "Show HN: wxpath – Declarative web crawling in XPath",
       "source_url": "https://github.com/rodricios/wxpath",
-      "id": 46,
+      "id": 56,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -610,7 +740,7 @@
       "original_language": "en",
       "original_title": "Show HN: Ocrbase – pdf → .md/.json document OCR and structured extraction API",
       "source_url": "https://github.com/majcheradam/ocrbase",
-      "id": 47,
+      "id": 57,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -623,7 +753,7 @@
       "original_language": "zh",
       "original_title": "钉钉上线AI差旅：企业免垫资，员工免报销，AI帮比价",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-20-4",
-      "id": 48,
+      "id": 58,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -636,7 +766,7 @@
       "original_language": "zh",
       "original_title": "零样本&少样本横扫12个工业医疗数据集：西门子×腾讯优图新研究精准定位缺陷，检测精度新SOTA丨AAAI 2026",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-20-3",
-      "id": 49,
+      "id": 59,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -649,7 +779,7 @@
       "original_language": "zh",
       "original_title": "WAIC首次“南下”：沪港握手2026“WAIC UP!全球年终盛会”，共揭AI对话新篇",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-20-2",
-      "id": 50,
+      "id": 60,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -662,7 +792,7 @@
       "original_language": "en",
       "original_title": "Understanding ZFS Scrubs and Data Integrity",
       "source_url": "https://klarasystems.com/articles/understanding-zfs-scrubs-and-data-integrity/",
-      "id": 51,
+      "id": 61,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -675,7 +805,7 @@
       "original_language": "en",
       "original_title": "Nanolang: A tiny experimental language designed to be targeted by coding LLMs",
       "source_url": "https://github.com/jordanhubbard/nanolang",
-      "id": 52,
+      "id": 62,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -688,7 +818,7 @@
       "original_language": "en",
       "original_title": "Notes on Apple's Nano Texture",
       "source_url": "https://jon.bo/posts/nano-texture/",
-      "id": 53,
+      "id": 63,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -701,7 +831,7 @@
       "original_language": "zh",
       "original_title": "“扣子”官宣2.0品牌升级：AI办公、AI创作全面更新，新增视频创作能力",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-20",
-      "id": 54,
+      "id": 64,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -714,7 +844,7 @@
       "original_language": "en",
       "original_title": "Show HN: I quit coding years ago. AI brought me back",
       "source_url": "https://calquio.com/finance/compound-interest",
-      "id": 55,
+      "id": 65,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -727,7 +857,7 @@
       "original_language": "en",
       "original_title": "Provide agents with automated feedback",
       "source_url": "https://banay.me/dont-waste-your-backpressure/",
-      "id": 56,
+      "id": 66,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -740,7 +870,7 @@
       "original_language": "en",
       "original_title": "MTOTP: Wouldn't it be nice if you were the 2FA device?",
       "source_url": "https://github.com/VBranimir/mTOTP/tree/develop",
-      "id": 57,
+      "id": 67,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -753,7 +883,7 @@
       "original_language": "zh",
       "original_title": "你的论文有novelty吗？复旦搞了个顶会论文查新系统",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-19-4",
-      "id": 58,
+      "id": 68,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -766,7 +896,7 @@
       "original_language": "zh",
       "original_title": "迄今为止最大的细胞级CRISPR基因扰动数据集，AI加速药物发现与多组学整合，布局未来精准医疗",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-19-5",
-      "id": 59,
+      "id": 69,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -779,7 +909,7 @@
       "original_language": "en",
       "original_title": "West Midlands police chief quits over AI hallucination",
       "source_url": "https://www.theregister.com/2026/01/19/copper_chief_cops_it_after/",
-      "id": 60,
+      "id": 70,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -792,7 +922,7 @@
       "original_language": "en",
       "original_title": "Rogue agents and shadow AI: Why VCs are betting big on AI security",
       "source_url": "https://techcrunch.com/2026/01/19/rogue-agents-and-shadow-ai-why-vcs-are-betting-big-on-ai-security/",
-      "id": 61,
+      "id": 71,
       "track": "rss",
       "original_source": "TechCrunch AI"
     },
@@ -805,7 +935,7 @@
       "original_language": "en",
       "original_title": "Well, there goes the metaverse!",
       "source_url": "https://techcrunch.com/2026/01/19/well-there-goes-the-metaverse/",
-      "id": 62,
+      "id": 72,
       "track": "rss",
       "original_source": "TechCrunch AI"
     },
@@ -818,7 +948,7 @@
       "original_language": "en",
       "original_title": "The Code-Only Agent",
       "source_url": "https://rijnard.com/blog/the-code-only-agent",
-      "id": 63,
+      "id": 73,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -831,7 +961,7 @@
       "original_language": "zh",
       "original_title": "打造最低幻觉率医学AI助手 阿里健康上线“氢离子”",
       "source_url": "https://www.qbitai.com/2026/01/370192.html",
-      "id": 64,
+      "id": 74,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -844,7 +974,7 @@
       "original_language": "zh",
       "original_title": "李飞飞的World Labs联手光轮智能，具身智能进入评测驱动时代！",
       "source_url": "https://www.qbitai.com/2026/01/370217.html",
-      "id": 65,
+      "id": 75,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -857,7 +987,7 @@
       "original_language": "zh",
       "original_title": "CES 2026趋势照进现实：算力引擎RK182X重塑千行百业，瑞芯微AI生态大会共建落地生态",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-19-2",
-      "id": 66,
+      "id": 76,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -870,7 +1000,7 @@
       "original_language": "en",
       "original_title": "Using proxies to hide secrets from Claude Code",
       "source_url": "https://www.joinformal.com/blog/using-proxies-to-hide-secrets-from-claude-code/",
-      "id": 67,
+      "id": 77,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -883,7 +1013,7 @@
       "original_language": "en",
       "original_title": "Wine 11.0",
       "source_url": "https://gitlab.winehq.org/wine/wine/-/releases/wine-11.0",
-      "id": 68,
+      "id": 78,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -896,7 +1026,7 @@
       "original_language": "en",
       "original_title": "Flux 2 Klein pure C inference",
       "source_url": "https://github.com/antirez/flux2.c",
-      "id": 69,
+      "id": 79,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -909,7 +1039,7 @@
       "original_language": "zh",
       "original_title": "效果、性能双突破，快手OneSug端到端生成式框架入选AAAI 2026",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-19",
-      "id": 70,
+      "id": 80,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -922,7 +1052,7 @@
       "original_language": "en",
       "original_title": "Consent-O-Matic",
       "source_url": "https://github.com/cavi-au/Consent-O-Matic",
-      "id": 71,
+      "id": 81,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -935,7 +1065,7 @@
       "original_language": "en",
       "original_title": "Starting from scratch: Training a 30M Topological Transformer",
       "source_url": "https://www.tuned.org.uk/posts/013_the_topological_transformer_training_tauformer",
-      "id": 72,
+      "id": 82,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -948,7 +1078,7 @@
       "original_language": "zh",
       "original_title": "VerseCrafter：给视频世界模型装上4D方向盘，精准运镜控物",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-18",
-      "id": 73,
+      "id": 83,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -961,7 +1091,7 @@
       "original_language": "en",
       "original_title": "Profession by Isaac Asimov",
       "source_url": "https://www.abelard.org/asimov.php",
-      "id": 74,
+      "id": 84,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -974,7 +1104,7 @@
       "original_language": "zh",
       "original_title": "马斯克最大算力中心建成了：全球首个GW级超算集群，再创世界纪录",
       "source_url": "https://www.qbitai.com/2026/01/370077.html",
-      "id": 75,
+      "id": 85,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -987,7 +1117,7 @@
       "original_language": "zh",
       "original_title": "机器人终于能用明白洗碗机了｜UC伯克利新研究",
       "source_url": "https://www.qbitai.com/2026/01/370136.html",
-      "id": 76,
+      "id": 86,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -1000,7 +1130,7 @@
       "original_language": "zh",
       "original_title": "谷歌工程师抛出5个残酷问题：未来两年，软件工程还剩下什么？",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-18-3",
-      "id": 77,
+      "id": 87,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -1013,7 +1143,7 @@
       "original_language": "zh",
       "original_title": "咖啡机变聪明后，我连咖啡都喝不上了",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-18-5",
-      "id": 78,
+      "id": 88,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -1026,7 +1156,7 @@
       "original_language": "en",
       "original_title": "Moxie Marlinspike has a privacy-conscious alternative to ChatGPT",
       "source_url": "https://techcrunch.com/2026/01/18/moxie-marlinspike-has-a-privacy-conscious-alternative-to-chatgpt/",
-      "id": 79,
+      "id": 89,
       "track": "rss",
       "original_source": "TechCrunch AI"
     },
@@ -1039,7 +1169,7 @@
       "original_language": "en",
       "original_title": "How scientists are using Claude to accelerate research and discovery",
       "source_url": "https://www.anthropic.com/news/accelerating-scientific-research",
-      "id": 80,
+      "id": 90,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -1052,7 +1182,7 @@
       "original_language": "en",
       "original_title": "Erdos 281 solved with ChatGPT 5.2 Pro",
       "source_url": "https://twitter.com/neelsomani/status/2012695714187325745",
-      "id": 81,
+      "id": 91,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -1065,7 +1195,7 @@
       "original_language": "en",
       "original_title": "Show HN: ChunkHound, a local-first tool for understanding large codebases",
       "source_url": "https://github.com/chunkhound/chunkhound",
-      "id": 82,
+      "id": 92,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -1078,7 +1208,7 @@
       "original_language": "en",
       "original_title": "Xous Operating System",
       "source_url": "https://xous.dev/",
-      "id": 83,
+      "id": 93,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -1091,7 +1221,7 @@
       "original_language": "en",
       "original_title": "A programming language based on grammatical cases of Turkish",
       "source_url": "https://github.com/kip-dili/kip",
-      "id": 84,
+      "id": 94,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -1104,7 +1234,7 @@
       "original_language": "en",
       "original_title": "Counterfactual evaluation for recommendation systems",
       "source_url": "https://eugeneyan.com/writing/counterfactual-evaluation/",
-      "id": 85,
+      "id": 95,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -1117,7 +1247,7 @@
       "original_language": "en",
       "original_title": "We put Claude Code in Rollercoaster Tycoon",
       "source_url": "https://labs.ramp.com/rct",
-      "id": 86,
+      "id": 96,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -1130,7 +1260,7 @@
       "original_language": "zh",
       "original_title": "红杉合伙人：2026，AGI已经来了",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-18-2",
-      "id": 87,
+      "id": 97,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -1143,7 +1273,7 @@
       "original_language": "zh",
       "original_title": "AAAI 2026｜相聚新加坡，探讨AI时代最核心难题",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-18-4",
-      "id": 88,
+      "id": 98,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -1156,7 +1286,7 @@
       "original_language": "en",
       "original_title": "jQuery 4.0.0 Released",
       "source_url": "https://blog.jquery.com/2026/01/17/jquery-4-0-0/",
-      "id": 89,
+      "id": 99,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -1169,7 +1299,7 @@
       "original_language": "zh",
       "original_title": "AI 视频生成时代，留给人类的只有演技？",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-17-4",
-      "id": 90,
+      "id": 100,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -1182,7 +1312,7 @@
       "original_language": "zh",
       "original_title": "贴广告的ChatGPT，一夜之间让全球网友破了防",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-17-3",
-      "id": 91,
+      "id": 101,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -1195,7 +1325,7 @@
       "original_language": "zh",
       "original_title": "开源8300小时标注数据，新一代实时通用游戏AI Pixel2Play发布",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-17-2",
-      "id": 92,
+      "id": 102,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -1208,7 +1338,7 @@
       "original_language": "zh",
       "original_title": "大模型听懂语音却反而变笨？港中深与微软联合解决语音大模型降智问题",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-17",
-      "id": 93,
+      "id": 103,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -1221,7 +1351,7 @@
       "original_language": "en",
       "original_title": "Musk wants up to $134B in OpenAI lawsuit, despite $700B fortune",
       "source_url": "https://techcrunch.com/2026/01/17/musk-wants-up-to-134b-in-openai-lawsuit-despite-700b-fortune/",
-      "id": 94,
+      "id": 104,
       "track": "rss",
       "original_source": "TechCrunch AI"
     },
@@ -1234,7 +1364,7 @@
       "original_language": "zh",
       "original_title": "失去三个联创后，Mira公司危机持续：又有两人要出走",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-16-7",
-      "id": 95,
+      "id": 105,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -1247,7 +1377,7 @@
       "original_language": "zh",
       "original_title": "微软谷歌正在大力招「电工」",
       "source_url": "https://www.qbitai.com/2026/01/370026.html",
-      "id": 96,
+      "id": 106,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -1260,7 +1390,7 @@
       "original_language": "zh",
       "original_title": "猎头黄仁勋的2025：高管从巨头挖，干活钟爱华人创业团队",
       "source_url": "https://www.qbitai.com/2026/01/370085.html",
-      "id": 97,
+      "id": 107,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -1273,7 +1403,7 @@
       "original_language": "zh",
       "original_title": "让机器人看视频学操作技能，清华等全新发布的CLAP框架做到了",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-19-3",
-      "id": 98,
+      "id": 108,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -1286,7 +1416,7 @@
       "original_language": "zh",
       "original_title": "真·开外挂！MIT新研究：架构0改动，让大模型解锁千万级上下文",
       "source_url": "https://www.qbitai.com/2026/01/370196.html",
-      "id": 99,
+      "id": 109,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -1299,7 +1429,7 @@
       "original_language": "zh",
       "original_title": "全球首个负载100斤的真实持续干活机器人，来自银河通用",
       "source_url": "https://www.qbitai.com/2026/01/370169.html",
-      "id": 100,
+      "id": 110,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -1312,7 +1442,7 @@
       "original_language": "en",
       "original_title": "Wikipedia: WikiProject AI Cleanup",
       "source_url": "https://en.wikipedia.org/wiki/Wikipedia:WikiProject_AI_Cleanup",
-      "id": 101,
+      "id": 111,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -1325,7 +1455,7 @@
       "original_language": "zh",
       "original_title": "加速推进“Robot for AI”战略落地，动易科技完成亿元级天使++轮融资，天使轮累计融资额超2亿元",
       "source_url": "https://www.qbitai.com/2026/01/370277.html",
-      "id": 102,
+      "id": 112,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -1338,7 +1468,7 @@
       "original_language": "zh",
       "original_title": "ChatGPT强行上马广告，因为OpenAI真的很烧钱",
       "source_url": "https://www.qbitai.com/2026/01/370285.html",
-      "id": 103,
+      "id": 113,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -1351,7 +1481,7 @@
       "original_language": "zh",
       "original_title": "最适合科研工作的模型是什么？Anthropic：斯坦福、MIT用Claude加速科研进程",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-19-9",
-      "id": 104,
+      "id": 114,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -1364,7 +1494,7 @@
       "original_language": "zh",
       "original_title": "机器人终于「懂」家务了！伯克利MomaGraph让机器人像人一样做家务",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-19-6",
-      "id": 105,
+      "id": 115,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -1377,7 +1507,7 @@
       "original_language": "en",
       "original_title": "Here are the 55 US AI startups that raised $100M or more in 2025",
       "source_url": "https://techcrunch.com/2026/01/19/here-are-the-49-us-ai-startups-that-have-raised-100m-or-more-in-2025/",
-      "id": 106,
+      "id": 116,
       "track": "rss",
       "original_source": "TechCrunch AI"
     },
@@ -1390,7 +1520,7 @@
       "original_language": "zh",
       "original_title": "评审用不用AI，作者说了算？ICML 2026全新评审政策出炉",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-19-7",
-      "id": 107,
+      "id": 117,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -1403,7 +1533,7 @@
       "original_language": "en",
       "original_title": "AVX-512: First Impressions on Performance and Programmability",
       "source_url": "https://shihab-shahriar.github.io//blog/2026/AVX-512-First-Impressions-on-Performance-and-Programmability/",
-      "id": 108,
+      "id": 118,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -1416,7 +1546,7 @@
       "original_language": "zh",
       "original_title": "45年数论猜想被GPT-5.2 Pro独立完成证明，陶哲轩：没犯任何错误",
       "source_url": "https://www.qbitai.com/2026/01/370328.html",
-      "id": 109,
+      "id": 119,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -1429,7 +1559,7 @@
       "original_language": "zh",
       "original_title": "安克创新与飞书联合发布“安克 AI 录音豆” ,手指可握仅重10克",
       "source_url": "https://www.qbitai.com/2026/01/370245.html",
-      "id": 110,
+      "id": 120,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -1442,7 +1572,7 @@
       "original_language": "zh",
       "original_title": "将登央视春晚，今年冲击IPO！江苏具身新贵魔法原子联创披露一堆新信息",
       "source_url": "https://www.qbitai.com/2026/01/372322.html",
-      "id": 111,
+      "id": 121,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -1455,7 +1585,7 @@
       "original_language": "zh",
       "original_title": "达沃斯聚焦技术新前沿，梅卡曼德创始人邵天兰受邀分享具身智能落地实践",
       "source_url": "https://www.qbitai.com/2026/01/372351.html",
-      "id": 112,
+      "id": 122,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -1468,7 +1598,7 @@
       "original_language": "zh",
       "original_title": "面向临床的心电图AI，上智院、复旦等提出CLEAR-HUG框架实现诊断性能与可解释性双突破",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-16-10",
-      "id": 113,
+      "id": 123,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -1481,7 +1611,7 @@
       "original_language": "zh",
       "original_title": "神同步OpenAI！中国团队Deep Principle领衔发布LLMs for Science评测，引爆外网",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-16-9",
-      "id": 114,
+      "id": 124,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -1494,7 +1624,7 @@
       "original_language": "zh",
       "original_title": "美团又上新模型，8个Thinker齐开工，能顶个诸葛亮？",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-16-8",
-      "id": 115,
+      "id": 125,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -1507,7 +1637,7 @@
       "original_language": "zh",
       "original_title": "不用拍的广告片？深度拆解美团闪购AIGC营销新案例",
       "source_url": "https://www.qbitai.com/2026/01/369884.html",
-      "id": 116,
+      "id": 126,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -1520,7 +1650,7 @@
       "original_language": "zh",
       "original_title": "支付宝携手千问App、淘宝闪购等发布中国首个AI商业协议ACT",
       "source_url": "https://www.qbitai.com/2026/01/369878.html",
-      "id": 117,
+      "id": 127,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -1533,7 +1663,7 @@
       "original_language": "en",
       "original_title": "AI cloud startup Runpod hits $120M in ARR — and it started with a Reddit post  ",
       "source_url": "https://techcrunch.com/2026/01/16/ai-cloud-startup-runpod-hits-120m-in-arr-and-it-started-with-a-reddit-post/",
-      "id": 118,
+      "id": 128,
       "track": "rss",
       "original_source": "TechCrunch AI"
     },
@@ -1546,7 +1676,7 @@
       "original_language": "en",
       "original_title": "California AG sends Musk’s xAI a cease-and-desist order over sexual deepfakes",
       "source_url": "https://techcrunch.com/2026/01/16/california-ag-sends-musks-xai-a-cease-and-desist-order-over-sexual-deepfakes/",
-      "id": 119,
+      "id": 129,
       "track": "rss",
       "original_source": "TechCrunch AI"
     },
@@ -1559,7 +1689,7 @@
       "original_language": "en",
       "original_title": "ChatGPT users are about to get hit with targeted ads",
       "source_url": "https://techcrunch.com/2026/01/16/chatgpt-users-are-about-to-get-hit-with-targeted-ads/",
-      "id": 120,
+      "id": 130,
       "track": "rss",
       "original_source": "TechCrunch AI"
     },
@@ -1572,7 +1702,7 @@
       "original_language": "en",
       "original_title": "From OpenAI’s offices to a deal with Eli Lilly — how Chai Discovery became one of the flashiest names in AI drug development",
       "source_url": "https://techcrunch.com/2026/01/16/from-openais-offices-to-a-deal-with-eli-lilly-how-chai-discovery-became-one-of-the-flashiest-names-in-ai-drug-development/",
-      "id": 121,
+      "id": 131,
       "track": "rss",
       "original_source": "TechCrunch AI"
     },
@@ -1585,7 +1715,7 @@
       "original_language": "en",
       "original_title": "The AI lab revolving door spins ever faster",
       "source_url": "https://techcrunch.com/2026/01/15/the-ai-lab-revolving-door-spins-ever-faster/",
-      "id": 122
+      "id": 132
     },
     {
       "title": "失去1.5百万行围棋代码",
@@ -1596,7 +1726,7 @@
       "original_language": "en",
       "original_title": "Losing 1½ Million Lines of Go",
       "source_url": "https://www.tbray.org/ongoing/When/202x/2026/01/14/Unicode-Properties",
-      "id": 123,
+      "id": 133,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -1609,7 +1739,7 @@
       "original_language": "en",
       "original_title": "Milk-V Titan: A $329 8-Core 64-bit RISC-V mini-ITX board with PCIe Gen4x16",
       "source_url": "https://www.cnx-software.com/2026/01/12/milk-v-titan-a-329-octa-core-64-bit-risc-v-mini-itx-motherboard-with-a-pcie-gen4-x16-slot/",
-      "id": 124,
+      "id": 134,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -1622,12 +1752,12 @@
       "original_language": "en",
       "original_title": "The recurring dream of replacing developers",
       "source_url": "https://www.caimito.net/en/blog/2025/12/07/the-recurring-dream-of-replacing-developers.html",
-      "id": 125,
+      "id": 135,
       "track": "rss",
       "original_source": "Hacker News"
     },
     {
-      "id": 126,
+      "id": 136,
       "title": "示例新闻：全球AI技术取得重大突破",
       "summary": "这是一个示例新闻数据。真实的新闻将通过 GitHub Actions 自动采集和更新。",
       "original_title": "Example: Global AI Technology Makes Major Breakthrough",
@@ -1646,7 +1776,7 @@
       "original_language": "en",
       "original_title": "CSS Web Components for marketing sites",
       "source_url": "https://hawkticehurst.com/2024/11/css-web-components-for-marketing-sites/",
-      "id": 127,
+      "id": 137,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -1659,7 +1789,7 @@
       "original_language": "en",
       "original_title": "The Check Up with Google",
       "source_url": "https://blog.google/innovation-and-ai/technology/health/google-health-check-up-2025/",
-      "id": 128
+      "id": 138
     },
     {
       "title": "十问2026中国电影",
@@ -1670,7 +1800,7 @@
       "original_language": "zh",
       "original_title": "十问2026中国电影",
       "source_url": "http://www.huxiu.com/article/4826481.html?f=wangzhan",
-      "id": 129
+      "id": 139
     },
     {
       "title": "腾讯云ADP国内首发AI原生Widget：一句话秒级生成交互组件，重塑Agent使用体验",
@@ -1681,7 +1811,7 @@
       "original_language": "zh",
       "original_title": "腾讯云ADP国内首发AI原生Widget：一句话秒级生成交互组件，重塑Agent使用体验",
       "source_url": "https://www.qbitai.com/2026/01/370069.html",
-      "id": 130,
+      "id": 140,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -1694,7 +1824,7 @@
       "original_language": "zh",
       "original_title": "滴滴给我发了个赛博助理，专管出行的那种",
       "source_url": "https://www.qbitai.com/2026/01/369738.html",
-      "id": 131,
+      "id": 141,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -1707,7 +1837,7 @@
       "original_language": "en",
       "original_title": "ClickHouse acquires Langfuse",
       "source_url": "https://langfuse.com/blog/joining-clickhouse",
-      "id": 132,
+      "id": 142,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -1720,7 +1850,7 @@
       "original_language": "en",
       "original_title": "The AI healthcare gold rush is here",
       "source_url": "https://techcrunch.com/video/the-ai-healthcare-gold-rush-is-here/",
-      "id": 133,
+      "id": 143,
       "track": "rss",
       "original_source": "TechCrunch AI"
     },
@@ -1733,7 +1863,7 @@
       "original_language": "en",
       "original_title": "OpenAI and Anthropic are making their play for healthcare, and we’re not surprised",
       "source_url": "https://techcrunch.com/podcast/openai-and-anthropic-are-making-their-play-for-healthcare-and-were-not-surprised/",
-      "id": 134,
+      "id": 144,
       "track": "rss",
       "original_source": "TechCrunch AI"
     },
@@ -1746,7 +1876,7 @@
       "original_language": "en",
       "original_title": "Thinking Machines Cofounder’s Office Relationship Preceded His Termination",
       "source_url": "https://www.wired.com/story/thinking-machines-lab-cofounder-office-relationship-firing-openai/",
-      "id": 135,
+      "id": 145,
       "track": "rss",
       "original_source": "Wired AI"
     },
@@ -1759,7 +1889,7 @@
       "original_language": "en",
       "original_title": "Ads Are Coming to ChatGPT. Here’s How They’ll Work",
       "source_url": "https://www.wired.com/story/openai-testing-ads-us/",
-      "id": 136,
+      "id": 146,
       "track": "rss",
       "original_source": "Wired AI"
     },
@@ -1772,7 +1902,7 @@
       "original_language": "en",
       "original_title": "Inside OpenAI’s Raid on Thinking Machines Lab",
       "source_url": "https://www.wired.com/story/inside-openai-raid-on-thinking-machines-lab/",
-      "id": 137,
+      "id": 147,
       "track": "rss",
       "original_source": "Wired AI"
     },
@@ -1785,7 +1915,7 @@
       "original_language": "en",
       "original_title": "Elon Musk’s Grok ‘Undressing’ Problem Isn’t Fixed",
       "source_url": "https://www.wired.com/story/elon-musks-grok-undressing-problem-isnt-fixed/",
-      "id": 138,
+      "id": 148,
       "track": "rss",
       "original_source": "Wired AI"
     },
@@ -1798,7 +1928,7 @@
       "original_language": "en",
       "original_title": "OpenAI Invests in Sam Altman’s New Brain-Tech Startup Merge Labs",
       "source_url": "https://www.wired.com/story/openai-invests-in-sam-altmans-new-brain-tech-startup-merge-labs/",
-      "id": 139,
+      "id": 149,
       "track": "rss",
       "original_source": "Wired AI"
     },
@@ -1811,7 +1941,7 @@
       "original_language": "en",
       "original_title": "Hands On With Anthropic’s Claude Cowork, an AI Agent That Actually Works",
       "source_url": "https://www.wired.com/story/anthropic-claude-cowork-agent/",
-      "id": 140,
+      "id": 150,
       "track": "rss",
       "original_source": "Wired AI"
     },
@@ -1824,7 +1954,7 @@
       "original_language": "unknown",
       "original_title": "An Elizabethan mansion's secrets for staying warm",
       "source_url": "https://www.bbc.com/future/article/20260116-an-elizabethan-mansions-secrets-for-staying-warm",
-      "id": 141,
+      "id": 151,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -1837,7 +1967,7 @@
       "original_language": "unknown",
       "original_title": "Command-line Tools can be 235x Faster than your Hadoop Cluster (2014)",
       "source_url": "https://adamdrake.com/command-line-tools-can-be-235x-faster-than-your-hadoop-cluster.html",
-      "id": 142,
+      "id": 152,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -1850,7 +1980,7 @@
       "original_language": "unknown",
       "original_title": "Gaussian Splatting – A$AP Rocky \"Helicopter\" music video",
       "source_url": "https://radiancefields.com/a-ap-rocky-releases-helicopter-music-video-featuring-gaussian-splatting",
-      "id": 143,
+      "id": 153,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -1863,7 +1993,7 @@
       "original_language": "unknown",
       "original_title": "Breaking the Zimmermann Telegram (2018)",
       "source_url": "https://medium.com/lapsed-historian/breaking-the-zimmermann-telegram-b34ed1d73614",
-      "id": 144,
+      "id": 154,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -1876,7 +2006,7 @@
       "original_language": "unknown",
       "original_title": "What came first: the CNAME or the A record?",
       "source_url": "https://blog.cloudflare.com/cname-a-record-order-dns-standards/",
-      "id": 145,
+      "id": 155,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -1889,7 +2019,7 @@
       "original_language": "zh",
       "original_title": "算力越高收入越多！OpenAI率先验证AI商业Scaling Law",
       "source_url": "https://www.qbitai.com/2026/01/370375.html",
-      "id": 146,
+      "id": 156,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -1902,7 +2032,7 @@
       "original_language": "en",
       "original_title": "Show HN: yolo-cage – AI coding agents that can't exfiltrate secrets",
       "source_url": "https://github.com/borenstein/yolo-cage",
-      "id": 147,
+      "id": 157,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -1915,7 +2045,7 @@
       "original_language": "en",
       "original_title": "SmartOS",
       "source_url": "https://docs.smartos.org/",
-      "id": 148,
+      "id": 158,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -1928,7 +2058,7 @@
       "original_language": "en",
       "original_title": "Show HN: ChartGPU – WebGPU-powered charting library (1M points at 60fps)",
       "source_url": "https://github.com/ChartGPU/ChartGPU",
-      "id": 149,
+      "id": 159,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -1941,7 +2071,7 @@
       "original_language": "en",
       "original_title": "YouTube will soon let creators make Shorts with their own AI likeness",
       "source_url": "https://techcrunch.com/2026/01/21/youtube-will-soon-let-creators-make-shorts-with-their-own-ai-likeness/",
-      "id": 150,
+      "id": 160,
       "track": "rss",
       "original_source": "TechCrunch AI"
     },
@@ -1954,7 +2084,7 @@
       "original_language": "en",
       "original_title": "OpenAI aims to ship its first device in 2026, and it could be earbuds",
       "source_url": "https://techcrunch.com/2026/01/21/openai-aims-to-ship-its-first-device-in-2026-and-it-could-be-earbuds/",
-      "id": 151,
+      "id": 161,
       "track": "rss",
       "original_source": "TechCrunch AI"
     },
@@ -1967,7 +2097,7 @@
       "original_language": "en",
       "original_title": "Adobe Acrobat now lets you edit files using prompts, generate podcast summaries",
       "source_url": "https://techcrunch.com/2026/01/21/adobe-acrobat-now-lets-you-edit-files-using-prompts-generate-podcast-summaries/",
-      "id": 152,
+      "id": 162,
       "track": "rss",
       "original_source": "TechCrunch AI"
     },
@@ -1980,7 +2110,7 @@
       "original_language": "en",
       "original_title": "x86 prefixes and escape opcodes flowchart",
       "source_url": "https://soc.me/interfaces/x86-prefixes-and-escape-opcodes-flowchart.html",
-      "id": 153,
+      "id": 163,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -1993,7 +2123,7 @@
       "original_language": "zh",
       "original_title": "一周对战2500万局，这些「AI假人」让人类游戏玩家破防了",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-20-7",
-      "id": 154,
+      "id": 164,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -2006,7 +2136,7 @@
       "original_language": "zh",
       "original_title": "具身基座模型的曙光初现？35000小时训练数据，打造全球最强跨本体VLA",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-20-9",
-      "id": 155,
+      "id": 165,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -2019,7 +2149,7 @@
       "original_language": "zh",
       "original_title": "EmbodiChain开源，用100%生成式数据自动训练具身智能模型",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-20-8",
-      "id": 156,
+      "id": 166,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -2032,7 +2162,7 @@
       "original_language": "zh",
       "original_title": "TPAMI | DC-SAM：打破SAM交互限制，基于循环一致性的图像与视频上下文分割方法",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-20-6",
-      "id": 157,
+      "id": 167,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -2045,7 +2175,7 @@
       "original_language": "en",
       "original_title": "‘Uncanny Valley’: Donald Trump’s Davos Drama, AI Midterms, and ChatGPT’s Last Resort",
       "source_url": "https://www.wired.com/story/uncanny-valley-podcast-trump-davos-ice-ai-midterms-chatgpt-ads/",
-      "id": 158,
+      "id": 168,
       "track": "rss",
       "original_source": "Wired AI"
     },
@@ -2058,7 +2188,7 @@
       "original_language": "en",
       "original_title": "Noora Health (YC W14) Is Hiring AI/ML Engineer",
       "source_url": "https://www.ycombinator.com/companies/noora-health/jobs/2B4RxLG-ai-ml-engineer",
-      "id": 159,
+      "id": 169,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -2071,7 +2201,7 @@
       "original_language": "en",
       "original_title": "Open-source self-driving for 325 car models from 27 brands",
       "source_url": "https://comma.ai",
-      "id": 160,
+      "id": 170,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -2084,7 +2214,7 @@
       "original_language": "en",
       "original_title": "Some C habits I employ for the modern day",
       "source_url": "https://www.unix.dog/~yosh/blog/c-habits-for-me.html",
-      "id": 161,
+      "id": 171,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -2097,7 +2227,7 @@
       "original_language": "en",
       "original_title": "Unrolling the Codex agent loop",
       "source_url": "https://openai.com/index/unrolling-the-codex-agent-loop/",
-      "id": 162,
+      "id": 172,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -2110,7 +2240,7 @@
       "original_language": "en",
       "original_title": "China’s AI Boyfriend Business Is Taking On a Life of Its Own",
       "source_url": "https://www.wired.com/story/china-ai-boyfriends/",
-      "id": 163,
+      "id": 173,
       "track": "rss",
       "original_source": "Wired AI"
     },
@@ -2123,7 +2253,7 @@
       "original_language": "en",
       "original_title": "Thousands of Companies Are Driving China’s AI Boom. A Government Registry Tracks Them All",
       "source_url": "https://www.wired.com/story/china-ai-boom-algorithm-registry/",
-      "id": 164,
+      "id": 174,
       "track": "rss",
       "original_source": "Wired AI"
     },
@@ -2136,7 +2266,7 @@
       "original_language": "en",
       "original_title": "Your First Humanoid Robot Coworker Will Probably Be Chinese",
       "source_url": "https://www.wired.com/story/china-humanoid-robot-coworkers/",
-      "id": 165,
+      "id": 175,
       "track": "rss",
       "original_source": "Wired AI"
     },
@@ -2149,7 +2279,7 @@
       "original_language": "en",
       "original_title": "Increasing the performance of WebAssembly Text Format parser by 350%",
       "source_url": "https://blog.gplane.win/posts/improve-wat-parser-perf.html",
-      "id": 166,
+      "id": 176,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -2162,7 +2292,7 @@
       "original_language": "en",
       "original_title": "Linux kernel framework for PCIe device emulation, in userspace",
       "source_url": "https://github.com/cakehonolulu/pciem",
-      "id": 167,
+      "id": 177,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -2175,7 +2305,7 @@
       "original_language": "zh",
       "original_title": "美团卡姐接管无人车，MIT博士离职创业具身智能",
       "source_url": "https://www.qbitai.com/2026/01/370599.html",
-      "id": 168,
+      "id": 178,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -2188,7 +2318,7 @@
       "original_language": "zh",
       "original_title": "击败GPT、Gemini，复旦×创智孵化创业团队「模思智能」，语音模型上新了",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-20-12",
-      "id": 169,
+      "id": 179,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -2201,7 +2331,7 @@
       "original_language": "zh",
       "original_title": "马斯克刚刚真把 𝕏 平台推荐算法给开源了，核心也是Transformer",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-20-13",
-      "id": 170,
+      "id": 180,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -2214,7 +2344,7 @@
       "original_language": "zh",
       "original_title": "从平面几何出发：形式化验证如何驱动MLLM的推理能力跃迁",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-20-10",
-      "id": 171,
+      "id": 181,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -2227,7 +2357,7 @@
       "original_language": "zh",
       "original_title": "当黄仁勋将存储定义为「AI运行内存」，基础设施该如何实现物种进化？",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-20-11",
-      "id": 172,
+      "id": 182,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -2240,7 +2370,7 @@
       "original_language": "zh",
       "original_title": "“车载华为”冲刺IPO：供应5G，上汽奇瑞吉利东风都是客户",
       "source_url": "https://www.qbitai.com/2026/01/370618.html",
-      "id": 173,
+      "id": 183,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -2253,7 +2383,7 @@
       "original_language": "zh",
       "original_title": "首个真正“能用”的LLM游戏Agent诞生！可实时高频决策，思维链还全程可见",
       "source_url": "https://www.qbitai.com/2026/01/370494.html",
-      "id": 174,
+      "id": 184,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -2266,7 +2396,7 @@
       "original_language": "zh",
       "original_title": "钉钉上线AI差旅：企业免垫资，员工免报销，AI帮比价",
       "source_url": "https://www.qbitai.com/2026/01/370463.html",
-      "id": 175,
+      "id": 185,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -2279,7 +2409,7 @@
       "original_language": "zh",
       "original_title": "WAIC首次“南下”：沪港握手2026“WAIC UP!全球年终盛会”，共揭AI对话新篇",
       "source_url": "https://www.qbitai.com/2026/01/370402.html",
-      "id": 176,
+      "id": 186,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -2292,7 +2422,7 @@
       "original_language": "zh",
       "original_title": "1月28日，直播预约！来聊聊具身评测中的科学与乱象",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-24-3",
-      "id": 177,
+      "id": 187,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -2305,7 +2435,7 @@
       "original_language": "en",
       "original_title": "Gear News of the Week: Apple’s AI Wearable and a Phone That Can Boot Android, Linux, and Windows",
       "source_url": "https://www.wired.com/story/gear-news-of-the-week-apples-ai-wearable-and-a-phone-that-can-boot-android-linux-and-windows/",
-      "id": 178,
+      "id": 188,
       "track": "rss",
       "original_source": "Wired AI"
     },
@@ -2318,7 +2448,7 @@
       "original_language": "en",
       "original_title": "Show HN: Coi – A language that compiles to WASM, beats React/Vue",
       "source_url": "https://news.ycombinator.com/item?id=46696283",
-      "id": 179,
+      "id": 189,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -2331,7 +2461,7 @@
       "original_language": "zh",
       "original_title": "音频-视觉全模态的未来预测，FutureOmni给出了首份答卷",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-24",
-      "id": 180,
+      "id": 190,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -2344,7 +2474,7 @@
       "original_language": "zh",
       "original_title": "估值35亿美元，LeCun创业公司官宣核心方向，掀起对Next-token范式的「叛变」",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-24-6",
-      "id": 181,
+      "id": 191,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -2357,7 +2487,7 @@
       "original_language": "zh",
       "original_title": "挑战Claude Code？OpenAI Codex发布月将至，今先揭秘智能体循环",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-24-5",
-      "id": 182,
+      "id": 192,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -2370,7 +2500,7 @@
       "original_language": "zh",
       "original_title": "不止于Prompt：揭秘「神经网络可重编程性」",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-24-4",
-      "id": 183,
+      "id": 193,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -2383,7 +2513,7 @@
       "original_language": "zh",
       "original_title": "LeCun、谢赛宁团队重磅论文：RAE能大规模文生图了，且比VAE更好",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-24-2",
-      "id": 184,
+      "id": 194,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -2396,7 +2526,7 @@
       "original_language": "zh",
       "original_title": "AI5芯片搞定，马斯克的纯自研超算Dojo 3又回来了",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-21-3",
-      "id": 185,
+      "id": 195,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -2409,7 +2539,7 @@
       "original_language": "en",
       "original_title": "Show HN: Mastra 1.0, open-source JavaScript agent framework from the Gatsby devs",
       "source_url": "https://github.com/mastra-ai/mastra",
-      "id": 186,
+      "id": 196,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -2422,7 +2552,7 @@
       "original_language": "en",
       "original_title": "Claude Chill: Fix Claude Code's Flickering in Terminal",
       "source_url": "https://github.com/davidbeesley/claude-chill",
-      "id": 187,
+      "id": 197,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -2435,7 +2565,7 @@
       "original_language": "en",
       "original_title": "Unconventional PostgreSQL Optimizations",
       "source_url": "https://hakibenita.com/postgresql-unconventional-optimizations",
-      "id": 188,
+      "id": 198,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -2448,7 +2578,7 @@
       "original_language": "zh",
       "original_title": "AAAI 2026 Oral | 告别注意力与热传导！北大清华提出WaveFormer，首创波动方程建模视觉",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-21",
-      "id": 189,
+      "id": 199,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -2461,7 +2591,7 @@
       "original_language": "en",
       "original_title": "Humans&, a ‘human-centric’ AI startup founded by Anthropic, xAI, Google alums, raised $480M seed round",
       "source_url": "https://techcrunch.com/2026/01/20/humans-a-human-centric-ai-startup-founded-by-anthropic-xai-google-alums-raised-480m-seed-round/",
-      "id": 190,
+      "id": 200,
       "track": "rss",
       "original_source": "TechCrunch AI"
     },
@@ -2474,7 +2604,7 @@
       "original_language": "en",
       "original_title": "Anthropic’s CEO stuns Davos with Nvidia criticism",
       "source_url": "https://techcrunch.com/2026/01/20/anthropics-ceo-stuns-davos-with-nvidia-criticism/",
-      "id": 191,
+      "id": 201,
       "track": "rss",
       "original_source": "TechCrunch AI"
     },
@@ -2487,7 +2617,7 @@
       "original_language": "en",
       "original_title": "In an effort to protect young users, ChatGPT will now predict how old you are",
       "source_url": "https://techcrunch.com/2026/01/20/in-an-effort-to-protect-young-users-chatgpt-will-now-predict-how-old-you-are/",
-      "id": 192,
+      "id": 202,
       "track": "rss",
       "original_source": "TechCrunch AI"
     },
@@ -2500,7 +2630,7 @@
       "original_language": "en",
       "original_title": "Elon Musk says Tesla’s restarted Dojo3 will be for ‘space-based AI compute’",
       "source_url": "https://techcrunch.com/2026/01/20/elon-musk-says-teslas-restarted-dojo3-will-be-for-space-based-ai-compute/",
-      "id": 193,
+      "id": 203,
       "track": "rss",
       "original_source": "TechCrunch AI"
     },
@@ -2513,7 +2643,7 @@
       "original_language": "en",
       "original_title": "Sequoia to invest in Anthropic, breaking VC taboo on backing rivals: FT",
       "source_url": "https://techcrunch.com/2026/01/18/sequoia-to-invest-in-anthropic-breaking-vc-taboo-on-backing-rivals-ft/",
-      "id": 194,
+      "id": 204,
       "track": "rss",
       "original_source": "TechCrunch AI"
     },
@@ -2526,7 +2656,7 @@
       "original_language": "en",
       "original_title": "200 MB RAM FreeBSD Desktop",
       "source_url": "https://vermaden.wordpress.com/2026/01/18/200-mb-ram-freebsd-desktop/",
-      "id": 195,
+      "id": 205,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -2539,7 +2669,7 @@
       "original_language": "en",
       "original_title": "Running Claude Code dangerously (safely)",
       "source_url": "https://blog.emilburzo.com/2026/01/running-claude-code-dangerously-safely/",
-      "id": 196,
+      "id": 206,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -2552,7 +2682,7 @@
       "original_language": "en",
       "original_title": "Are Arrays Functions?",
       "source_url": "https://futhark-lang.org/blog/2026-01-16-are-arrays-functions.html",
-      "id": 197,
+      "id": 207,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -2565,7 +2695,7 @@
       "original_language": "zh",
       "original_title": "告别「手动画框」！Medical SAM3：首个真正「纯文本提示」驱动的医学全能分割模型",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-21-5",
-      "id": 198,
+      "id": 208,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -2578,7 +2708,7 @@
       "original_language": "zh",
       "original_title": "马斯克罕见低头：开源𝕏推荐算法，自嘲“很烂”不过未来月更",
       "source_url": "https://www.qbitai.com/2026/01/370760.html",
-      "id": 199,
+      "id": 209,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -2591,7 +2721,7 @@
       "original_language": "zh",
       "original_title": "中国团队首次在Nature子刊发布医疗AI标准，未来医生MedGPT摘得全球桂冠",
       "source_url": "https://www.qbitai.com/2026/01/370734.html",
-      "id": 200,
+      "id": 210,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -2604,7 +2734,7 @@
       "original_language": "zh",
       "original_title": "xAI工程师播客聊太嗨，马斯克解雇了他",
       "source_url": "https://www.qbitai.com/2026/01/371158.html",
-      "id": 201,
+      "id": 211,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -2617,7 +2747,7 @@
       "original_language": "zh",
       "original_title": "2026年OpenAI最看好的3个方向",
       "source_url": "https://www.qbitai.com/2026/01/370936.html",
-      "id": 202,
+      "id": 212,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -2630,7 +2760,7 @@
       "original_language": "unknown",
       "original_title": "Giving University Exams in the Age of Chatbots",
       "source_url": "https://ploum.net/2026-01-19-exam-with-chatbots.html",
-      "id": 203,
+      "id": 213,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -2643,7 +2773,7 @@
       "original_language": "unknown",
       "original_title": "A 26,000-year astronomical monument hidden in plain sight (2019)",
       "source_url": "https://longnow.org/ideas/the-26000-year-astronomical-monument-hidden-in-plain-sight/",
-      "id": 204,
+      "id": 214,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -2656,7 +2786,7 @@
       "original_language": "unknown",
       "original_title": "Waiting for dawn in search: Search index, Google rulings and impact on Kagi",
       "source_url": "https://blog.kagi.com/waiting-dawn-search",
-      "id": 205,
+      "id": 215,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -2669,7 +2799,7 @@
       "original_language": "zh",
       "original_title": "启动经费550万起！全球顶级AI人才看过来",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-23-7",
-      "id": 206,
+      "id": 216,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -2682,7 +2812,7 @@
       "original_language": "en",
       "original_title": "Google Nabs Top Talent From AI Voice Startup Hume AI",
       "source_url": "https://www.wired.com/story/google-hires-hume-ai-ceo-licensing-deal-gemini/",
-      "id": 207,
+      "id": 217,
       "track": "rss",
       "original_source": "Wired AI"
     },
@@ -2695,7 +2825,7 @@
       "original_language": "en",
       "original_title": "A Wikipedia Group Made a Guide to Detect AI Writing. Now a Plug-In Uses It to ‘Humanize’ Chatbots",
       "source_url": "https://www.wired.com/story/wikipedia-group-made-guide-to-detect-ai-writing-now-a-plug-in-uses-it-to-humanize-chatbots/",
-      "id": 208,
+      "id": 218,
       "track": "rss",
       "original_source": "Wired AI"
     },
@@ -2708,7 +2838,7 @@
       "original_language": "en",
       "original_title": "How Claude Code Is Reshaping Software—and Anthropic",
       "source_url": "https://www.wired.com/story/claude-code-success-anthropic-business-model/",
-      "id": 209,
+      "id": 219,
       "track": "rss",
       "original_source": "Wired AI"
     },
@@ -2721,7 +2851,7 @@
       "original_language": "en",
       "original_title": "AI-Powered Disinformation Swarms Are Coming for Democracy",
       "source_url": "https://www.wired.com/story/ai-powered-disinformation-swarms-are-coming-for-democracy/",
-      "id": 210,
+      "id": 220,
       "track": "rss",
       "original_source": "Wired AI"
     },
@@ -2734,7 +2864,7 @@
       "original_language": "en",
       "original_title": "I was banned from Claude for scaffolding a Claude.md file?",
       "source_url": "https://hugodaniel.com/posts/claude-code-banned-me/",
-      "id": 211,
+      "id": 221,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -2747,7 +2877,7 @@
       "original_language": "en",
       "original_title": "GPTZero finds 100 new hallucinations in NeurIPS 2025 accepted papers",
       "source_url": "https://gptzero.me/news/neurips/",
-      "id": 212,
+      "id": 222,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -2760,7 +2890,7 @@
       "original_language": "zh",
       "original_title": "金山云星流全面升级，以智算穿越云上AI新周期",
       "source_url": "https://www.qbitai.com/2026/01/371527.html",
-      "id": 213,
+      "id": 223,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -2773,7 +2903,7 @@
       "original_language": "zh",
       "original_title": "腾讯重仓的AI芯片公司要上市了！燧原科技IPO获受理，拟募资60亿",
       "source_url": "https://www.qbitai.com/2026/01/371924.html",
-      "id": 214,
+      "id": 224,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -2786,7 +2916,7 @@
       "original_language": "zh",
       "original_title": "vLLM团队官宣创业：融资1.5亿美元，清华特奖游凯超成为联创",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-23-2",
-      "id": 215,
+      "id": 225,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -2799,7 +2929,7 @@
       "original_language": "zh",
       "original_title": "Nature子刊｜上智院、复旦、无限光年发布MAPLE框架，破解甲基化衰老与疾病风险预测的泛化难题",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-23-5",
-      "id": 216,
+      "id": 226,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -2812,7 +2942,7 @@
       "original_language": "zh",
       "original_title": "三星爆火递归模型TRM唯一作者被迫离职，内部不认可？",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-23-6",
-      "id": 217,
+      "id": 227,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -2825,7 +2955,7 @@
       "original_language": "zh",
       "original_title": "一文速通「机器人3D场景表示」发展史",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-23",
-      "id": 218,
+      "id": 228,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -2838,7 +2968,7 @@
       "original_language": "en",
       "original_title": "Proton Spam and the AI Consent Problem",
       "source_url": "https://dbushell.com/2026/01/22/proton-spam/",
-      "id": 219,
+      "id": 229,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -2851,7 +2981,7 @@
       "original_language": "en",
       "original_title": "OpenAI is coming for those sweet enterprise dollars in 2026",
       "source_url": "https://techcrunch.com/2026/01/22/openai-is-coming-for-those-sweet-enterprise-dollars-in-2026/",
-      "id": 220,
+      "id": 230,
       "track": "rss",
       "original_source": "TechCrunch AI"
     },
@@ -2864,7 +2994,7 @@
       "original_language": "en",
       "original_title": "Voice AI engine and OpenAI partner LiveKit hits $1B valuation",
       "source_url": "https://techcrunch.com/2026/01/22/voice-ai-engine-and-openai-partner-livekit-hits-1b-valuation/",
-      "id": 221,
+      "id": 231,
       "track": "rss",
       "original_source": "TechCrunch AI"
     },
@@ -2877,7 +3007,7 @@
       "original_language": "en",
       "original_title": "Are AI agents ready for the workplace? A new benchmark raises doubts",
       "source_url": "https://techcrunch.com/2026/01/22/are-ai-agents-ready-for-the-workplace-a-new-benchmark-raises-doubts/",
-      "id": 222,
+      "id": 232,
       "track": "rss",
       "original_source": "TechCrunch AI"
     },
@@ -2890,7 +3020,7 @@
       "original_language": "en",
       "original_title": "Google DeepMind CEO is ‘surprised’ OpenAI is rushing forward with ads in ChatGPT",
       "source_url": "https://techcrunch.com/2026/01/22/google-deepmind-ceo-is-surprised-openai-is-rushing-forward-with-ads-in-chatgpt/",
-      "id": 223,
+      "id": 233,
       "track": "rss",
       "original_source": "TechCrunch AI"
     },
@@ -2903,7 +3033,7 @@
       "original_language": "en",
       "original_title": "Humans& thinks coordination is the next frontier for AI, and they’re building a model to prove it",
       "source_url": "https://techcrunch.com/2026/01/22/humans-thinks-coordination-is-the-next-frontier-for-ai-and-theyre-building-a-model-to-prove-it/",
-      "id": 224,
+      "id": 234,
       "track": "rss",
       "original_source": "TechCrunch AI"
     },
@@ -2916,7 +3046,7 @@
       "original_language": "zh",
       "original_title": "具身启元，智创未来——上海国际具身智能产业博览会新闻发布会在京隆重召开",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-23-3",
-      "id": 225,
+      "id": 235,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -2929,7 +3059,7 @@
       "original_language": "zh",
       "original_title": "Mobileye势头强劲，2025财年全年营收同比增长15%",
       "source_url": "https://www.qbitai.com/2026/01/371922.html",
-      "id": 226,
+      "id": 236,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -2942,7 +3072,7 @@
       "original_language": "zh",
       "original_title": "成立两年半登顶全球AI创作社区，背后是中国团队在“卖情绪”？？",
       "source_url": "https://www.qbitai.com/2026/01/371570.html",
-      "id": 227,
+      "id": 237,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -2955,7 +3085,7 @@
       "original_language": "zh",
       "original_title": "2025最强AI产品一文看尽丨量子位智库年度AI 100",
       "source_url": "https://www.qbitai.com/2026/01/371559.html",
-      "id": 228,
+      "id": 238,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -2968,7 +3098,7 @@
       "original_language": "zh",
       "original_title": "昇腾云客户2663家，华为云稳居最大国产AI云服务提供商",
       "source_url": "https://www.qbitai.com/2026/01/371533.html",
-      "id": 229,
+      "id": 239,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -2981,7 +3111,7 @@
       "original_language": "en",
       "original_title": "How did Davos turn into a tech conference?",
       "source_url": "https://techcrunch.com/video/how-did-davos-turn-into-a-tech-conference/",
-      "id": 230,
+      "id": 240,
       "track": "rss",
       "original_source": "TechCrunch AI"
     },
@@ -2994,7 +3124,7 @@
       "original_language": "en",
       "original_title": "Killing the ISP Appliance: An eBPF/XDP Approach to Distributed BNG",
       "source_url": "https://markgascoyne.co.uk/posts/ebpf-bng/",
-      "id": 231,
+      "id": 241,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -3007,7 +3137,7 @@
       "original_language": "en",
       "original_title": "Radicle: The Sovereign Forge",
       "source_url": "https://radicle.xyz",
-      "id": 232,
+      "id": 242,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -3020,7 +3150,7 @@
       "original_language": "en",
       "original_title": "Claude.ai silently failing since Jan 14, no official acknowledgment",
       "source_url": "https://github.com/anthropics/claude-code/issues/18866",
-      "id": 233,
+      "id": 243,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -3033,7 +3163,7 @@
       "original_language": "en",
       "original_title": "AI CEOs transformed Davos into a tech conference",
       "source_url": "https://techcrunch.com/podcast/ai-ceos-transformed-davos-into-a-tech-conference/",
-      "id": 234,
+      "id": 244,
       "track": "rss",
       "original_source": "TechCrunch AI"
     },
@@ -3046,7 +3176,7 @@
       "original_language": "en",
       "original_title": "I built a light that reacts to radio waves [video]",
       "source_url": "https://www.youtube.com/watch?v=moBCOEiqiPs",
-      "id": 235,
+      "id": 245,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -3059,7 +3189,7 @@
       "original_language": "en",
       "original_title": "Ghostty's AI Policy",
       "source_url": "https://github.com/ghostty-org/ghostty/blob/main/AI_POLICY.md",
-      "id": 236,
+      "id": 246,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -3072,7 +3202,7 @@
       "original_language": "zh",
       "original_title": "轻舟智航重回高端局： L2+量产超百万，城市NOA量产下放10万级",
       "source_url": "https://www.qbitai.com/2026/01/372001.html",
-      "id": 237,
+      "id": 247,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -3085,7 +3215,7 @@
       "original_language": "zh",
       "original_title": "陈天奇、贾扬清点赞：Vibe Coding版PyTorch，连论文都是AI写的",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-23-9",
-      "id": 238,
+      "id": 248,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -3098,7 +3228,7 @@
       "original_language": "zh",
       "original_title": "思维链太长拖慢推理？把它「画」进隐空间！新框架RoT探索大模型隐空间推理新范式",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-23-8",
-      "id": 239,
+      "id": 249,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -3111,7 +3241,7 @@
       "original_language": "en",
       "original_title": "OpenAI chief Sam Altman plans India visit as AI leaders converge in New Delhi: sources",
       "source_url": "https://techcrunch.com/2026/01/23/openai-chief-sam-altman-plans-india-visit-as-ai-leaders-converge-in-new-delhi-sources/",
-      "id": 240,
+      "id": 250,
       "track": "rss",
       "original_source": "TechCrunch AI"
     },
@@ -3124,7 +3254,7 @@
       "original_language": "en",
       "original_title": "Meta pauses teen access to AI characters ahead of new version",
       "source_url": "https://techcrunch.com/2026/01/23/meta-pauses-teen-access-to-ai-characters-ahead-of-new-version/",
-      "id": 241,
+      "id": 251,
       "track": "rss",
       "original_source": "TechCrunch AI"
     },
@@ -3137,7 +3267,7 @@
       "original_language": "en",
       "original_title": "Google Photos’ latest feature lets you meme yourself",
       "source_url": "https://techcrunch.com/2026/01/23/google-photos-latest-feature-lets-you-meme-yourself/",
-      "id": 242,
+      "id": 252,
       "track": "rss",
       "original_source": "TechCrunch AI"
     },
@@ -3150,7 +3280,7 @@
       "original_language": "en",
       "original_title": "Who’s behind AMI Labs, Yann LeCun’s ‘world model’ startup",
       "source_url": "https://techcrunch.com/2026/01/23/whos-behind-ami-labs-yann-lecuns-world-model-startup/",
-      "id": 243,
+      "id": 253,
       "track": "rss",
       "original_source": "TechCrunch AI"
     },
@@ -3163,7 +3293,7 @@
       "original_language": "en",
       "original_title": "Legal AI giant Harvey acquires Hexus as competition heats up in legal tech",
       "source_url": "https://techcrunch.com/2026/01/23/legal-ai-giant-harvey-acquires-hexus-as-competition-heats-up-in-legal-tech/",
-      "id": 244,
+      "id": 254,
       "track": "rss",
       "original_source": "TechCrunch AI"
     },
@@ -3176,7 +3306,7 @@
       "original_language": "en",
       "original_title": "Memory layout in Zig with formulas",
       "source_url": "https://raymondtana.github.io/math/programming/2026/01/23/zig-alignment-and-sizing.html",
-      "id": 245,
+      "id": 255,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -3189,7 +3319,7 @@
       "original_language": "zh",
       "original_title": "OpenAI：以后大家用AI赚的钱，我可能要抽成",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-23-10",
-      "id": 246,
+      "id": 256,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -3202,7 +3332,7 @@
       "original_language": "en",
       "original_title": "Former Sequoia partner’s new startup uses AI to negotiate your calendar for you",
       "source_url": "https://techcrunch.com/2026/01/22/former-sequoia-partners-new-startup-uses-ai-to-negotiate-your-calendar-for-you/",
-      "id": 247,
+      "id": 257,
       "track": "rss",
       "original_source": "TechCrunch AI"
     },
@@ -3215,7 +3345,7 @@
       "original_language": "en",
       "original_title": "Inference startup Inferact lands $150M to commercialize vLLM",
       "source_url": "https://techcrunch.com/2026/01/22/inference-startup-inferact-lands-150m-to-commercialize-vllm/",
-      "id": 248,
+      "id": 258,
       "track": "rss",
       "original_source": "TechCrunch AI"
     },
@@ -3228,7 +3358,7 @@
       "original_language": "en",
       "original_title": "Google now offers free SAT practice exams, powered by Gemini",
       "source_url": "https://techcrunch.com/2026/01/22/google-now-offers-free-sat-practice-exams-powered-by-gemini/",
-      "id": 249,
+      "id": 259,
       "track": "rss",
       "original_source": "TechCrunch AI"
     },
@@ -3241,7 +3371,7 @@
       "original_language": "zh",
       "original_title": "大学开始用AI招生了",
       "source_url": "https://www.qbitai.com/2026/01/371510.html",
-      "id": 250,
+      "id": 260,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -3254,7 +3384,7 @@
       "original_language": "en",
       "original_title": "Updates to our web search products and  Programmable Search Engine capabilities",
       "source_url": "https://programmablesearchengine.googleblog.com/2026/01/updates-to-our-web-search-products.html",
-      "id": 251,
+      "id": 261,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -3267,7 +3397,7 @@
       "original_language": "en",
       "original_title": "Tesla kills Autopilot, locks lane-keeping behind $99/month fee",
       "source_url": "https://arstechnica.com/cars/2026/01/tesla-wants-recurring-revenue-discontinues-autopilot-in-favor-of-fsd/",
-      "id": 252,
+      "id": 262,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -3280,7 +3410,7 @@
       "original_language": "zh",
       "original_title": "微软发布医疗时序基座模型：4540亿数据预训练，解决不规则采样",
       "source_url": "https://www.qbitai.com/2026/01/372307.html",
-      "id": 253,
+      "id": 263,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -3293,7 +3423,7 @@
       "original_language": "zh",
       "original_title": "Meta开年猛投算力，小扎亲征筹建数十GW",
       "source_url": "https://www.qbitai.com/2026/01/372282.html",
-      "id": 254,
+      "id": 264,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -3306,7 +3436,7 @@
       "original_language": "zh",
       "original_title": "LeCun创业0产品估值247亿，回应谢赛宁入伙",
       "source_url": "https://www.qbitai.com/2026/01/371949.html",
-      "id": 255,
+      "id": 265,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -3319,7 +3449,7 @@
       "original_language": "en",
       "original_title": "AI Is a Horse (2024)",
       "source_url": "https://kconner.com/2024/08/02/ai-is-a-horse.html",
-      "id": 256,
+      "id": 266,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -3332,7 +3462,7 @@
       "original_language": "en",
       "original_title": "High-bandwidth flash progress and future",
       "source_url": "https://blocksandfiles.com/2026/01/19/a-window-into-hbf-progress/",
-      "id": 257,
+      "id": 267,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -3345,7 +3475,7 @@
       "original_language": "en",
       "original_title": "ANN v3: 200ms p99 query latency over 100B vectors",
       "source_url": "https://turbopuffer.com/blog/ann-v3",
-      "id": 258,
+      "id": 268,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -3358,7 +3488,7 @@
       "original_language": "zh",
       "original_title": "17岁高中生用AI解决数学界难题，陶哲轩、Jeff Dean点赞",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-25-4",
-      "id": 259,
+      "id": 269,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -3371,7 +3501,7 @@
       "original_language": "zh",
       "original_title": "谷歌、Anthropic双重围剿下的OpenAI，正面临「生死抉择」",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-25-6",
-      "id": 260,
+      "id": 270,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -3384,7 +3514,7 @@
       "original_language": "zh",
       "original_title": "没博士没论文，这些人靠什么「野路子」杀进OpenAI等顶级AI大厂？",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-25-5",
-      "id": 261,
+      "id": 271,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -3397,7 +3527,7 @@
       "original_language": "zh",
       "original_title": "国内首篇！融合语言模型的多模态触觉传感器，推动机器人触觉迈向人类水平",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-25-3",
-      "id": 262,
+      "id": 272,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -3410,7 +3540,7 @@
       "original_language": "zh",
       "original_title": "谷歌用一堆不赚钱的AI小玩意，给科技圈上了一课",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-25-2",
-      "id": 263,
+      "id": 273,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -3423,7 +3553,7 @@
       "original_language": "en",
       "original_title": "Dithering – Part 2: The Ordered Dithering",
       "source_url": "https://visualrambling.space/dithering-part-2/",
-      "id": 264,
+      "id": 274,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -3436,7 +3566,7 @@
       "original_language": "en",
       "original_title": "Fedora Asahi Remix is now working on Apple M3",
       "source_url": "https://bsky.app/profile/did:plc:okydh7e54e2nok65kjxdklvd/post/3mdd55paffk2o",
-      "id": 265,
+      "id": 275,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -3449,7 +3579,7 @@
       "original_language": "en",
       "original_title": "AI Lazyslop and Personal Responsibility",
       "source_url": "https://danielsada.tech/blog/ai-lazyslop-and-personal-responsibility/",
-      "id": 266,
+      "id": 276,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -3462,7 +3592,7 @@
       "original_language": "zh",
       "original_title": "复旦中山医院联合阿里达摩院用AI检测喉癌、下咽癌转移，准确性远超人类专家",
       "source_url": "https://www.qbitai.com/2026/01/372685.html",
-      "id": 267,
+      "id": 277,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -3475,7 +3605,7 @@
       "original_language": "zh",
       "original_title": "香港科学园独家战略合作“WAIC UP!全球年终盛会”，携手开启AI全球协作新篇章",
       "source_url": "https://www.qbitai.com/2026/01/372700.html",
-      "id": 268,
+      "id": 278,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -3488,7 +3618,7 @@
       "original_language": "zh",
       "original_title": "将AI作为航空的助推，欧洲FLPP计划中制作火箭的智能助手与NASA利用AI实行对外探索",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-26-8",
-      "id": 269,
+      "id": 279,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -3501,7 +3631,7 @@
       "original_language": "zh",
       "original_title": "腾讯元宝内测“元宝派”，探索社交AI新形态",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-26-11",
-      "id": 270,
+      "id": 280,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -3514,7 +3644,7 @@
       "original_language": "zh",
       "original_title": "复旦中山医院联合阿里达摩院用AI检测淋巴结转移，助力喉癌、下咽癌精准诊疗",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-26-9",
-      "id": 271,
+      "id": 281,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -3527,7 +3657,7 @@
       "original_language": "zh",
       "original_title": "走出 MMLU 的高分幻觉：AI Agent 的“斯坦利时刻”与职场生存法则",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-26-7",
-      "id": 272,
+      "id": 282,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -3540,7 +3670,7 @@
       "original_language": "zh",
       "original_title": "5000万用户、5000万美金ARR，全球第一AI创作消费平台要做AI时代Roblox",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-26-6",
-      "id": 273,
+      "id": 283,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -3553,7 +3683,7 @@
       "original_language": "en",
       "original_title": "AI startup CVector raises $5M for its industrial ‘nervous system’",
       "source_url": "https://techcrunch.com/2026/01/26/ai-startup-cvector-raises-5m-for-its-industrial-nervous-system/",
-      "id": 274,
+      "id": 284,
       "track": "rss",
       "original_source": "TechCrunch AI"
     },
@@ -3566,7 +3696,7 @@
       "original_language": "en",
       "original_title": "Anthropic launches interactive Claude apps, including Slack and other workplace tools",
       "source_url": "https://techcrunch.com/2026/01/26/anthropic-launches-interactive-claude-apps-including-slack-and-other-workplace-tools/",
-      "id": 275,
+      "id": 285,
       "track": "rss",
       "original_source": "TechCrunch AI"
     },
@@ -3579,7 +3709,7 @@
       "original_language": "en",
       "original_title": "Microsoft announces powerful new chip for AI inference",
       "source_url": "https://techcrunch.com/2026/01/26/microsoft-announces-powerful-new-chip-for-ai-inference/",
-      "id": 276,
+      "id": 286,
       "track": "rss",
       "original_source": "TechCrunch AI"
     },
@@ -3592,7 +3722,7 @@
       "original_language": "en",
       "original_title": "Nvidia invests $2B to help debt-ridden CoreWeave add 5GW of AI compute",
       "source_url": "https://techcrunch.com/2026/01/26/nvidia-invests-2b-to-help-debt-ridden-coreweave-add-5gw-of-ai-compute/",
-      "id": 277,
+      "id": 287,
       "track": "rss",
       "original_source": "TechCrunch AI"
     },
@@ -3605,7 +3735,7 @@
       "original_language": "en",
       "original_title": "Nvidia’s new AI weather models probably saw this storm coming weeks ago",
       "source_url": "https://techcrunch.com/2026/01/26/nvidias-new-ai-weather-models-probably-saw-this-storm-coming-weeks-ago/",
-      "id": 278,
+      "id": 288,
       "track": "rss",
       "original_source": "TechCrunch AI"
     },
@@ -3618,7 +3748,7 @@
       "original_language": "zh",
       "original_title": "钛动科技牵手硅谷科技先锋DeepLumen开抢智能商业万亿市场",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-26-10",
-      "id": 279,
+      "id": 289,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -3631,7 +3761,7 @@
       "original_language": "en",
       "original_title": "First, make me care",
       "source_url": "https://gwern.net/blog/2026/make-me-care",
-      "id": 280,
+      "id": 290,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -3644,7 +3774,7 @@
       "original_language": "en",
       "original_title": "Clawdbot - open source personal AI assistant",
       "source_url": "https://github.com/clawdbot/clawdbot",
-      "id": 281,
+      "id": 291,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -3657,7 +3787,7 @@
       "original_language": "en",
       "original_title": "Using PostgreSQL as a Dead Letter Queue for Event-Driven Systems",
       "source_url": "https://www.diljitpr.net/blog-post-postgresql-dlq",
-      "id": 282,
+      "id": 292,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -3670,7 +3800,7 @@
       "original_language": "zh",
       "original_title": "不读博士，照样进OpenAI！o1核心成员现身说法了",
       "source_url": "https://www.qbitai.com/2026/01/372364.html",
-      "id": 283,
+      "id": 293,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -3683,7 +3813,7 @@
       "original_language": "zh",
       "original_title": "李飞飞世界模型公司一年估值暴涨5倍！正洽谈新一轮5亿美元融资",
       "source_url": "https://www.qbitai.com/2026/01/372526.html",
-      "id": 284,
+      "id": 294,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -3696,7 +3826,7 @@
       "original_language": "en",
       "original_title": "Apple will reportedly unveil its Gemini-powered Siri assistant in February",
       "source_url": "https://techcrunch.com/2026/01/25/apple-will-reportedly-unveil-its-gemini-powered-siri-assistant-in-february/",
-      "id": 285,
+      "id": 295,
       "track": "rss",
       "original_source": "TechCrunch AI"
     },
@@ -3709,7 +3839,7 @@
       "original_language": "en",
       "original_title": "This founder cracked firefighting — now he’s creating an AI gold mine",
       "source_url": "https://techcrunch.com/2026/01/25/this-founder-cracked-firefighting-now-hes-creating-an-ai-gold-mine/",
-      "id": 286,
+      "id": 296,
       "track": "rss",
       "original_source": "TechCrunch AI"
     },
@@ -3722,7 +3852,7 @@
       "original_language": "en",
       "original_title": "ChatGPT is pulling answers from Elon Musk’s Grokipedia",
       "source_url": "https://techcrunch.com/2026/01/25/chatgpt-is-pulling-answers-from-elon-musks-grokipedia/",
-      "id": 287,
+      "id": 297,
       "track": "rss",
       "original_source": "TechCrunch AI"
     },
@@ -3735,7 +3865,7 @@
       "original_language": "en",
       "original_title": "Humans& thinks coordination is the next frontier for AI, and they’re building a model to prove it",
       "source_url": "https://techcrunch.com/2026/01/25/humans-thinks-coordination-is-the-next-frontier-for-ai-and-theyre-building-a-model-to-prove-it/",
-      "id": 288,
+      "id": 298,
       "track": "rss",
       "original_source": "TechCrunch AI"
     },
@@ -3748,7 +3878,7 @@
       "original_language": "en",
       "original_title": "Science fiction writers, Comic-Con say goodbye to AI",
       "source_url": "https://techcrunch.com/2026/01/25/science-fiction-writers-comic-con-say-goodbye-to-ai/",
-      "id": 289,
+      "id": 299,
       "track": "rss",
       "original_source": "TechCrunch AI"
     },
@@ -3761,7 +3891,7 @@
       "original_language": "en",
       "original_title": "David Patterson: Challenges and Research Directions for LLM Inference Hardware",
       "source_url": "https://arxiv.org/abs/2601.05047",
-      "id": 290,
+      "id": 300,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -3774,7 +3904,7 @@
       "original_language": "en",
       "original_title": "nvidia-smi hangs indefinitely after ~66 days",
       "source_url": "https://github.com/NVIDIA/open-gpu-kernel-modules/issues/971",
-      "id": 291,
+      "id": 301,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -3787,7 +3917,7 @@
       "original_language": "zh",
       "original_title": "拒绝Reward Hacking！港科联合快手可灵提出高效强化学习后训练扩散模型新范式",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-25",
-      "id": 292,
+      "id": 302,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -3800,7 +3930,7 @@
       "original_language": "en",
       "original_title": "MapLibre Tile: a modern and efficient vector tile format",
       "source_url": "https://maplibre.org/news/2026-01-23-mlt-release/",
-      "id": 293,
+      "id": 303,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -3813,7 +3943,7 @@
       "original_language": "zh",
       "original_title": "Skills刚火，就有零Skill的Agent来了…",
       "source_url": "https://www.qbitai.com/2026/01/372751.html",
-      "id": 294,
+      "id": 304,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -3826,7 +3956,7 @@
       "original_language": "zh",
       "original_title": "周鸿祎剧透360将发布“短剧智能体” 用户输入剧本即可生成漫剧大片",
       "source_url": "https://www.qbitai.com/2026/01/372680.html",
-      "id": 295,
+      "id": 305,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -3839,7 +3969,7 @@
       "original_language": "en",
       "original_title": "Where Tech Leaders and Students Really Think AI Is Going",
       "source_url": "https://www.wired.com/story/for-future-reference-ai-technology/",
-      "id": 296,
+      "id": 306,
       "track": "rss",
       "original_source": "Wired AI"
     },
@@ -3852,7 +3982,7 @@
       "original_language": "en",
       "original_title": "This Humanoid Is Ready to Bring You a Toothbrush",
       "source_url": "https://www.wired.com/story/humanoid-robot-butler-sprout-fauna/",
-      "id": 297,
+      "id": 307,
       "track": "rss",
       "original_source": "Wired AI"
     },
@@ -3865,7 +3995,7 @@
       "original_language": "en",
       "original_title": "Google DeepMind Staffers Ask Leaders to Keep Them ‘Physically Safe’ From ICE",
       "source_url": "https://www.wired.com/story/google-deepmind-staffers-ice-office-questions-safety/",
-      "id": 298,
+      "id": 308,
       "track": "rss",
       "original_source": "Wired AI"
     },
@@ -3878,7 +4008,7 @@
       "original_language": "en",
       "original_title": "The State-Led Crackdown on Grok and xAI Has Begun",
       "source_url": "https://www.wired.com/story/the-state-led-crackdown-on-grok-and-xai-has-begun/",
-      "id": 299,
+      "id": 309,
       "track": "rss",
       "original_source": "Wired AI"
     },
@@ -3891,7 +4021,7 @@
       "original_language": "en",
       "original_title": "Google’s New Chrome ‘Auto Browse’ Agent Attempts to Roam the Web Without You",
       "source_url": "https://www.wired.com/story/google-chrome-auto-browse/",
-      "id": 300,
+      "id": 310,
       "track": "rss",
       "original_source": "Wired AI"
     },
@@ -3904,7 +4034,7 @@
       "original_language": "en",
       "original_title": "Moltbot Is Taking Over Silicon Valley",
       "source_url": "https://www.wired.com/story/clawdbot-moltbot-viral-ai-assistant/",
-      "id": 301,
+      "id": 311,
       "track": "rss",
       "original_source": "Wired AI"
     },
@@ -3917,7 +4047,7 @@
       "original_language": "en",
       "original_title": "I have written gemma3 inference in pure C",
       "source_url": "https://github.com/robitec97/gemma3.c",
-      "id": 302,
+      "id": 312,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -3930,7 +4060,7 @@
       "original_language": "en",
       "original_title": "Oban, the job processing framework from Elixir, has come to Python",
       "source_url": "https://www.dimamik.com/posts/oban_py/",
-      "id": 303,
+      "id": 313,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -3943,7 +4073,7 @@
       "original_language": "en",
       "original_title": "Mousefood – Build embedded terminal UIs for microcontrollers",
       "source_url": "https://github.com/ratatui/mousefood",
-      "id": 304,
+      "id": 314,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -3956,7 +4086,7 @@
       "original_language": "en",
       "original_title": "Airfoil (2024)",
       "source_url": "https://ciechanow.ski/airfoil/",
-      "id": 305,
+      "id": 315,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -3969,7 +4099,7 @@
       "original_language": "zh",
       "original_title": "蚂蚁灵波开源具身大模型LingBot-VLA，让机器人“看的更清楚 做的更明白”",
       "source_url": "https://www.qbitai.com/2026/01/373396.html",
-      "id": 306,
+      "id": 316,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -3982,7 +4112,7 @@
       "original_language": "zh",
       "original_title": "蚂蚁具身智能明牌了：做大脑，和宇树们错位竞争",
       "source_url": "https://www.qbitai.com/2026/01/373649.html",
-      "id": 307,
+      "id": 317,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -3995,7 +4125,7 @@
       "original_language": "zh",
       "original_title": "蚂蚁出手VLA，就是开源超越Pi0.5的基座模型",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-28-5",
-      "id": 308,
+      "id": 318,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -4008,7 +4138,7 @@
       "original_language": "zh",
       "original_title": "字节跳动李航博士新作：AI智能体的通用框架",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-28-11",
-      "id": 309,
+      "id": 319,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -4021,7 +4151,7 @@
       "original_language": "zh",
       "original_title": "利用AI控制CRISPR，将基因编辑抑制剂从试错工程变成可预测技术",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-28-9",
-      "id": 310,
+      "id": 320,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -4034,7 +4164,7 @@
       "original_language": "zh",
       "original_title": "万物皆可参考是种什么体验？Vidu Q2参考生Pro：特效、演技、细节全都要",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-28-8",
-      "id": 311,
+      "id": 321,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -4047,7 +4177,7 @@
       "original_language": "zh",
       "original_title": "比人类专家快2倍，斯坦福联合英伟达发布TTT-Discover：用「测试时强化学习」攻克科学难题",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-28-7",
-      "id": 312,
+      "id": 322,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -4060,7 +4190,7 @@
       "original_language": "zh",
       "original_title": "AAAI 2026 Oral | SplatSSC：解耦深度引导的高斯泼溅，开启单目语义场景补全高效新范式",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-28-6",
-      "id": 313,
+      "id": 323,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -4073,7 +4203,7 @@
       "original_language": "en",
       "original_title": "WhatsApp will now charge AI chatbots to operate in Italy",
       "source_url": "https://techcrunch.com/2026/01/28/whatsapp-will-now-charge-ai-chatbots-to-operate-in-italy/",
-      "id": 314,
+      "id": 324,
       "track": "rss",
       "original_source": "TechCrunch AI"
     },
@@ -4086,7 +4216,7 @@
       "original_language": "en",
       "original_title": "AI data labeler Handshake buys  Cleanlab, an acquisition target of multiple others",
       "source_url": "https://techcrunch.com/2026/01/28/ai-data-labeler-handshake-buys-cleanlab-an-acquisition-target-of-multiple-others/",
-      "id": 315,
+      "id": 325,
       "track": "rss",
       "original_source": "TechCrunch AI"
     },
@@ -4099,7 +4229,7 @@
       "original_language": "en",
       "original_title": "Chrome takes on AI browsers with tighter Gemini integration, agentic features for autonomous tasks",
       "source_url": "https://techcrunch.com/2026/01/28/chrome-takes-on-ai-browsers-with-tighter-gemini-integration-agentic-features-for-autonomous-tasks/",
-      "id": 316,
+      "id": 326,
       "track": "rss",
       "original_source": "TechCrunch AI"
     },
@@ -4112,7 +4242,7 @@
       "original_language": "en",
       "original_title": "Tiny startup Arcee AI built a 400B-parameter open source LLM from scratch to best Meta’s Llama",
       "source_url": "https://techcrunch.com/2026/01/28/tiny-startup-arcee-ai-built-a-400b-open-source-llm-from-scratch-to-best-metas-llama/",
-      "id": 317,
+      "id": 327,
       "track": "rss",
       "original_source": "TechCrunch AI"
     },
@@ -4125,7 +4255,7 @@
       "original_language": "en",
       "original_title": "With Apple’s new Creator Studio Pro, AI is a tool to aid creation, not replace it",
       "source_url": "https://techcrunch.com/2026/01/28/with-apples-new-creator-studio-pro-ai-is-a-tool-to-aid-creation-not-replace-it/",
-      "id": 318,
+      "id": 328,
       "track": "rss",
       "original_source": "TechCrunch AI"
     },
@@ -4138,7 +4268,7 @@
       "original_language": "en",
       "original_title": "Modelence raises $3M to smooth out the vibe-coding stack",
       "source_url": "https://techcrunch.com/2026/01/28/modelence-raises-13-million-to-smooth-out-the-vibe-coding-stack/",
-      "id": 319,
+      "id": 329,
       "track": "rss",
       "original_source": "TechCrunch AI"
     },
@@ -4151,7 +4281,72 @@
       "original_language": "en",
       "original_title": "The AI infrastructure boom shows no sign of slowing down",
       "source_url": "https://techcrunch.com/2026/01/28/the-ai-infrastructure-boom-shows-no-sign-of-slowing-down/",
-      "id": 320,
+      "id": 330,
+      "track": "rss",
+      "original_source": "TechCrunch AI"
+    },
+    {
+      "title": "扎克伯格暗示2026年将推出代理商业工具和重大AI部署",
+      "summary": "马克·扎克伯格表示，2026年将是“交付个人超级智能的重要一年。”",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-28 14:30:00",
+      "original_language": "en",
+      "original_title": "Zuckerberg teases agentic commerce tools and major AI rollout in 2026",
+      "source_url": "https://techcrunch.com/2026/01/28/zuckerberg-teases-agentic-commerce-tools-and-major-ai-rollout-in-2026/",
+      "id": 331,
+      "track": "rss",
+      "original_source": "TechCrunch AI"
+    },
+    {
+      "title": "马克·扎克伯格表示难以想象一个没有智能眼镜的未来",
+      "summary": "扎克伯格的观点需要谨慎对待。毕竟，他原本认为我们现在都应该在元宇宙中闲逛了。\n\n新闻链接：https://techcrunch.com/2026/01/28/mark-zuckerberg-future-smart-glasses/",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-28 14:30:00",
+      "original_language": "en",
+      "original_title": "Mark Zuckerberg says a future without smart glasses is ‘hard to imagine’",
+      "source_url": "https://techcrunch.com/2026/01/28/mark-zuckerberg-future-smart-glasses/",
+      "id": 332,
+      "track": "rss",
+      "original_source": "TechCrunch AI"
+    },
+    {
+      "title": "特斯拉将投资20亿美元于埃隆·马斯克的xAI公司",
+      "summary": "埃隆·马斯克的AI公司xAI本月早些时候宣布，它已经筹集了200亿美元。特斯拉宣布将投资20亿美元于xAI公司。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-28 14:30:00",
+      "original_language": "en",
+      "original_title": "Tesla to invest $2B in Elon Musk’s xAI",
+      "source_url": "https://techcrunch.com/2026/01/28/tesla-invested-2b-in-elon-musks-xai/",
+      "id": 333,
+      "track": "rss",
+      "original_source": "TechCrunch AI"
+    },
+    {
+      "title": "埃隆·马斯克暗示X将推出新的图像标签系统…我们认为是吗？",
+      "summary": "埃隆·马斯克表示X将开始识别“被操纵的媒体”，但没有透露具体细节。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-28 14:30:00",
+      "original_language": "en",
+      "original_title": "Elon Musk teases a new image-labeling system for X… we think?",
+      "source_url": "https://techcrunch.com/2026/01/28/elon-musk-teases-a-new-image-labeling-system-for-xwe-think/",
+      "id": 334,
+      "track": "rss",
+      "original_source": "TechCrunch AI"
+    },
+    {
+      "title": "ServiceNow与Anthropic签订另一项AI合作",
+      "summary": "ServiceNow在与OpenAI宣布合作后仅一周，又与Anthropic签订了另一项AI合作。作为公司采取多模型方法的一部分，ServiceNow正在扩展其AI合作伙伴关系。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-28 14:30:00",
+      "original_language": "en",
+      "original_title": "ServiceNow inks another AI partnership, this time with Anthropic",
+      "source_url": "https://techcrunch.com/2026/01/28/servicenow-inks-another-ai-partnership-this-time-with-anthropic/",
+      "id": 335,
       "track": "rss",
       "original_source": "TechCrunch AI"
     },
@@ -4164,7 +4359,7 @@
       "original_language": "zh",
       "original_title": "腾讯云lighthouse一键部署Clawdbot保姆级教程",
       "source_url": "https://www.jiqizhixin.com/articles/2026-01-28-10",
-      "id": 321,
+      "id": 336,
       "track": "rss",
       "original_source": "机器之心"
     },
@@ -4177,7 +4372,7 @@
       "original_language": "en",
       "original_title": "Find 'Abbey Road when type 'Beatles abbey rd': Fuzzy/Semantic search in Postgres",
       "source_url": "https://rendiment.io/postgresql/2026/01/21/pgtrgm-pgvector-music.html",
-      "id": 322,
+      "id": 337,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -4190,7 +4385,7 @@
       "original_language": "zh",
       "original_title": "清华女博士造芯7年，冲刺106亿港股IPO，华为海思17年老将加盟",
       "source_url": "https://www.qbitai.com/2026/01/372633.html",
-      "id": 323,
+      "id": 338,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -4203,7 +4398,7 @@
       "original_language": "zh",
       "original_title": "中国团队引领太空算力：首次太空在轨部署通用大模型，发2800颗卫星服务数亿硅基智能体",
       "source_url": "https://www.qbitai.com/2026/01/373666.html",
-      "id": 324,
+      "id": 339,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -4216,7 +4411,7 @@
       "original_language": "zh",
       "original_title": "黄仁勋预言落地，物理AI开年第一枪竟是中国公司打响",
       "source_url": "https://www.qbitai.com/2026/01/373591.html",
-      "id": 325,
+      "id": 340,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -4229,7 +4424,7 @@
       "original_language": "zh",
       "original_title": "爆火Clawdbot被Claude公司强制要求改名",
       "source_url": "https://www.qbitai.com/2026/01/373401.html",
-      "id": 326,
+      "id": 341,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -4242,9 +4437,22 @@
       "original_language": "en",
       "original_title": "Amazon Alexa+ Is Becoming Available to Everyone. Here’s How to Turn It Off (2026)",
       "source_url": "https://www.wired.com/story/alexa-plus-early-access-rollout-2026/",
-      "id": 327,
+      "id": 342,
       "track": "rss",
       "original_source": "Wired AI"
+    },
+    {
+      "title": "马斯克冲刺机器人量产，果断停产特斯拉豪华车型！2026年资本支出将“非常大”",
+      "summary": "马斯克正在加速推进机器人的量产计划，同时决定停产特斯拉的豪华车型。此外，他还将向xAI投资20亿美元。据预测，2026年的资本支出将会非常巨大。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2025-01-16 14:30:00",
+      "original_language": "zh",
+      "original_title": "马斯克冲刺机器人量产，果断停产特斯拉豪华车型！2026年资本支出将“非常大”",
+      "source_url": "https://www.qbitai.com/2026/01/373744.html",
+      "id": 343,
+      "track": "rss",
+      "original_source": "量子位"
     },
     {
       "title": "The Responsibility of Intellectuals",
@@ -4255,7 +4463,7 @@
       "original_language": "unknown",
       "original_title": "The Responsibility of Intellectuals",
       "source_url": "https://www.nybooks.com/articles/1967/02/23/a-special-supplement-the-responsibility-of-intelle/",
-      "id": 328,
+      "id": 344,
       "track": "rss",
       "original_source": "Hacker News"
     }
