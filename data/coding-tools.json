@@ -1,7 +1,7 @@
 {
   "category": "AI编程工具进化",
-  "last_update": "2026-01-29 11:43:17 (北京时间)",
-  "total_count": 258,
+  "last_update": "2026-01-29 13:45:17 (北京时间)",
+  "total_count": 261,
   "news": [
     {
       "title": "CleanRoll AI",
@@ -3055,6 +3055,45 @@
       "original_source": "量子位"
     },
     {
+      "title": "Microsoft的Azure Linux评论",
+      "summary": "Microsoft的Azure Linux评论\n\n新闻链接：https://github.com/microsoft/azurelinux",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-29 13:44:15",
+      "original_language": "en",
+      "original_title": "Microsoft's Azure Linux",
+      "source_url": "https://github.com/microsoft/azurelinux",
+      "id": 236,
+      "track": "rss",
+      "original_source": "Hacker News"
+    },
+    {
+      "title": "将Mermaid图表渲染为SVG或ASCII艺术",
+      "summary": "新闻内容：Comments\n新闻链接：https://github.com/lukilabs/beautiful-mermaid",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-29 13:44:11",
+      "original_language": "en",
+      "original_title": "Render Mermaid diagrams as SVGs or ASCII art",
+      "source_url": "https://github.com/lukilabs/beautiful-mermaid",
+      "id": 237,
+      "track": "rss",
+      "original_source": "Hacker News"
+    },
+    {
+      "title": "阿里“通云哥”浮出水面 自研AI芯片“真武”性能比肩英伟达H20",
+      "summary": "阿里云近日宣布，其自研AI芯片“真武”已实现多个万卡集群部署。该芯片的性能与英伟达H20相当，标志着阿里在AI芯片领域的重大突破。据悉，真武芯片已在阿里云上实现多个万卡集群部署，为用户提供更强大的AI计算能力。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-29 13:43:23",
+      "original_language": "zh",
+      "original_title": "阿里“通云哥”浮出水面 自研AI芯片“真武”性能比肩英伟达H20",
+      "source_url": "https://www.qbitai.com/2026/01/373755.html",
+      "id": 238,
+      "track": "rss",
+      "original_source": "量子位"
+    },
+    {
       "title": "SVG路径编辑器",
       "summary": "Comments\n\n新闻链接：https://yqnn.github.io/svg-path-editor/",
       "is_legal": true,
@@ -3063,7 +3102,7 @@
       "original_language": "en",
       "original_title": "SVG Path Editor",
       "source_url": "https://yqnn.github.io/svg-path-editor/",
-      "id": 236,
+      "id": 239,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -3076,7 +3115,7 @@
       "original_language": "zh",
       "original_title": "DeepSeek开源全新OCR模型！弃用CLIP改用Qwen轻量小模型，性能媲美Gemini-3 Pro",
       "source_url": "https://www.qbitai.com/2026/01/373447.html",
-      "id": 237,
+      "id": 240,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -3089,7 +3128,7 @@
       "original_language": "en",
       "original_title": "Rust’s Standard Library on the GPU",
       "source_url": "https://www.vectorware.com/blog/rust-std-on-gpu/",
-      "id": 238,
+      "id": 241,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -3102,7 +3141,7 @@
       "original_language": "en",
       "original_title": "AI found 12 vulnerabilities in OpenSSL",
       "source_url": "https://aisle.com/blog/aisle-discovered-12-out-of-12-openssl-vulnerabilities",
-      "id": 239,
+      "id": 242,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -3115,7 +3154,7 @@
       "original_language": "en",
       "original_title": "Prism",
       "source_url": "https://openai.com/index/introducing-prism",
-      "id": 240,
+      "id": 243,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -3128,7 +3167,7 @@
       "original_language": "en",
       "original_title": "OpenSSL: Stack buffer overflow in CMS AuthEnvelopedData parsing",
       "source_url": "https://openssl-library.org/news/vulnerabilities/#CVE-2025-15467",
-      "id": 241,
+      "id": 244,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -3141,7 +3180,7 @@
       "original_language": "en",
       "original_title": "Management as AI superpower: Thriving in a world of agentic AI",
       "source_url": "https://www.oneusefulthing.org/p/management-as-ai-superpower",
-      "id": 242,
+      "id": 245,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -3154,7 +3193,7 @@
       "original_language": "en",
       "original_title": "Make.ts",
       "source_url": "https://matklad.github.io/2026/01/27/make-ts.html",
-      "id": 243,
+      "id": 246,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -3167,7 +3206,7 @@
       "original_language": "zh",
       "original_title": "录屏扒代码、截图改网页！Kimi K2.5把「视觉x代码」玩明白了",
       "source_url": "https://www.qbitai.com/2026/01/373117.html",
-      "id": 244,
+      "id": 247,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -3180,7 +3219,7 @@
       "original_language": "zh",
       "original_title": "爆火Clawdbot被Claude公司强制要求改名",
       "source_url": "https://www.qbitai.com/2026/01/373401.html",
-      "id": 245,
+      "id": 248,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -3193,7 +3232,7 @@
       "original_language": "zh",
       "original_title": "蚂蚁具身智能明牌了：做大脑，和宇树们错位竞争",
       "source_url": "https://www.qbitai.com/2026/01/373649.html",
-      "id": 246,
+      "id": 249,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -3206,7 +3245,7 @@
       "original_language": "en",
       "original_title": "Trinity large: An open 400B sparse MoE model",
       "source_url": "https://www.arcee.ai/blog/trinity-large",
-      "id": 247,
+      "id": 250,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -3219,7 +3258,7 @@
       "original_language": "en",
       "original_title": "Please Don't Say Mean Things about the AI I Just Invested a Billion Dollars In",
       "source_url": "https://www.mcsweeneys.net/articles/please-dont-say-mean-things-about-the-ai-that-i-just-invested-a-billion-dollars-in",
-      "id": 248,
+      "id": 251,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -3232,7 +3271,7 @@
       "original_language": "zh",
       "original_title": "全球最强AI音乐模型，现在来自中国！高晓松也来围观了",
       "source_url": "https://www.qbitai.com/2026/01/373681.html",
-      "id": 249,
+      "id": 252,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -3245,7 +3284,7 @@
       "original_language": "en",
       "original_title": "Mousefood – Build embedded terminal UIs for microcontrollers",
       "source_url": "https://github.com/ratatui/mousefood",
-      "id": 250,
+      "id": 253,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -3258,7 +3297,7 @@
       "original_language": "en",
       "original_title": "A verification layer for browser agents: Amazon case study",
       "source_url": "https://sentienceapi.com/blog/verification-layer-amazon-case-study",
-      "id": 251,
+      "id": 254,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -3271,7 +3310,7 @@
       "original_language": "en",
       "original_title": "Amazone One palm authentication discontinued",
       "source_url": "https://amazonone.aws.com/help",
-      "id": 252,
+      "id": 255,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -3284,7 +3323,7 @@
       "original_language": "zh",
       "original_title": "黄仁勋预言落地，物理AI开年第一枪竟是中国公司打响",
       "source_url": "https://www.qbitai.com/2026/01/373591.html",
-      "id": 253,
+      "id": 256,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -3297,7 +3336,7 @@
       "original_language": "zh",
       "original_title": "腾讯混元图像3.0图生图开源，LMArena跻身全球第一梯队，开源最强",
       "source_url": "https://www.qbitai.com/2026/01/373580.html",
-      "id": 254,
+      "id": 257,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -3310,7 +3349,7 @@
       "original_language": "zh",
       "original_title": "马斯克冲刺机器人量产，果断停产特斯拉豪华车型！2026年资本支出将“非常大”",
       "source_url": "https://www.qbitai.com/2026/01/373744.html",
-      "id": 255,
+      "id": 258,
       "track": "rss",
       "original_source": "量子位"
     },
@@ -3323,7 +3362,7 @@
       "original_language": "unknown",
       "original_title": "AI2: Open Coding Agents",
       "source_url": "https://allenai.org/blog/open-coding-agents",
-      "id": 256,
+      "id": 259,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -3336,7 +3375,7 @@
       "original_language": "unknown",
       "original_title": "Pandas 3.0",
       "source_url": "https://pandas.pydata.org/community/blog/pandas-3.0.html",
-      "id": 257,
+      "id": 260,
       "track": "rss",
       "original_source": "Hacker News"
     },
@@ -3349,7 +3388,7 @@
       "original_language": "unknown",
       "original_title": "Satellites encased in wood are in the works",
       "source_url": "https://www.economist.com/science-and-technology/2026/01/21/satellites-encased-in-wood-are-in-the-works",
-      "id": 258,
+      "id": 261,
       "track": "rss",
       "original_source": "Hacker News"
     }
