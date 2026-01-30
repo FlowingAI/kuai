@@ -1,7 +1,7 @@
 {
   "category": "AI编程工具进化",
-  "last_update": "2026-01-30 05:41:22 (北京时间)",
-  "total_count": 282,
+  "last_update": "2026-01-30 11:44:16 (北京时间)",
+  "total_count": 285,
   "news": [
     {
       "title": "Fluent",
@@ -3664,6 +3664,45 @@
       "id": 282,
       "track": "rss",
       "original_source": "Hacker News"
+    },
+    {
+      "title": "千问语音识别模型Qwen3-ASR开源！饶舌RAP歌曲也能轻松识别",
+      "summary": "千问语音识别模型Qwen3-ASR已经开源，该模型能够识别52种语言与方言。即使是饶舌RAP歌曲，也能轻松识别。这一消息来源于QbitAI网站，链接为https://www.qbitai.com/2026/01/374421.html。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "null",
+      "original_language": "zh",
+      "original_title": "千问语音识别模型Qwen3-ASR开源！饶舌RAP歌曲也能轻松识别",
+      "source_url": "https://www.qbitai.com/2026/01/374421.html",
+      "id": 283,
+      "track": "rss",
+      "original_source": "量子位"
+    },
+    {
+      "title": "AGENTS.md 在我们的代理评估中优于技能",
+      "summary": "Comments\n\n新闻链接：https://vercel.com/blog/agents-md-outperforms-skills-in-our-agent-evals\n\n请注意，由于新闻内容本身并未提供具体信息，以下内容仅为标题和链接的翻译。具体新闻内容需要访问提供的链接获取。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-30 11:29:25",
+      "original_language": "en",
+      "original_title": "AGENTS.md outperforms skills in our agent evals",
+      "source_url": "https://vercel.com/blog/agents-md-outperforms-skills-in-our-agent-evals",
+      "id": 284,
+      "track": "rss",
+      "original_source": "Hacker News"
+    },
+    {
+      "title": "具身智能和脑机接口在康复医疗合体了",
+      "summary": "GRx Nano，从拉斯维加斯回来了！",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-16 14:30:00",
+      "original_language": "zh",
+      "original_title": "嚯，具身智能和脑机接口在康复医疗合体了",
+      "source_url": "https://www.qbitai.com/2026/01/374398.html",
+      "id": 285,
+      "track": "rss",
+      "original_source": "量子位"
     }
   ]
 }
