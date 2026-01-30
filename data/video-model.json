@@ -1,7 +1,7 @@
 {
   "category": "视频模型动态",
-  "last_update": "2026-01-30 17:56:35 (北京时间)",
-  "total_count": 226,
+  "last_update": "2026-01-30 22:14:17 (北京时间)",
+  "total_count": 233,
   "news": [
     {
       "title": "马斯克真没吹牛！世界模型 Genie 3 一键打造 GTA6 不是梦",
@@ -2925,6 +2925,97 @@
       "original_source": "量子位"
     },
     {
+      "title": "基于数万次真机评测，RoboChallenge首份年度报告发布",
+      "summary": "全球真机实测揭示 VLA 模型现状\n\nRoboChallenge 是一个全球性的机器人挑战赛，旨在推动机器人技术的发展。近日，RoboChallenge 发布了首份年度报告，该报告基于数万次真机评测，对 VLA 模型的现状进行了深入分析。报告指出，VLA 模型在机器人领域具有广泛的应用前景，但仍存在一些技术挑战。报告还详细介绍了 VLA 模型的测试方法、评估指标以及未来发展方向。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-16 14:30:00",
+      "original_language": "zh",
+      "original_title": "基于数万次真机评测，RoboChallenge首份年度报告发布",
+      "source_url": "https://www.qbitai.com/2026/01/374597.html",
+      "id": 226,
+      "track": "rss",
+      "original_source": "量子位"
+    },
+    {
+      "title": "这个真人版《火影忍者》竟然是AI做的，来自中国AI视频新王者Vidu Q3",
+      "summary": "16秒音视频，一次性生成\n新闻链接：https://www.qbitai.com/2026/01/374563.html",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-16 14:30:00",
+      "original_language": "zh",
+      "original_title": "这个真人版《火影忍者》竟然是AI做的，来自中国AI视频新王者Vidu Q3",
+      "source_url": "https://www.qbitai.com/2026/01/374563.html",
+      "id": 227,
+      "track": "rss",
+      "original_source": "量子位"
+    },
+    {
+      "title": "商汤开源 SenseNova-MARS，突破多模态搜索推理天花板",
+      "summary": "商汤科技近日开源了其最新的多模态搜索推理模型SenseNova-MARS。该模型是首个支持动态视觉推理和图文搜索深度融合的Agentic VLM（视觉语言模型）模型。SenseNova-MARS能够实现图像、文本和视频等多模态数据的实时搜索和推理，为用户提供更加丰富和智能的交互体验。该模型的开源将有助于推动多模态搜索技术的发展，促进人工智能领域的创新。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "null",
+      "original_language": "zh",
+      "original_title": "商汤开源 SenseNova-MARS，突破多模态搜索推理天花板",
+      "source_url": "https://www.qbitai.com/2026/01/374540.html",
+      "id": 228,
+      "track": "rss",
+      "original_source": "量子位"
+    },
+    {
+      "title": "谷歌的Genie AI将让您创造一个充满想象力的视觉世界",
+      "summary": "Project Genie利用AI从提示中生成可探索的环境。最初将面向美国Google AI Ultra订阅者，它融合了Genie 3、Gemini和Nano Banana Pro。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-30 21:56:26",
+      "original_language": "en",
+      "original_title": "Google’s Genie AI will let you create a whole visual world of your imaginations",
+      "source_url": "https://www.digitaltrends.com/cool-tech/googles-genie-ai-will-let-you-create-a-whole-visual-world-of-your-imaginations/",
+      "id": 229,
+      "track": "rss",
+      "original_source": "Digital Trends"
+    },
+    {
+      "title": "比头发还薄的柔性AI芯片，承诺无需手机即可运行的智能可穿戴设备",
+      "summary": "研究人员开发了一种比人类头发还薄的柔性AI芯片，这可能会使未来的可穿戴设备能够独立运行智能功能，无需持续连接到智能手机。\n\n原文链接：[Digital Trends](https://www.digitaltrends.com/cool-tech/a-flexible-ai-chip-thinner-than-hair-promises-smart-wearables-that-work-without-a-phone/)",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-30 21:56:17",
+      "original_language": "en",
+      "original_title": "A flexible AI chip thinner than hair promises smart wearables that work without a phone",
+      "source_url": "https://www.digitaltrends.com/cool-tech/a-flexible-ai-chip-thinner-than-hair-promises-smart-wearables-that-work-without-a-phone/",
+      "id": 230,
+      "track": "rss",
+      "original_source": "Digital Trends"
+    },
+    {
+      "title": "Waymo遭遇鬼探头，Robotaxi在校门口把儿童给撞了",
+      "summary": "复盘坚称人类驾驶后果更严重\n\nWaymo在测试自动驾驶汽车时遭遇了一起意外事故。据报道，一辆Waymo的Robotaxi在校门口与一名儿童发生了碰撞。事故发生后，Waymo方面坚称，如果是由人类驾驶员操作，后果可能会更加严重。\n\n这起事故引发了公众对自动驾驶汽车安全性的关注。目前，Waymo正在对此事进行调查，并将与相关方面合作，以确保类似事件不再发生。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-30 21:54:28",
+      "original_language": "zh",
+      "original_title": "Waymo遭遇鬼探头，Robotaxi在校门口把儿童给撞了",
+      "source_url": "https://www.qbitai.com/2026/01/374506.html",
+      "id": 231,
+      "track": "rss",
+      "original_source": "量子位"
+    },
+    {
+      "title": "千问C端应用团队一口气四篇论文入选ICLR 2026国际顶会！",
+      "summary": "千问C端应用团队在多个前沿领域取得了创新突破，其四篇论文成功入选了2026年国际顶会ICLR（国际学习表示大会）。这些论文涵盖了自然语言处理、计算机视觉和机器学习等多个领域的研究成果，展现了千问在人工智能领域的深厚实力。",
+      "is_legal": true,
+      "is_ai_related": true,
+      "publish_time": "2026-01-30 21:54:20",
+      "original_language": "zh",
+      "original_title": "千问C端应用团队一口气四篇论文入选ICLR 2026国际顶会！",
+      "source_url": "https://www.qbitai.com/2026/01/374507.html",
+      "id": 232,
+      "track": "rss",
+      "original_source": "量子位"
+    },
+    {
       "title": "马斯克冲刺机器人量产，果断停产特斯拉豪华车型！2026年资本支出将“非常大”",
       "summary": "马斯克正在加速推进机器人的量产计划，同时决定停产特斯拉的豪华车型。此外，他还向xAI投资了20亿美元。据预测，2026年的资本支出将会非常巨大。",
       "is_legal": true,
@@ -2933,7 +3024,7 @@
       "original_language": "zh",
       "original_title": "马斯克冲刺机器人量产，果断停产特斯拉豪华车型！2026年资本支出将“非常大”",
       "source_url": "https://www.qbitai.com/2026/01/373744.html",
-      "id": 226,
+      "id": 233,
       "track": "rss",
       "original_source": "量子位"
     }
